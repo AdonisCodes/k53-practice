@@ -1,0 +1,359 @@
+{
+ "batch": "aw-VCF5vEhiiMI",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:48:14+02:00",
+ "questions": [
+  {
+   "id": "aw-VCF5vEhiiMI-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the traffic circle ahead sign. As you approach, another vehicle is already in the circle coming from your right. What is the correct action?",
+   "image": "images/appsworld/VCF5vEhiiMI-22.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Enter the circle quickly before the vehicle reaches your side.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yield to the vehicle already in the circle and only enter when it is safe.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop completely before entering, even if the circle is empty.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=20s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the gentle curve ahead to the right warning sign while travelling at the speed limit. What is the safest response?",
+   "image": "images/appsworld/VCF5vEhiiMI-87.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed but keep a firm grip on the steering wheel to follow the curve smoothly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate slightly to reduce steering effort through the curve.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Move into the opposite lane to straighten your path through the curve.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=85s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the sharp bend ahead warning sign while driving at the speed limit. What is the safest action?",
+   "image": "images/appsworld/VCF5vEhiiMI-138.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reduce speed before entering the bend; keep to your lane, and steer smoothly through it.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maintain your speed and brake hard once you are inside the bend.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate slightly while turning to prevent the car from sliding.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=136s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When approaching a hairpin bend ahead to the left warning sign, what must you do?",
+   "image": "images/appsworld/VCF5vEhiiMI-193.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive at normal speed, but steer harder when the bend comes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce your speed well in advance and keep as far left as safely possible.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtake slow vehicles to avoid being stuck behind them in the bend.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=191s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a winding road ahead starting to the right warning sign while driving. What is the safest action?",
+   "image": "images/appsworld/VCF5vEhiiMI-232.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerate before the first bend so you can clear all the bends faster.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed and prepare to steer carefully through a series of bends.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep right on the roadway to get a better line through the bends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=230s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you see a combined curve warning sign, what does it mean and how should you respond?",
+   "image": "images/appsworld/VCF5vEhiiMI-275.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Two sharp curves are close together, so slow down and keep to your side of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only one bend is ahead, so you can drive normally.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road may be slippery, so you must stop before the bend.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=273s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a freeway and you see a two-way traffic ahead warning sign. What does this mean?",
+   "image": "images/appsworld/VCF5vEhiiMI-314.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtaking is encouraged, as both sides have equal space.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road will no longer be divided; oncoming traffic will be using the same roadway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road is merging into one-way traffic going in your direction only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=312s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a rural road and see a two-way traffic crossroad ahead warning sign. What does it tell you?",
+   "image": "images/appsworld/VCF5vEhiiMI-362.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only one-way traffic will cross your path, so you don't need to look both ways.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are on a two-way road, and another road will cross it, so vehicles may approach from the left, right, ahead, or opposite.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road ahead is about to become a one-way street, and cross traffic must yield to you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=360s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving in the right-hand lane and see a right lane ends warning sign ahead. What should you do?",
+   "image": "images/appsworld/VCF5vEhiiMI-400.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Increase speed and try to overtake all vehicles on the left before the lane ends.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue in your lane until it completely disappears, then force your way left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Signal early, adjust your speed, and merge safely into the left lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=398s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a concealed driveway to the right warning sign while driving on a suburban road. What must you be especially careful about?",
+   "image": "images/appsworld/VCF5vEhiiMI-435.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles may unexpectedly enter or cross your path from a hidden entrance on the right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road will curve sharply to the right, so you must reduce speed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are approaching a tollgate and must prepare to stop.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=433s"
+  },
+  {
+   "id": "aw-VCF5vEhiiMI-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a concealed driveway to the left and right warning sign. What must you anticipate?",
+   "image": "images/appsworld/VCF5vEhiiMI-469.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Hidden entrances on both sides where vehicles may unexpectedly join the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "That the road surface will suddenly become uneven.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "That the lanes are ending and you must merge into one.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VCF5vEhiiMI&t=467s"
+  }
+ ]
+}

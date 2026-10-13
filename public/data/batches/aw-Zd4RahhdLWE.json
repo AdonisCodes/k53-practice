@@ -1,0 +1,2203 @@
+{
+ "batch": "aw-Zd4RahhdLWE",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:25:58+02:00",
+ "questions": [
+  {
+   "id": "aw-Zd4RahhdLWE-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers of?",
+   "image": "images/appsworld/Zd4RahhdLWE-25.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "One of the three lanes on the carriageway will come to an end.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "An emergency lane starts ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The entire freeway will end ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This sign shows a lane ending ahead, warning drivers to prepare for merging safely into the remaining lanes.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=16s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the first thing you should do if you see this sign?",
+   "image": "images/appsworld/Zd4RahhdLWE-53.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep an eye out for steps ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up to take the curve quickly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and round the curve safely",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Combined curve warning signs alert drivers to reduce speed, as sharp turns can be dangerous at high speed, especially in bad conditions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=44s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum number of days that you are allowed to leave your vehicle abandoned in an urban area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 days",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "According to road traffic laws, leaving a vehicle in one place for more than 7 days in an urban area is considered abandonment.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=73s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this warning sign mean?",
+   "image": "images/appsworld/Zd4RahhdLWE-110.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Roadworks are ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Rain may cause slippery roads",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Fog, smoke or dust may reduce visibility ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This sign warns of possible reduced visibility due to weather or environmental conditions, so drivers must be extra cautious.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=101s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true in terms of handling a cellular or mobile telephone while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is only allowed on weekends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to handle a cellphone with any part of your body at all",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are allowed to use your phone if you are in heavy traffic only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "South African law strictly prohibits holding or handling a phone while driving, only hands-free systems are allowed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=128s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/Zd4RahhdLWE-172.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Low flying aircrafts ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are toy planes ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A race track ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This sign indicates that aircrafts might be flying low near airstrips or airports, which can be distracting or noisy for drivers.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=163s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct in terms of seatbelts?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You have to wear your seatbelt when parking your vehicle during the week",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is compulsory to use your seatbelt when driving on a public road for adults and children at the age of 3 or older",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Seatbelts are illegal on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "By law, seatbelts must be worn by all adults and children over 3 to reduce injury risk.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=190s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct in terms of the road sign displayed?",
+   "image": "images/appsworld/Zd4RahhdLWE-234.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It is illegal to stop here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Car A should stop before the indicated line",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Car B should overtake",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The law requires a complete stop at the stop line, not past it, even if no vehicles are approaching.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=225s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is considered a safe following distance in a light motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 seconds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1 second",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The 2-second rule ensures you have enough time to react and stop safely if the car ahead brakes suddenly.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=253s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road sign mean?",
+   "image": "images/appsworld/Zd4RahhdLWE-286.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road ends ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A toll gate is coming up",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A dual carriageway freeway begins",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This sign informs drivers that a divided freeway (with two or more lanes in each direction) is beginning, allowing for higher speeds and controlled access.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=277s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is illegal and unsafe?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Driving continuously on the shoulder of the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Increasing your following distance during heavy rain",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yielding at a roundabout",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The shoulder is meant for emergencies or breakdowns. Driving on it continuously is unsafe and illegal, especially if used to bypass traffic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=306s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-344.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A gentle sloped road ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a curvy road ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A concealed driveway ahead from the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This sign alerts drivers that a hidden entrance or exit (like a driveway) may not be visible, and vehicles may suddenly appear.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=335s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to park within __ metres of a fire hydrant.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "3,5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1,5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=362s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Zd4RahhdLWE-401.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only pedestrians are allowed on this road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drivers should accelerate when they see pedestrians",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drivers should yield to pedestrians",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This sign indicates that drivers must give right of way to pedestrians crossing the road, ensuring their safety.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=392s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park within 9 metres of a pedestrian crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Parking too close to a pedestrian crossing can block visibility for both pedestrians and drivers, increasing the risk of accidents.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=419s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-452.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A freeway ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A pedestrian crossing ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A traffic circle ahead where you are required to yield",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This sign indicates a roundabout is ahead, and entering vehicles must yield to traffic already in the circle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=443s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the most important rule of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep left pass right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always overtake near a blind rise",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always speed up when being overtaken",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a key rule in South Africa. You must drive in the left lane unless overtaking, to keep traffic flowing safely and predictably.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=470s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-506.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A single stop sign ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A four way stop ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A three way stop ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign alerts you that a four-way stop is ahead, and all directions will need to stop and follow right-of-way rules.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=497s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to overtake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Near a blind bend",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On the oncoming lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when it is safe to do so",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Overtaking is only legal and safe when there is clear visibility, no solid lines prohibiting it, and enough space to return to your lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=522s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where will you find this sign?",
+   "image": "images/appsworld/Zd4RahhdLWE-554.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "At the start of a freeway",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At an entrance area that will be intended for pedestrians",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On a rural road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign is used near pedestrian zones like shopping areas or school zones, where vehicle entry is restricted or controlled.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=545s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In which of the following areas are you not allowed to stop?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A tunnel",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A subway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A and B are correct",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Stopping in enclosed or narrow spaces is dangerous, it can block traffic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=572s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-22",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are motorcycle riders allowed on this part of the road?",
+   "image": "images/appsworld/Zd4RahhdLWE-604.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a reserved lane or area, often marked to keep motor vehicles and motorcycles out for safety.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=595s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When carrying a load (for all vehicles), it must not exceed __m in height from the ground.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1,5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2,2 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4,3 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is the legal maximum height, beyond which the vehicle can hit bridges, signs, or powerlines.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=617s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-24",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/Zd4RahhdLWE-653.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Keep left",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep away from the right side of the lane",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This sign tells you to move to or stay on the right, usually for safety or road design reasons.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=644s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-25",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A load may not project more than __m to the rear of the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1,03 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1,8 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "18 centimetres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is the legal limit for how far a load can stick out behind your vehicle, anything more is dangerous.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=667s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-26",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are allowed on this road?",
+   "image": "images/appsworld/Zd4RahhdLWE-702.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A regular length bus",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A taxi",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "An SUV",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The road sign shows a part of the road reserved for public transport, which includes taxis.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=693s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-27",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to use your hazard lights?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only in an emergency",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When greeting your friend",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When you intend on turning right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Hazards are not for normal driving, they’re only to warn others when you’re stopped or facing danger.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=715s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-28",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are rickshaws and taxis allowed in a road displaying this sign?",
+   "image": "images/appsworld/Zd4RahhdLWE-748.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes only during midday",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes only on weekends",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No only rickshaws are allowed here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The sign excludes taxis, allowing only rickshaws, this controls traffic in designated areas.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=739s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-29",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In which of the following areas are you not allowed to park?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On an actuating mechanism of a traffic signal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On a two way road that is less than 5,5 metres wide",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A and B are correct",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Parking in these places blocks safe movement or interferes with traffic systems.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=766s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-30",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-803.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A small farm ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This part of the road is restricted for animal drawn vehicles only",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Horses on the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign reserves the road for animal-drawn carts only, excluding motorised traffic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=794s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-31",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive your vehicle on a public road if the fuel tank or fuel pipes are faulty or exposed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes but only if you are driving a diesel vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes but only on weekends",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, as it is a source of danger",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Faulty or exposed fuel parts increase fire risk and are a serious safety hazard.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=821s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-32",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does the 4.42 on this sign represent?",
+   "image": "images/appsworld/Zd4RahhdLWE-861.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A height limit",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A weight limit",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A length limit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This means vehicles taller than this may not pass safely under a bridge or structure.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=852s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-33",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must a driver of a vehicle make sure to do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn on the radio before a long trip",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Check your blinker fluid level before driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ensure all people travelling in the vehicle are wearing seatbelts",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The driver is legally responsible for everyone’s safety, especially kids.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=876s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-34",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit?",
+   "image": "images/appsworld/Zd4RahhdLWE-914.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drag racing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtaking",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Two hatchbacks from driving next to each other",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign prohibits overtaking, usually because of poor visibility or high risk.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=905s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-35",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you cross a broken white line in the road centre?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only when it's safe to do so",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Never",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Broken white lines mean overtaking is allowed, but only if it’s clearly safe.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=928s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-36",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-962.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Traffic lights ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Street lights ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A roundabout ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a warning sign telling drivers to be prepared to stop or slow down.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=953s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-37",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who has the right of way at a four-way stop if all vehicles arrive at the same time?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The largest vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle on the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle going straight",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The video gives 'the vehicle on the right'. Note: the NaTIS manual (4-way stop, R1.4) says the vehicle that stopped first moves off first, and does not cover vehicles stopping at exactly the same time. Giving way to the vehicle on your right is the usual convention then, and it is the best of these options.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=974s",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.1 Control signs, 4-way stop R1.4 (p.4)"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-38",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-1008.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Cows ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Horses ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Sheep ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign warns you to slow down, as horses may be on or near the road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=999s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-39",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When must you switch on your headlights?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only when it’s raining",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "From sunset to sunrise or in poor visibility",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on freeways",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Lights are required by law when it’s dark or visibility is reduced for safety.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1021s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-40",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should drivers do when they see this sign?",
+   "image": "images/appsworld/Zd4RahhdLWE-1054.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Come to a complete stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce your speed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This sign usually means heavy vehicles are travelling slowly down a hill, so slow down in order to avoid knocking into them.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1045s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-41",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do before changing lanes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Check mirrors and blind spots, then signal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Just hoot once",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up first",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Changing lanes safely requires checking all angles and alerting others.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1070s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-42",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How many vehicles at the carriageway ahead are allowed to pass at a time?",
+   "image": "images/appsworld/Zd4RahhdLWE-1102.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "only one",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "only two",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "only three",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This sign warns of a carriageway ahead with a width that will only allow one vehicle to pass at a time.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1093s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-43",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do if a traffic light is out of order?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive through quickly",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Treat the intersection as a four-way stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore it completely",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "When lights are off, follow stop sign rules to avoid confusion and crashes.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1116s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-44",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-1145.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "a sharp bend in the road ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "a ladder ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "a staggered junction ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This means the side roads do not line up, so be cautious for crossing traffic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1136s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-45",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re approaching an intersection and see a flashing red light. What must you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive slowly through",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Treat it like a stop sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore it if there's no traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A flashing red light is legally the same as a stop sign, full stop required.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1159s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-46",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What sign is this?",
+   "image": "images/appsworld/Zd4RahhdLWE-1191.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "a two-way traffic sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "a combined curve sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "a hairpin bend ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1182s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-47",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do if an emergency vehicle with flashing lights approaches behind you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up to move ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ignore it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Move to the side and allow it to pass safely",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Emergency vehicles must get priority, it’s the law and can save lives.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1201s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-48",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn drivers or riders of?",
+   "image": "images/appsworld/Zd4RahhdLWE-1234.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "pot holes ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "speed humps ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "a dead end ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This warning sign tells drivers to slow down and avoid damaging their vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1225s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-49",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour warning lights will an ambulance display?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "blue",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "green",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "red",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Emergency vehicles like ambulances use red lights to signal urgency.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1244s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-50",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What category of road signs does this sign fall under?",
+   "image": "images/appsworld/Zd4RahhdLWE-1271.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "prohibition",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "reservation",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "command",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign reserves a lane or area for a certain type of road user (e.g., buses, cycles, etc.).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1262s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-51",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which type of bend does this sign warn you of?",
+   "image": "images/appsworld/Zd4RahhdLWE-1294.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "there is a sharp curve to the right ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "there is a stop street to the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "there is a gentle curve to the right ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is the sharp curve sign (W205): a sharp curve to the right ahead. Slow down so that you can take the curve safely or stop within the distance that you can see.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1285s",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 Direction of movement signs, Sharp curve W204/W205 (p.25)"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-52",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the general speed limit on every public road located within urban areas?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Urban areas have a default speed limit of 60 km/h, unless signs indicate otherwise.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1308s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-53",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long are you allowed to park in an area with this sign?",
+   "image": "images/appsworld/Zd4RahhdLWE-1345.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "60 minutes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Two hours",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "23 hours",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This sign marks a timed parking zone, and you may only park for that duration.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1336s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-54",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you overtake another vehicle on the left-hand side?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the driver in front signals to turn right and it is safe",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When you are in a hurry",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On any road at any time",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "You may overtake on the left if the other driver is turning right and there’s space.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1358s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-55",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are allowed to use this part of the road?",
+   "image": "images/appsworld/Zd4RahhdLWE-1390.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "a mini bus",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "a midi bus",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "a bus",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This lane or road is reserved for buses, to ease public transport flow.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1381s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-56",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the correct action when your vehicle starts to skid?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake hard immediately",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Steer in the direction you want the front wheels to go",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn the steering wheel in the opposite direction of the skid",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This helps regain control in a skid, turning opposite may worsen it.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1402s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-57",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/Zd4RahhdLWE-1436.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A river bank ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A communal swimming pool ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A legal fishing pond ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This warns of a steep drop-off near water, slow down and proceed with caution.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1427s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-58",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to cross a solid white line in the middle of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When overtaking a slow car",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When turning into a driveway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whenever traffic is light",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "You may cross a solid line only to access a property directly off the road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1451s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-59",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red traffic light mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed with caution",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up before it turns green",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A red light always means stop, no exceptions unless directed by a traffic officer.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1475s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-60",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do when approaching a stop sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down and hoot",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop only if there are cars",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Come to a complete stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The law requires a full stop at a stop sign, not a rolling stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1501s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-61",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which controls would you use to perform an incline takeoff?",
+   "image": "images/appsworld/Zd4RahhdLWE-1533.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "B,F,G",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "D,C,E,G",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A,B,C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "For an incline, you must control the car using all these controls to prevent rollback.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1524s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-62",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control would you use to turn left?",
+   "image": "images/appsworld/Zd4RahhdLWE-1560.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "F",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1551s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-63",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control would you use to keep the vehicle stationary when parked?",
+   "image": "images/appsworld/Zd4RahhdLWE-1577.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Used to secure the car when parked, especially on a slope.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1568s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-64",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following controls would you use to change from 2nd gear to 3rd gear?",
+   "image": "images/appsworld/Zd4RahhdLWE-1594.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E & A",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "E & G",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "E & C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Changing gears involves pressing the clutch and moving the gear lever.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1585s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-65",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following pedals is used to slow your vehicle down?",
+   "image": "images/appsworld/Zd4RahhdLWE-1613.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Slows the vehicle down safely.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1604s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-66",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following pedals is used to engage or disengage a gear?",
+   "image": "images/appsworld/Zd4RahhdLWE-1630.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Used to disengage or engage gears while shifting.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1621s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-67",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following pedals increases the speed of the vehicle?",
+   "image": "images/appsworld/Zd4RahhdLWE-1648.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Pressing this pedal increases speed by feeding more fuel to the engine.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1639s"
+  },
+  {
+   "id": "aw-Zd4RahhdLWE-68",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "You intend on turning left, which of the following warns road users of your intention to turn left?",
+   "image": "images/appsworld/Zd4RahhdLWE-1668.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "G",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This control flashes lights to warn others of your intention to turn left.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Zd4RahhdLWE&t=1659s"
+  }
+ ]
+}

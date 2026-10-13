@@ -1,0 +1,380 @@
+{
+ "batch": "aw-BPTgejnMyxo",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:04:43+02:00",
+ "questions": [
+  {
+   "id": "aw-BPTgejnMyxo-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a yellow circle with the letters “MB” inside it painted on the road surface. What does this marking mean?",
+   "image": "images/appsworld/BPTgejnMyxo-10.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only motorbikes may park here.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only medical buses may stop here.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only minibus taxis may stop or park here.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is a mandatory bus lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=8s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A parking bay is marked with the letter “F”. Who may park there?",
+   "image": "images/appsworld/BPTgejnMyxo-65.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Fire trucks",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Farmers’ vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Visitors for Funeral purposes",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Disabled drivers",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=63s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a yellow criss-cross (box junction) painted on the road mean?",
+   "image": "images/appsworld/BPTgejnMyxo-106.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may stop in the area if traffic is heavy.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may stop only if you are turning right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to stop in that area.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The area is reserved for emergency vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=104s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A parking bay has the wheelchair symbol painted in it. Who may park there?",
+   "image": "images/appsworld/BPTgejnMyxo-147.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Anyone if the bay is empty",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only vehicles displaying a disabled permit",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Elderly people only",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Medical staff",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=145s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a road sign showing “Arrestor Bed Ahead” mean?",
+   "image": "images/appsworld/BPTgejnMyxo-181.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A place for police roadblocks.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A safe area for vehicles to turn around.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A sand/gravel bed for vehicles with brake failure.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A resting area for trucks.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=179s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A parking bay marked with the letter “R” is reserved for:",
+   "image": "images/appsworld/BPTgejnMyxo-220.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Residents",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Rickshaws",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Rental cars",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Roadworthy testing",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The video says 'R' bays are reserved for rickshaws only. Note: in the NaTIS manual the letter 'R' on a sign means the area is reserved, and the symbol with it shows for whom (motor cars, taxis, buses, etc.). Rickshaw reservation (R318/R318-P) shows a rickshaw symbol, so a plain 'R' does not by itself mean rickshaws.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=218s",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.4 Reservation signs (p.17)"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a solid line separating two lanes of opposite-direction traffic mean?",
+   "image": "images/appsworld/BPTgejnMyxo-243.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may overtake if the road ahead is clear.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may cross the line only to turn into a driveway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to cross the line.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may cross the line during the day only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=241s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see tram tracks or a “TRAM” road marking on the lane you are driving in. What must you do?",
+   "image": "images/appsworld/BPTgejnMyxo-274.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive freely as long as no tram is near.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Give way to trams and do not drive on the tracks unless allowed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop immediately and wait for the tram to pass.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Overtake the tram if it is moving slowly.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=272s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red line painted along the edge of the road mean?",
+   "image": "images/appsworld/BPTgejnMyxo-313.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may stop to load or unload passengers only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may stop briefly if no traffic is coming.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to stop at all, except for emergencies.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may park there at night only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=311s"
+  },
+  {
+   "id": "aw-BPTgejnMyxo-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a block style pedestrian crossing (zebra stripes) painted across the road mean?",
+   "image": "images/appsworld/BPTgejnMyxo-345.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only school children may cross there.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles have right of way, pedestrians must wait.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrians have right of way, vehicles must stop if someone is crossing.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Only cyclists may use it.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BPTgejnMyxo&t=343s"
+  }
+ ]
+}

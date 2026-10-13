@@ -1,0 +1,377 @@
+{
+ "batch": "aw-zqURsfE1vKw",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:12:02+02:00",
+ "questions": [
+  {
+   "id": "aw-zqURsfE1vKw-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection during the day and need to turn around. Based on the combination sign provided, what are you legally allowed to do?",
+   "image": "images/appsworld/zqURsfE1vKw-10.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You cannot execute a U-turn at any time of the day or night.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are prohibited from making a U-turn only during night-time hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must make a U-turn immediately to clear the intersection before nightfall.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You are prohibited from turning right, but a U-turn is permitted during the day.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The night-time supplementary plate (stars and moon) limits the no-U-turn prohibition to night-time hours, so a U-turn is allowed during the day.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=9s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver stops a vehicle on a public road because they are waiting for a friend who is running late. The vehicle remains stationary for several minutes. How is this situation most accurately classified?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Parking",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Standing",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stopping",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Loading",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Keeping a vehicle stationary for longer than needed to load/offload or pick up/drop passengers (e.g. waiting for a friend) counts as parking.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=82s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a standard private motor car and approach a road displaying the sign provided. The current time is 08:00 AM on a Tuesday. Are you legally allowed to enter this road?",
+   "image": "images/appsworld/zqURsfE1vKw-153.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because private motor cars are always considered authorized vehicles on public roads.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, unauthorized vehicles are strictly prohibited from entering this road during the two specific time periods shown.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, you can enter at any time, but you are not allowed to park or stop on this road during those hours.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "No, this road is permanently closed to all traffic except emergency vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The no-entry-for-unauthorised-vehicles sign applies during the times shown (06:30–09:00 and 16:00–20:00), so you may not enter at 08:00.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=152s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement regarding the use of a cellphone while driving is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It may be held in one hand if the vehicle is travelling below 40 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It may be used while stopped at a red traffic light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It may not be held while driving unless it is secured in a fixed mounting",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It may be used if the driver keeps both eyes on the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A cellphone may not be held in the hand while driving; it may only be used hands-free / in a fixed mounting.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=234s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a freeway and see the combination sign provided. What is the legal requirement of this sign?",
+   "image": "images/appsworld/zqURsfE1vKw-293.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are approaching a public transit terminal where only taxis and buses are allowed to enter.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are on a toll road and are legally required to pay a toll at the collection point located 400 meters ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must maintain a minimum speed of 40 km/h for the next 400 meters of the roadway.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You are entering a telephone-only emergency zone that lasts for a distance of 400 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The blue 'T' command sign indicates a toll route: you must pay toll at the toll plaza, here 400 m ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=292s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a freeway and miss your intended off-ramp. What is the correct action?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Reverse carefully along the shoulder to the off-ramp",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop on the shoulder and wait for a gap in traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Make a U-turn when traffic allows",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Continue to the next off-ramp and leave the freeway there",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Never reverse, stop or U-turn on a freeway; continue to the next off-ramp.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=371s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road and encounter this temporary warning sign. What does this sign require you to do?",
+   "image": "images/appsworld/zqURsfE1vKw-443.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Expect a steep side-slope on the road surface and accelerate to maintain traction.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Be alert for an upcoming vehicle towing zone or salvage yard entrance.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down immediately and prepare for an accident scene ahead that may block the roadway.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Watch out for high-sided delivery trucks that are at risk of overturning due to high winds.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Yellow temporary sign warning of a crashed/overturned vehicle (accident scene) ahead: reduce speed and be prepared for sudden traffic. (Answer from the video's explanation; no letter was read out.)",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=442s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles may legally use a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A motorcycle with an engine capacity of 40 cc",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle being towed by a rope",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A motor vehicle capable of maintaining an appropriate freeway speed",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "An animal-drawn vehicle travelling on the shoulder",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Slow vehicles such as animal-drawn vehicles, very low-powered motorcycles and vehicles towed by a rope may not use a freeway; only vehicles able to keep up with freeway speeds safely may. (Answer from the video's explanation.)",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=513s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a rural road and see this temporary warning sign. What does this sign indicate?",
+   "image": "images/appsworld/zqURsfE1vKw-568.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A temporary manual stop/go control point is ahead, where you must prepare to stop and wait for a signal to proceed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A pedestrians-only walkway begins ahead, and all motor vehicles must detour.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A permanent scholar patrol zone is located directly around the next corner.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A law enforcement checkpoint is active ahead for vehicle roadworthy inspections.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Temporary 'stop/go control ahead' warning sign: road works with traffic reduced to one lane; slow down and be ready to stop when a flagman signals.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=567s"
+  },
+  {
+   "id": "aw-zqURsfE1vKw-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is being towed on a public road. Which statement is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The towing connection may exceed 3.5 metres if a warning flag is attached",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The towing connection may not exceed 3.5 metres in length",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is no maximum length provided both drivers are licensed",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A chain may only be used at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The distance between a towing and a towed vehicle (tow rope/chain/bar) may not exceed 3.5 m.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zqURsfE1vKw&t=635s"
+  }
+ ]
+}

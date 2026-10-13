@@ -1,0 +1,3589 @@
+{
+ "batch": "pk53-008",
+ "source": "practicek53",
+ "addedAt": "2026-10-07T15:31:28+02:00",
+ "questions": [
+  {
+   "id": "pk53-0624",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which vehicle is parked illegally?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A vehicle parked in an urban area on a two-way road which is 4 m wide.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle parked next to a fire hydrant.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both of the above vehicles are parked illegally.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-vehicle-is-parked-illegally-r1996/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Both of the above vehicles are parked illegally.",
+   "sourceWpId": 2332
+  },
+  {
+   "id": "pk53-0625",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A passenger may…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Change gear for the driver while driving on the public road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Change the radio station.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Put their arm outside of the window to cool down.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-passenger-may-r1997/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Change the radio station.",
+   "sourceWpId": 2333
+  },
+  {
+   "id": "pk53-0626",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When must you give way to pedestrians?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Freeway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Railway crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrian crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-must-you-give-way-to-pedestrians-r1998/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Pedestrian crossing.",
+   "sourceWpId": 2334
+  },
+  {
+   "id": "pk53-0627",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The minimum required tyre tread depth for a light motor vehicle is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.5 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2 mm.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-minimum-required-tyre-tread-depth-for-a-light-motor-vehi-r2001/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "1 mm",
+   "sourceWpId": 2335
+  },
+  {
+   "id": "pk53-0628",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Vehicles are considered abandoned…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If parked in the same place for 24 hours or more outside an urban area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it may cause damage or obstruct traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both of the above vehicles are considered abandoned.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/vehicles-are-considered-abandoned-r2002/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Both of the above vehicles are considered abandoned.",
+   "sourceWpId": 2336
+  },
+  {
+   "id": "pk53-0629",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At a traffic circle…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield to vehicles coming from your left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The same rule apply as with a 4-way stop.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yield to vehicles coming from your right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-a-traffic-circle-r2003/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Yield to vehicles coming from your right.",
+   "sourceWpId": 2337
+  },
+  {
+   "id": "pk53-0630",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A person with only a learner’s licence may not …",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive at night.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Carry passengers where one of the passengers is not carrying a valid driver's licence of the same code.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pick up hitch-hikers.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-person-with-only-a-learners-licence-may-not-r2006/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Carry passengers where one of the passengers is not carrying a valid driver's licence of the same code.",
+   "sourceWpId": 2339
+  },
+  {
+   "id": "pk53-0631",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long is a vehicle’s licence valid for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "6 months",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "24 months",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "12 months",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-long-is-a-vehicles-licence-valid-for-r2012/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "12 months",
+   "sourceWpId": 2342
+  },
+  {
+   "id": "pk53-0632",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which rule is considered the most important rule in South Africa?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep as far to the left of the road as is possible.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive at 60 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keeping a safe following distance.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-rule-is-considered-the-most-important-rule-in-south-af-r2013/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Keep as far to the left of the road as is possible.",
+   "sourceWpId": 2343
+  },
+  {
+   "id": "pk53-0633",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following would you consider your final check before changing lanes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Check your blind spot.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Check your rear view mirror.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Make sure you have a steady handle on the steering.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-would-you-consider-your-final-check-b-r2014/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Check your blind spot.",
+   "sourceWpId": 2344
+  },
+  {
+   "id": "pk53-0634",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are expected to wear your seatbelts…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When you are reversing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When there is a road block",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whenever you are driving on the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-are-expected-to-wear-your-seatbelts-r2029/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Whenever you are driving on the road.",
+   "sourceWpId": 2347
+  },
+  {
+   "id": "pk53-0635",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are towing a vehicle with faulty brakes, you must…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep a maximum speed of 45 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Use a wire with a length of 3.5 metres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only use a tow-bar to tow the vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-you-are-towing-a-vehicle-with-faulty-brakes-you-must-r2032/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Only use a tow-bar to tow the vehicle",
+   "sourceWpId": 2349
+  },
+  {
+   "id": "pk53-0636",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Headlights must be switched on…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On freeway",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On bridges.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At sunset.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/headlights-must-be-switched-on-r2033/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "At sunset.",
+   "sourceWpId": 2350
+  },
+  {
+   "id": "pk53-0637",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign G9 shows you that…",
+   "image": "images/practicek53/rsa-105.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You can use that part of the road if you wish.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must use that part of the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "here is parking reserved for light vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-g9-shows-you-that-r835/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You can use that part of the road if you wish.",
+   "sourceWpId": 2351
+  },
+  {
+   "id": "pk53-0638",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign K3 shows you that you…",
+   "image": "images/practicek53/rsa-2k.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Are only allowed to drive there between 06:00 and 09:00.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "May not park there for more than 3 hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "May not drive there between 06:00 and 09:00.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-k3-shows-you-that-you-r837/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "May not drive there between 06:00 and 09:00.",
+   "sourceWpId": 2352
+  },
+  {
+   "id": "pk53-0639",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this temporary combination sign?",
+   "image": "images/practicek53/rsa-55e.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only private vehicles may park in that area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Light motor vehicles should only park in that area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light motor vehicles are prohibited from parking in that area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-meaning-of-this-temporary-combination-sign-r843/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Light motor vehicles are prohibited from parking in that area.",
+   "sourceWpId": 2353
+  },
+  {
+   "id": "pk53-0640",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is expected of you when you come across this sign.",
+   "image": "images/practicek53/rsa-53c.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should pay a fee for parking your vehicle during the times and periods indicated.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not park there during the times and periods indicated.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light motor vehicles are not allowed to stop or park for longer than the times and periods indicated.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-expected-of-you-when-you-come-across-this-sign-r845/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Light motor vehicles are not allowed to stop or park for longer than the times and periods indicated.",
+   "sourceWpId": 2354
+  },
+  {
+   "id": "pk53-0641",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign F5 shows you that…",
+   "image": "images/practicek53/rsa-76.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No light motorcars may drive there.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No taxis may drive there.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may not park your motorcar there.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-f5-shows-you-that-r903/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "No light motorcars may drive there.",
+   "sourceWpId": 2355
+  },
+  {
+   "id": "pk53-0642",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/practicek53/rsa-57z.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road comes to dead end in the next 5 km there for no cars are allowed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "For the next 5 km, light motor vehicles are prohibited on that road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light motor vehicles should drive at 5 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-meaning-of-this-sign-r909/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "For the next 5 km, light motor vehicles are prohibited on that road.",
+   "sourceWpId": 2356
+  },
+  {
+   "id": "pk53-0643",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign informs you of…",
+   "image": "images/practicek53/rsa-47a.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "A parking reserved for mini buses.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A lane reserved for mini buses",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A minibus rank in the vicinity.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-informs-you-of-r911/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A minibus rank in the vicinity.",
+   "sourceWpId": 2357
+  },
+  {
+   "id": "pk53-0644",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This command sign informs you that this part of the road may be used by…",
+   "image": "images/practicek53/rsa-31.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Heavy motor vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Light motor vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-command-sign-informs-you-that-this-part-of-the-road-may-r913/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Light motor vehicles.",
+   "sourceWpId": 2358
+  },
+  {
+   "id": "pk53-0645",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign C3 shows you that…",
+   "image": "images/practicek53/rsa-31.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road is reserved for motorcar taxis only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You can drive there if you wish.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must drive there.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-c3-shows-you-that-r973/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You must drive there.",
+   "sourceWpId": 2359
+  },
+  {
+   "id": "pk53-0646",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "For the next 500 m you are prohibited from…",
+   "image": "images/practicek53/rsa-q56.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Driving slow.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Racing with other vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtaking other vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/for-the-next-500-m-you-are-prohibited-from-r979/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Overtaking other vehicles.",
+   "sourceWpId": 2360
+  },
+  {
+   "id": "pk53-0647",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this combination sign stipulate to the driver?",
+   "image": "images/practicek53/rsa-59t.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The speed a light motor vehicle should maintain in km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The maximum speed a light motor vehicle should travel in km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The minimum speed a light motor vehicle should travel in km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-combination-sign-stipulate-to-the-driver-r1041/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The minimum speed a light motor vehicle should travel in km/h.",
+   "sourceWpId": 2361
+  },
+  {
+   "id": "pk53-0648",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which type of vehicle is allowed on this part of the road?",
+   "image": "images/practicek53/rsa-57-1.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles transporting dairy goods.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles transporting dangerous substances.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles transporting liquid substances.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-type-of-vehicle-is-allowed-on-this-part-of-the-road-r1105/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Vehicles transporting dangerous substances.",
+   "sourceWpId": 2362
+  },
+  {
+   "id": "pk53-0649",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign P9 warns you that you may not drive there if your vehicle is…",
+   "image": "images/practicek53/rsa-q116.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Longer than 4.42 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Wider than 4.42 meters",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Higher than 4.42 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-p9-warns-you-that-you-may-not-drive-there-if-your-vehic-r1109/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Higher than 4.42 meters.",
+   "sourceWpId": 2363
+  },
+  {
+   "id": "pk53-0650",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign K2 shows that…",
+   "image": "images/practicek53/rsa-q113.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles carrying hazardous products may only use the road during the times showed on the sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Tankers must use road during the times showed on the sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All heavy vehicles may drive here during the times showed on the sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-k2-shows-that-r1111/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Vehicles carrying hazardous products may only use the road during the times showed on the sign.",
+   "sourceWpId": 2364
+  },
+  {
+   "id": "pk53-0651",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign D10 shows you that…",
+   "image": "images/practicek53/rsa-q114.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road is only 15 meters wide past this sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles longer than 15 meters may not drive past this sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No vehicles with trailers may drive past this sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-d10-shows-you-that-r1113/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Vehicles longer than 15 meters may not drive past this sign.",
+   "sourceWpId": 2365
+  },
+  {
+   "id": "pk53-0652",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Goods vehicles with a GVM of 10 tons or more are instructed to do what?",
+   "image": "images/practicek53/rsa-380f.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Can only turn left at the intersection.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Should never turn right at the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Should never turn left at the intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/goods-vehicles-with-a-gvm-of-10-tons-or-more-are-instructed-r1115/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Should never turn left at the intersection.",
+   "sourceWpId": 2366
+  },
+  {
+   "id": "pk53-0653",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This temporary combination sign indicates that…",
+   "image": "images/practicek53/rsa-53.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only heavy motor vehicles with a GVM of 10 tons may park in that area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Goods vehicles are prohibited from parking in that area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only private heavy motor vehicles should park in that area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-temporary-combination-sign-indicates-that-r1119/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Goods vehicles are prohibited from parking in that area.",
+   "sourceWpId": 2367
+  },
+  {
+   "id": "pk53-0654",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you encounter this road sign on a public road, what should you do?",
+   "image": "images/practicek53/rsa-614.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should increase speed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should use the second lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You should avoid the lane if you are driving a goods vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-encounter-this-road-sign-on-a-public-road-what-sho-r1171/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You should avoid the lane if you are driving a goods vehicle.",
+   "sourceWpId": 2368
+  },
+  {
+   "id": "pk53-0655",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign B2 shows you that if your vehicle has a GVM of…",
+   "image": "images/practicek53/rsa-16.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "10 tons or less, you must drive there at all times.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "10 tons, you must drive there whenever you want to.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "10 tons or more, you must drive there at all times.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-b2-shows-you-that-if-your-vehicle-has-a-gvm-of-r1183/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "10 tons or more, you must drive there at all times.",
+   "sourceWpId": 2369
+  },
+  {
+   "id": "pk53-0656",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign prevents… from using that part of the road.",
+   "image": "images/practicek53/rsa-57.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Heavy motor vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles with an axle mass that exceeds the indicated mass in tons.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles that carry 2 tons sand.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-prevents-from-using-that-part-of-the-road-r1185/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Vehicles with an axle mass that exceeds the indicated mass in tons.",
+   "sourceWpId": 2370
+  },
+  {
+   "id": "pk53-0657",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign prohibits… from proceeding beyond this sign.",
+   "image": "images/practicek53/rsa-q103.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorcycles with a 125 cc capacity engine.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles with less or equal a 125 cc capacity engine.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles with more or equal a 125 cc capacity engine.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-prohibits-from-proceeding-beyond-this-sign-r1373/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Motorcycles with less or equal a 125 cc capacity engine.",
+   "sourceWpId": 2371
+  },
+  {
+   "id": "pk53-0658",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign informs motorcyclist to…",
+   "image": "images/practicek53/rsa-q106.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Travel for 60 km.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Exceed 60 km/h .",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Not exceed 60 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-informs-motorcyclist-to-r1375/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Not exceed 60 km/h.",
+   "sourceWpId": 2372
+  },
+  {
+   "id": "pk53-0659",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign G8 shows motorcycle riders that…",
+   "image": "images/practicek53/rsa-q105.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "They can use that part of the road if they wish.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "They must use that part of the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is parking reserved for motorcycles there.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-g8-shows-motorcycle-riders-that-r1379/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "They can use that part of the road if they wish.",
+   "sourceWpId": 2373
+  },
+  {
+   "id": "pk53-0660",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What action do you take when you see this sign?",
+   "image": "images/practicek53/rsa-q105.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Increase your motorcycle's speed to 120 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Leave your motorcycle and travel by foot.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never enter this part of the road if you are not driving a motorcycle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-action-do-you-take-when-you-see-this-sign-r1381/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Never enter this part of the road if you are not driving a motorcycle.",
+   "sourceWpId": 2374
+  },
+  {
+   "id": "pk53-0661",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What action do you take when you see this sign?",
+   "image": "images/practicek53/rsa-104.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Never park in this area if you are not driving a motorcycle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Give right of way to pedestrians",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Give right of way to pedal cycles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-action-do-you-take-when-you-see-this-sign-r1383/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Never park in this area if you are not driving a motorcycle.",
+   "sourceWpId": 2375
+  },
+  {
+   "id": "pk53-0662",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this sign?",
+   "image": "images/practicek53/rsa-30.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Restrict motorcycles from riding in this road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Shows you the road or part of the road may only be used by motorcycles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Shows that freeway rules are applicable to motorcycles only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-purpose-of-this-sign-r1385/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Shows you the road or part of the road may only be used by motorcycles.",
+   "sourceWpId": 2376
+  },
+  {
+   "id": "pk53-0663",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you come across this sign, what should you do?",
+   "image": "images/practicek53/rsa-57x.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should not drive in this part of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should never drive slowly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You should never stop unless to obey a traffic light or a traffic officer or to avoid a collision.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-come-across-this-sign-what-should-you-do-r1389/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You should never stop unless to obey a traffic light or a traffic officer or to avoid a collision.",
+   "sourceWpId": 2377
+  },
+  {
+   "id": "pk53-0664",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who does this secondary sign applies to?",
+   "image": "images/practicek53/rsa-6-22.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Applies to animal drawn vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Applies only to bicycles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Applies only to motorcycles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/who-does-this-secondary-sign-applies-to-r1443/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Applies only to motorcycles.",
+   "sourceWpId": 2378
+  },
+  {
+   "id": "pk53-0665",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the name of this sign?",
+   "image": "images/practicek53/rsa-5-88.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Secondary sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A bike trail.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-name-of-this-sign-r1445/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A bike trail.",
+   "sourceWpId": 2379
+  },
+  {
+   "id": "pk53-0666",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign prevents… from entering the area.",
+   "image": "images/practicek53/rsa-75.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Bicycles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrians.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-prevents-from-entering-the-area-r1453/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Motorcycles.",
+   "sourceWpId": 2380
+  },
+  {
+   "id": "pk53-0667",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Sign L1 prohibits…",
+   "image": "images/practicek53/rsa-q103.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorcycles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles with an engine capacity of 125 cc or less from continuing beyond this sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles with an engine capacity of more than 125 cc from continuing beyond this sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/sign-l1-prohibits-r1457/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Motorcycles with an engine capacity of 125 cc or less from continuing beyond this sign.",
+   "sourceWpId": 2381
+  },
+  {
+   "id": "pk53-0668",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should be expected of you when you come across this sign?",
+   "image": "images/practicek53/rsa-55w.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should pay a fee for parking your motorcycle during the times and periods indicated.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to stop or park for longer than the times and periods indicated.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may not park there during the times and periods indicated.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-should-be-expected-of-you-when-you-come-across-this-sig-r1509/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You are not allowed to stop or park for longer than the times and periods indicated.",
+   "sourceWpId": 2382
+  },
+  {
+   "id": "pk53-0669",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this temporary combination sign.",
+   "image": "images/practicek53/rsa-59-1.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only private motorcycles may park in that area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles are prohibited from parking in that area during any time of the day or night.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles only should park in that area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-meaning-of-this-temporary-combination-sign-r1513/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Motorcycles are prohibited from parking in that area during any time of the day or night.",
+   "sourceWpId": 2383
+  },
+  {
+   "id": "pk53-0670",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/practicek53/rsa-q104.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must ride to the right of the sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must ride to the left of this sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Freeway rules apply to motorcycles now.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-sign-mean-r1521/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You must ride to the left of this sign.",
+   "sourceWpId": 2384
+  },
+  {
+   "id": "pk53-0671",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The sign permits only… to park in this area.",
+   "image": "images/practicek53/rsa-104.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Private vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrians.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-sign-permits-only-to-park-in-this-area-r1585/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Motorcycles.",
+   "sourceWpId": 2385
+  },
+  {
+   "id": "pk53-0672",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this temporary combination road sign indicate to a motorcyclist?",
+   "image": "images/practicek53/rsa-53v.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorcycles should proceed right only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles should not turn right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles should proceed left only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-temporary-combination-road-sign-indicate-to-a-r1587/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Motorcycles should proceed right only.",
+   "sourceWpId": 2386
+  },
+  {
+   "id": "pk53-0673",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you encounter this road sign on a public road, what should you do?",
+   "image": "images/practicek53/rsa-51t.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should only ride there during the times indicated on the sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should not ride there during the times indicated on the sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You should ride there with a speed of 60 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-encounter-this-road-sign-on-a-public-road-what-sho-r1589/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You should not ride there during the times indicated on the sign.",
+   "sourceWpId": 2387
+  },
+  {
+   "id": "pk53-0674",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What do you do when you see this sign on a public road?",
+   "image": "images/practicek53/rsa-q53.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "use your hooter at other road users",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "not use your hooter",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "play loud music from your stereo",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-do-you-do-when-you-see-this-sign-on-a-public-road-r2036/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "not use your hooter",
+   "sourceWpId": 2388
+  },
+  {
+   "id": "pk53-0675",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/practicek53/rsa-q54.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a road with two lanes ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A freeway starts.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to drive there without permission.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-meaning-of-this-sign-r2037/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You are not allowed to drive there without permission.",
+   "sourceWpId": 2389
+  },
+  {
+   "id": "pk53-0676",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This road marking means that only… may park there.",
+   "image": "images/practicek53/rsa-4-9.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Rickshaws.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Registered vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Rescue vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-road-marking-means-that-only-may-park-there-r2043/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Rickshaws.",
+   "sourceWpId": 2390
+  },
+  {
+   "id": "pk53-0677",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that…",
+   "image": "images/practicek53/rsa-76.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may not park your motorcar there.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No taxis may drive there.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No motorcars may drive there.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-r2048/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "No motorcars may drive there.",
+   "sourceWpId": 2391
+  },
+  {
+   "id": "pk53-0678",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This road sign means that…",
+   "image": "images/practicek53/rsa-5-21.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Delivery vehicles are not allowed to drive in the right hand lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Goods vehicles are not allowed to drive in the right hand lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow moving vehicles are not allowed to drive in the right hand lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-road-sign-means-that-r2054/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Goods vehicles are not allowed to drive in the right hand lane.",
+   "sourceWpId": 2392
+  },
+  {
+   "id": "pk53-0679",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What action must you take when you see this sign?",
+   "image": "images/practicek53/rsa-364a.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pass to the right-hand side of the sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down so that you can make a U-turn.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down so that you can safely turn your vehicle around.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-action-must-you-take-when-you-see-this-sign-r2064/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Pass to the right-hand side of the sign.",
+   "sourceWpId": 2393
+  },
+  {
+   "id": "pk53-0680",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this road marking?",
+   "image": "images/practicek53/rsa-1-11.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "To prohibit drivers coming from the left to enter the intersection at any time.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To prohibit drivers from stopping in the demarcated area because this could prevent other traffic from turning or driving further forward.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To allow drivers to stop in the demarcated area because this will let the traffic flow easier.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-purpose-of-this-road-marking-r2065/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To prohibit drivers from stopping in the demarcated area because this could prevent other traffic from turning or driving further forward.",
+   "sourceWpId": 2394
+  },
+  {
+   "id": "pk53-0681",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where would you find this road sign?",
+   "image": "images/practicek53/rsa-2-30.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "At a bus stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At an intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At the beginning of any road or part of the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/where-would-you-find-this-road-sign-r2066/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "At the beginning of any road or part of the road.",
+   "sourceWpId": 2395
+  },
+  {
+   "id": "pk53-0682",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where would you find this sign?",
+   "image": "images/practicek53/rsa-509.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "On the left-hand side of any road, especially on a freeway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At the entrance of a harbour or port.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On the left-hand side of any road which is not a freeway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/where-would-you-find-this-sign-r2067/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "On the left-hand side of any road which is not a freeway.",
+   "sourceWpId": 2396
+  },
+  {
+   "id": "pk53-0683",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this road marking?",
+   "image": "images/practicek53/rsa-2-4.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "To warn drivers that the lane indicated by this marking can be used for traffic from the opposite direction at various times of the day or night (reversible lane).",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To warn that vehicles on the other side of the marking are moving in the opposite direction.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To warn you that there is a no-overtaking or no-crossing line ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-purpose-of-this-road-marking-r2070/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To warn drivers that the lane indicated by this marking can be used for traffic from the opposite direction at various times of the day or night (reversible lane).",
+   "sourceWpId": 2397
+  },
+  {
+   "id": "pk53-0684",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign…",
+   "image": "images/practicek53/rsa-58.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Warns you that there is a structure ahead of which the height is restricted as indicated on the road traffic sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Prohibits a driver from proceeding beyond this sign unless the overall height of the vehicle is less than the height indicated in meters, by means of a number on such sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above are correct.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-r2071/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Prohibits a driver from proceeding beyond this sign unless the overall height of the vehicle is less than the height indicated in meters, by means of a number on such sign.",
+   "sourceWpId": 2398
+  },
+  {
+   "id": "pk53-0685",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that…",
+   "image": "images/practicek53/rsa-8-2.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a hidden stop street ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a railway crossing ahead where you must stop.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a police road-block ahead where you must stop.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-r2072/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "There is a railway crossing ahead where you must stop.",
+   "sourceWpId": 2399
+  },
+  {
+   "id": "pk53-0686",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/practicek53/rsa-a.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a controlled stop 1 km from there, for goods vehicles exceeding the indicated GVM.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There will be various stops for heavy motor vehicles weighing more than 10 tons for 1 km.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Heavy motor vehicles weighing 10 tons must approach the stop street at 1 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-sign-mean-r2100/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "There is a controlled stop 1 km from there, for goods vehicles exceeding the indicated GVM.",
+   "sourceWpId": 2400
+  },
+  {
+   "id": "pk53-0687",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this warning sign mean?",
+   "image": "images/practicek53/rsa-337.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a narrow bridge ahead on the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road ahead narrows to a width that will make it possible for only one vehicle at a time to pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a weighbridge ahead on the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-warning-sign-mean-r2101/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The road ahead narrows to a width that will make it possible for only one vehicle at a time to pass.",
+   "sourceWpId": 2401
+  },
+  {
+   "id": "pk53-0688",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this warning sign mean?",
+   "image": "images/practicek53/rsa-336.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a drift ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a narrow bridge ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road narrows from both sides ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-warning-sign-mean-r2102/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "There is a narrow bridge ahead.",
+   "sourceWpId": 2402
+  },
+  {
+   "id": "pk53-0689",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that…",
+   "image": "images/practicek53/rsa-381.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road turning to the right ends ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a T-junction to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to turn right there.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-r2103/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The road turning to the right ends ahead.",
+   "sourceWpId": 2403
+  },
+  {
+   "id": "pk53-0690",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that there is a…",
+   "image": "images/practicek53/rsa-q69.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Temporary obstruction left of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Curve to the left ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Temporary detour to the left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-there-is-a-r2104/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Temporary obstruction left of the road.",
+   "sourceWpId": 2404
+  },
+  {
+   "id": "pk53-0691",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that you must…",
+   "image": "images/practicek53/rsa-2.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop and then turn left or drive straight on.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn left at the stop sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop but if you want to turn left, you can use it as a yield sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-you-must-r2105/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Stop but if you want to turn left, you can use it as a yield sign.",
+   "sourceWpId": 2405
+  },
+  {
+   "id": "pk53-0692",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that there is a…",
+   "image": "images/practicek53/rsa-299.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Detour to the left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sharp curve to the left ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Obstruction left of the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-there-is-a-r2131/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Sharp curve to the left ahead.",
+   "sourceWpId": 2406
+  },
+  {
+   "id": "pk53-0693",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The lines indicated by RTM3 in the sketch…",
+   "image": "images/practicek53/rsa-37a.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Show you that you may not stop further than the front one of the two.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Are the lines that indicate another traffic lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Are the lines where pedestrians walk.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-lines-indicated-by-rtm3-in-the-sketch-r2157/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Are the lines where pedestrians walk.",
+   "sourceWpId": 2407
+  },
+  {
+   "id": "pk53-0694",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In the sketch, when you see road marking A, you…",
+   "image": "images/practicek53/rsa-a-38.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "May not park there because it is parking for ambulances only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Know it is a lane reserved for emergency vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "May not park there at all.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/in-the-sketch-when-you-see-road-marking-a-you-r2158/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "May not park there at all.",
+   "sourceWpId": 2408
+  },
+  {
+   "id": "pk53-0695",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/practicek53/rsa-16.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles with a mass of 10 tons and less may not drive there.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles with a mass of more than 10 tons may not drive there.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "That section of the road can only carry vehicles that weigh up to 10 tons.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-meaning-of-this-sign-r2159/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Vehicles with a mass of 10 tons and less may not drive there.",
+   "sourceWpId": 2409
+  },
+  {
+   "id": "pk53-0696",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The sign warns drivers that…",
+   "image": "images/practicek53/rsa-3-15.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road ends 5 km ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are police officers ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There's a one way road ahead going left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-sign-warns-drivers-that-r2168/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "There's a one way road ahead going left",
+   "sourceWpId": 2410
+  },
+  {
+   "id": "pk53-0697",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What action must you take when you encounter this road marking?",
+   "image": "images/practicek53/rsa-422.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "If you are not driving a bus, do not drive in the lane indicated by the marking.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not park there as it is an exclusive parking bay for buses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may drive there if you don't see any buses but must move to a different lane as soon as the bus approaches.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-action-must-you-take-when-you-encounter-this-road-marki-r2181/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "If you are not driving a bus, do not drive in the lane indicated by the marking.",
+   "sourceWpId": 2411
+  },
+  {
+   "id": "pk53-0698",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How should a driver respond to this road sign?",
+   "image": "images/practicek53/rsa-52.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Make sure, in time that there is a big enough gap in the traffic to merge with other traffic. Also yield to other traffic, which might merge.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Keep to the left and drive over the painted island, if necessary, until you can safely merge with traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are driving in the lane that has to merge, you must drive to the front and stop. Only move off once it is safe to do so.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-should-a-driver-respond-to-this-road-sign-r2208/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Make sure, in time that there is a big enough gap in the traffic to merge with other traffic. Also yield to other traffic, which might merge.",
+   "sourceWpId": 2412
+  },
+  {
+   "id": "pk53-0699",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this sign?",
+   "image": "images/practicek53/rsa-5-9.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The speed limit on this road is 55 km/h and all traffic lights have cameras to monitor traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not drive through the green light, at the traffic signal, at a speed faster than 55 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To inform you that the traffic signals on this route are coordinated and that the signals will be green at all the subsequent intersections if you maintain the indicated speed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-purpose-of-this-sign-r2209/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To inform you that the traffic signals on this route are coordinated and that the signals will be green at all the subsequent intersections if you maintain the indicated speed.",
+   "sourceWpId": 2413
+  },
+  {
+   "id": "pk53-0700",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the name of this road marking?",
+   "image": "images/practicek53/rsa-1-3.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No overtaking line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Channelizing line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No crossing line.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-name-of-this-road-marking-r2210/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Channelizing line.",
+   "sourceWpId": 2414
+  },
+  {
+   "id": "pk53-0701",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are driving towards the mini-circle in the sketch, and there are also vehicles from the other three sides, you…",
+   "image": "images/practicek53/rsa-q75.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "May drive on if you were the first vehicle over the line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Must stop with all the vehicles and only drive on when it is safe.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Must always wait for the vehicle from your right before you drive on.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-you-are-driving-towards-the-mini-circle-in-the-sketch-an-r2211/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "May drive on if you were the first vehicle over the line.",
+   "sourceWpId": 2415
+  },
+  {
+   "id": "pk53-0702",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign prohibits you from driving",
+   "image": "images/practicek53/rsa-q57.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "More than 100 times at night",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At less than 100 km/h at night",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At more than 100 km/h at night.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-prohibits-you-from-driving-r2218/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "At more than 100 km/h at night.",
+   "sourceWpId": 2416
+  },
+  {
+   "id": "pk53-0703",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is a purpose of this sign?",
+   "image": "images/practicek53/rsa-3-41.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "To warn that there is a possibility of reduced visibility on the road ahead that might cause a hazard to road users.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To warn road users that the road ahead has no road markings.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To warn you that the road ahead is untarred.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-a-purpose-of-this-sign-r2235/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To warn that there is a possibility of reduced visibility on the road ahead that might cause a hazard to road users.",
+   "sourceWpId": 2417
+  },
+  {
+   "id": "pk53-0704",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This road sign is known as…",
+   "image": "images/practicek53/rsa-514.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "An advance trailblazer.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A gore exit sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A fingerboard sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-road-sign-is-known-as-r2236/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A fingerboard sign.",
+   "sourceWpId": 2418
+  },
+  {
+   "id": "pk53-0705",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What action should you take when you see this sign?",
+   "image": "images/practicek53/rsa-519.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Move in good time to the correct lane to leave the freeway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only leave the freeway if you are in the left-hand lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Take note of the mentioned destination and distance to such destination, indicated in kilometres on the sign and plan your trip accordingly.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-action-should-you-take-when-you-see-this-sign-r2237/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Only leave the freeway if you are in the left-hand lane.",
+   "sourceWpId": 2419
+  },
+  {
+   "id": "pk53-0706",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you see this sign you must…",
+   "image": "images/practicek53/rsa-7.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Give right of way to pedestrians who would like to cross the street.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop because school kids might cross the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Know that this section of the road is for the use of pedestrians only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-see-this-sign-you-must-r2238/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Give right of way to pedestrians who would like to cross the street.",
+   "sourceWpId": 2420
+  },
+  {
+   "id": "pk53-0707",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns you that…",
+   "image": "images/practicek53/rsa-313.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are now entering an urban area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a compulsory police stop ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is an unexpected robot ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-warns-you-that-r2239/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "There is an unexpected robot ahead.",
+   "sourceWpId": 2421
+  },
+  {
+   "id": "pk53-0708",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this warning sign show you?",
+   "image": "images/practicek53/rsa-312.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road winds ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A concealed entrance to the left is followed by one to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A number of sharp curves are found ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-warning-sign-show-you-r2240/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A concealed entrance to the left is followed by one to the right.",
+   "sourceWpId": 2422
+  },
+  {
+   "id": "pk53-0709",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign shows you that only… may park there.",
+   "image": "images/practicek53/rsa-q100.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Goods vehicles that load and unload.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcars that load or unload.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Construction vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-sign-shows-you-that-only-may-park-there-r2244/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Goods vehicles that load and unload.",
+   "sourceWpId": 2423
+  },
+  {
+   "id": "pk53-0710",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you see this sign you must…",
+   "image": "images/practicek53/rsa-352.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Know that only agricultural vehicles may drive there.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Be on the lookout for agricultural vehicles that may be on the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Lookout for road works where tractors operate.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-see-this-sign-you-must-r2245/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Be on the lookout for agricultural vehicles that may be on the road.",
+   "sourceWpId": 2424
+  },
+  {
+   "id": "pk53-0711",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This warning sign shows you that…",
+   "image": "images/practicek53/rsa-335.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road is ending ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road which you are driving on is going to change to a gravel road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Potholes are to be found on the road ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/this-warning-sign-shows-you-that-r2246/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The road which you are driving on is going to change to a gravel road.",
+   "sourceWpId": 2425
+  },
+  {
+   "id": "pk53-0712",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/practicek53/rsa-4-35.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "It indicates a parking area reserved for the exclusive use of high occupancy vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A portion of the road is reserved for use by high occupancy vehicles and they may use that part of the road if they wish.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It indicates the number of the roads/ routes that you are travelling on.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-this-sign-indicate-r2262/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A portion of the road is reserved for use by high occupancy vehicles and they may use that part of the road if they wish.",
+   "sourceWpId": 2426
+  }
+ ]
+}

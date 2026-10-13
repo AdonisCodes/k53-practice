@@ -1,0 +1,3589 @@
+{
+ "batch": "pk53-013",
+ "source": "practicek53",
+ "addedAt": "2026-10-07T15:36:44+02:00",
+ "questions": [
+  {
+   "id": "pk53-1069",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN DRIVING ON A ROAD WITH TRAFFIC LANES, WHICH OF THE FOLLOWING SHOULD YOU NOT DO?",
+   "image": "images/practicek53/pr-negligent-driving-11.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Straddle from side to side.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Change lanes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep in your designated lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-driving-on-a-road-with-traffic-lanes-which-of-the-foll-p10/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Straddle from side to side.",
+   "sourceWpId": 2859
+  },
+  {
+   "id": "pk53-1070",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU ARE ONLY ALLOWED TO CHANGE LANES WHEN?",
+   "image": "images/practicek53/pr-pg-11.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "When it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When you have given clear indication to warn other motorist of your intentions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A and B.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-are-only-allowed-to-change-lanes-when-p11/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "When it is safe to do so.",
+   "sourceWpId": 2860
+  },
+  {
+   "id": "pk53-1071",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "AT A STOP SIGN YOU MUST?",
+   "image": "images/practicek53/pr-pg-12-give-way-sign-1.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Bring your car to a complete stop and proceed only when it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and if it is safe you may proceed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop on the white line painted on the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-a-stop-sign-you-must-p12/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Bring your car to a complete stop and proceed only when it is safe to do so.",
+   "sourceWpId": 2861,
+   "images": [
+    "images/practicek53/pr-pg-12-give-way-sign-1.jpg",
+    "images/practicek53/pr-pg-12-give-way-sign-2.jpg"
+   ]
+  },
+  {
+   "id": "pk53-1072",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU HAVE TO OBEY THE SIGNALS GIVEN BY A TRAFFIC OFFICER OR A POLICE MAN ONLY.",
+   "image": "images/practicek53/pr-pg-13.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "At a police road block.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At a accident scene.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-have-to-obey-the-signals-given-by-a-traffic-officer-or-a-p13/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Always.",
+   "sourceWpId": 2862
+  },
+  {
+   "id": "pk53-1073",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "AT A YIELD SIGN YOU MUST ?",
+   "image": "images/practicek53/pr-yield-inside.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Bring your car to a complete stop and proceed only when it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and if it is safe you may proceed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop on the white line painted on the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-a-yield-sign-you-must-p14/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Slow down and if it is safe you may proceed.",
+   "sourceWpId": 2863,
+   "images": [
+    "images/practicek53/pr-yield-inside.jpg",
+    "images/practicek53/pr-6-yield-ahead-inside.jpg"
+   ]
+  },
+  {
+   "id": "pk53-1074",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "AT A PEDESTRIAN CROSSING",
+   "image": "images/practicek53/pr-pg26-a.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrians wishing to cross should yield to you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always stop for pedestrians and once they have crossed and it is safe you may proceed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce speed and continue driving as you have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-a-pedestrian-crossing-p15/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Always stop for pedestrians and once they have crossed and it is safe you may proceed.",
+   "sourceWpId": 2864,
+   "images": [
+    "images/practicek53/pr-pg26-a.png",
+    "images/practicek53/pr-pedestrians1.jpg"
+   ]
+  },
+  {
+   "id": "pk53-1075",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU ARE AT AN INTERSECTION AND SEE PEDESTRIANS CROSSING THE ROAD INTO WHICH YOU ARE TURNING. YOU MUST –",
+   "image": "images/practicek53/pr-pg-16.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Give way to the pedestrian.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sound your horn to warn the pedestrian to get out of the way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Swerve around the pedestrian to avoid hitting them.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-are-at-an-intersection-and-see-pedestrians-crossing-the-p16/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Give way to the pedestrian.",
+   "sourceWpId": 2865
+  },
+  {
+   "id": "pk53-1076",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHICH OF THE FOLLOWING IS A NO STOPPING AREA??",
+   "image": "images/practicek53/pr-pg17.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "On the Right hand side of a street.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Within a railway level crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A and B.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-is-a-no-stopping-area-p17/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "A and B.",
+   "sourceWpId": 2866
+  },
+  {
+   "id": "pk53-1077",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHICH HAND SIGNALS CAN YOU USE ON A FREEWAY?",
+   "image": "images/practicek53/pr-pg43.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stopping.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turning left or right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hand signals are not allowed on the freeway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-hand-signals-can-you-use-on-a-freeway-p18/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Hand signals are not allowed on the freeway.",
+   "sourceWpId": 2867
+  },
+  {
+   "id": "pk53-1078",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHICH OF THE FOLLOWING VEHICLES ARE NOT ALLOWED ON THE FREEWAY?",
+   "image": "images/practicek53/pr-pg-19.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Busses.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles under 50 cc.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Construction vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-vehicles-are-not-allowed-on-the-freew-p19/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Motorcycles under 50 cc.",
+   "sourceWpId": 2868
+  },
+  {
+   "id": "pk53-1079",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN TURNING RIGHT",
+   "image": "images/practicek53/pr-right-turn-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield to on-coming traffic and move to the right hand side of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn as wide as possible to your right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Indicate your intentions once you have turned.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-turning-right-p20/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yield to on-coming traffic and move to the right hand side of the road.",
+   "sourceWpId": 2869,
+   "images": [
+    "images/practicek53/pr-right-turn-2.jpg",
+    "images/practicek53/pr-right-turn4.jpg"
+   ]
+  },
+  {
+   "id": "pk53-1080",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU ARE NOT ALLOWED TO PARK ?",
+   "image": "images/practicek53/pr-fire-hydrant.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Within 1.5 meters from a fire hydrant.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Less than 5 meters from an intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "a and b.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-are-not-allowed-to-park-p21/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Within 1.5 meters from a fire hydrant.",
+   "sourceWpId": 2870
+  },
+  {
+   "id": "pk53-1081",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "EMERGENCY VEHICLES",
+   "image": "images/practicek53/pr-ambulance.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Always have the right of way when their alarms or sirens are activated.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always have the right of way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Can drive as fast as they want.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/emergency-vehicles-p22/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Always have the right of way when their alarms or sirens are activated.",
+   "sourceWpId": 2871,
+   "images": [
+    "images/practicek53/pr-ambulance.jpg",
+    "images/practicek53/pr-police-car.jpg"
+   ]
+  },
+  {
+   "id": "pk53-1082",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "HOW CLOSE TO A PEDESTRIAN CROSSING ARE YOU ALLOWED TO STOP?",
+   "image": "images/practicek53/pr-pedestrian-9a.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Not within 7 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Not within 9 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Not within 12 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-close-to-a-pedestrian-crossing-are-you-allowed-to-stop-p23/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Not within 9 meters.",
+   "sourceWpId": 2872
+  },
+  {
+   "id": "pk53-1083",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A VEHICLE IS ASSUMED TO BE ABANDONED IF ?",
+   "image": "images/practicek53/pr-abandoned-car.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Left for 7 days or more in the same place next to a public road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If no one is in the car.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parked in a loading zone.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-vehicle-is-assumed-to-be-abandoned-if-p24/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Left for 7 days or more in the same place next to a public road.",
+   "sourceWpId": 2873
+  },
+  {
+   "id": "pk53-1084",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "HEADLIGHTS MUST BE SWITCHED ON ?",
+   "image": "images/practicek53/pr-lights-high-beams.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Between sunset and sunrise or whenever the visibility is not clear.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whenever visibility is not clear for more than 250 meters ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/headlights-must-be-switched-on-p25/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Between sunset and sunrise or whenever the visibility is not clear.",
+   "sourceWpId": 2874
+  },
+  {
+   "id": "pk53-1085",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN TOWING A VEHICLE, THE DISTANCE BETWEEN THE TWO VEHICLES MUST NOT BE ?",
+   "image": "images/practicek53/pr-towing-1.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Greater than 3 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Greater than 3.5 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Greater than 4.5 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-towing-a-vehicle-the-distance-between-the-two-vehicles-p26/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Greater than 3.5 meters.",
+   "sourceWpId": 2875
+  },
+  {
+   "id": "pk53-1086",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN ARE PASSENGERS ALLOWED IN A VEHICLE BEING TOWED ?",
+   "image": "images/practicek53/pr-towing1.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "If it is towed with a solid tow bar.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it has sufficient tow rope.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A an B.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-are-passengers-allowed-in-a-vehicle-being-towed-p27/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "If it is towed with a solid tow bar.",
+   "sourceWpId": 2876
+  },
+  {
+   "id": "pk53-1087",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN IS IT PERMISSIBLE TO HAVE A PERSONS BODY PARTS PROTRUDING FROM A VEHICLE.?",
+   "image": "images/practicek53/pr-hands-outside-car.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Never.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When he is giving indication as to what he intends to do (slow down, turn left or right etc).",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When the driver is greeting someone.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-is-it-permissible-to-have-a-persons-body-parts-protrudi-p28/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "When he is giving indication as to what he intends to do (slow down, turn left or right etc).",
+   "sourceWpId": 2877
+  },
+  {
+   "id": "pk53-1088",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHAT IS THE FIRST THING ONE MUST DO AT A COLLISION?",
+   "image": "images/practicek53/pr-fender-bender.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop your car immediately.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Call the police.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Continue driving and report the matter later.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-first-thing-one-must-do-at-a-collision-p29/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop your car immediately.",
+   "sourceWpId": 2878
+  },
+  {
+   "id": "pk53-1089",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "HOW LONG AFTER A COLLISION DO YOU HAVE TO REPORT THE COLLISION TO THE POLICE?",
+   "image": "images/practicek53/pr-colission.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Within 12 hrs after the collision.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Within 24 hrs after the collision.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Within 72 hrs after the collision.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-long-after-a-collision-do-you-have-to-report-the-collisi-p30/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Within 24 hrs after the collision.",
+   "sourceWpId": 2879
+  },
+  {
+   "id": "pk53-1090",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "IF SOMEONE IS FATALLY INJURED IN A COLLISION, WHEN CAN YOU MOVE THE VEHICLES?",
+   "image": "images/practicek53/pr-fender-bender-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Once you have taken down all the relevant details.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if it is obstructing the flow of traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if it is obstructing the flow of traffic and the positions of the vehicles has been clearly marked on road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-someone-is-fatally-injured-in-a-collision-when-can-you-m-p31/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Only if it is obstructing the flow of traffic and the positions of the vehicles has been clearly marked on road.",
+   "sourceWpId": 2880
+  },
+  {
+   "id": "pk53-1091",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN TRANSPORTING GOODS ON THE ROOF OF A VEHICLE",
+   "image": "images/practicek53/pr-height-restriction.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The maximum height is 2 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The maximum height is 3 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Up to half the vehicles height.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-transporting-goods-on-the-roof-of-a-vehicle-p32/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Up to half the vehicles height.",
+   "sourceWpId": 2881
+  },
+  {
+   "id": "pk53-1092",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg33.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Centre line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lane line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Kerb marking.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p33/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Centre line.",
+   "sourceWpId": 2882
+  },
+  {
+   "id": "pk53-1093",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg34.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No overtaking line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may overtake on the right hand side.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Dividing line.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p34/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No overtaking line.",
+   "sourceWpId": 2883
+  },
+  {
+   "id": "pk53-1094",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg35.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Double barrier line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtake if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic on the same side as the broken line may overtake.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p35/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Traffic on the same side as the broken line may overtake.",
+   "sourceWpId": 2884
+  },
+  {
+   "id": "pk53-1095",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg36.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtake only if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No traffic may cross the solid lines from either side.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrian crossing up ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p36/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No traffic may cross the solid lines from either side.",
+   "sourceWpId": 2885
+  },
+  {
+   "id": "pk53-1096",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg37.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Lane lines.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Double center lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Don't change lanes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p37/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Lane lines.",
+   "sourceWpId": 2886
+  },
+  {
+   "id": "pk53-1097",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg38.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Used to regulate the flow of traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may change lanes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cycling lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p38/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Used to regulate the flow of traffic.",
+   "sourceWpId": 2887
+  },
+  {
+   "id": "pk53-1098",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg39.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reserved for busses only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are allowed to park your cycle here.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Temporally sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p39/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Reserved for busses only.",
+   "sourceWpId": 2888
+  },
+  {
+   "id": "pk53-1099",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg40.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reservation line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Parking is prohibited in demarcated area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No overtaking on the left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p40/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Parking is prohibited in demarcated area.",
+   "sourceWpId": 2889
+  },
+  {
+   "id": "pk53-1100",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg41.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Loading zone.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Park more than 1m from the edge of the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parking prohibited.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p41/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Parking prohibited.",
+   "sourceWpId": 2890
+  },
+  {
+   "id": "pk53-1101",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg42.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Indicates the right edge of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Bus stop up ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p42/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Indicates the right edge of the road.",
+   "sourceWpId": 2891
+  },
+  {
+   "id": "pk53-1102",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg43.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Intersection lines.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Solid barrier lines.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrian crossing lines.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p43/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Pedestrian crossing lines.",
+   "sourceWpId": 2892
+  },
+  {
+   "id": "pk53-1103",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg44.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Right angle line.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p44/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop line.",
+   "sourceWpId": 2893
+  },
+  {
+   "id": "pk53-1104",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg45.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Temporally stop line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No stopping line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p45/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No stopping line.",
+   "sourceWpId": 2894
+  },
+  {
+   "id": "pk53-1105",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg46.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Hazard markings.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yellow arrows are compulsory and white arrows are for information.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "One-way streets.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p46/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yellow arrows are compulsory and white arrows are for information.",
+   "sourceWpId": 2895
+  },
+  {
+   "id": "pk53-1106",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg47.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Barrier line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Staggered line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yield line.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p47/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yield line.",
+   "sourceWpId": 2896
+  },
+  {
+   "id": "pk53-1107",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg48.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep in the left lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Road curves to the left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Barrier line ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p48/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Barrier line ahead.",
+   "sourceWpId": 2897
+  },
+  {
+   "id": "pk53-1108",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg49.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "One way street.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Indicates the flow of traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stay in your current lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p49/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Indicates the flow of traffic.",
+   "sourceWpId": 2898
+  },
+  {
+   "id": "pk53-1109",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg50.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Railway crossing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed bump.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p50/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Speed bump.",
+   "sourceWpId": 2899
+  },
+  {
+   "id": "pk53-1110",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg51.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed bump up ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No entry sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Railway crossing ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p51/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Railway crossing ahead.",
+   "sourceWpId": 2900
+  },
+  {
+   "id": "pk53-1111",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg52.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive over it.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Painted island. You may not drive over it.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may stop here.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p52/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Painted island. You may not drive over it.",
+   "sourceWpId": 2901
+  },
+  {
+   "id": "pk53-1112",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg53.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Loading zone. Reserved for loading only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may park here for a maximum of 30 minutes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reserved for trucks only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p53/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Loading zone. Reserved for loading only.",
+   "sourceWpId": 2902
+  },
+  {
+   "id": "pk53-1113",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg54.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Park with all the wheels within the marking.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Two vehicles may park here.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No parking area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p54/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Park with all the wheels within the marking.",
+   "sourceWpId": 2903
+  },
+  {
+   "id": "pk53-1114",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg55.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No stopping area, except to yield.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Double railway crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Painted island.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p55/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No stopping area, except to yield.",
+   "sourceWpId": 2904
+  },
+  {
+   "id": "pk53-1115",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg56.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No stopping area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Do not enter this area, unless you can pass through it without blocking any on coming traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Painted island.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p56/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Do not enter this area, unless you can pass through it without blocking any on coming traffic.",
+   "sourceWpId": 2905
+  },
+  {
+   "id": "pk53-1116",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE ROAD SURFACE MARKING .",
+   "image": "images/practicek53/pr-pg57.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield sign ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop sign ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Right turn ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-surface-markings"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-road-surface-marking-p57/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yield sign ahead.",
+   "sourceWpId": 2906
+  },
+  {
+   "id": "pk53-1117",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED. .",
+   "image": "images/practicek53/pr-pg58.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Hospital up ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Crossroad ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p58/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Crossroad ahead.",
+   "sourceWpId": 2907
+  },
+  {
+   "id": "pk53-1118",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED. .",
+   "image": "images/practicek53/pr-pg59.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "T junction ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Dead end ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Detour ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p59/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "T junction ahead.",
+   "sourceWpId": 2908
+  },
+  {
+   "id": "pk53-1119",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg60.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sharp curve ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Dangerous curve ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Gentle curve ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p60/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Gentle curve ahead.",
+   "sourceWpId": 2909
+  },
+  {
+   "id": "pk53-1120",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg61.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sharp curve ahead to your left or your right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Right turn only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No left turn.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p61/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Sharp curve ahead to your left or your right.",
+   "sourceWpId": 2910
+  },
+  {
+   "id": "pk53-1121",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg62.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Hairpin bend ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "U turns allowed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No U turns allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p62/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Hairpin bend ahead.",
+   "sourceWpId": 2911
+  },
+  {
+   "id": "pk53-1122",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg63.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Slippery surface ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lane runs to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Winding roads ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p63/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Winding roads ahead.",
+   "sourceWpId": 2912
+  },
+  {
+   "id": "pk53-1123",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg64.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "One way ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Two way traffic ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have priority.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p64/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Two way traffic ahead.",
+   "sourceWpId": 2913
+  },
+  {
+   "id": "pk53-1124",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg65.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "End of dual road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "End of freeway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Beginning of dual road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p65/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "End of dual road.",
+   "sourceWpId": 2914
+  },
+  {
+   "id": "pk53-1125",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg66.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "End of dual road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "End of freeway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Beginning of dual road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p66/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Beginning of dual road.",
+   "sourceWpId": 2915
+  },
+  {
+   "id": "pk53-1126",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg67.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Road narrows from right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Road narrows from both sides.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Road narrows from left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p67/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Road narrows from both sides.",
+   "sourceWpId": 2916
+  },
+  {
+   "id": "pk53-1127",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg68.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Blasting ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Steep cliff ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Falling rocks ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p68/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Falling rocks ahead.",
+   "sourceWpId": 2917
+  },
+  {
+   "id": "pk53-1128",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg69.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrian lights ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Robots ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Workmen ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p69/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Robots ahead.",
+   "sourceWpId": 2918
+  },
+  {
+   "id": "pk53-1129",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg70.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The crossroads ahead carries two way traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Traffic flow in both directions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p70/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "The crossroads ahead carries two way traffic.",
+   "sourceWpId": 2919
+  },
+  {
+   "id": "pk53-1130",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg71.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Left lane ends ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Right lane ends ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Road narrows from right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p71/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Left lane ends ahead.",
+   "sourceWpId": 2920
+  },
+  {
+   "id": "pk53-1131",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg72.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Weight bridge ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Narrow tunnel ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only one vehicle width can pass through at any given time.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p72/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Only one vehicle width can pass through at any given time.",
+   "sourceWpId": 2921
+  },
+  {
+   "id": "pk53-1132",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg73.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Slippery road ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No skidding allowed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p73/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Slippery road ahead.",
+   "sourceWpId": 2922
+  },
+  {
+   "id": "pk53-1133",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg74.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Dual lanes ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch on your lights.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Tunnel ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p74/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Tunnel ahead.",
+   "sourceWpId": 2923
+  },
+  {
+   "id": "pk53-1134",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg75.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Children ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrian crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No pedestrians allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p75/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Pedestrian crossing ahead.",
+   "sourceWpId": 2924
+  },
+  {
+   "id": "pk53-1135",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg76.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrians ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrian crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No pedestrians allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p76/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Pedestrians ahead.",
+   "sourceWpId": 2925
+  },
+  {
+   "id": "pk53-1136",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg77.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrian crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No pedestrians allowed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Children ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p77/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Children ahead.",
+   "sourceWpId": 2926
+  },
+  {
+   "id": "pk53-1137",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg78.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Hazard ahead, drive careful.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Robot ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No traffic lights ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p78/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Hazard ahead, drive careful.",
+   "sourceWpId": 2927
+  },
+  {
+   "id": "pk53-1138",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg79.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Road ends ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "River ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Road leads to a river bank ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p79/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Road leads to a river bank ahead.",
+   "sourceWpId": 2928
+  },
+  {
+   "id": "pk53-1139",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg80.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Cross winds ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Airport ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Windsock ahead to check the wind flow.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p80/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Cross winds ahead.",
+   "sourceWpId": 2929
+  },
+  {
+   "id": "pk53-1140",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg81.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Railway crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motor gate ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Boom ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p81/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Motor gate ahead.",
+   "sourceWpId": 2930
+  },
+  {
+   "id": "pk53-1141",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg82.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Potholes ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No smoking ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p82/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Potholes ahead.",
+   "sourceWpId": 2931
+  },
+  {
+   "id": "pk53-1142",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg83.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Un even road ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed bump ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "River crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p83/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Un even road ahead.",
+   "sourceWpId": 2932
+  },
+  {
+   "id": "pk53-1143",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg84.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Zebra crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed bumps ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrian crossing ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p84/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Speed bumps ahead.",
+   "sourceWpId": 2933
+  },
+  {
+   "id": "pk53-1144",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHAT IS THE SPEED LIMIT ON A FREEWAY / NATIONAL ROADS?",
+   "image": "images/practicek53/pr-pg85.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Wild animals ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hunting ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Game park ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "rules-of-the-road"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-speed-limit-on-a-freeway-national-roads-p85/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Wild animals ahead.",
+   "sourceWpId": 2934
+  },
+  {
+   "id": "pk53-1145",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg86.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Farm gate ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Farm ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Bed and breakfast ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p86/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Farm gate ahead.",
+   "sourceWpId": 2935
+  },
+  {
+   "id": "pk53-1146",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg87.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sharp curve to the left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Gentle curve to the left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "One way road to the left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p87/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Sharp curve to the left.",
+   "sourceWpId": 2936
+  },
+  {
+   "id": "pk53-1147",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg88.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No entry ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motor gate ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Railway crossing ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p88/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Railway crossing ahead.",
+   "sourceWpId": 2937
+  },
+  {
+   "id": "pk53-1148",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg89.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "T junction ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Dead end ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Detour ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p89/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Dead end ahead.",
+   "sourceWpId": 2938
+  },
+  {
+   "id": "pk53-1149",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg90.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Traffic circle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Dead end ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Freeway ahead around the corner.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p90/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Traffic circle.",
+   "sourceWpId": 2939
+  },
+  {
+   "id": "pk53-1150",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg91.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop control ahead due to road works.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop control ahead due to scholar patrol.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop street ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p91/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop control ahead due to scholar patrol.",
+   "sourceWpId": 2940
+  },
+  {
+   "id": "pk53-1151",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg92.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maximum mass 4.42 kg on bridge.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Minimal speed 4.42 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Maximum Height restriction ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p92/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Maximum Height restriction ahead.",
+   "sourceWpId": 2941
+  },
+  {
+   "id": "pk53-1152",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg93.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drift ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Beware of puddles on the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Swimming pools ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p93/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Drift ahead.",
+   "sourceWpId": 2942
+  },
+  {
+   "id": "pk53-1153",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg94.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Road works ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Un even road ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "End of Gravel Road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p94/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "End of Gravel Road.",
+   "sourceWpId": 2943
+  },
+  {
+   "id": "pk53-1154",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE WARNING SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg95.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Airport ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Air show ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Low flying aircraft ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "warning-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-warning-sign-displayed-p95/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Low flying aircraft ahead.",
+   "sourceWpId": 2944
+  },
+  {
+   "id": "pk53-1155",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg96.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield and proceed when it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop on the white line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop before the white line.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p96/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop before the white line.",
+   "sourceWpId": 2945
+  },
+  {
+   "id": "pk53-1156",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg97.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop before the stop sign and wait for a policeman.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop only if you see a policeman.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p97/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop before the stop sign and wait for a policeman.",
+   "sourceWpId": 2946
+  },
+  {
+   "id": "pk53-1157",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg98.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pass by slowly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and if safe you may proceed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p98/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "You may proceed.",
+   "sourceWpId": 2947
+  }
+ ]
+}

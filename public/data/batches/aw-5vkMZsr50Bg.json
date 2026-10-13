@@ -1,0 +1,2199 @@
+{
+ "batch": "aw-5vkMZsr50Bg",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:25:44+02:00",
+ "questions": [
+  {
+   "id": "aw-5vkMZsr50Bg-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": " Which of the following statements is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Passengers may ride in a caravan if it is being towed slowly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Passengers may ride in a caravan only if it has seats fitted and seatbelts.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is always illegal for passengers to ride in a caravan on a public road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Passengers may not be carried in a caravan being towed on a public road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=13s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this combination sign. What does this sign mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-67.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only hatchback vehicles are prohibited from stopping; other vehicles may stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stopping is allowed for hatchbacks only if passengers are entering or exiting.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No vehicle may stop in this area for any reason, including loading or unloading.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "No-stopping sign with a light-motor-vehicle plate; the video's answer is that no vehicle may stop there for any reason, including loading or unloading.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=66s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which condition is it legally permissible to tow another vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If the towed vehicle’s driver is holding any valid driver’s licence.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If the driver of the towed vehicle is holding a licence that authorizes them to drive that class of vehicle and maintains control of the steering wheel.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If the towing is done slowly and the road is quiet, no licence requirements apply.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The person steering a towed vehicle must hold a licence for that class of vehicle and must control the steering.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=124s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a road sign showing this icon. What is the correct meaning of this sign?",
+   "image": "images/appsworld/5vkMZsr50Bg-182.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a golf course ahead; watch out for pedestrians crossing and slow-moving golf carts.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only golfers may enter this area; all other traffic is prohibited.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles must stop and give way to anyone playing golf in the area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Golf course ahead: watch for pedestrians and slow golf carts crossing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=181s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": " A breakdown vehicle is towing another vehicle on a public road. What is the maximum legal speed allowed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The video gives 80 km/h as the maximum speed for a breakdown vehicle towing another vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=225s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": " Which of the following statements is correct regarding passengers on the roof of a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Passengers may sit on the roof if the vehicle is moving slowly in a residential area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Passengers or animals may never occupy the roof while the vehicle is in motion.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Passengers may sit on the roof if the vehicle is not exceeding 40 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "No person or animal may be carried on the roof of a moving vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=252s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a green road sign with the words “3-Phase.” What does this sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-318.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are three lanes ahead, each with separate traffic phases at the traffic light.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The traffic light ahead operates on a three-phase system; wait until the signal is green.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are three roads converging ahead; proceed with caution.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A '3-Phase' information sign means the traffic signal ahead is a three-phase signal; wait for your green.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=317s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements about a vehicle’s electrical wiring and battery is correct when driving on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A vehicle may be driven even if the battery terminals are loose, as long as the headlights work.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Exposed wiring is allowed if it does not touch the driver or passengers.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All electrical wiring and the battery must be properly installed, insulated, and secured before driving on a public road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Wiring and the battery must be properly installed, insulated and secured.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=377s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the road marking “SOS” painted on the lane. What does this marking mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-429.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It is a warning zone; vehicles may not stop or park under any circumstances.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is an emergency area; you may stop or park only in an emergency.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All vehicles may stop here to check directions or make a phone call.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "'SOS' painted on the road marks an emergency stopping area; stop there only in an emergency.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=428s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a road marking indicating an “arrestor bed” ahead. What is the correct action for drivers?",
+   "image": "images/appsworld/5vkMZsr50Bg-472.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down slightly; the arrestor bed is decorative and for visual guidance only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop immediately; the arrestor bed is a pedestrian crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Be prepared to enter the arrestor bed only in an emergency, such as brake failure, to safely stop the vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "An arrestor bed is for emergencies such as brake failure.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=471s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this command sign on a public road. What does this sign require you to do?",
+   "image": "images/appsworld/5vkMZsr50Bg-520.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Switch on your headlights only at night or when visibility is poor.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch on your headlights only if you are driving outside a built-up area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Switch on your headlights immediately and keep them on while travelling in the indicated area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Blue command sign showing headlights: switch on headlights and keep them on in the indicated area.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=519s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this command sign on a public road. What does this sign require you to do?",
+   "image": "images/appsworld/5vkMZsr50Bg-566.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Switch off your headlights immediately and continue driving without them while in the indicated area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Keep headlights on if it's dark or raining; the sign is just a recommendation.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only switch off your high beams; keep dipped beams on.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is the headlight command sign crossed out; the video's answer is that you must switch off your headlights in the indicated area.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=564s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": " Which of the following must your car be properly equipped with when driving on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A speedometer that is in good working order.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A radio and air conditioning.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only tyres and brakes; speedometer condition does not matter.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A vehicle must have a speedometer in good working order.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=626s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": " In which of the following scenarios are you legally allowed to stop your vehicle in a no stopping zone?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To quickly drop off a passenger.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To wait for a friend to join you.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if a situation beyond your control forces you to stop, such as a mechanical failure or sudden illness.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "In a no-stopping zone you may only stop for reasons beyond your control.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=660s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who is responsible for ensuring that all passengers in a vehicle are wearing seatbelts while the vehicle is in motion?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only passengers over 18 years old are responsible for themselves.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The driver of the vehicle is responsible for all passengers.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parents or guardians are only responsible for children under 12, the driver has no responsibility.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The driver is responsible for passengers wearing seatbelts.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=706s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a road sign with the top half showing “60” and the bottom half showing a visibility warning. What does this sign mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-750.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The speed limit is always 60 km/h, regardless of visibility.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The speed limit is recommended only in foggy conditions, otherwise normal speed limits apply.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must reduce your speed to 60 km/h because poor visibility conditions are expected or present.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Speed limit with a poor-visibility (fog) plate: 60 km/h applies when visibility is poor.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=749s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a stop/go traffic sign being used by a traffic officer or temporary road controller. What must you do?",
+   "image": "images/appsworld/5vkMZsr50Bg-811.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore the sign if the traffic light ahead is green.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop or go according to the signal given by the traffic officer, even if it conflicts with normal traffic lights or signs.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed with caution; the sign is only a recommendation.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Stop/go signs held by an authorised person override traffic lights and other signs.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=810s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this combination road sign. What is the correct interpretation?",
+   "image": "images/appsworld/5vkMZsr50Bg-856.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must reduce your speed only at the first curve; afterwards you may drive at the normal speed limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may ignore the speed restriction if the road looks clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must maintain the indicated speed limit for the entire 6 km stretch of winding road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The speed limit applies for the whole distance shown on the plate (6 km of winding road).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=855s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following are you allowed to do under normal circumstances?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop in a no-stopping zone to quickly drop off a passenger.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Exceed the speed limit briefly while overtaking another vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You may not stop in a no-stopping zone to drop off a passenger, and you may not exceed the speed limit while overtaking.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=909s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When requested by a traffic officer, within what time must you produce your driving licence in order to avoid a fine?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Within 24 hours at the nearest police station.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Within 7 days from the date of the request.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Immediately, when requested by the traffic officer.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You must produce your driving licence immediately when a traffic officer asks for it.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=953s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-21",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the name of the group of signs to which these signs belong?",
+   "image": "images/appsworld/5vkMZsr50Bg-996.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Regulatory signs",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Command signs",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Warning signs",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Triangular red-bordered signs (including yellow temporary ones) are warning signs.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=995s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far ahead should your vehicle’s high beams and dipped beams be able to illuminate the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "High beams: 60 m | Dipped beams: 30 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "High beams: 80 m | Dipped beams: 40 m",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "High beams: 100 m | Dipped beams: 45 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "High beams must illuminate 100 m ahead and dipped beams 45 m.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1050s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-23",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a road sign showing a green arrow pointing downwards above a lane. What does this sign mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-1098.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must change lanes immediately.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The lane is reserved for emergency vehicles only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may drive in this lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A green downward arrow above a lane (lane-control signal) means you may use that lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1097s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A learner driver is not allowed to do which of the following?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive a motor vehicle without exceeding the speed limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive on a public road while accompanied by a licensed driver.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leave the engine running while the vehicle is unattended.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "No driver may leave a vehicle unattended with the engine running.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1140s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-25",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When driving on a road with a painted island, under which condition are you allowed to drive on or stop on the painted island?",
+   "image": "images/appsworld/5vkMZsr50Bg-1212.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "When traffic is heavy and you need extra space to pass other vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When making a U-turn or avoiding a slow-moving vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when directed to do so by a traffic officer.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You may not drive or stop on a painted island unless directed by a traffic officer.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1210s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-26",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "For how long is a vehicle licence valid?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "6 months from the date of issue.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12 months from the date of issue.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "5 years from the date of issue.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A vehicle licence (disc) is valid for 12 months.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1261s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-27",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this combination sign. What does this mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-1299.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The speed limit of 100 km/h applies at all times.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may exceed 100 km/h during the day if visibility is good.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The night speed limit of 100 km/h applies only from sunset to sunrise.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A speed limit with a night-time plate applies only from sunset to sunrise.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1298s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-28",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements is correct regarding driver fatigue?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you feel a little tired, you may continue driving as long as traffic is light.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drinking coffee or energy drinks eliminates the need to rest while driving.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you have been driving for a while and you are feeling a little tired, stop and have a break.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "If you feel tired, stop and rest.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1362s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-29",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a reservation sign indicating a pedal cycle lane. What is the correct meaning?",
+   "image": "images/appsworld/5vkMZsr50Bg-1403.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only bicycles may use this lane; all other vehicles are prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrians and cyclists may use the lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles may drive in the lane if there is no cyclist present.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A pedal-cycle reservation sign reserves the lane for bicycles only.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1402s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-30",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements is correct regarding the use of a hooter on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use the hooter continuously to warn other drivers of your presence.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may use the hooter to express annoyance at another driver’s behaviour.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the hooter only when it is necessary to warn other road users of danger.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Use the hooter only when necessary to warn others of danger.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1448s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-31",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a combination road sign applying to a light motor vehicle. What does this sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-1495.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The maximum speed a light motor vehicle may travel at on this road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The recommended speed for light motor vehicles in good weather conditions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The minimum speed a light motor vehicle must travel at.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A blue circular speed sign is a minimum speed command sign; with the light-motor-vehicle plate it applies to light motor vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1494s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-32",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to drive a light motor vehicle on a public road if:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is not fitted with front fog lamps.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is not fitted with lamps at the rear emitting a red light.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The interior light is not working.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A vehicle must have rear lamps emitting red light.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1558s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-33",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this combination road sign. What does it mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-1604.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Light motor vehicles may not exceed the speed limit for the next 5 km.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Light motor vehicles are prohibited only at certain times over the next 5 km.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light motor vehicles are prohibited from using this road for the next 5 km.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Prohibition sign with a light-motor-vehicle symbol and a 5 km plate: light motor vehicles are prohibited for the next 5 km.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1603s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-34",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements is correct when entering a public road from a side road, driveway, or entrance?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Enter the road as soon as there is a small gap and force other vehicles to slow down.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may enter the road if you indicate, even if other traffic must change speed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Do not enter a public road if your vehicle will interfere with moving traffic that will approach you from any direction.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Do not enter a public road if you will interfere with moving traffic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1664s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-35",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements regarding parking on a public road is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may park near an excavation if warning signs are displayed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may park opposite an excavation as long as traffic can still pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is not allowed to park your vehicle near or opposite an excavation.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You may not park near or opposite an excavation.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1733s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-36",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a road marking reserved with a special symbol for ambulances. What does this marking indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-1775.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Any emergency vehicle may park here.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only ambulances may park in this bay.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is a waiting area for patients or visitors.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A yellow encircled 'A' marking reserves the bay for ambulances only.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1774s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-37",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which of the following conditions are you allowed to overtake another vehicle on the left on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the vehicle in front is turning right and there is space on the left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When traffic is heavy and you want to save time.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On a single-lane road at night if no other vehicles are coming.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "You may overtake on the left when the vehicle ahead is turning right and there is room.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1807s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-38",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a lane reserved for buses and public transport. Which of the following statements is correct?",
+   "image": "images/appsworld/5vkMZsr50Bg-1847.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Any vehicle may use the lane if traffic is heavy.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only buses and vehicles carrying at least 3 passengers may use the lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only buses and authorized public transport vehicles may use the lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A bus reservation lane is for buses and authorised public transport only.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1846s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-39",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": " When approaching a pedestrian crossing (zebra crossing), which of the following statements is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may overtake another vehicle stopped at the crossing if no pedestrians are visible.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must stop and give way to pedestrians on the crossing, regardless of whether the other vehicle has stopped.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may speed up to pass the crossing quickly if pedestrians are far away.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Give way to pedestrians on a crossing; do not overtake a vehicle stopped at a crossing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1889s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-40",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following makes a light motor vehicle illegal to drive on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Tyres with worn tread below the legal minimum depth.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Tyres with slight discoloration but no visible damage.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Tyres with minor dirt or mud.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Tyres must have at least the legal minimum tread depth (1 mm).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1923s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-41",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the correct name of the road sign that displays destination names and directions, usually in a long rectangular shape pointing toward routes or towns?",
+   "image": "images/appsworld/5vkMZsr50Bg-1969.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Direction indicator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Guide sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Fingerboard",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A pointed rectangular sign with a destination name is a fingerboard (direction) sign.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=1967s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-42",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements regarding the use of a communication device while driving on a public road is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A driver may use a communication device if the vehicle is stationary at a red traffic light.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A driver may hold and use a communication device if it is used briefly and safely.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A driver may use a communication device only if it is fitted to the vehicle or can be operated without holding it.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A communication device may only be used hands-free / when fitted to the vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2001s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-43",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does the rocks falling warning sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-2062.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Loose stones may damage vehicle windscreens.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Rocks may fall onto the roadway from the side of a hill or mountain.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road surface ahead is uneven due to gravel.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Falling rocks: rocks may fall onto the road from a hill or mountain side.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2060s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-44",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following actions is legally permitted when driving on a public road under normal conditions?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Crossing a solid white line to overtake a slow-moving vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Driving on the right-hand side of the road when visibility is clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Crossing a solid white line in order to avoid an obstruction in the roadway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A solid white line may be crossed only to avoid an obstruction (when safe).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2096s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-45",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A minimum speed limit sign is displayed on a public road. Under which of the following circumstances may a driver legally drive slower than the indicated minimum speed?",
+   "image": "images/appsworld/5vkMZsr50Bg-2140.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "When the driver feels uncomfortable driving at higher speeds.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When traffic behind the vehicle is moving slowly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When road, traffic, or weather conditions make it unsafe to maintain the minimum speed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You may drive slower than a minimum speed only when conditions make it unsafe.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2139s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-46",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At an uncontrolled four-way intersection, two vehicles approach at the same time from different directions. Which rule determines who has the right of way?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle travelling at the higher speed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle approaching from the left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle approaching from the right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "At an uncontrolled intersection, yield to the vehicle approaching from the right.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2188s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-47",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection controlled by a yield sign. Another vehicle approaches the same intersection from a different road controlled by a stop sign. Both vehicles arrive at the same time. What must you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed first because a yield sign gives you priority over a stop sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop completely and proceed only when the intersection is clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed with caution, but give way to any vehicle already in or approaching the intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "At a yield sign, give way to vehicles already in or approaching the intersection.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2224s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-48",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following combinations of flashing lights correctly identifies a vehicle that you are legally required to yield to immediately on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Amber flashing lights on a vehicle travelling slowly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Blue flashing lights on a private security vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Red or blue flashing lights on an authorised emergency vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Yield to authorised emergency vehicles with red (or blue) flashing lights.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2282s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-49",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this combination road sign require a driver to do?",
+   "image": "images/appsworld/5vkMZsr50Bg-2320.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop only if pedestrians are already crossing the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and proceed if pedestrians are waiting on the sidewalk.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Give right of way to pedestrians who are on or about to enter the roadway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Yield to pedestrians sign: give right of way to pedestrians on or about to enter the road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2319s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-50",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements regarding parking near a pedestrian crossing is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may park within 5 metres of a pedestrian crossing if no pedestrians are present.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may park near a pedestrian crossing provided your hazard lights are switched on.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Do not park within 9 metres of a pedestrian crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Do not park within 9 m of a pedestrian crossing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2360s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-51",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this combination road sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-2402.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may not exceed 50 km/h for the next 6 km.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The recommended speed is 50 km/h for the next 6 km.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive at a minimum of 50 km/h for the next 6 km.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Blue minimum-speed sign with a 6 km plate: drive at least 50 km/h for the next 6 km.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2401s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-52",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to overtake another vehicle when approaching a blind bend on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No, overtaking is prohibited when approaching a blind bend.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, if you can briefly see oncoming traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, if the road markings allow overtaking.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Never overtake when approaching a blind bend.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2462s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-53",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a temporary “Tunnel ahead” warning sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-2506.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A permanent tunnel is located ahead on the route.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road surface ahead is permanently enclosed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A temporary or provisional tunnel exists ahead, often due to roadworks or construction.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A yellow (temporary) tunnel warning sign warns of a temporary tunnel, e.g. at road works.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2504s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-54",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red circular road sign with a white horizontal bar across the centre indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No stopping at any time.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Road closed ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No entry for all vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A red circle with a white horizontal bar is the 'No entry' sign.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2545s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-55",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this warning sign. What does this mean?",
+   "image": "images/appsworld/5vkMZsr50Bg-2586.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles taller than 4.42 metres may proceed if they drive carefully.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road ahead has a bridge, tunnel, or obstruction and vehicles taller than 4.42 metres may not pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only heavy vehicles are restricted; light vehicles may ignore the sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Height-limit warning (4.42 m): vehicles taller than shown may not pass.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2584s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-56",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following rules must be obeyed when refueling a vehicle at a petrol station?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The engine may be left running if the handbrake is applied.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The engine may be left running if refueling is done quickly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The engine of a vehicle should not be left running while petrol is being pumped into the fuel tank.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The engine may not run while fuel is being pumped into the tank.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2646s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-57",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-2691.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "U-turns are prohibited at all times.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "U-turns are allowed only during daytime hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to perform a U-turn during night-time.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "No U-turn with a night-time plate: U-turns are prohibited at night only.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2690s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-58",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following situations legally requires a driver to stop immediately, even if no road sign or traffic signal is present?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When a pedestrian is waiting to cross at an uncontrolled intersection.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When a vehicle behind you flashes its headlights repeatedly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When instructed to do so by a traffic officer or authorised person.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You must stop when instructed by a traffic officer or authorised person.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2734s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-59",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this temporary road sign indicate?",
+   "image": "images/appsworld/5vkMZsr50Bg-2778.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The recommended speed for all lanes is shown temporarily.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles in all lanes must maintain the indicated speed at all times.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The right-hand lane has a temporary minimum speed limit.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Temporary sign showing a minimum speed for the right-hand lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2777s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-60",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following actions is not permitted when your vehicle has broken down ona public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Switching on your hazard lights immediately.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Placing a warning triangle at the prescribed distance behind the vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leaving the vehicle unattended in a position that obstructs traffic when it could be moved.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Do not leave a broken-down vehicle where it obstructs traffic if it can be moved.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2817s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-61",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control is used to indicate to other road users that you intend on changing lanes?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. B is the indicator lever.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2857s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-62",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "In order to make your vehicle move, which controls would you need to use?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A, B, D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "D, F, C, B",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "C, D, E, F, G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. Pulling away uses the gear lever (C), parking brake (D), clutch (E), brake (F) and accelerator (G).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2886s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-63",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control would you use to turn your vehicle?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "G",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "F",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. A is the steering wheel.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2917s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-64",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which controls would you use to change from 2nd to 3rd gear?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E, G",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "E, A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "C, E",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. Changing gear uses the clutch (E) and gear lever (C).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2939s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-65",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control prevents your vehicle from rolling once parked?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. D is the parking (hand) brake.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2961s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-66",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control would increase the speed of your vehicle?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. G is the accelerator.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=2981s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-67",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control would decrease the speed of your vehicle?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. F is the brake pedal.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=3000s"
+  },
+  {
+   "id": "aw-5vkMZsr50Bg-68",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which two controls would you use during an emergency stop?",
+   "image": "images/appsworld/5vkMZsr50Bg-2858.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "F, G",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "C, D",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "E, F",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking brake, E clutch, F brake, G accelerator. In an emergency stop use the brake (F) and clutch (E).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5vkMZsr50Bg&t=3020s"
+  }
+ ]
+}

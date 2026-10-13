@@ -1,0 +1,381 @@
+{
+ "batch": "aw-nlQjqmrWK8w",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:11:24+02:00",
+ "questions": [
+  {
+   "id": "aw-nlQjqmrWK8w-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach a section of the road where a flagman is displaying the signal shown on the left. Which of the following statements correctly describes your legal obligation?",
+   "image": "images/appsworld/nlQjqmrWK8w-8.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must stop your vehicle, but you may proceed with caution once you can clearly see that the roadway ahead is free of livestock or road works.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must stop, and you shall remain stationary until the proceed flag signal is explicitly displayed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must slow down significantly and stop only if oncoming traffic or crossing animals block your path.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must stop, but if the flagman lowers the red flag or walks away from the road, you may proceed immediately.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The flagman's stop signal (red flag held out) means you must stop and stay stopped until the proceed signal is given.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=7s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver loads a vehicle so that the load projects beyond the rear of the vehicle. What is the maximum permitted rear projection before the load becomes illegal?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1.25 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1.8 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "2 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A load may not project more than 1.8 m beyond the rear of the vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=100s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a heavy vehicle down a steep mountain pass and notice the alternating red and white chequered pattern painted on the road surface ahead. Which statement correctly identifies the purpose and legal rule regarding this marking?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It marks a compulsory stopping zone where all heavy vehicles must pull over to test their brake temperature before proceeding.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It indicates an arrestor bed ahead, which is a dedicated overrun area designed to safely stop runaway vehicles with brake failure.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It indicates a high-friction deceleration zone meant for normal traffic to slow down rapidly before a sharp bend.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It is a decorative warning marking to indicate that a standard runaway escape road is currently closed for maintenance.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Red and white chequered road markings indicate an arrestor bed (escape road) for runaway vehicles with brake failure.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=141s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A goods vehicle has a GVM exceeding 10 000 kg. Which statement is correct regarding yellow reflective material?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is only required on the rear of the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is compulsory on the sides and rear of the vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is only required if the vehicle operates at night",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It is optional if yellow retro-reflectors are fitted",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Goods vehicles with a GVM over 10 000 kg must have yellow retro-reflective material on the sides and rear.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=222s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a single-lane road and encounter the sign shown below. Which statement correctly describes the road condition ahead and your legal driving position?",
+   "image": "images/appsworld/nlQjqmrWK8w-275.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "An additional lane is opening up immediately on your right, and you must move into it if you wish to maintain your current speed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road will soon widen to include an additional lane on the left, and you are legally required to keep to the far-left lane unless you are overtaking.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A sharp off-ramp or exit lane is splitting to the left, which can only be used by heavy slow-moving commercial vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The road ahead becomes a dual-carriageway motorway, and the left-hand lane is reserved exclusively for traffic entering from an upcoming slipway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This sign shows an additional lane being added on the left; keep left unless overtaking.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=274s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor car's interior rear-view mirror is completely obstructed by cargo. Which arrangement is legally acceptable?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Remove all mirrors because the cargo blocks visibility anyway",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Keep only the interior mirror fitted",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Fit an additional exterior mirror on the opposite side and omit the interior mirror",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Drive only during daylight hours",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "If the interior mirror is obstructed, an additional exterior mirror must be fitted on the opposite side (so mirrors are on both sides).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=376s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road where this sign is displayed. As night falls and darkness sets in, which rule applies to your maximum speed limit if no other speed limit signs are present?",
+   "image": "images/appsworld/nlQjqmrWK8w-426.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The limit remains 120 km/h because a daytime limit automatically extends into the night unless a night-time speed sign is explicitly shown.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may determine your own safe speed based on visibility, as the 120 km/h restriction is legally cancelled after sunset.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The limit reverts to the general speed limit of the specific road type you are on (e.g., 60 km/h in an urban area or 100 km/h on a rural road).",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The limit drops by exactly 20 km/h automatically as a standard safety margin required by the National Road Traffic Act.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A speed limit shown as a daytime limit applies only during the day; at night the general speed limit for that type of road applies unless another sign says otherwise.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=425s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum turning radius permitted for a motor vehicle used on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "11.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "13.1 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "14.5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The maximum turning radius of a motor vehicle is 13.1 m.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=547s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you encounter a flagman performing the actions illustrated, what is the exact legal requirement dictated to you as a road user?",
+   "image": "images/appsworld/nlQjqmrWK8w-586.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must come to a complete stop and wait for the flagman to drop the red flag entirely before moving forward.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are being informed that the road works or hazards ahead are officially clear, and you may resume normal driving speeds.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are required to reduce your speed, proceed slowly, and maintain a high state of alertness for potential hazards.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must immediately change lanes or pull onto the shoulder of the road to allow oncoming construction vehicles to pass.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The flagman's slow-down signal means reduce speed, proceed slowly and be alert for hazards.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=585s"
+  },
+  {
+   "id": "aw-nlQjqmrWK8w-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement regarding number plates is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A motor car only requires a rear number plate",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A trailer requires both front and rear number plates",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A motorcycle requires a front and rear number plate",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A motorcycle requires only a rear number plate",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Motorcycles (and trailers) carry only a rear number plate; motor cars need front and rear plates.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nlQjqmrWK8w&t=659s"
+  }
+ ]
+}

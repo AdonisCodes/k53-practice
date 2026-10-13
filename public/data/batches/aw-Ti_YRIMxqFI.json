@@ -1,0 +1,649 @@
+{
+ "batch": "aw-Ti_YRIMxqFI",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:39:19+02:00",
+ "questions": [
+  {
+   "id": "aw-Ti_YRIMxqFI-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/Ti_YRIMxqFI-60.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a stop sign: your vehicle has to come to a complete stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=23s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign forbid you from doing?",
+   "image": "images/appsworld/Ti_YRIMxqFI-110.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Revving your vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Using your radio",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Using your hooter",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The sign shows a horn (hooter) with a red line through it: you may not use your hooter.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=72s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign forbid you from doing?",
+   "image": "images/appsworld/Ti_YRIMxqFI-170.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Driving a black vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Driving your vehicle here between 06:30 to 09:00",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parking your vehicle in this area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The motor vehicle prohibition sign has a plate below it with the times 06:30-09:00, so the prohibition applies during that period.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=125s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign tell you?",
+   "image": "images/appsworld/Ti_YRIMxqFI-220.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a one-way roadway ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must turn right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only ambulances can turn left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This rectangular sign with a red background and a white arrow indicates a one-way roadway in the direction of the arrow.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=189s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/Ti_YRIMxqFI-255.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a stop street ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must keep left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A blue circular sign with a white arrow pointing to the left means you must keep left.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=234s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which type of vehicles are allowed on this road?",
+   "image": "images/appsworld/Ti_YRIMxqFI-300.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motor Vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sedans",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hatchbacks",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The blue sign with a motor vehicle symbol means the road is for motor vehicles only; it does not refer specifically to sedans or hatchbacks.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=268s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn us of?",
+   "image": "images/appsworld/Ti_YRIMxqFI-340.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sand dunes ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The beach ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A dip in the road that is flooded",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The triangular warning sign shows a dip with water in it: there is a dip in the road ahead that may be flooded.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=310s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-375.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motor vehicles are prohibited beyond this point",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You cannot park in this area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A and B",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A motor vehicle symbol in a red circle with a red line through it means motor vehicles are prohibited beyond this point.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=350s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-430.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only 2 vehicles are allowed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Bikes are prohibited in this area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles with an axle mass of more than 2 tons are prohibited",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The sign shows an axle with '2 t': vehicles with an axle mass of more than 2 tons may not go past the sign.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=387s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-470.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "All pedestrians have right of way",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Don't stop your vehicle for pedestrians waiting to cross",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This diamond-shaped pedestrian priority sign means pedestrians have the right of way: stop and let them cross.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=442s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-525.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only 50 cars are allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The maximum speed limit is 50 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The minimum speed limit is 50 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A blue circular sign with the speed in white is a minimum speed limit sign. A maximum speed limit sign has a red border, white background and black numbers.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=485s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-575.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only heavy motor vehicles are allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only motorbikes are allowed here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only bicycles may ride here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A blue circular sign with a bicycle (pedal cycle) means only bicycles may ride here.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=540s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What does this sign prohibit truck drivers from doing?",
+   "image": "images/appsworld/Ti_YRIMxqFI-605.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtaking",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Racing",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stopping",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Two trucks in a red circle with a red line through one of them: truck drivers may not overtake.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=586s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This is a...",
+   "image": "images/appsworld/Ti_YRIMxqFI-640.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No speeding zone",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No stopping zone",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No smoking zone",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A capital S in a red circle with a red line through it means no stopping.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=616s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are prohibited in this area?",
+   "image": "images/appsworld/Ti_YRIMxqFI-690.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Trucks carrying diamonds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Trucks carrying juice",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles carrying hazardous substances",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The rear view of a truck with a diamond symbol refers to vehicles carrying hazardous substances; with the red line through it, they are prohibited.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=653s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-725.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Be aware of slow-moving heavy vehicles ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No trucks are allowed ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must stop ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This triangular warning sign warns of slow-moving heavy vehicles ahead, typically going down a slope.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=703s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/Ti_YRIMxqFI-755.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns you of a tunnel ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It warns you of a car park ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cars overtaking ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This triangular warning sign shows a tunnel ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=738s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/Ti_YRIMxqFI-810.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must drive at night",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to drive below 100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to drive over 100 km/h at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The maximum speed limit sign with a night plate (stars and moon) below it means you may not drive faster than 100 km/h at night.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=766s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit?",
+   "image": "images/appsworld/Ti_YRIMxqFI-845.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Abnormal Vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Fast Vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light motor vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The letters A and V stand for abnormal vehicles; with the red line through them, abnormal vehicles are prohibited.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=826s"
+  },
+  {
+   "id": "aw-Ti_YRIMxqFI-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit?",
+   "image": "images/appsworld/Ti_YRIMxqFI-880.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Spinning",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "U-turns",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Right turns",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The arrow that goes forward and turns back is a U-turn; this sign prohibits U-turns.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ti_YRIMxqFI&t=857s"
+  }
+ ]
+}

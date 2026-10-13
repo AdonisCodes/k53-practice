@@ -1,0 +1,377 @@
+{
+ "batch": "aw-XHFWvx_S2Hg",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:01:09+02:00",
+ "questions": [
+  {
+   "id": "aw-XHFWvx_S2Hg-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which of the following road signs warn that you are approaching an intersection where you have the right of way?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/XHFWvx_S2Hg-8-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/XHFWvx_S2Hg-8-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/XHFWvx_S2Hg-8-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/XHFWvx_S2Hg-8-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "On a crossroad warning sign the thicker line shows the road that has priority; the correct sign has the thicker line in your direction of travel. Still approach with caution and be ready to stop if cross traffic does not yield.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=7s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor car is carrying goods on its roof rack. What is the maximum height that the load may extend above the highest point of the roof?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "One-third of the height of the motor car measured from ground level",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "One-half of the height of the motor car measured from ground level",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1 metre above the roof",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "There is no restriction provided the load is secured",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Goods on the roof of a motor car may not extend above the highest point of the roof by more than half the height of the car measured from ground level.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=67s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver sees a drift warning sign and an \"Occasional Flooding supplementary plate. The road appears dry and several vehicles have recently crossed the area. Which assumption would be the LEAST safe?",
+   "image": "images/appsworld/XHFWvx_S2Hg-134.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Water levels can change quickly after rainfall elsewhere in the area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The warning remains relevant even when the road is dry",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Conditions should still be assessed before crossing",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The absence of visible water means the flooding hazard no longer exists",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "A drift with an 'Occasional Flooding' plate warns that flooding can occur intermittently; a dry surface now does not remove the risk, so D is the least safe assumption.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=133s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A load projects 500 mm beyond the rear of a vehicle during daylight hours. What additional requirement applies?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A red flag measuring approximately 300 mm x 300 mm must be displayed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A white flag must be displayed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No marking is required unless the projection exceeds 1 metre",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Hazard lights must be activated",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A load projecting more than 300 mm beyond the rear must be marked by day with a red flag of about 300 mm x 300 mm.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=218s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver of a private motor vehicle notices a blue sign indicating parking for tour buses. The parking area is completely empty. What is the correct interpretation?",
+   "image": "images/appsworld/XHFWvx_S2Hg-291.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Any vehicle may park there if no tour buses are present",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only tour buses may use the parking area, regardless of whether it is occupied",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Private vehicles may park there for up to 15 minutes",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The parking area may be used by any vehicle outside business hours",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This blue reservation sign reserves the parking area exclusively for tour buses, even when it is empty.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=290s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles is required by law to carry at least one double-sided emergency warning triangle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorcycles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "All motor vehicles registered for the first time on or after 1 July 2006 (including motor cars)",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only minibuses and heavy goods vehicles",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Only emergency vehicles like ambulances",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Motor vehicles (including cars) first registered on or after 1 July 2006 must carry at least one emergency warning triangle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=357s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver sees a warning sign showing an aircraft. Which interpretation is correct?",
+   "image": "images/appsworld/XHFWvx_S2Hg-411.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Aircraft have right of way over all road traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road ahead leads directly onto a runway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Low-flying aircraft may distract drivers or create unexpected noise nearby",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Vehicles transporting aviation fuel must stop ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The aircraft warning sign warns of low-flying aircraft that may distract drivers or cause sudden noise.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=410s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A goods vehicle is carrying standing passengers. What is the minimum height of the enclosure above the surface on which those passengers are standing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "350 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "750 mm",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "900 mm",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "When standing passengers are carried on a goods vehicle, the enclosure must extend at least 900 mm above the surface on which they stand.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=461s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A warning sign indicates that the roadway ahead narrows from both sides. What should drivers expect?",
+   "image": "images/appsworld/XHFWvx_S2Hg-508.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The number of lanes automatically decreases",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduced lateral clearance between vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A compulsory stop ahead",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Traffic will merge into a one-way roadway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A road-narrows-from-both-sides warning means the roadway width decreases, so there is less lateral clearance between vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=507s"
+  },
+  {
+   "id": "aw-XHFWvx_S2Hg-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver loads goods that project beyond the front of a light motor vehicle. What is the maximum permitted projection beyond the front end of the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "150 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "300 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "450 mm",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "600 mm",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Goods may not project more than 300 mm beyond the front end of a light or heavy motor vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=XHFWvx_S2Hg&t=564s"
+  }
+ ]
+}

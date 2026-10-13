@@ -1,0 +1,358 @@
+{
+ "batch": "aw-Cy1gbJFsTbc",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:40:14+02:00",
+ "questions": [
+  {
+   "id": "aw-Cy1gbJFsTbc-01",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to turn into a driveway on the left?",
+   "image": "images/appsworld/Cy1gbJFsTbc-93.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "In this diagram A is the steering wheel, which you use to turn into a driveway.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=57s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-02",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is used to warn other road users of your intention to turn right?",
+   "image": "images/appsworld/Cy1gbJFsTbc-152.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "In this diagram A is the indicator lever, which warns other road users of your intention to turn.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=119s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-03",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to change gears from 1st to 2nd?",
+   "image": "images/appsworld/Cy1gbJFsTbc-196.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "In this diagram C is the gear lever, which is used to select gears.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=173s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-04",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to engage and disengage gears?",
+   "image": "images/appsworld/Cy1gbJFsTbc-244.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "In this diagram B is the clutch pedal (the pedal furthest to the left), which engages and disengages gears.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=221s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-05",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to slow your vehicle down while your car is moving?",
+   "image": "images/appsworld/Cy1gbJFsTbc-274.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "In this diagram C is the brake pedal (the pedal in the centre), which slows the vehicle down.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=256s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-06",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to increase the speed of your vehicle?",
+   "image": "images/appsworld/Cy1gbJFsTbc-310.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "In this diagram D is the accelerator (the pedal furthest to the right), which increases the speed of the vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=288s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-07",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to prevent your parked vehicle from rolling?",
+   "image": "images/appsworld/Cy1gbJFsTbc-372.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "In this diagram C is the handbrake, which prevents a parked vehicle from rolling.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=353s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-08",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following controls would you use to make a sharp turn to the right?",
+   "image": "images/appsworld/Cy1gbJFsTbc-493.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A, B, C, E, F, G",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A, E, C, D",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "D, E, F, G",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A, B, E, F, G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "You need the steering wheel (A), indicator (B), gear lever (C) and clutch (E) to drop a gear, the brake (F) to slow down and the accelerator (G) after the turn. You do not use the handbrake (D).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=380s"
+  },
+  {
+   "id": "aw-Cy1gbJFsTbc-09",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control is used to avoid stalling your vehicle before you come to a complete stop?",
+   "image": "images/appsworld/Cy1gbJFsTbc-544.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "E",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "In this diagram E is the clutch pedal. Pressing the clutch disengages the gear so the engine does not stall when you come to a complete stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Cy1gbJFsTbc&t=496s"
+  }
+ ]
+}

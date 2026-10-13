@@ -1,0 +1,199 @@
+{
+ "batch": "aw-kJcTrhb8rtw",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:07:52+02:00",
+ "questions": [
+  {
+   "id": "aw-kJcTrhb8rtw-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign prohibits overtaking?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/kJcTrhb8rtw-3-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/kJcTrhb8rtw-3-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/kJcTrhb8rtw-3-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a no overtaking (prohibition) sign, you are not allowed to pass other vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=kJcTrhb8rtw&t=0s"
+  },
+  {
+   "id": "aw-kJcTrhb8rtw-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of elephants ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/kJcTrhb8rtw-20-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/kJcTrhb8rtw-20-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/kJcTrhb8rtw-20-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a warning sign, it shows elephants may be crossing, so slow down.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=kJcTrhb8rtw&t=17s"
+  },
+  {
+   "id": "aw-kJcTrhb8rtw-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of wild animals ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/kJcTrhb8rtw-36-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/kJcTrhb8rtw-36-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/kJcTrhb8rtw-36-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a warning sign, it shows wild animals may cross the road, so be alert.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=kJcTrhb8rtw&t=33s"
+  },
+  {
+   "id": "aw-kJcTrhb8rtw-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign indicates a length limit?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/kJcTrhb8rtw-53-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/kJcTrhb8rtw-53-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/kJcTrhb8rtw-53-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a length limit (prohibition) sign, vehicles longer than the limit are not allowed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=kJcTrhb8rtw&t=50s"
+  },
+  {
+   "id": "aw-kJcTrhb8rtw-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign allows only buses and midi buses?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/kJcTrhb8rtw-69-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/kJcTrhb8rtw-69-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/kJcTrhb8rtw-69-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a command sign, only buses and midi buses may use this lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=kJcTrhb8rtw&t=66s"
+  },
+  {
+   "id": "aw-kJcTrhb8rtw-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign instructs you to proceed right only?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/kJcTrhb8rtw-85-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/kJcTrhb8rtw-85-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/kJcTrhb8rtw-85-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a proceed right only sign, you must turn right and cannot go straight or left.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=kJcTrhb8rtw&t=82s"
+  }
+ ]
+}

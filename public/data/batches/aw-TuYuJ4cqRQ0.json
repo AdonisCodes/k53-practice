@@ -1,0 +1,327 @@
+{
+ "batch": "aw-TuYuJ4cqRQ0",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:39:04+02:00",
+ "questions": [
+  {
+   "id": "aw-TuYuJ4cqRQ0-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a freeway displaying a Minimum Speed (R101) command sign showing 50. Heavy rain suddenly reduces visibility and road traction significantly. Traffic in front of you slows down to 40 km/h due to the hazardous weather conditions. What is your correct legal action?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-8.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must maintain a speed of at least 50 km/h at all times while on this stretch of road, regardless of weather conditions, because a command sign carries mandatory authority.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are legally permitted to drive below 50 km/h when weather, traffic, or road conditions make driving at or above the minimum speed unsafe or impossible.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must activate your hazard lights and continue driving at 50 km/h while overtaking the slower traffic in the left-hand lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=7s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a light motor vehicle (Gross Vehicle Mass under 3,500 kg) on a multi-lane road and encounter a Vehicles Exceeding Mass Only (10t) command sign pointing above or adjacent to the lane you are currently in. Which statement correctly states your legal duty?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-150.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must immediately vacate that lane or road section, as it is designated strictly for goods/heavy vehicles whose Gross Vehicle Mass (GVM) exceeds 10 tonnes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may continue driving in that lane as long as you do not impede heavier 10t trucks that are trying to overtake you.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are required to maintain a minimum speed of 80 km/h in that lane to keep up with heavy vehicle freight traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=149s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving down a road and notice a blue circular command sign displaying a white arrow pointing diagonally downward to the left mounted on a physical traffic island in the center of the road. What is the legal requirement regarding how you navigate past this island?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-237.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are legally permitted to pass to either the left or the right side of the traffic island, provided you give right-of-way to any vehicles already on your right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must pass to the left side of the traffic island or obstruction only; passing on the right side is a direct violation of command rules.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only required to pass on the left if you intend to make a left turn at the next intersection; straight-through traffic may pass on the right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=236s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving in the left-hand lane of an approach to an intersection marked with a blue circular command sign displaying a 90-degree white arrow pointing left. There are no other road signs or lane arrows present. What is your legal duty as you enter the intersection?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-330.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed straight through the intersection if the traffic light is green and you are not obstructing vehicles behind you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must bring your vehicle to a complete stop, indicate left, and yield to all cross-traffic before completing the turn.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are legally mandated to turn left at the intersection; traveling straight ahead or turning right from that lane is strictly prohibited.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=329s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching an intersection and encounter a blue circular command sign displaying a curved arrow pointing to the left. What is your strict legal duty when navigating this intersection?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-412.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are legally required to turn left immediately at or before the sign/intersection; proceeding straight through or turning right is strictly prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must turn left only if there is traffic approaching from behind you; otherwise, you may proceed straight through if the lane is clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may turn left or proceed straight ahead, but you are prohibited from making a U-turn or turning right into opposing lanes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=411s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving down a street and come across a blue circular command sign showing the symbol of a pedestrian. What does this sign legally mandate regarding vehicle access and road usage?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-489.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive through the area at a reduced speed of no more than 20 km/h, provided you yield to pedestrians on marked zebra crossings.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The designated road, lane, or footway is reserved strictly for pedestrians, and all motor vehicles, motorcycles, and pedal cyclists are legally prohibited from entering.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only delivery motor vehicles are permitted to enter during daylight hours, but all other motor vehicles must detour.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=488s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor car and notice a blue circular command sign showing a white bicycle symbol posted at the entrance of a dedicated lane. Which statement accurately describes the legal rule for this lane?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-562.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The designated lane or carriageway is reserved exclusively for pedal cycles; all motor vehicles, motorcycles, and pedestrians are strictly prohibited from using it.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motor vehicles may drive in the lane during peak traffic hours, provided they yield right-of-way to any cyclists present.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles under 125cc may use the lane, but larger vehicles and motor cars must stay in the main traffic lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=561s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor vehicle near a recreational park and spot a blue circular command sign displaying symbols of both a pedal cycle and a pedestrian side-by-side. What is the legal requirement for this designated pathway?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-642.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorcyclists under 125cc may share the path with cyclists and pedestrians, but motor cars are prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motor vehicles may enter the pathway at speeds below 15 km/h to park, provided they yield to both cyclists and pedestrians.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The pathway or lane is strictly reserved for the exclusive use of pedal cyclists and pedestrians; all motor vehicles are legally prohibited.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=641s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You notice a blue circular command sign with a vertical line dividing a pedestrian symbol and a pedal cycle symbol. What does the vertical dividing line on this sign legally dictate?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-712.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrians and cyclists may mix freely across the whole width of the path, provided cyclists ride under 15 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The path is segregated; pedestrians must use only the designated side of the pathway shown on their side of the dividing line, and cyclists must stay on their specified side.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor vehicles and motorcycles may use the pedestrian side of the divided path during off-peak hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=711s"
+  },
+  {
+   "id": "aw-TuYuJ4cqRQ0-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor car along a multi-lane roadway and notice a blue circular command sign displaying a white motorcycle symbol mounted above the far-left lane. Which statement correctly outlines the legal restriction for this lane?",
+   "image": "images/appsworld/TuYuJ4cqRQ0-802.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only light motor vehicles (under 3,500 kg GVM) and motorcycles are allowed to use this lane; heavy goods vehicles are banned.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcyclists are permitted to use this lane exclusively during peak traffic hours, but motor cars may use it to overtake.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The lane or roadway is strictly reserved for the exclusive use of motorcycles; all motor cars, trucks, and non-motorized road users are legally prohibited from using it.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=TuYuJ4cqRQ0&t=801s"
+  }
+ ]
+}

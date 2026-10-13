@@ -1,0 +1,587 @@
+{
+  "batch": "seed-001",
+  "source": "ai",
+  "addedAt": "2026-10-07T15:00:00+02:00",
+  "questions": [
+    {
+      "id": "ai-0001",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "Unless a road traffic sign indicates otherwise, on which side of the roadway must you drive in South Africa?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "The left-hand side", "image": null },
+        { "id": "B", "text": "The right-hand side", "image": null },
+        { "id": "C", "text": "Either side if the road is clear", "image": null },
+        { "id": "D", "text": "The centre of the roadway", "image": null }
+      ],
+      "answer": ["A"],
+      "explanation": "South Africa drives on the left. Keep left except when overtaking or when a sign or marking directs otherwise.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — position on the roadway; NRTA rules of the road"
+    },
+    {
+      "id": "ai-0002",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "Unless a sign shows otherwise, what is the general speed limit on a public road in an urban area?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "40 km/h", "image": null },
+        { "id": "B", "text": "60 km/h", "image": null },
+        { "id": "C", "text": "80 km/h", "image": null },
+        { "id": "D", "text": "100 km/h", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Regulation 293 sets 60 km/h as the general urban-area limit unless a traffic sign indicates a different limit.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 293"
+    },
+    {
+      "id": "ai-0003",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "Unless a sign shows otherwise, what is the general speed limit on a public road outside an urban area that is not a freeway?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "60 km/h", "image": null },
+        { "id": "B", "text": "80 km/h", "image": null },
+        { "id": "C", "text": "100 km/h", "image": null },
+        { "id": "D", "text": "120 km/h", "image": null }
+      ],
+      "answer": ["C"],
+      "explanation": "Outside urban areas the general limit is 100 km/h, except on freeways (generally 120 km/h) and except where a sign or a lower class-of-vehicle limit applies.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 293"
+    },
+    {
+      "id": "ai-0004",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2"],
+      "type": "single",
+      "question": "Unless a sign shows otherwise, what is the general speed limit on a freeway for a light motor vehicle?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "80 km/h", "image": null },
+        { "id": "B", "text": "100 km/h", "image": null },
+        { "id": "C", "text": "120 km/h", "image": null },
+        { "id": "D", "text": "140 km/h", "image": null }
+      ],
+      "answer": ["C"],
+      "explanation": "The general freeway limit is 120 km/h unless a sign indicates otherwise. Some heavier vehicles have a lower statutory maximum.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 293"
+    },
+    {
+      "id": "ai-0005",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "true-false",
+      "question": "In good conditions the K53 following-distance method is to stay at least two seconds behind the vehicle in front.",
+      "image": null,
+      "options": [
+        { "id": "T", "text": "True", "image": null },
+        { "id": "F", "text": "False", "image": null }
+      ],
+      "answer": ["T"],
+      "explanation": "K53 teaches the two-second rule in good weather and traffic. Increase the gap in rain, at night, on gravel, or when you are towing or driving a heavy vehicle.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — following distance"
+    },
+    {
+      "id": "ai-0006",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "For an ordinary driver (not a professional driving permit holder), the legal blood-alcohol limit is:",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "0,00 g per 100 ml", "image": null },
+        { "id": "B", "text": "0,02 g per 100 ml", "image": null },
+        { "id": "C", "text": "0,05 g per 100 ml", "image": null },
+        { "id": "D", "text": "0,08 g per 100 ml", "image": null }
+      ],
+      "answer": ["C"],
+      "explanation": "NRTA section 65 sets 0,05 grams of alcohol per 100 millilitres of blood for ordinary drivers (breath equivalent 0,24 mg per 1 000 ml).",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Act 93 of 1996, s. 65"
+    },
+    {
+      "id": "ai-0007",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["2", "3"],
+      "type": "single",
+      "question": "For a driver who holds a professional driving permit, the legal blood-alcohol limit is:",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "0,02 g per 100 ml", "image": null },
+        { "id": "B", "text": "0,05 g per 100 ml", "image": null },
+        { "id": "C", "text": "0,08 g per 100 ml", "image": null },
+        { "id": "D", "text": "The same as for ordinary drivers", "image": null }
+      ],
+      "answer": ["A"],
+      "explanation": "Professional driving permit holders are held to the stricter 0,02 g/100 ml blood-alcohol limit (breath equivalent 0,10 mg per 1 000 ml).",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Act 93 of 1996, s. 65"
+    },
+    {
+      "id": "ai-0008",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "What must you do at this sign?",
+      "image": "images/ai/stop.svg",
+      "options": [
+        { "id": "A", "text": "Slow down and proceed if the way looks clear, without stopping", "image": null },
+        { "id": "B", "text": "Come to a complete stop, then proceed only when it is safe", "image": null },
+        { "id": "C", "text": "Stop only if another vehicle is approaching", "image": null },
+        { "id": "D", "text": "Hoot and continue", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "A stop sign (R1) requires a complete stop at the stop line, or before the intersecting roadway if there is no line. Move off only when it is safe.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "SARTSM regulatory sign R1; K53 — stop sign"
+    },
+    {
+      "id": "ai-0009",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "image-select",
+      "question": "Which of these is a stop sign?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Yield", "image": "images/ai/yield.svg" },
+        { "id": "B", "text": "Stop", "image": "images/ai/stop.svg" },
+        { "id": "C", "text": "No entry", "image": "images/ai/no-entry.svg" },
+        { "id": "D", "text": "Speed limit 60", "image": "images/ai/speed60.svg" }
+      ],
+      "answer": ["B"],
+      "explanation": "The stop sign is the red octagon with the word STOP. Yield is the inverted red triangle; no entry is the red disk with a white bar.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "SARTSM — regulatory signs R1, R2, R3"
+    },
+    {
+      "id": "ai-0010",
+      "source": "ai",
+      "category": "controls",
+      "licenceCodes": ["2", "3"],
+      "type": "hotspot",
+      "question": "On a typical manual light motor vehicle, click the service-brake pedal.",
+      "image": "images/ai/pedals.svg",
+      "options": [],
+      "answer": [{ "x": 0.5, "y": 0.54, "r": 0.12 }],
+      "explanation": "Left foot operates the clutch (left pedal). Right foot operates the service brake (centre) and the accelerator (right). Do not rest your foot on the clutch while driving.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — vehicle controls (light motor vehicle)"
+    },
+    {
+      "id": "ai-0011",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "matching",
+      "question": "Match each sign to what it requires you to do.",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Stop sign (red octagon)", "image": null },
+        { "id": "B", "text": "Yield sign (inverted red triangle)", "image": null },
+        { "id": "C", "text": "Speed limit sign (red-bordered circle with a number)", "image": null },
+        { "id": "1", "text": "Come to a complete stop, then go only when safe", "image": null },
+        { "id": "2", "text": "Give way to traffic that has right of way; stop if you must", "image": null },
+        { "id": "3", "text": "Do not exceed the speed shown, in kilometres per hour", "image": null }
+      ],
+      "answer": ["A:1", "B:2", "C:3"],
+      "explanation": "Regulatory signs tell you what you must or must not do. Stop, yield and speed limit are among the most common.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "SARTSM regulatory signs; K53 road signs"
+    },
+    {
+      "id": "ai-0012",
+      "source": "ai",
+      "category": "controls",
+      "licenceCodes": ["2", "3"],
+      "type": "ordering",
+      "question": "Put the K53 moving-off sequence in the correct order.",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Check mirrors", "image": null },
+        { "id": "B", "text": "Signal", "image": null },
+        { "id": "C", "text": "Check the blind spot", "image": null },
+        { "id": "D", "text": "Move off when it is safe", "image": null }
+      ],
+      "answer": ["A", "B", "C", "D"],
+      "explanation": "K53 uses a mirror–signal–blind-spot–manoeuvre pattern so you never move into space you have not observed.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — moving off"
+    },
+    {
+      "id": "ai-0013",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "fill-blank",
+      "question": "Unless a sign indicates otherwise, the general speed limit in an urban area is ____ km/h.",
+      "image": null,
+      "options": [{ "id": "A", "text": "60", "image": null }],
+      "answer": ["A"],
+      "explanation": "Urban general limit: 60 km/h. Rural (non-freeway): 100 km/h. Freeway: 120 km/h. Always obey a posted sign if there is one.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 293"
+    },
+    {
+      "id": "ai-0014",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["2"],
+      "type": "multi",
+      "question": "Which of the following are true of a person driving a light motor vehicle on a learner's licence? Select all that apply.",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Red letter L plates must be displayed on the front and rear of the vehicle", "image": null },
+        { "id": "B", "text": "A licensed driver for that class of vehicle must sit beside the learner", "image": null },
+        { "id": "C", "text": "The learner may carry passengers for reward", "image": null },
+        { "id": "D", "text": "The learner may not drive on a freeway at all", "image": null }
+      ],
+      "answer": ["A", "B"],
+      "explanation": "Learners must display L plates and be accompanied in a light motor vehicle. They may not drive for reward. Freeway driving is allowed if the accompanying driver is present and the vehicle is permitted on the freeway.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "NRTA learner's licence conditions; K53 — learner restrictions"
+    },
+    {
+      "id": "ai-0015",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "When you enter a traffic circle (roundabout) in South Africa, you must:",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Force your way in; traffic already in the circle must stop", "image": null },
+        { "id": "B", "text": "Yield to traffic approaching from the right / already in the circle", "image": null },
+        { "id": "C", "text": "Always stop, even if the circle is empty", "image": null },
+        { "id": "D", "text": "Drive clockwise around the island", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Give way to vehicles from the right and to traffic already circulating. Travel clockwise around the island (left-hand traffic).",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — traffic circles; rules of the road"
+    },
+    {
+      "id": "ai-0016",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "You may not park a vehicle within what distance of a pedestrian crossing?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "3 metres", "image": null },
+        { "id": "B", "text": "5 metres", "image": null },
+        { "id": "C", "text": "9 metres", "image": null },
+        { "id": "D", "text": "15 metres", "image": null }
+      ],
+      "answer": ["C"],
+      "explanation": "Regulation 305 prohibits parking within 9 metres of a pedestrian crossing, among other no-parking places.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 305"
+    },
+    {
+      "id": "ai-0017",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "You may not park a vehicle within what distance of an intersection?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "2 metres", "image": null },
+        { "id": "B", "text": "5 metres", "image": null },
+        { "id": "C", "text": "9 metres", "image": null },
+        { "id": "D", "text": "12 metres", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Do not park within 5 metres of an intersection. This keeps sight lines and turning space clear.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 305"
+    },
+    {
+      "id": "ai-0018",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "true-false",
+      "question": "You may cross a solid white barrier line to overtake if no oncoming traffic is visible.",
+      "image": null,
+      "options": [
+        { "id": "T", "text": "True", "image": null },
+        { "id": "F", "text": "False", "image": null }
+      ],
+      "answer": ["F"],
+      "explanation": "A solid barrier line must not be crossed. Overtake only where a broken line on your side permits it, and only when it is safe.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 — road markings; SARTSM barrier lines"
+    },
+    {
+      "id": "ai-0019",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "When must you use your vehicle's headlights?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Only on a freeway at night", "image": null },
+        { "id": "B", "text": "From sunset to sunrise, and at any other time when persons or vehicles are not clearly visible", "image": null },
+        { "id": "C", "text": "Only in rain", "image": null },
+        { "id": "D", "text": "Never in an urban area", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Headlamps are required between sunset and sunrise and whenever visibility is poor (fog, smoke, heavy rain, unlit roads).",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations — lamps and lighting"
+    },
+    {
+      "id": "ai-0020",
+      "source": "ai",
+      "category": "controls",
+      "licenceCodes": ["2", "3"],
+      "type": "single",
+      "question": "On a typical manual light motor vehicle, which foot operates the clutch pedal?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Right foot", "image": null },
+        { "id": "B", "text": "Left foot", "image": null },
+        { "id": "C", "text": "Either foot", "image": null },
+        { "id": "D", "text": "Neither — the clutch is hand-operated", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Clutch: left foot. Service brake and accelerator: right foot. Keep the left foot clear of the clutch except when changing gear or moving off.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — vehicle controls"
+    },
+    {
+      "id": "ai-0021",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "A steady amber (yellow) traffic signal means you must:",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Speed up to beat the red", "image": null },
+        { "id": "B", "text": "Stop before the stop line unless you are so close that stopping suddenly would be unsafe", "image": null },
+        { "id": "C", "text": "Treat it the same as a green light", "image": null },
+        { "id": "D", "text": "Turn only left", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Amber warns that red is next. Stop if you can do so safely. If you are already too close, continue with care — do not accelerate to 'make it'.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 — traffic signals"
+    },
+    {
+      "id": "ai-0022",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "single",
+      "question": "If your vehicle is stationary on the roadway because of a breakdown, a warning triangle must be placed at least how far behind it?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "5 metres", "image": null },
+        { "id": "B", "text": "15 metres", "image": null },
+        { "id": "C", "text": "45 metres", "image": null },
+        { "id": "D", "text": "200 metres", "image": null }
+      ],
+      "answer": ["C"],
+      "explanation": "Place a red emergency warning triangle at least 45 metres behind the vehicle, on the same side of the road, where approaching drivers can see it.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 / NRTR — breakdowns and warning triangles"
+    },
+    {
+      "id": "ai-0023",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "image-select",
+      "question": "Which sign means you must give way (yield) to other traffic?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "No entry", "image": "images/ai/no-entry.svg" },
+        { "id": "B", "text": "Keep left", "image": "images/ai/keep-left.svg" },
+        { "id": "C", "text": "Yield", "image": "images/ai/yield.svg" },
+        { "id": "D", "text": "No overtaking", "image": "images/ai/no-overtaking.svg" }
+      ],
+      "answer": ["C"],
+      "explanation": "Yield is the inverted red triangle with a white centre. Slow down, be ready to stop, and go only when the way is clear.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "SARTSM regulatory sign R2"
+    },
+    {
+      "id": "ai-0024",
+      "source": "ai",
+      "category": "signs",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "hotspot",
+      "question": "Click the stop sign in this road scene.",
+      "image": "images/ai/road-stop-scene.svg",
+      "options": [],
+      "answer": [{ "x": 0.82, "y": 0.35, "r": 0.12 }],
+      "explanation": "The octagonal STOP sign is on the right. The inverted triangle on the left is a yield sign — different instruction, different shape.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "SARTSM — R1 stop and R2 yield"
+    },
+    {
+      "id": "ai-0025",
+      "source": "ai",
+      "category": "controls",
+      "licenceCodes": ["2"],
+      "type": "matching",
+      "question": "Match each control to its job on a manual light motor vehicle.",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Accelerator (right pedal)", "image": null },
+        { "id": "B", "text": "Service brake (centre pedal)", "image": null },
+        { "id": "C", "text": "Parking brake (handbrake)", "image": null },
+        { "id": "1", "text": "Increase or decrease engine power", "image": null },
+        { "id": "2", "text": "Slow or stop the vehicle while moving", "image": null },
+        { "id": "3", "text": "Hold the vehicle stationary when parked or waiting", "image": null }
+      ],
+      "answer": ["A:1", "B:2", "C:3"],
+      "explanation": "Use the foot brake to slow while moving. Apply the parking brake when the vehicle must stay put, then release it as you move off.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 manual — vehicle controls"
+    },
+    {
+      "id": "ai-0026",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "ordering",
+      "question": "An emergency vehicle is approaching from behind with siren and lights on. Put the correct actions in order.",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Check mirrors and be sure of surrounding traffic", "image": null },
+        { "id": "B", "text": "Signal and move as far left as is safe", "image": null },
+        { "id": "C", "text": "Let the emergency vehicle pass", "image": null },
+        { "id": "D", "text": "Resume your position when it is safe", "image": null }
+      ],
+      "answer": ["A", "B", "C", "D"],
+      "explanation": "Give way without creating a new hazard. Do not brake slam in the path of the emergency vehicle, and do not follow it through a red signal.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 — emergency vehicles"
+    },
+    {
+      "id": "ai-0027",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "fill-blank",
+      "question": "The legal minimum tyre tread depth over the complete breadth of the tread is ____ millimetre(s).",
+      "image": null,
+      "options": [{ "id": "A", "text": "1", "image": null }],
+      "answer": ["A"],
+      "explanation": "Pneumatic tyres must have at least 1 mm of tread pattern depth across the full breadth. Bald tyres are illegal and unsafe.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Regulations, reg. 212"
+    },
+    {
+      "id": "ai-0028",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1", "2", "3"],
+      "type": "multi",
+      "question": "You must dip (dim) your headlights when: (select all that apply)",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "You are meeting oncoming traffic", "image": null },
+        { "id": "B", "text": "You are following closely behind another vehicle", "image": null },
+        { "id": "C", "text": "You want to overtake at night on an unlit rural road and need main beam until you are alongside", "image": null },
+        { "id": "D", "text": "A police officer has told you never to use headlights in town", "image": null }
+      ],
+      "answer": ["A", "B"],
+      "explanation": "Dip for oncoming vehicles and when you are behind another vehicle so you do not dazzle that driver. Use main beam only where it does not inconvenience others.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "K53 — use of lights; NRTR lamps"
+    },
+    {
+      "id": "ai-0029",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["2"],
+      "type": "single",
+      "question": "What is the minimum age to obtain a learner's licence for a light motor vehicle (code 2)?",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "16 years", "image": null },
+        { "id": "B", "text": "17 years", "image": null },
+        { "id": "C", "text": "18 years", "image": null },
+        { "id": "D", "text": "21 years", "image": null }
+      ],
+      "answer": ["B"],
+      "explanation": "Code 2 (light motor vehicle) learner's licences may be issued from 17 years of age. Motorcycle codes have different minimum ages, and code 3 is 18.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "National Road Traffic Act — learner's licences; K53 intro"
+    },
+    {
+      "id": "ai-0030",
+      "source": "ai",
+      "category": "rules",
+      "licenceCodes": ["1"],
+      "type": "single",
+      "question": "A motorcycle learner (code 1) on a public road must:",
+      "image": null,
+      "options": [
+        { "id": "A", "text": "Wear a properly fastened protective helmet", "image": null },
+        { "id": "B", "text": "Carry a passenger if the passenger holds a car licence", "image": null },
+        { "id": "C", "text": "Ride without a helmet in an urban area during the day", "image": null },
+        { "id": "D", "text": "Use the pavement when traffic is heavy", "image": null }
+      ],
+      "answer": ["A"],
+      "explanation": "Helmets are compulsory for motorcycle riders and passengers. A learner on a motorcycle may not carry a passenger. Riding on the pavement is illegal.",
+      "tags": ["AI"],
+      "sourceRef": null,
+      "manualRef": "NRTA / NRTR — protective helmets; learner motorcycle conditions"
+    }
+  ]
+}

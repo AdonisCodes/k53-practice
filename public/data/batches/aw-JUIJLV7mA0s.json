@@ -1,0 +1,137 @@
+{
+ "batch": "aw-JUIJLV7mA0s",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:32:15+02:00",
+ "questions": [
+  {
+   "id": "aw-JUIJLV7mA0s-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a light motor vehicle on a dual-carriageway freeway located outside an urban area. You pass a circular sign with a red border containing the number 100. Further along, you enter a sudden heavy rainstorm with near-zero visibility. Which statement correctly describes your legal maximum speed limit and driving obligation under K53/traffic laws?",
+   "image": "images/appsworld/JUIJLV7mA0s-7.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may legally continue driving at 100 km/h because statutory speed limits strictly remain enforceable until a different command or cancellation sign appears.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The sign sets 100 km/h as the absolute maximum speed limit under ideal conditions, but you are legally required to drive slower if weather conditions make 100 km/h unsafe.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The sign overrides the general freeway speed limit of 120 km/h and serves as a compulsory minimum speed limit of 100 km/h for light motor vehicles on that stretch.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JUIJLV7mA0s&t=6s"
+  },
+  {
+   "id": "aw-JUIJLV7mA0s-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle with a total Gross Vehicle Mass (GVM) of 3.5 tonnes approaches a bridge marked with a red circular sign displaying \"2t\" above an axle diagram. If the weight is distributed such that its front axle carries 1.5 tonnes and its rear axle carries 2.0 tonnes, how does the road sign apply?",
+   "image": "images/appsworld/JUIJLV7mA0s-123.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle may legally cross because no single axle exceeds the maximum permissible load of 2.0 tonnes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle is prohibited from crossing because its total GVM of 3.5 tonnes exceeds the 2t limit displayed on the sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle is permitted to cross only if it reduces its speed to below 20 km/h before entering the bridge section.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JUIJLV7mA0s&t=122s"
+  },
+  {
+   "id": "aw-JUIJLV7mA0s-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A goods vehicle carrying a stacked load measures exactly 4.30 metres from the road surface to the top of its cargo, but its roof antenna extends to 4.45 metres. What is the legal status regarding a circular road sign with a red border containing 4.42m with top and bottom vertical arrows?",
+   "image": "images/appsworld/JUIJLV7mA0s-219.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle may proceed because height restrictions apply strictly to the permanent structure of the vehicle body, excluding flexible accessories like aerials.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle is permitted to enter provided the overall combination mass remains under statutory maximum limits.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle is prohibited from passing the sign because the total height of any vehicle, including its load and all projections, exceeds 4.42 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JUIJLV7mA0s&t=218s"
+  },
+  {
+   "id": "aw-JUIJLV7mA0s-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor vehicle measures 12 metres in length, but it is towing a trailer measuring 4 metres, bringing the combined total length to 16 metres. The vehicle approaches a circular sign with a red border containing 15m with horizontal inward-pointing arrows. What is the correct application of this prohibition sign?",
+   "image": "images/appsworld/JUIJLV7mA0s-311.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The restriction applies to the overall combination length including any towed vehicle, so passing the sign is illegal.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle may proceed because length restrictions apply solely to single rigid heavy vehicles, not vehicle-and-trailer combinations.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Passing the sign is permitted only if the towed trailer has an unladen mass of less than 750 kg.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-from-narration"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=JUIJLV7mA0s&t=310s"
+  }
+ ]
+}

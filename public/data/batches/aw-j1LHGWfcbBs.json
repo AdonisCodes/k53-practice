@@ -1,0 +1,391 @@
+{
+ "batch": "aw-j1LHGWfcbBs",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:09:26+02:00",
+ "questions": [
+  {
+   "id": "aw-j1LHGWfcbBs-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where is parking strictly prohibited?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "In a loading zone, if you are not loading or unloading goods",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In a parking bay with a time limit",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In front of a petrol station",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Loading zones are reserved for vehicles actively loading or unloading goods. Parking there without a valid reason can obstruct businesses and delivery services.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=27s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far must you park from a pedestrian crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 meters",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 meters",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "9 meters",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Parking too close to a pedestrian crossing reduces visibility for both drivers and pedestrians, increasing the risk of accidents.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=89s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum distance your wheels should be from the pavement when parking?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "200mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "450mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1 meter",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Keeping your wheels within 450mm (45 cm) from the pavement prevents your car from obstructing traffic or posing a hazard to other road users.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=135s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Why is parking near a fire hydrant prohibited?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is only illegal in urban areas",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is an inconvenience for pedestrians",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It prevents emergency services from accessing the hydrant",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Firefighters need quick and unobstructed access to fire hydrants in emergencies. A parked car could delay their response and worsen a fire situation.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=177s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to park on a sidewalk?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you are stopping for a short time",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If no one is walking on it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if a sign specifically allows it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Sidewalks are for pedestrians, and parking there forces them into the road, creating a safety hazard. It is only allowed if signs indicate it is permitted.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=249s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far must you park from an intersection?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 meters",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 meters",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 meters",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Parking too close to an intersection blocks the view of other drivers and pedestrians, increasing the risk of collisions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=293s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you park in front of a private driveway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, if it is your own driveway",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, because it blocks access for vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, as long as you leave space for a small car to enter",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Blocking a driveway prevents other vehicles from entering or exiting, which is a major inconvenience and could also be illegal.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=318s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under what condition can you park on a road narrower than 5.5 meters?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you are driving a small car",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it is a one-way road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If there are no other cars around",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "On a narrow road, parked vehicles can obstruct traffic. However, on a one-way street, cars all move in the same direction, reducing the chances of congestion.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=390s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you check before parking in an area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The condition of the road surface",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If there is a road sign indicating parking rules",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The colour of other parked vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Road signs indicate where parking is allowed, restricted, or prohibited. Ignoring them can lead to fines or your car being towed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=452s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Why should you avoid parking near a traffic light?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Because it may confuse other drivers",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Because it makes the traffic light change slower",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Because it is only illegal at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A parked car near a traffic light can block the view of the signal, causing drivers to react late or misunderstand the light changes.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=493s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How close are you allowed to park to a fire hydrant?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 metre",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "You must keep at least 1.5 metres away from a fire hydrant so that emergency vehicles can access it quickly in case of a fire. Parking too close could delay response time and put lives at risk.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=540s"
+  },
+  {
+   "id": "aw-j1LHGWfcbBs-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to park on a road that is narrower than ___ metres?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "10 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5,5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Parking on roads narrower than 5.5 metres is normally not allowed because it can block traffic flow.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j1LHGWfcbBs&t=568s"
+  }
+ ]
+}

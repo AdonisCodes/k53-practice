@@ -1,0 +1,654 @@
+{
+ "batch": "aw-4DZmVlhvhDM",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:38:16+02:00",
+ "questions": [
+  {
+   "id": "aw-4DZmVlhvhDM-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you experience a tyre blowout while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake immediately",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hold the steering wheel firmly and gradually slow down",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to regain control",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Braking immediately during a blowout can make you lose control, and you should never accelerate. Hold the steering wheel firmly and slow down gradually.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=30s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the rule for using a roundabout?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Give way to traffic from your left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Give way to traffic from your right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have right of way",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "At a roundabout traffic approaches from the right, so you must give way to traffic from your right.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=83s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a yellow diamond-shaped sign with a black arrow indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sharp bend ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lane ends ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic merges ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The video gives 'sharp bend ahead'. Note: the NaTIS manual has no yellow diamond-shaped warning sign. South African warning signs are triangles with a red border (yellow-background versions are temporary signs), and the sharp curve sign is W204/W205.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=110s",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 Direction of movement signs (p.25)"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do before changing lanes on a busy road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Honk to alert other drivers",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Check mirrors, blind spots, and use indicators",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Change lanes quickly without slowing down",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Check your mirrors and blind spots for vehicles in that lane, and use your indicator to tell other road users which lane you intend to move into.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=165s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a flashing red traffic light mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop and proceed when safe",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yield to oncoming traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive with caution",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "At a flashing red traffic light you must stop, and proceed only when it is safe to do so (as at a stop sign).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=200s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if an animal crosses the road in front of you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up to scare it away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down or stop if necessary",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore it and keep driving",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "If an animal crosses the road in front of you, slow down or stop if necessary.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=220s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to drive in the emergency lane?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "During rush hour",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When overtaking",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In an emergency situation only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "It is called an emergency lane for a reason: you may only use it in an emergency.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=241s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum legal speed limit on South African national roads outside urban areas?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The video gives 120 km/h. Note: in the NaTIS manual the general limit is 120 km/h on a freeway, but 100 km/h on any other public road outside an urban area. So the answer depends on whether the national road is a freeway.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=264s",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.27 Speed limits (p.24)"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How should you react if you see a school zone sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Reduce your speed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maintain your speed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up to pass quickly",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "If you see a school zone sign you must slow down, as children may be crossing the road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=297s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red circle with a white bar in the middle mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No entry",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrian crossing",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A red circle with a white horizontal bar in the middle is the no entry sign.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=315s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do at a stop sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down and proceed if the road is clear",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop completely and only proceed when it is safe",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yield to oncoming traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "At a stop sign you must come to a complete stop, even if there are no other cars, and proceed only when it is safe to do so.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=340s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a blue circular sign with a white arrow indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A direction that must be followed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A prohibited direction",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A pedestrian zone",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A blue circular sign with a white arrow is a command sign: you must go in the direction shown.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=371s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you miss your exit on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Reverse to the exit",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Make a U-turn",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed to the next exit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You may not stop, reverse or make a U-turn on a freeway. Continue to the next exit and take that one.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=405s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When driving at night, when should you switch to low-beam headlights?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When approaching another vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only on highways",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only in urban areas",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Dip your headlights when approaching another vehicle so that you do not blind its driver.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=432s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a triangular road sign with a red border indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Warning of hazards ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Mandatory instructions",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Information about facilities",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Triangular signs with a red border are warning signs: they warn of hazards ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=460s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a solid double yellow line in the center of the road mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No overtaking is allowed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtaking is allowed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "One-way traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The video says a solid double line in the centre means no overtaking. Note: in South Africa, no-overtaking lines in the centre of the road are white (RM1); yellow lines mark the road edge.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=481s",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §7.1 Regulatory markings, No overtaking lines RM1 (p.48)"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of a traffic circle (roundabout)?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To slow down traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To allow faster vehicles to pass",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To allow a smooth flow of traffic without stopping",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A traffic circle allows a smooth flow of traffic without stopping.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=500s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if your vehicle starts to skid on a wet road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slam on the brakes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn in the direction of the skid",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn in the opposite direction of the skid",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "If your vehicle skids, steer in the direction of the skid. Do not slam on the brakes.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=525s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to use your hazard lights while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When driving in heavy rain or fog",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only when stopped or stationary to indicate an emergency",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When driving on a highway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Hazard lights are only used when you are stopped or stationary, to indicate an emergency.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=543s"
+  },
+  {
+   "id": "aw-4DZmVlhvhDM-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red triangle with a black exclamation mark inside indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Warning of a general hazard ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No entry for vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop immediately",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A red triangle with a black exclamation mark warns of a general hazard ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=4DZmVlhvhDM&t=568s"
+  }
+ ]
+}

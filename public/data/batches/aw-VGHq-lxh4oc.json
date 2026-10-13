@@ -1,0 +1,391 @@
+{
+ "batch": "aw-VGHq-lxh4oc",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:48:15+02:00",
+ "questions": [
+  {
+   "id": "aw-VGHq-lxh4oc-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a straight road, you notice the crossroad ahead warning sign. Another vehicle is approaching from your left at the intersection. Which of the following is the safest course of action?",
+   "image": "images/appsworld/VGHq-lxh4oc-26.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up to clear the intersection before the other vehicle arrives.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, check for traffic from all directions, and be ready to stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Maintain your speed; the vehicle from: the left must give way to you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=24s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the priority crossroad warning sign while approaching an intersection. Vehicles are coming from the side roads. What should you do?",
+   "image": "images/appsworld/VGHq-lxh4oc-109.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down slightly, because you must give way to all vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maintain your speed and proceed carefully, because you have priority over vehicles on the minor roads.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop completely at the intersection; even if no other vehicles are present.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=107s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a secondary crossroad warning sign. Vehicles are coming from the main road that crosses your path. What is the safest action?",
+   "image": "images/appsworld/VGHq-lxh4oc-172.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; the vehicles on the main road will slow down for you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, check for traffic from the main road, and give way if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate quickly to cross before the other vehicles arrive.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=170s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a T-junction ahead warning sign while driving on the road that ends at the junction. What should you do?",
+   "image": "images/appsworld/VGHq-lxh4oc-213.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and enter the junction quickly to avoid traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, check for vehicles on the road you will be joining, and give way if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to clear the junction before any other vehicle arrives.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=211s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving and see the skew T-junction ahead warning sign. The minor road joins your road at an angle. What is the safest action?",
+   "image": "images/appsworld/VGHq-lxh4oc-267.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, because the angle makes it hard for other vehicles to reach your road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, check for traffic from the minor road, and be prepared to stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to clear the junction before any vehicle appears from the minor road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=265s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a main road, you see the side road junction ahead warning sign. A vehicle is about to enter your road from the side street. What is the safest action?",
+   "image": "images/appsworld/VGHq-lxh4oc-323.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; the vehicle from the side road must wait for you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down slightly, be alert, and be ready to give way if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the junction before the other vehicle enters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=321s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving and see the staggered junction ahead warning sign. Vehicles may be entering from both the left and right sides, but not directly opposite each other. What should you do?",
+   "image": "images/appsworld/VGHq-lxh4oc-402.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; the staggered layout means you have priority over both sides.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, watch carefully for vehicles entering from both sides, and be prepared to stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to get through the staggered junction before any vehicle arrives.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=400s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a sharp junction ahead warning sign, where the road splits into two sharply diverging roads. What is the safest approach?",
+   "image": "images/appsworld/VGHq-lxh4oc-489.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and pick a road at the last moment.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down well in advance, signal early, and choose the correct road safely.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to reach the junction quickly before other vehicles do.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=487s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a sharp junction ahead (merge) sign, where another road merges sharply into yours from the left. What is the safest approach?",
+   "image": "images/appsworld/VGHq-lxh4oc-537.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; the merging. vehicle must give way to you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down slightly, check for merging traffic, and be prepared to adjust your speed or lane position safely.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the merge area before the other vehicle joins.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=535s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving and see the Y-junction ahead warning sign. The road splits into two branches. What is the safest way to approach this junction?",
+   "image": "images/appsworld/VGHq-lxh4oc-607.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and decide which branch to take at the last moment.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, signal early, and safely position your vehicle to take the correct branch.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the junction before any other vehicle arrives.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=605s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the end of dual roadway warning sign ahead. Your lane continues straight, but now there is no physical separation between oncoming traffic. What is the safest approach?",
+   "image": "images/appsworld/VGHq-lxh4oc-642.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; oncoming traffic will stay in their lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down slightly, stay well within your lane, and be alert for oncoming vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to clear the area quickly before encountering oncoming traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=640s"
+  },
+  {
+   "id": "aw-VGHq-lxh4oc-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the beginning of dual roadway warning sign ahead. What is the safest approach?",
+   "image": "images/appsworld/VGHq-lxh4oc-682.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current speed; the lanes will separate automatically.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Be alert, keep in your lane, and prepare for traffic moving in the opposite direction on a separate carriageway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to match the speed of vehicles on the other carriageway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=VGHq-lxh4oc&t=680s"
+  }
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "batch": "aw-Qwtap3f__0Y",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:33:50+02:00",
+ "questions": [
+  {
+   "id": "aw-Qwtap3f__0Y-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "You are driving a 32-passenger midibus along a busy public transport corridor. The road splits into dedicated lane options marked by different blue circular command signs. You need to enter a lane where your vehicle is legally permitted to travel alongside standard large buses, but where smaller 16-seater minibuses are not permitted. Which of the following command signs must be displayed above your lane?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Buses and minibuses only",
+     "image": "images/appsworld/Qwtap3f__0Y-60-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Buses and midibuses only",
+     "image": "images/appsworld/Qwtap3f__0Y-60-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Buses, midibuses and minibuses only",
+     "image": "images/appsworld/Qwtap3f__0Y-60-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=6s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are navigating a freight vehicle near an industrial zone and approach an intersection. Directly ahead is a blue circular command sign displaying an orange symbol of a tank vehicle. You are carrying a load of standard dry wooden pallets. What is your legal duty?",
+   "image": "images/appsworld/Qwtap3f__0Y-109.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must turn away and are strictly prohibited from entering this road, as it is legally restricted exclusively to vehicles carrying dangerous goods/hazardous cargo.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may proceed straight along this road, provided your gross vehicle mass is under 3,500 kg and you maintain a safe distance.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are required to follow this route to keep heavy freight off suburban streets, regardless of your cargo type.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=108s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "You are driving a 15-seater minibus taxi along an urban transit corridor during peak morning traffic. You need to select a dedicated lane where your vehicle is legally permitted to operate alongside both heavy city buses and light rail streetcars. Which of the following command signs must be posted over the entrance to the lane you are entering?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Trams only",
+     "image": "images/appsworld/Qwtap3f__0Y-210-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Buses and trams only",
+     "image": "images/appsworld/Qwtap3f__0Y-210-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Buses, trams and minibuses only",
+     "image": "images/appsworld/Qwtap3f__0Y-210-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=179s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a passenger motor vehicle in a high-density beachfront precinct and come across a blue circular command sign displaying the symbol of a rickshaw. Which statement accurately describes the restriction for this route?",
+   "image": "images/appsworld/Qwtap3f__0Y-244.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Rickshaws must use the pathway, but non-motorized pedal cycles are also legally permitted to share the lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drivers of all motor vehicles and motorcycles are strictly prohibited from using or entering the marked road or path.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light motor vehicles may use the lane provided they yield right-of-way to any rickshaw operator ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=243s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a standard scheduled municipal transit bus carrying city commuters along a designated coastal strip. Up ahead, the road splits, and the right-hand lane is marked with a blue circular command sign displaying a tour buses only symbol. Are you legally permitted to enter this lane?",
+   "image": "images/appsworld/Qwtap3f__0Y-301.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because any heavy passenger vehicle carrying more than 16 passengers qualifies to use bus-designated command lanes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, provided your bus is operating on a fixed schedule approved by the local municipality.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, because the lane is legally restricted exclusively to tourist/tour buses; standard public transit buses and private motor cars are strictly prohibited.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=300s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a light commercial bakkie carrying farm produce along a rural dual-carriageway. The left lane is marked with a blue circular command sign showing a tractor symbol. What is the legal requirement for this lane?",
+   "image": "images/appsworld/Qwtap3f__0Y-364.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The designated lane is strictly reserved for agricultural machinery (e.g., tractors and harvesters); all standard motor vehicles, including bakkies carrying farm goods, are prohibited from using it.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Any vehicle transporting agricultural produce or livestock may legally use the lane to allow faster passenger traffic to pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Agricultural vehicles are mandated to use this lane, but standard motor cars may enter it to overtake slow-moving tractors when safe to do so.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=363s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are riding a mountain bicycle along a gravel secondary road and reach a section marked with a blue circular command sign displaying a horse and cart symbol. How does this restriction apply to you as a cyclist?",
+   "image": "images/appsworld/Qwtap3f__0Y-431.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are legally required to dismount and push your bicycle, as only animal-drawn carts are permitted to roll on this roadway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Non-motorized vehicles, including bicycles and animal-drawn carts, are permitted to share the road, but all motor vehicles are banned.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are strictly prohibited from using this roadway, as it is legally reserved exclusively for animal-drawn vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=430s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor car on a national highway and approach a blue circular command sign showing a “T” mounted ahead of a toll plaza structure. What is your legal obligation when encountering this sign?",
+   "image": "images/appsworld/Qwtap3f__0Y-486.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are legally mandated to stop or proceed through the designated payment/electronic collection lane and pay the prescribed fee before continuing onto that road section.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Payment is optional for light motor vehicles during off-peak hours unless a manual boom barrier is physically down.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The sign indicates a compulsory speed limit increase to prevent congestion at the toll booths ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=485s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor vehicle during a bright, sunny afternoon and approach a mountain pass featuring a series of dark tunnels. Just before entering the first tunnel, you pass a blue circular command sign displaying a vehicle headlamp emitting light beams. Which action is legally required of you?",
+   "image": "images/appsworld/Qwtap3f__0Y-551.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are only required to switch on your headlamps if atmospheric visibility drops below 150 metres or if driving between sunset and sunrise.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may turn on your park lights (parking lamps) instead of main headlamps to conserve battery power while driving through the illuminated section of the pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must immediately switch your vehicle's headlamps on (dipped beam) from the point of the sign onward, regardless of daylight conditions or existing ambient light.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=550s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a multi-lane intersection displaying a blue circular command sign showing three white arrows. You intend to enter the intersection to take the third exit. What is your strict legal duty when navigating this junction?",
+   "image": "images/appsworld/Qwtap3f__0Y-620.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must travel around the central island in a clockwise direction, yielding right-of-way to traffic approaching from your left inside the circle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must travel around the central island in a clockwise direction, giving right-of-way to all traffic approaching from your right within the roundabout unless signs or road markings indicate otherwise.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may travel counter-clockwise around the island if the right lane is blocked by heavy vehicles and the path is clear.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=619s"
+  },
+  {
+   "id": "aw-Qwtap3f__0Y-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving in an urban transport precinct with rail-guided transit systems, you approach a lane marked by a blue circular command sign displaying a tram symbol. Traffic is congested, and the tram lane appears completely clear. May you use this lane to pass queuing traffic?",
+   "image": "images/appsworld/Qwtap3f__0Y-694.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, provided you keep a lookout for approaching trams and yield immediately if one signals behind you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, but only if you are driving an electric or zero-emission vehicle, as green-energy passenger vehicles share rail priority zones.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, you are strictly prohibited from driving, stopping, or queuing in this lane, as it is legally reserved exclusively for rail-guided trams.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Qwtap3f__0Y&t=693s"
+  }
+ ]
+}

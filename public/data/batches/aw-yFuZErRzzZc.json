@@ -1,0 +1,858 @@
+{
+ "batch": "aw-yFuZErRzzZc",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:04:43+02:00",
+ "questions": [
+  {
+   "id": "aw-yFuZErRzzZc-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the reduced visibility warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-25.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; visibility will improve naturally.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, increase your following distance, and switch on dipped headlights if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the area quickly before visibility worsens.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Switch off your headlights and continue at normal speed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=23s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when you see the congestion ahead warning sign?",
+   "image": "images/appsworld/yFuZErRzzZc-151.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, because traffic will clear quickly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, keep a safe following distance, and be prepared to stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass through the area before the traffic builds up.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Switch lanes frequently to find a faster route through the congestion.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=149s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the horses and riders ahead warning sign. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-205.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, because horses will always stay on the side of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, be prepared to stop, and give plenty of space when passing horses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the horses quickly so you don’t delay traffic.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter repeatedly to warn the horses to move faster.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=203s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/yFuZErRzzZc-283.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Rhinos on the road ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Elephants on the road ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hippos on the road ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Antelopes on the road ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=281s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the hippo ahead warning sign near a river or wetland. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-334.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; hippos usually stay in the water.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, stay alert, and be prepared to stop if a hippo is on or near the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass quickly before a hippo appears.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter to warn the hippo to move away.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=332s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the electrical shock warning sign. What should your first action be?",
+   "image": "images/appsworld/yFuZErRzzZc-413.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore the sign; it only applies to maintenance workers.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Keep an eye out for electrical cables on the road ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Touch the electrical cable quickly to see if it is really electrified.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Lean over the electrical cable to get a better view of the cable.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=411s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/yFuZErRzzZc-471.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Strong gusts of wind.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Faster moving vehicles kicking up dust.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clear wind ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A wind farm ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=469s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a rural road and you see the narrow bridge warning sign ahead. What is the MOST correct action to take?",
+   "image": "images/appsworld/yFuZErRzzZc-500.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, because other vehicles must give way when you reach the bridge first.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, keep to your side of the road, and be prepared to stop if another vehicle is approaching.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtake slower vehicles before entering the bridge to avoid being delayed.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter continuously while approaching the bridge to warn oncoming traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=498s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a structure with the one vehicle width structure warning sign. Another vehicle is already entering the structure from the opposite side. What should you do?",
+   "image": "images/appsworld/yFuZErRzzZc-569.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerate quickly so you can squeeze through before the other vehicle reaches you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and allow the other vehicle to pass through first before you enter.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive halfway in and wait inside the structure for the other vehicle to pass.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter to claim right of way and continue through.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=567s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a two lane road and you see the road narrows from both sides warning sign. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-640.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your lane but move closer to the centre of the road to avoid hitting the sides.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, keep well within your lane, and be alert for oncoming traffic or obstacles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the narrow section quickly before other vehicles approach.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Change lanes immediately to the opposite lane to avoid the narrowing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=638s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a two lane road and see the road narrows from the right side warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-696.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Move slightly to the left within your lane, slow down, and be cautious of the narrowing right side.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Move to the right to let the road widen naturally on the left side.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Maintain your speed and lane, because the road will naturally adjust for your vehicle.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate to pass the narrow section before other vehicles arrive.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=694s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a two lane road and see the road narrows from the left side warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-731.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Move slightly to the right within your lane, slow down, and be alert for the narrowing left side.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Move to the left to use the space that is narrowing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Maintain your speed and lane, because the road will adjust automatically.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate to pass the narrow section quickly before any oncoming vehicles arrive.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=729s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving and see the uneven roadway warning sign ahead. Which of the following is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-754.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; the uneven surface will not affect your vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and hold the steering wheel firmly to maintain control over bumps and keep an eye out for potholes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Swerve slightly to avoid the uneven parts of the road.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate quickly to pass the uneven section before it causes any damage.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=752s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you immediately do when you see this sign?",
+   "image": "images/appsworld/yFuZErRzzZc-834.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current speed; your car can handle the bumps.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down before reaching the speed bumps and drive over them carefully.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass over the speed bumps quickly so you don’t lose momentum.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter to warn pedestrians and continue at normal speed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=832s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the slippery road warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-904.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, but turn the steering wheel sharply to avoid skidding.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, avoid sudden braking or sharp turns, and drive carefully.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate slightly to pass the slippery area quickly.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter to warn other drivers and continue at normal speed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=902s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the falling rocks warning sign on a mountain pass. What is the MOST correct action to take?",
+   "image": "images/appsworld/yFuZErRzzZc-963.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down, be alert for rocks on the road, and avoid stopping unnecessarily near the area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate quickly to pass through the area before rocks can fall",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive as close as possible to the cliff face to avoid rocks falling into the road.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop immediately under the cliff and wait until the danger has passed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=961s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the general warning sign on a road. What is the MOST correct action to take?",
+   "image": "images/appsworld/yFuZErRzzZc-1063.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore it; it is only a suggestion and not a real hazard.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and drive with caution, being prepared for any type of hazard ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the area quickly before the hazard appears.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter and continue at normal speed, because the danger is probably minor.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1061s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the emergency flashing light warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-1129.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, because the flashing light is only for decoration.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, be prepared to stop, and keep an eye out for any hazards ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass the area quickly to avoid slowing down traffic.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter continuously to warn the emergency vehicles you are coming.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1127s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the jetty edge ahead warning sign. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-1165.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; the sign is only for boats, not vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, stay well within your lane, and be alert for the edge of the road or riverbank.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate quickly to pass the area before other vehicles or pedestrians appear.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop immediately and reverse, because the road is too dangerous to continue.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1163s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the crosswinds warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-1214.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and lane; crosswinds only affect large trucks.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, hold the steering wheel firmly, and be prepared for sudden gusts.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steer slightly into the wind at all times to counteract it.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate to pass the area quickly before the gusts hit.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1212s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-21",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the drift warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-1253.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed; your car can handle slippery surfaces.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, avoid sudden steering, braking, or accelerating, and drive carefully.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate slightly to pass the slippery section quickly.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Steer sharply to counteract any slipping you feel.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1251s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-22",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the low flying aircraft warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-1280.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and ignore any sudden noise or shadows from aircraft.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down slightly, keep a firm grip on the steering wheel, and stay alert for sudden distractions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to get past the area quickly before any aircraft pass overhead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop in the middle of the road to watch the aircraft.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1278s"
+  },
+  {
+   "id": "aw-yFuZErRzzZc-23",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see the agricultural vehicles warning sign ahead. What is the MOST correct action?",
+   "image": "images/appsworld/yFuZErRzzZc-1312.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, because tractors always stay to the side of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, be prepared to stop, and give way if necessary to slow-moving agricultural vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to pass any slow moving vehicles before they block the road.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your hooter repeatedly to warn the tractor to speed up.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yFuZErRzzZc&t=1310s"
+  }
+ ]
+}

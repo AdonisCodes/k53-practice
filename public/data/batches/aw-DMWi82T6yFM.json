@@ -1,0 +1,303 @@
+{
+ "batch": "aw-DMWi82T6yFM",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:30:18+02:00",
+ "questions": [
+  {
+   "id": "aw-DMWi82T6yFM-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving along a road displaying a \"Stopping Prohibited\" sign. Your passenger suddenly realizes they left their phone at home and asks you to drop them off on the side of the road. Can you pull over briefly to let them step out?",
+   "image": "images/appsworld/DMWi82T6yFM-7.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No, you are strictly prohibited from bringing your vehicle to a complete stop for any voluntary reason along this section of road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, provided you keep your hazards on and complete the drop-off in less than 30 seconds.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, as long as you do not turn off your engine or get out of the driver's seat.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=6s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your passenger car breaks down on a freeway section where a \"Pedestrians Prohibited\" sign is posted at the entrance ramp. You pull safely onto the emergency shoulder. Are you allowed to step out of the vehicle and walk along the shoulder to place a warning triangle 45 metres behind your car?",
+   "image": "images/appsworld/DMWi82T6yFM-84.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No, because pedestrians are strictly prohibited from foot travel on this road under any circumstances once past the sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, because a driver or passenger attending to an emergency or broken-down vehicle on a freeway/roadway is legally permitted to walk on the shoulder for essential safety actions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, provided you remain on the grass verge completely past the gravel shoulder and wear reflective clothing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=83s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are riding an electric bicycle equipped with pedals and an auxiliary electric motor with an engine capacity equivalent to 30 cc (capable of propelling the bike up to 25 km/h). You approach a road displaying the \"Pedal Cycles Prohibited\" sign. Does this prohibition apply to your e-bike?",
+   "image": "images/appsworld/DMWi82T6yFM-171.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No, because vehicles propelled by electric motors are classified as light motorcycles and are exempt from bicycle bans.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, because any two-wheeled vehicle equipped with pedals falls under the definition of a pedal cycle, regardless of whether it has an auxiliary electric motor.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, provided you turn off the electric motor and rely solely on human foot power while riding past the sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=170s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are commuting on a bicycle and arrive at a tunnel entrance marked with the \"Pedal Cycles and Pedestrians Prohibited\" sign. You dismount your bicycle and begin pushing it on foot along the elevated sidewalk/verge through the tunnel. Is this action legal?",
+   "image": "images/appsworld/DMWi82T6yFM-247.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because once you dismount and push the bicycle on foot, you are legally classified as a pedestrian using the sidewalk, exempting you from the pedal cycle ban.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, because dismounting makes you a pedestrian, and pedestrians are independently prohibited by the sign from using any part of the roadway or sidewalk structure.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, provided your bicycle is equipped with operating front and rear reflectors visible from 100 metres inside the tunnel.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=246s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "You are riding a 49 cc motor scooter (moped) that has a maximum design speed of 45 km/h. You come across a road section marked with the \"Motorcycles Prohibited\" sign. Does this regulatory\" sign forbid you from riding past it on your 49 cc scooter?",
+   "image": "images/appsworld/DMWi82T6yFM-316.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because under National Road Traffic regulations, any motor-driven two-wheeled vehicle (including motor tricycles and motor quadricycles) falls under the legal definition of a motorcycle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, because vehicles with an engine capacity under 50 cc are legally defined as motor tricycles or power-assisted cycles, which are exempt from motorcycle prohibitions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, provided you remain on the paved shoulder and do not enter the main traffic lanes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=315s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a standard 15-seater minibus equipped with a valid operating licence to transport paying passengers for reward (a minibus taxi). However, you currently have no passengers inside and are using the vehicle solely for a personal family trip. You come across a street displaying the \"Taxis Prohibited\" sign. Can you legally drive down this street?",
+   "image": "images/appsworld/DMWi82T6yFM-385.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because the restriction only applies when passengers are on board and fare collection is actively taking place.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, because the vehicle is legally classified and registered as a taxi, meaning the prohibition applies to the vehicle itself at all times regardless of whether passengers are inside or not.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, provided you remove or cover any commercial taxi branding or decals before entering the street.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=384s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a private 12-seater minibus owned by a local sports club to transport team members to a match. The vehicle is registered as a private passenger vehicle (not as a public transport taxi/minibus taxi). You approach a road displaying the \"Minibuses Prohibited\" sign. Are you legally permitted to proceed?",
+   "image": "images/appsworld/DMWi82T6yFM-463.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No, because the sign applies to all motor vehicles designed or adapted for conveying more than 9 but not more than 16 persons (including the driver), regardless of whether it is used privately or commercially.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, because private minibuses not operated for fare/reward are exempt and only public transport minibus taxis are restricted.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, provided the total number of passengers inside at the time is fewer than 9 people.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=462s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a 22-seater passenger bus used for private shuttle services. You approach an urban street marked with the \"Midi-Bus Prohibited\" sign. Which of the following vehicles is legally banned from entering this street?",
+   "image": "images/appsworld/DMWi82T6yFM-537.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only public transport midibuses that operate on a fixed route collecting cash fares from commuters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Any motor vehicle designed or adapted for conveying more than 16 but not more than 35 seated persons (including the driver).",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only heavy passenger buses designed to carry more than 35 passengers.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=536s"
+  },
+  {
+   "id": "aw-DMWi82T6yFM-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a 60-seater luxury coach transporting a group of tourists. You turn onto a scenic mountain pass and see a \"Buses Prohibited\" sign. However, you notice a 22-seater midibus drive past the sign without stopping. Can you legally follow the midibus onto this road?",
+   "image": "images/appsworld/DMWi82T6yFM-592.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because the term \"bus\" under road traffic regulations broadly includes all passenger vehicles carrying more than 16 people, so if a midibus is allowed, a luxury coach is also allowed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, because a standard \"bus\" is defined as a vehicle designed to carry more than 35 persons, and this sign specifically prohibits heavy buses exceeding 35 seats from entering.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, provided your vehicle's total actual weight on the road is under 12 tonnes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DMWi82T6yFM&t=591s"
+  }
+ ]
+}

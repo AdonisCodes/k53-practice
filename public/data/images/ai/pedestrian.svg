@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Pedestrian crossing warning sign">
+  <rect width="240" height="240" fill="#f4f1ea"/>
+  <polygon points="120,22 218,198 22,198" fill="#c1121f"/>
+  <polygon points="120,48 196,188 44,188" fill="#fff"/>
+  <circle cx="132" cy="86" r="10" fill="#111"/>
+  <path d="M132 98 L118 122 L96 150" stroke="#111" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M118 122 L150 116 L168 148" stroke="#111" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M118 122 L128 168" stroke="#111" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

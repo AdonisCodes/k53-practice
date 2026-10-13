@@ -1,0 +1,425 @@
+{
+ "batch": "aw-tCR9NOndOro",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:33:25+02:00",
+ "questions": [
+  {
+   "id": "aw-tCR9NOndOro-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "On a two-way road, where must you drive?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Always on the right-hand side",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always in the middle of the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always on the left-hand side",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "In South Africa, vehicles must always drive on the left-hand side of a two-way road. This keeps traffic organized and prevents head-on collisions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=510s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is considered the most important rule of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Always wear your seatbelt",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always keep left and pass right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always drive below the speed limit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The most important rule of the road ensures smooth traffic flow. Keeping left allows faster-moving vehicles to overtake safely from the right, reducing congestion and accidents.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=563s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to drive on the right-hand side of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When overtaking another vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When driving on a one-way road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When avoiding potholes",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "One-way roads are designed for vehicles to travel in a single direction. If no signs indicate otherwise, you may drive on the right-hand side of a one-way street.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=610s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the recommended following distance for a light motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 second",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A 2-second following distance gives light motor vehicles enough time to react if the vehicle ahead suddenly stops. This reduces the risk of rear-end collisions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=646s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the recommended following distance for a heavy motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 seconds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "5 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Heavy vehicles take longer to stop due to their weight. A 3-second gap provides extra braking time, especially at higher speeds or on wet roads.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=673s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must always be displayed on a vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A reflective triangle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A valid licence disc",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A first-aid kit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A vehicle's licence disc proves it is legally registered and roadworthy. It must always be displayed on the windscreen for law enforcement to check.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=731s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long is a vehicle's licence disc valid for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "6 months",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12 months",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 months",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Vehicle licence discs in South Africa must be renewed annually to ensure that vehicles on the road remain legally registered and roadworthy.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=789s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If a traffic officer gives you an instruction that contradicts a road rule, what should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore the officer and follow road rules",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Follow the officer's instruction",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Wait until the officer leaves",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A traffic officer's instructions override road rules or signs because they manage traffic in real-time to ensure safety, especially in emergencies or roadblocks.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=815s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "On a divided road (with a painted line or barrier), where must you drive?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On the right-hand side",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On the left-hand side",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In the middle of the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Divided roads separate opposing traffic. Driving on the left ensures orderly traffic flow and reduces the risk of head-on collisions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=855s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you cross a painted line or barrier dividing the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Whenever you need to overtake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only at an indicated opening or space",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At any point where the road is clear",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Divisions exist to separate lanes safely. Crossing them at unauthorized points can lead to accidents or traffic violations.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=883s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it acceptable to drive continuously on the shoulder of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When avoiding traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When no other vehicles are present",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The road shoulder is for emergencies, breakdowns, or pedestrian use. Driving on it continuously is unsafe and illegal.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=916s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under what conditions may you temporarily drive on the shoulder to let another vehicle overtake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if you can see at least 150 meters ahead and there are no obstacles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At any time to allow faster cars to pass",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on a highway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Temporarily moving onto the shoulder can help with overtaking, but only if it is safe, with a clear view of the road ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=957s"
+  },
+  {
+   "id": "aw-tCR9NOndOro-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it legal to drive on the shoulder to allow overtaking?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At night, when the road is empty",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only on a single-lane road and during daylight hours",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whenever traffic is heavy",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Driving on the shoulder is only allowed under controlled conditions (during daylight and on single-lane roads) to ensure safety and visibility.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tCR9NOndOro&t=997s"
+  }
+ ]
+}

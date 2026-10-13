@@ -1,0 +1,319 @@
+{
+ "batch": "aw-_2D3yHZcMTQ",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:13:45+02:00",
+ "questions": [
+  {
+   "id": "aw-_2D3yHZcMTQ-01",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "To pull away safely from a standstill on a steep uphill slope without rolling backwards, in which sequence should you operate or release these controls?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Depress F, select a gear with C, press G, and pull D.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Depress E, select a gear with C, balance the clutch until it bites while applying light pressure to G, and then release D.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Release D, press G down fully, and quickly release E to find the biting point.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Move A sharply to the left while keeping both E and F fully depressed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Diagram: A steering wheel, B indicator lever, C gear lever, D parking (hand) brake, E clutch, F brake, G accelerator. Uphill pull-away: clutch in, select gear, find the biting point with light accelerator, then release the parking brake.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=8s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-02",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "If your foot brake (F) fails completely while driving down a steep pass, which control can be used carefully as an emergency backup to slow the vehicle down, and what is the restriction?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Control C, by immediately jamming it into Reverse gear while traveling at high speed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Control G, by pumping it rapidly to flood the engine intake.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Control D, by applying it gradually while holding the release button down to prevent the wheels from locking completely.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Control B, by switching it up and down continuously to alert other road users.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "If the foot brake (F) fails, apply the parking brake (D) gradually while holding the release button so the wheels do not lock.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=97s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-03",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control disconnects the engine's power delivery from the drive wheels and gearbox so that you can change gears using control C?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Control F",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Control G",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Control E",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Control A",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The clutch (E) disconnects engine power from the gearbox and drive wheels so you can change gear with the gear lever (C).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=172s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-04",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "When driving along a straight road and upgrading from second gear to third gear, which specific combination of controls must be used, and in what exact sequence?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Press G down firmly, move C into position, and then tap F sharply.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Release G, depress E fully, move C to the new gear position, smoothly release E, and progressively reapply G.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep G held down completely, depress F with your left foot, and force C into position.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Activate B to indicate the shift, move A slightly to the left, and pull up on D.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Changing up: release the accelerator (G), depress the clutch (E), move the gear lever (C), release the clutch smoothly and reapply the accelerator.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=208s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-05",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "If a child suddenly runs into the road in front of your vehicle and you need to perform an immediate emergency stop to avoid a collision, which controls must you stamp down on simultaneously?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Controls D and G",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Controls A and B",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Controls F and E",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Controls C and G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "In an emergency stop in a manual car, press the brake (F) and the clutch (E) at the same time.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=285s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-06",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "When parking your manual vehicle facing downhill on a steep slope, which combination of controls must be engaged to legally secure the vehicle and guarantee it cannot roll forward?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pull up control D firmly, and use control C to select Reverse gear.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Leave control D completely down, and use control C to select Neutral.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn control A straight, and use control C to select First gear.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Keep control E fully depressed to the floor, and leave control C in Neutral.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Parking facing downhill in a manual car: apply the parking brake (D) firmly and select reverse gear with the gear lever (C).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=347s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-07",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "You are driving on a multi-lane road and intend to move into the lane to your right. Which control do you use to signal your intention, and in which direction must it be moved?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Move control B downwards.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Move control B upwards.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pull control D all the way up.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Turn control A sharply clockwise.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "To signal a move to the right, move the indicator lever (B) upwards.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=435s"
+  },
+  {
+   "id": "aw-_2D3yHZcMTQ-08",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "If the rear of your vehicle begins to skid or slide violently to the left on a wet road surface, which primary control must you use to correct the skid, and how should you operate it?",
+   "image": "images/appsworld/_2D3yHZcMTQ-9.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stomp completely down on control G to spin the wheels out of the slide.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pull up sharply on control D to lock the wheels completely.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn control A smoothly towards the left (the same direction the rear is skidding) while avoiding harsh braking on F.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Turn control A sharply to the right to force the front of the car around.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Steer into the skid: if the rear slides to the left, turn the steering wheel (A) smoothly to the left and avoid harsh braking.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_2D3yHZcMTQ&t=473s"
+  }
+ ]
+}

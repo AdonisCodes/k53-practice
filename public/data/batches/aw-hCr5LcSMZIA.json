@@ -1,0 +1,451 @@
+{
+ "batch": "aw-hCr5LcSMZIA",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:06:55+02:00",
+ "questions": [
+  {
+   "id": "aw-hCr5LcSMZIA-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a quiet rural road, you spot a triangular sign with a traffic light symbol inside. Which of the following statements is most accurate in terms of your driving response?",
+   "image": "images/appsworld/hCr5LcSMZIA-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue at your current speed, as traffic lights in rural areas are rare and likely deactivated.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed and prepare to stop, as you are approaching an intersection controlled by traffic signals.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to clear the intersection before the lights change.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Ignore the sign unless there are visible traffic lights directly ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=0s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving at 80 km/h on a regional road and see a triangular warning sign showing an image of a stop sign ahead. Which of the following is the most correct and legally expected action?",
+   "image": "images/appsworld/hCr5LcSMZIA-87.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Begin braking immediately, regardless of the distance to the actual stop line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maintain your current speed and only stop if you can see another vehicle at the junction.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Prepare to slow down gradually and stop fully when you reach the actual stop line, regardless of traffic.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Signal left or right in anticipation of needing to turn at the intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=85s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While approaching a curve, you notice a triangular warning sign displaying a YIELD (give way) symbol. There is no immediate crossroad in sight. What is the correct driving response?",
+   "image": "images/appsworld/hCr5LcSMZIA-155.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore the warning until you see the actual yield sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Immediately stop in anticipation of conflicting traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce speed, proceed with caution, and be prepared to yield at an upcoming junction.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate to pass the intersection quickly before other vehicles arrive.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=153s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a school zone and see a triangular warning sign depicting pedestrians crossing. However, there are no pedestrians visible at the moment. What is the most legally and safety appropriate response?",
+   "image": "images/appsworld/hCr5LcSMZIA-219.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current speed and proceéd;‘since no pedestrians are in sight.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and be prepared to stop, especially near driveways, side streets, or blind spots.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Flash your headlights to warn any hidden pedestrians to wait before crossing.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate slightly to clear the area quickly in case someone steps into the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=217s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving through a quiet urban area, you spot a triangular warning sign showing a single pedestrian walking. No marked crosswalk is visible. What does this sign require you to do?",
+   "image": "images/appsworld/hCr5LcSMZIA-269.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving normally unless;a pedestrian is already crossing the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only reduce speed if you are driving near a shopping centre or mall.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Be alert and reduce speed as you are entering an area where pedestrians may cross unexpectedly at any point.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop immediately and wait for pedestrians to appear.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=267s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving through a suburban area and see a triangular warning sign showing two children running. There is no school in sight, and no children are visible at the moment. What is the safest and most lawful action to take?",
+   "image": "images/appsworld/hCr5LcSMZIA-319.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed unless children are actually present on the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed immediately and remain extremely alert, as children may enter the road suddenly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only slow down during school hours, typically between 7 AM and 2 PM.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate slightly to clear the area beforé children appear on the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=317s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a winding mountain road, you see a triangular warning sign showing a cyclist symbol. There is limited visibility ahead. What is the most responsible and legally appropriate action?",
+   "image": "images/appsworld/hCr5LcSMZIA-378.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Increase your speed to pass any cyclists quickly before the next bend.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive normally unless a cyclist is clearly visible in your lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce your speed, stay alert, and be prepared to share the lane or stop, even if cyclists aren't immediately visible.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Overtake in the oncoming lane immediately if the road markings allow it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=376s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving at night on a rural road and spot a triangular warning sign showing a cow symbol. There are no fences along the road and no cattle visible. What is the most appropriate and lawful response?",
+   "image": "images/appsworld/hCr5LcSMZIA-444.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current speed unless you physically see cattle on the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Flash your headlights to warn others that livestock. may be ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Immediately slow down, scan the sides of the road carefully, and be prepared to stop even if no cattle are currently in sight.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Accelerate to clear the area before cattle potentially cross the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=442s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re driving along a country road and see a triangular warning sign depicting a horse. There is no one in sight, but the road is narrow and winding. How should you respond to ensure safety and legal compliance?",
+   "image": "images/appsworld/hCr5LcSMZIA-533.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue at your current speed but keep 'your hand on the horn in case you need to warn a rider:",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate slightly to pass through the area quickly in case horses are ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down, proceed with caution, and avoid sudden noises or movements that could startle a horse, even if none are visible.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop immediately and wait for a mounted rider to signal you through.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=531s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While travelling through a game reserve road at dusk, you notice a triangular warning sign showing a leaping antelope. No animals are currently visible, and the road is clear. Which action best aligns with responsible and lawful driving behaviour?",
+   "image": "images/appsworld/hCr5LcSMZIA-604.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain normal speed unless you physically see an animal crossing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed, increase alertness, and be prepared to stop without warning, even if the road seems clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Flash your lights and hoot intermittently to scare any hidden animals away from the road.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Speed up to pass through the area quickly before animals might cross.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=602s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re driving along a remote farm road and see a triangular warning sign displaying a gate symbol. The road appears clear and no barrier is visible. What is the most correct and safest interpretation of this sign?",
+   "image": "images/appsworld/hCr5LcSMZIA-658.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road may end ahead, so you must turn around before reaching the gate.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A railway boom is likely ahead; prepare to yield to trains.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are approaching a location where a gate, which could be open or closed, may obstruct or narrow the road, so reduce speed and approach with caution.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This sign is informational only and doesn't require you to adjust your driving unless livestock are present.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=656s"
+  },
+  {
+   "id": "aw-hCr5LcSMZIA-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a two lane road approaching a railway crossing, and you see a triangular warning sign with a train symbol. There is no barrier or flashing light at the crossing. What is the most appropriate driving action?",
+   "image": "images/appsworld/hCr5LcSMZIA-710.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, as the absence of barriers, means it is safe to cross at any time.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down, look both ways, listen carefully for trains, and be prepared to stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to cross the railway tracks quickly before a train arrives.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop at the crossing regardless of whether a train is visible or audible.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=hCr5LcSMZIA&t=708s"
+  }
+ ]
+}

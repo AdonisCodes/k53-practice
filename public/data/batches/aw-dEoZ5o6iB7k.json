@@ -1,0 +1,831 @@
+{
+ "batch": "aw-dEoZ5o6iB7k",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:15:37+02:00",
+ "questions": [
+  {
+   "id": "aw-dEoZ5o6iB7k-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private passenger car carrying three passengers. You approach a lane marked with a “Taxis Only” sign during peak traffic hours. Which of the following actions is correct?",
+   "image": "images/appsworld/dEoZ5o6iB7k-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use the lane if you have at least three passengers.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may use the lane only if you are carrying a fare paying passenger and have a taxi permit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed in the lane regardless, as you are not obstructing taxis.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must avoid the lane entirely as it is reserved strictly for registered taxis.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=0s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a vehicle that seats 30 passengers (including the driver), and you approach a lane marked with a “Mini Buses Only” sign during a busy weekday morning. Which statement is correct regarding your use of this lane?",
+   "image": "images/appsworld/dEoZ5o6iB7k-61.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use the lane only if you are operating as a registered minibus taxi.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You can use the lane if you are transporting school children regardless of your vehicle registration.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The lane may be used by any vehicle carrying more than five passengers.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may enter the lane if you pay a toll fee for that lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=59s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You approach a lane marked with a “Midi Buses Only” sign on a busy urban road. You are driving a vehicle seating 25 passengers, but it is not registered as a midi bus. Under which of the following conditions are you legally allowed to use this lane?",
+   "image": "images/appsworld/dEoZ5o6iB7k-134.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "If the vehicle is carrying more than 20 passengers regardless of registration.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if the vehicle is officially registered and licensed as a midi bus.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If the vehicle is making a delivery within 500 meters of the lane.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "If the vehicle is transporting school children on a route approved by the education department.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=132s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a lane marked with a “Buses Only” sign during peak hours on a city road. You are driving a regular sedan. Which of the following statements about your legal right to use this lane is true?",
+   "image": "images/appsworld/dEoZ5o6iB7k-202.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use the lane at all times since your vehicle is large and carries many passengers.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may only use the lane if you are driving a public bus.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the lane if you are carrying more than 15 passengers.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may use the lane only during non peak hours regardless of vehicle type.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=200s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a bakkie along a restricted road with a “Delivery Vehicles Only” sign, but it is not a registered delivery vehicle, it is your private vehicle. Which of the following is true regarding your right to use the lane or road marked by this sign?",
+   "image": "images/appsworld/dEoZ5o6iB7k-265.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use the lane continuously as long as you are driving a delivery vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may use the lane only if every stop you make is for delivery or collection of goods related to your business.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may stop for personal errands briefly without losing your right to use the lane.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You are not allowed to use the lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=263s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving A goods vehicle. You approach a road displaying a “Goods Vehicles Only” command sign. Which of the following statements best describes your rights and obligations in this situation?",
+   "image": "images/appsworld/dEoZ5o6iB7k-322.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may enter and use the road freely because you are driving a good vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ignore the sign if you are in a hurry and that lane is busy.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not permitted to use the road because your car is a private passenger vehicle, and the sign applies only to dedicated goods vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "If it’s a weekend, enter that lane but only below 20 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=320s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a goods vehicle with a gross vehicle mass (GVM) of 9.5 tons. You encounter a road displaying the “Goods Vehicles Over 10t Only” command sign. Which action should you take and why?",
+   "image": "images/appsworld/dEoZ5o6iB7k-378.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed on the road because your vehicle is a goods vehicle, even though its GVM is under 10 tons.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must not proceed because your vehicle's GVM is below the indicated threshold, and the sign restricts access to vehicles exceeding 10 tons only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed if your vehicle is carrying a heavy load, regardless of the registered GVM.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You can proceed only if you are driving outside peak hours to avoid congestion.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=376s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a light delivery vehicle and approach a road marked with the “Construction Vehicles Only” command sign. Under what conditions, if any, may you legally proceed past this sign?",
+   "image": "images/appsworld/dEoZ5o6iB7k-490.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed if you are visiting a construction site located along the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must not proceed unless your vehicle is a construction vehicle, regardless of your destination.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed if you are driving your private bakkie.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Both B and C are correct.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=488s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a standard rigid truck and come upon a road marked with the “Abnormal Vehicles Only” command sign. Which of the following statements about proceeding past this sign is correct?",
+   "image": "images/appsworld/dEoZ5o6iB7k-554.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed if your truck is carrying an oversized load, regardless of its classification.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only vehicles officially classified as “abnormalvehicles” by transport authorities are permitted to proceed without additional authorization.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed with caution if the road is clear and no abnormal vehicles are currently on the route.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Any vehicle may proceed as long as it follows the designated route for abnormal vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=552s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When approaching a road or lane marked with the “Vehicles Conveying Hazardous Substances Only” sign, which of the following best describes the requirements and restrictions for vehicles not carrying hazardous materials?",
+   "image": "images/appsworld/dEoZ5o6iB7k-637.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Any vehicle may use the road as long as it maintains a safe distance from vehicles conveying hazardous substances.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only vehicles carrying hazardous substances are permitted to use the designated road or lane; all other vehicles must use alternative routes or lanes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Non hazardous vehicles may use the lane during off peak hours if there is no hazardous vehicle traffic.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All vehicles may proceed if they have NOT received Verbal permission from a traffic officer, regardless of the materials they carry.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=635s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "On a multi lane road, you encounter a “Rickshaws Only” command sign above the left most lane. You are driving a light motor vehicle and want to continue straight. Which of the following statements is correct regarding your options?",
+   "image": "images/appsworld/dEoZ5o6iB7k-754.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive in the “Rickshaws Only” lane if no rickshaw is present to avoid congestion.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must avoid the lane marked “Rickshaws Only” and use adjacent lanes designated for other vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the “Rickshaws Only” lane only if you are overtaking a slower rickshaw.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may temporarily enter the “Rickshaws Only” lane if you signal and give way to rickshaws.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=752s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private vehicle and approach a lane marked with a “Tour Buses Only” command sign. The lane is empty and you want to make a right turn shortly after. What is the correct action you should take?",
+   "image": "images/appsworld/dEoZ5o6iB7k-819.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Enter the “Tour Buses Only” lane temporarily to make your right turn.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Avoid the “Tour Buses Only” lane and use the adjacent lane designated for general traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Enter the “Tour Buses Only” lane only if there are no tour buses present.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Use the lane if you are following tour bus closely.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=817s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a standard passenger vehicle approaching a road with an “Agricultural Vehicles Only” lane marked by this command sign. The road is narrow and congested with traffic. What is the correct and legal approach you should take?",
+   "image": "images/appsworld/dEoZ5o6iB7k-873.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Use the agricultural vehicles lane to avoid traffic congestion temporarily.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Merge into the adjacent lane meant for your vehicle type and wait patiently in traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtake slower vehicles by driving in the agricultural vehicles lane if no agricultural vehicle is present.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop and wait before the lane to let any agricultural vehicles pass first, then proceed using that lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=871s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor vehicle and approach a narrow lane marked with the “Animal Drawn Vehicles Only” command sign. The lane is adjacent to a busy main road and separated by a solid white line. What is the safest and legal action to take in this situation?",
+   "image": "images/appsworld/dEoZ5o6iB7k-937.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Cross the solid white line and use the lane to overtake slower traffic temporarily.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Remain in your lane and allow only animal drawn vehicles to use the marked lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Merge into the animal drawn vehicle lane if no such vehicles are present to reduce congestion.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop before the lane and wait for a traffic officer to give instructions.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=935s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a toll road and approach a “Pay Toll” sign with multiple lanes ahead. The rightmost lane is marked for electronic toll collection (e tag users only), and the other lanes are for cash payments. You do not have an e tag. What should you do?",
+   "image": "images/appsworld/dEoZ5o6iB7k-992.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Enter the electronic toll lane and pay cash to the toll operator.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Merge into one of the cash payment lanes and prepare to pay the toll fee.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop before the toll plaza and wait for someone to direct you to the correct lane.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Use the emergency lane to avoid paying the toll if the cash lanes are busy.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=990s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a “Switch Headlamps On” sign while driving during late afternoon on a clear day. Why is it important to switch your headlamps on at this point, even though visibility seems good?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1062.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "To make your vehicle more visible to other road users in conditions where light levels may suddenly change.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Because it is mandatory to drive with headlights on at all times, regardless of visibility.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To signal other drivers that you are driving slowly.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "To save your vehicle's battery from draining during the day.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1060s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a “Buses & Mini Buses Only” sign on a certain road section. What does this sign mean, and what should you do if you are driving a sedan?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1131.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed but only if the bus or minibus lane is clear.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must not enter or drive in this lane if you are not driving a bus or minibus.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may drive there during off peak hours only.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must drive slowly but can use the lane if you are overtaking.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1129s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach a lane marked with a “Buses & Midi Buses Only” sign. Which of the following statements is correct?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1189.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only buses and midi buses are allowed to use this lane; all other vehicles must avoid it at all times.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Cars and mini buses may use the lane during weekends only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the lane if you are driving a taxi or delivery vehicle.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All vehicles are allowed to use the lane if traffic is heavy.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1187s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a lane marked with a “Buses, Midi-buses & Mini-buses Only” sign. Which of the following vehicles is NOT permitted to use this lane?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1237.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A 25-seater midi bus carrying passengers to a school.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A (mini bus) transporting commuters during peak hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A private delivery van delivering parcels.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A 50-seater bus on a scheduled city route.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1235s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At a roundabout with a “Roundabout” command sign, which of the following statements is TRUE regarding right of-way and signalling?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1282.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles entering the roundabout have the right of-way over vehicles already circulating.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must signal left when approaching the roundabout if you intend to exit at the first exit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles already in the roundabout have the right of-way, and you must give way to them.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You do not need to signal when leaving the roundabout.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1280s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-21",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you encounter the Buses & Trams Only command sign, which of the following is TRUE?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1332.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only buses and trams may use the lane or road beyond this sign; all other vehicles must keep out.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "All vehicles must stop and yield to buses and trams before entering.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Taxis and mini buses are allowed to use this lane if carrying passengers.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Motorcycles and pedal cycles can use the lane along with buses and trams.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1330s"
+  },
+  {
+   "id": "aw-dEoZ5o6iB7k-22",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When driving and you see the Buses, Trams & Mini Buses Only command sign, which of the following statements is CORRECT?",
+   "image": "images/appsworld/dEoZ5o6iB7k-1381.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only buses, trams, and mini buses are allowed to use the lane or road beyond the sign; all other vehicles must stay out.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "All vehicles may use the lane as long as they yield to buses, trams, and mini buses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Delivery vehicles are permitted to use this lane during off peak hours.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Private cars carrying passengers are allowed to use the lane if no buses or trams are present.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dEoZ5o6iB7k&t=1379s"
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "batch": "aw-GjXlCn9FFcs",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:12:26+02:00",
+ "questions": [
+  {
+   "id": "aw-GjXlCn9FFcs-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a passenger car towing a small caravan with a total combined mass of 3.5 tonnes. You approach an intersection where the combination sign shown above is displayed. What are you legally allowed to do?",
+   "image": "images/appsworld/GjXlCn9FFcs-8.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are strictly prohibited from turning left because the restriction applies to all vehicles towing trailers or caravans.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may turn left because the prohibition applies only to goods vehicles with a gross vehicle mass (GVM) exceeding 10 tonnes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must turn left immediately because this sign indicates a compulsory lane diversion for all light vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You cannot turn left, and you must come to a complete stop to allow oncoming heavy vehicles to pass you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The no-left-turn sign with a '10 t' goods-vehicle plate applies only to goods vehicles with a GVM over 10 tonnes; a car towing a 3.5 t caravan may turn left.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=7s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement regarding the use of a vehicle's hooter is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It may be used to greet another driver provided it is brief",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It may be used whenever a driver believes it will improve traffic flow",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It may only be used when necessary in the interests of safety",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It may be used to signal impatience to a slower vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A hooter may only be used when necessary for safety reasons, not to greet or show impatience.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=100s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a standard private passenger car and notice a commercial vehicle parked on the side of the road directly behind the sign combination provided. Under what circumstances applies the restriction shown on this sign?",
+   "image": "images/appsworld/GjXlCn9FFcs-157.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No vehicle of any kind is permitted to stop on this section of the road at any time.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only vehicles carrying dangerous goods are strictly prohibited from stopping here.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turning or reversing is prohibited for all vehicles transporting hazardous chemical substances.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Heavy cargo trucks are prohibited from parking overnight, but light delivery vehicles may stop.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The no-stopping sign combined with the dangerous-goods plate means the prohibition applies only to vehicles carrying dangerous goods.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=156s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A private motor vehicle is fitted with a siren that plays a musical tune. Which statement is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is legal provided the volume is below the hooter volume",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is legal if used only on private property",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is legal if the driver has held a licence for more than 5 years",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Such warning devices that play a tune may not be used on private vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Sirens or warning devices that play a tune may not be fitted to or used on private vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=249s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection and a traffic officer is standing directly ahead of you displaying the hand signal shown. Which traffic flow is legally required to stop?",
+   "image": "images/appsworld/GjXlCn9FFcs-298.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only traffic approaching the officer from behind must come to a complete stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "All traffic approaching the officer from both the front and behind must stop simultaneously.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only traffic approaching the officer from the front must stop.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All traffic inside the intersection must clear it immediately, but no new vehicles need to stop.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "An officer facing you with one arm raised vertically: traffic approaching from the front must stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=297s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A child is 13 years old and 1.6 metres tall. For seatbelt purposes, how is that person classified?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "As a child because they are under 14 years old",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "As an adult because they are taller than 1.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "As a child until they reach 14 years old",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Classification depends on whether they sit in the front or rear seat",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "For seatbelt purposes a person taller than 1.5 m is treated as an adult regardless of age.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=368s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection from behind a traffic officer who is standing as shown. What does this signal legally require you to do?",
+   "image": "images/appsworld/GjXlCn9FFcs-422.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed straight through the intersection without slowing down, as the signal is only intended for cross-traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must bring your vehicle to a complete stop before entering the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are permitted to turn left immediately, but you cannot proceed straight or turn right.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must drive past the officer on their left side only, ensuring you yield to oncoming pedestrians.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Approaching an officer from behind while the officer's arm is extended sideways: you must stop before the intersection.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=421s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which circumstance is wearing a seatbelt NOT compulsory?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When travelling below 20 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "While reversing or moving into or out of a parking bay",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When seated in the rear of the vehicle",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "While travelling on a private road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Wearing a seatbelt is not compulsory while reversing or moving into or out of a parking bay.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=489s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection driving a vehicle from the front of the traffic officer who is standing as shown. Which traffic stream must come to a stop?",
+   "image": "images/appsworld/GjXlCn9FFcs-530.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only traffic approaching the officer from the rear must stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only traffic approaching the officer from the side of the lowered arm must stop.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic approaching the officer from both the front and the rear must stop.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Traffic approaching from the right side may proceed, while all other streams must stop.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "With one arm raised and the other extended, traffic approaching from both the front and the rear must stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=529s"
+  },
+  {
+   "id": "aw-GjXlCn9FFcs-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver is approaching a vehicle displaying a red warning light and sounding a siren. What is the correct action?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving normally if the vehicle is in another lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Give immediate right of way to the emergency vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only yield if the emergency vehicle is approaching from behind",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop immediately in the roadway regardless of circumstances",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Give immediate right of way to an emergency vehicle displaying a red light and sounding a siren.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=GjXlCn9FFcs&t=591s"
+  }
+ ]
+}

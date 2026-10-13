@@ -1,0 +1,386 @@
+{
+ "batch": "aw-AnD4A_D1bag",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:34:18+02:00",
+ "questions": [
+  {
+   "id": "aw-AnD4A_D1bag-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the first action a driver must take if they are involved in an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Call their insurance company",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive away if the damage is minor",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Check the nature and extent of any injuries",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Argue with the other driver",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The first priority in any accident is to assess if anyone is injured and provide help if necessary. Leaving the scene or ignoring injuries can lead to legal consequences.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=47s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "Which of the following is NOT allowed when using a motorcycle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Carrying a passenger",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Towing another vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Riding in the rain",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Wearing protective gear",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Motorcycles are not designed to tow other vehicles as they lack the stability and towing capacity needed. Carrying passengers, riding in different weather conditions, and wearing protective gear are all allowed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=94s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum allowed length of a tow-rope, chain, or tow-bar between two vehicles on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3,5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "10 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A tow-rope longer than 3,5 metres increases the risk of accidents as it reduces control and reaction time. A shorter distance ensures safer towing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=128s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When towing another vehicle with a tow-rope or chain, what is the maximum allowed speed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "20 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "30 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "50 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "60 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "If towing with a tow-rope or chain, the speed must not exceed 30 km/h for safety. A drawbar allows for higher speeds because it provides better control between the two vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=163s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles is NOT allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A light motor vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A heavy motor vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A motor quadrucycle",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A sedan",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Motor quadrucycles are not designed for freeway conditions due to their speed limitations and lack of stability. Light and heavy motor vehicles are allowed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=199s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "Which motorcycle is NOT allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A 200cc motorcycle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A 150cc motorcycle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A 125cc motorcycle",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A 250cc motorcycle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The video gives 'a 125cc motorcycle' (its reason: 125cc or less is not allowed on freeways). Note: the NaTIS manual says only motorcycles of 50cc or less (or electrically powered) may not be used on a freeway, so by the manual none of these four motorcycles is banned.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=228s",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.56 Freeways (p.35)"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which circumstances is a person allowed to be on foot on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If they are jogging",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If they are walking to a nearby shop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If they have a valid reason, such as an emergency",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "If they want to take photos",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Pedestrians are not allowed on freeways under normal circumstances for safety reasons. Only emergencies, such as a vehicle breakdown, may justify being on foot.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=259s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it acceptable to stop a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When avoiding an accident",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When waiting for a friend",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When checking messages on a phone",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "When taking a break",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Stopping is only permitted when necessary for safety, such as to prevent an accident. Unnecessary stops can obstruct traffic and cause collisions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=294s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How close can you park to an intersection on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 3 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least 4 metres away",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least 5 metres away",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Anywhere, as long as there is space",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Parking within 5 metres of an intersection can obstruct visibility and cause accidents. A safe distance must be maintained.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=323s"
+  },
+  {
+   "id": "aw-AnD4A_D1bag-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the maximum speed limit for a bus on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "140 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Buses have a maximum speed limit of 100 km/h for safety reasons, as their size and weight make higher speeds risky. Other vehicles may have different limits.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AnD4A_D1bag&t=354s"
+  }
+ ]
+}

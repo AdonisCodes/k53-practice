@@ -1,0 +1,751 @@
+{
+ "batch": "aw-OxHOR9NvBeU",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:41:52+02:00",
+ "questions": [
+  {
+   "id": "aw-OxHOR9NvBeU-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving in the left lane and you see a de-restriction sign indicating the end of a Bus Lane Reservation. Which ONE of the following actions is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-13.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may now enter the lane because the restriction applying only to buses has ended.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must continue to stay out of the lane because it is always reserved for buses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may only enter the lane if you are travelling below 60 km/h.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may enter the lane only if there is no bus visible behind you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=12s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving on a public road and notice a truck-tractor pulling two trailers. The driver claims the total length of his articulated motor vehicle is 19,2 metres. According to the rules of the road, which ONE of the following statements is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle is legal, because any vehicle with more than one trailer may be up to 20 metres long.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle is illegal, because an articulated motor vehicle may not exceed 18,5 metres in overall length.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle is legal, because articulated vehicles used for goods transport have no maximum length limit.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The vehicle is legal only if it displays a “LONG VEHICLE” sign at the back.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=32s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a Two-Way Traffic warning sign with a supplementary plate reading “100 m”. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-58.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road becomes two-way immediately when you pass the warning sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You will reach the start of a two-way traffic section 100 metres ahead, and you must adjust your driving to expect oncoming traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must reduce your speed to 100 km/h before reaching the two-way section.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The sign means that overtaking is prohibited for the next 100 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=57s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A traffic officer stops a goods vehicle with a Gross Vehicle Mass (GVM) of 12 000 kg. The officer measures the vehicle and finds it to be 2,72 metres wide. According to the rules of the road, what must the officer do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Allow the vehicle to continue, because any goods vehicle over 10 000 kg is allowed up to 3 metres in width.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Allow the vehicle to continue only if it is travelling at less than 80 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Prohibit the vehicle from operating on a public road, because goods vehicles with a GVM of 12 000 kg or more may not exceed 2,6 metres in width.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Allow the vehicle to continue if it displays a warning board indicating “WIDE LOAD\".",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=77s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a public road and you see a Dual-Carriageway Freeway Begins sign ahead. Which ONE of the following is CORRECT once you pass this sign?",
+   "image": "images/appsworld/OxHOR9NvBeU-103.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may stop on the shoulder at any time if you want to rest, as long as your hazard lights are on.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not stop on the freeway except in an emergency, and only vehicles permitted on freeways may continue.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may make a U-turn if the median is wide enough.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may allow pedestrians to cross because the road is divided into two carriageways.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=102s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving late at night in a quiet residential area. You accelerate suddenly, causing your engine to rev loudly and your exhaust to make a sharp popping noise. A traffic officer hears this and stops you. According to the rules of the road, which ONE of the following is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive however you want as long as your vehicle has a valid licence disc.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Excessive noise is only illegal during night-time hours (18:00-06:00).",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to drive a vehicle on a public road in a manner that causes excessive noise, regardless of the time of day.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The offence applies only to heavy vehicles transporting goods.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=122s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a triangular warning sign showing a STOP symbol inside it, with a supplementary plate reading “15 m”. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-148.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must stop immediately at the warning sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are being warned that a STOP sign is coming up in 15 metres, and you must stop at the actual STOP line, not at the warning sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may ignore the STOP sign if the intersection looks clear.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The sign means you must slow down to 15 km/h before the STOP sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=147s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver is struggling to control a heavily loaded bakkie on a downhill road. His assistant jumps out and places a wooden block (wheel chock) against the back wheel while the vehicle is still moving to try and slow it down. According to the rules of the road, which ONE of the following is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This is allowed only if the vehicle is travelling at less than 10 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This is illegal because you may not use chocks or shoes between any moving vehicle's wheels and the road surface.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is allowed as long as the chock is made of wood or rubber.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is allowed on gravel roads but not on tar roads.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=167s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a lane with a Bus Lane Reservation sign displayed. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-193.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive in that lane if you are turning left within the next 100 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only buses may use that lane during the times (if any) indicated on the sign or supplementary plate.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the lane if you switch on your hazard lights and drive slowly.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Taxis and minibuses may also use the lane because they are public transport vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=192s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A resident reports a car that has been standing in the same parking spot on a public road inside an urban area. When the traffic officer arrives, he finds the vehicle has been parked in exactly the same place for 8 consecutive days, with no signs of movement or the owner returning. According to the rules of the road, what may the traffic officer consider this vehicle to be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A legally parked vehicle, because any car may stay in one spot for up to 14 days.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A stolen vehicle, because no owner may leave a car unattended for more than 24 hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "An abandoned vehicle, because it has been left in the same place on a public road for more than 7 continuous days.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A vehicle awaiting repair, and therefore exempt from the 7-day rule.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=212s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a Hippos Ahead warning sign on a rural road near a river. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-238.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may continue at the same speed because hippos usually move slowly and avoid the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed immediately, stay alert, and be prepared to stop because hippos may suddenly enter the roadway, especially at night.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Flash your headlights continuously to scare the hippos away from the road.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Drive in the centre of the road to avoid hippos that may be near the edges.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=237s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver is cruising along while sitting far back in the seat, leaning low, with one hand on the wheel and the other holding a drink. Because of this seating position, the driver cannot properly see the road ahead and cannot fully control the vehicle. According to the rules of the road, which ONE of the following is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This is acceptable as long as the driver stays within the speed limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This is acceptable only if the driver is an experienced driver.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is illegal because a driver may not sit in a position that limits full control of the vehicle or reduces clear view of traffic ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is allowed if the vehicle is fitted with advanced driver-assist systems.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=262s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving and see a Congestion Ahead warning sign. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-288.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may maintain your current speed because the congestion is not immediate.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must be prepared to stop or slow down suddenly, keep a safe following distance, and watch for queues of vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may overtake other vehicles to avoid the congestion.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The sign only applies to trucks and buses, not to cars.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=287s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver, in a rush, empties a container of old engine oil from his vehicle onto the side of a busy road. Another motorist skids because of the slippery surface. According to the rules of the road, which ONE of the following statements is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This is legal as long as the container is small and the road is dry.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This is illegal because a driver may not negligently or intentionally deposit oil, grease, fuel, or other offensive substances on or near a road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is allowed if done during daylight hours.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is allowed only on private property and not on public roads.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=307s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection with a 4-Way Stop Sign. Several vehicles arrive at the same time from different directions. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-333.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle on the left always goes first.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle that arrives first at the stop line has the right of way; if two arrive simultaneously, the vehicle on the right goes first.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may continue without stopping if the road looks clear.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All vehicles must wait for a police officer to direct traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=332s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver is transporting his 4-year-old child in the back seat of a car. The car has an appropriate child seat available, but the driver decides to let the child sit without it, believing the seatbelt is enough. According to the rules of the road, which ONE of the following is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This is legal, as long as the child is seated in the back seat.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This is illegal, because the driver must ensure a child uses an appropriate child restraint where it is available.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is legal if the journey is shorter than 5 km.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is only illegal if the child is under 3 years old.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=352s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a Sharp Bend Ahead to the Right warning sign. Which ONE of the following actions is CORRECT when approaching this sign?",
+   "image": "images/appsworld/OxHOR9NvBeU-378.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and move to the far right lane before the bend.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed before entering the bend, keep left, and be prepared for limited visibility around the corner.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up slightly to stabilise the vehicle through the bend.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Overtake slower vehicles before entering the bend to avoid slowing down inside the turn.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=377s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver is approaching an intersection but has a large load stacked on the front of the bakkie, partially blocking the view of the road ahead and to the left. According to the rules of the road, which ONE of the following is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The driver may continue driving as long as the vehicle speed is below 60 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The driver may continue if someone stands on the side of the road signaling other traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The driver may not drive because he/she does not have a full and clear view of the roadway ahead and to the left and right.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The driver may drive only if the load is secured with ropes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=397s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a lane with a Rickshaws Only command sign. Which ONE of the following is CORRECT?",
+   "image": "images/appsworld/OxHOR9NvBeU-423.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only rickshaws may drive in that lane; all other vehicles must use a different lane or road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Any vehicle may drive in the lane if it is travelling slowly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Taxis and minibuses may use the lane because they are public transport.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The sign is advisory, so all vehicles may ignore it if traffic is light.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=422s"
+  },
+  {
+   "id": "aw-OxHOR9NvBeU-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver has installed a dark-tinted film on the windscreen of a light motor vehicle. A traffic officer measures the visible light transmittance and finds it to be 65%. According to the rules of the road, which ONE of the following is CORRECT?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This is legal as long as the side windows meet legal requirements.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This is illegal because a light motor vehicle’s windscreen must allow at least 70% visible light transmittance.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is legal if the vehicle is only used during the daytime.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is legal if the driver wears sunglasses while driving.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OxHOR9NvBeU&t=442s"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Road scene with a yield sign on the left and a stop sign on the right">
+  <rect width="480" height="300" fill="#9ec5e8"/>
+  <rect x="0" y="170" width="480" height="130" fill="#6b8f4e"/>
+  <rect x="150" y="180" width="180" height="120" fill="#5c5c5c"/>
+  <rect x="236" y="180" width="8" height="120" fill="#f4e27a"/>
+  <rect x="70" y="118" width="8" height="70" fill="#666"/>
+  <polygon points="74,52 118,142 30,142" fill="#c1121f"/>
+  <polygon points="74,68 104,132 44,132" fill="#fff"/>
+  <rect x="390" y="88" width="8" height="100" fill="#666"/>
+  <polygon points="358,40 430,40 458,68 458,140 430,168 358,168 330,140 330,68" fill="#fff"/>
+  <polygon points="360,48 428,48 450,70 450,138 428,160 360,160 338,138 338,70" fill="#c1121f"/>
+  <text x="394" y="118" text-anchor="middle" fill="#fff" font-size="18" font-family="Arial,sans-serif" font-weight="700">STOP</text>
+</svg>

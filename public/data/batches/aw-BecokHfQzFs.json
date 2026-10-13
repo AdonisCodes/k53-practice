@@ -1,0 +1,458 @@
+{
+ "batch": "aw-BecokHfQzFs",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:37:28+02:00",
+ "questions": [
+  {
+   "id": "aw-BecokHfQzFs-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if a traffic officer signals you to stop, but the traffic light is green?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Obey the traffic officer",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Honk to alert the officer",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "You must always obey a traffic officer. A traffic officer's instruction is more important than any traffic light or road sign.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=39s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if your brakes fail while driving downhill?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn off the engine",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Use the handbrake and shift to a lower gear",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate to maintain control",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Use your handbrake and shift to a lower gear to slow the vehicle down. Turning off the engine or accelerating would make the situation worse.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=122s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of a chevron road marking?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To separate traffic lanes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To indicate areas where parking is allowed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To warn of sharp bends or hazards ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Chevrons warn you of a sharp bend or a hazard ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=163s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a blue rectangular sign with a white 'P' indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrian crossing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Parking area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Petrol station",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The white 'P' stands for parking, not a petrol station or a pedestrian crossing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=184s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you encounter a stop-and-go system at roadworks?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore the stop sign and proceed carefully",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and wait for the signal to proceed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Honk to alert the workers",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A person at the roadworks turns a sign that shows STOP on one side and GO on the other. If it shows STOP, stop and let the oncoming traffic through; move off only when it shows GO.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=212s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a flashing yellow arrow at a traffic light mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop and wait",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed with caution in the direction of the arrow",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore the arrow and follow the main light",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The video gives 'proceed with caution in the direction of the arrow'. Note: the NaTIS manual does not list a flashing yellow (amber) arrow. It lists a constant amber arrow (stop and wait until the flashing green arrow shows you may go) and a flashing amber disc (drive on carefully, but yield to pedestrians).",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=282s",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §8 Traffic signals, Traffic lights (p.56)"
+  },
+  {
+   "id": "aw-BecokHfQzFs-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of a rumble strip on the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To reduce vehicle speed and alert drivers",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To mark parking spaces",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To separate lanes of traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Rumble strips are placed on the road, for example near roadworks or areas with a lot of foot traffic, to make drivers slow down and pay attention.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=307s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if a vehicle in front of you suddenly stops?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Swerve into the next lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maintain a safe following distance and stop if necessary",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Honk to alert the driver",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Keeping a safe following distance gives you enough time to slow down and stop if the vehicle in front suddenly stops. Swerving into the next lane could cause an accident.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=343s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a triangular sign with a picture of falling rocks mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Area prone to landslides",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Construction zone ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Rocks blocking the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The falling rocks sign warns that rocks could fall onto the road in this area. Slow down so that you can stop if a fall occurs.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=385s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when entering a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up to match the flow of traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and wait for a gap",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Enter without checking for other vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Speed up to match the flow of traffic (without breaking the speed limit) so that you can merge safely.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=408s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a circular sign with a red border and a white background indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Warning of danger ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Prohibition or a restriction",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "General information",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Look at the shape and colours: a round sign with a red border and white background is a prohibition (restriction) sign. Warning signs are triangular.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=433s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a triangular sign with a red border and a picture of children walking mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "School zone ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrian crossing",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Play area nearby",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This sign warns that children might be crossing the road, for example near a school. Reduce your speed and look out for children.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=464s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a triangular sign with a picture of a car and squiggly lines mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slippery road surface ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed bumps ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Car wash nearby",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The squiggly lines represent skid tracks: the road surface ahead may be slippery.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=489s"
+  },
+  {
+   "id": "aw-BecokHfQzFs-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a triangular sign with a train on it mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Railway crossing ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Train station nearby",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Truck stop ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A triangular warning sign with a train warns of a railway crossing ahead.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BecokHfQzFs&t=518s"
+  }
+ ]
+}

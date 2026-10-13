@@ -1,0 +1,4011 @@
+{
+ "batch": "ai-004",
+ "source": "ai",
+ "addedAt": "2026-10-07T15:38:21+02:00",
+ "questions": [
+  {
+   "id": "ai-1301",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "By definition, which of these is \"roadworthy\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Any vehicle less than 5 years old",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle that complies with the Act and is otherwise fit to be operated on a public road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any vehicle with a valid licence disc",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A vehicle that has been washed and serviced",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "\"Roadworthy\" means a vehicle which complies with the relevant provisions of the Act and is otherwise in a fit condition to be operated on a public road.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.8)"
+  },
+  {
+   "id": "ai-1302",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is a \"trailer\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A truck-tractor",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A motorcycle sidecar",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A vehicle that is not self-propelled and is designed to be drawn by a motor vehicle (not including a motorcycle sidecar)",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Any vehicle being towed with a rope",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "\"Trailer\" means a vehicle which is not self-propelled and designed to be drawn by a motor vehicle, but does not include a sidecar.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.9)"
+  },
+  {
+   "id": "ai-1303",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the maximum overall height of a double-deck bus?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "4,3 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5,0 m",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4,0 m",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "4,65 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Overall height may not exceed 4,65 m for a double-deck bus and 4,3 m for any other motor vehicle.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.31 (p.25)"
+  },
+  {
+   "id": "ai-1304",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "This sign means: \"Soft shoulder\".",
+   "image": "images/ai/sign-TW342.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Soft shoulder (TW342): do not drive or stop on the shoulder.",
+   "tags": [
+    "AI",
+    "sign:TW342"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 TW342 (p.31)"
+  },
+  {
+   "id": "ai-1305",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where must the licence disc be displayed on a motor car?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On the dashboard",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On the lower right-hand corner on the outside of the windscreen",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On the rear window",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "On the lower left-hand corner on the inside of the windscreen",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Cut out the disc and affix it to the lower left-hand corner on the inside of the windscreen or disc holder (Regulation 36).",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.9); National Road Traffic Regulations, 2000, Reg 36"
+  },
+  {
+   "id": "ai-1306",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do when you see this sign?",
+   "image": "images/ai/sign-W402.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Do not pass to the left of the sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Do not pass to the right of the sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn left immediately",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop next to the sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Delineator plates (W402): do not pass to the left of W402.",
+   "tags": [
+    "AI",
+    "sign:W402"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W402 (p.33)"
+  },
+  {
+   "id": "ai-1307",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "fill-blank",
+   "question": "A main beam (bright lights) must be able to show a person or vehicle at a distance of at least ____ ahead.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "200 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "150 m",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "45 m",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "100 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "The main beam must illuminate persons/vehicles at least 100 m ahead.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.2 (p.16)"
+  },
+  {
+   "id": "ai-1308",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the maximum overall length of a combination of vehicles (other than a bus-train)?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "25 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "22 m",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "12,5 m",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "18,5 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A combination of vehicles may not exceed 22 m.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.30 (p.24)"
+  },
+  {
+   "id": "ai-1309",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "fill-blank",
+   "question": "A ____ line painted along the edge of the road means no stopping.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "yellow",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "red",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "blue",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "white",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "No stopping lines (RM12) are red; no parking lines (RM13) are yellow.",
+   "tags": [
+    "AI",
+    "sign:RM12"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §7.1 RM12 (p.51)"
+  },
+  {
+   "id": "ai-1310",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "fill-blank",
+   "question": "You may not stop alongside or opposite another vehicle where the roadway is less than ____ wide.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "5,5 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12 m",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "6 m",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "9 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "No stopping alongside or opposite another vehicle where the roadway is less than 9 m wide.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.48 (p.31)"
+  },
+  {
+   "id": "ai-1311",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "This sign means: \"Traffic signals ahead\".",
+   "image": "images/ai/sign-W346.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "False. Emergency flashing light (W346): a hazard ahead; look out for other signs. (\"Traffic signals ahead\" is the meaning of W301.)",
+   "tags": [
+    "AI",
+    "sign:W346"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W346 (p.31)"
+  },
+  {
+   "id": "ai-1312",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where this sign is displayed, when may you stop?",
+   "image": "images/ai/sign-R217.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "For up to 5 minutes to drop off passengers",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only to load or off-load goods",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only to obey a traffic light or traffic officer, or to avoid a collision",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "At any time if you leave the hazard lights on",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Stopping prohibited (R217): do not stop unless to obey a traffic light or officer or to avoid a collision.",
+   "tags": [
+    "AI",
+    "sign:R217"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.3 R217 (p.12)"
+  },
+  {
+   "id": "ai-1313",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control is used to keep the vehicle stationary after parking?",
+   "image": "images/ai/ctrl-lmv-manual.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "1",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "5",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The hand brake (7).",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.6 Sample questions (p.11)"
+  },
+  {
+   "id": "ai-1314",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "hotspot",
+   "question": "Tap the sign that means: \"Road narrows from both sides\".",
+   "image": "images/ai/grid-signs-20.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.167,
+     "y": 0.75,
+     "r": 0.152
+    }
+   ],
+   "explanation": "Road narrows from both sides (W328).",
+   "tags": [
+    "AI",
+    "sign:W328"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W328 (p.29)"
+  },
+  {
+   "id": "ai-1315",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "ordering",
+   "question": "Put the starting procedure for a manual-transmission car in the correct order.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn the ignition key further to start the engine",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn the ignition key to \"on\" without starting the engine",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Check warning lights and gauges for malfunction",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Release hold on the key as soon as the engine starts",
+     "image": null
+    },
+    {
+     "id": "E",
+     "text": "Ensure that the parking brake is applied",
+     "image": null
+    },
+    {
+     "id": "F",
+     "text": "Ensure that the gear lever is in neutral",
+     "image": null
+    }
+   ],
+   "answer": [
+    "E",
+    "F",
+    "B",
+    "C",
+    "A",
+    "D"
+   ],
+   "explanation": "LMV Module 3 starting procedure (manual transmission).",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 3 (p.19)"
+  },
+  {
+   "id": "ai-1316",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "hotspot",
+   "question": "Tap the left and right rear-view mirrors in this automatic-transmission car.",
+   "image": "images/ai/ctrl-lmv-auto.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.075,
+     "y": 0.42,
+     "r": 0.06
+    },
+    {
+     "x": 0.925,
+     "y": 0.42,
+     "r": 0.06
+    }
+   ],
+   "explanation": "The left and right rear-view mirrors is control 3.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10)"
+  },
+  {
+   "id": "ai-1317",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/ai/sign-W206.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Combined curves: first sharp curve to the right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hairpin bend to the left",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Two-way traffic crossroad ahead (one-way street crossed by a two-way street)",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Hairpin bend to the right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Hairpin bend (W206/W207): a very sharp U-shaped curve ahead.",
+   "tags": [
+    "AI",
+    "sign:W206"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W206 (p.25)"
+  },
+  {
+   "id": "ai-1318",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A flashing green arrow is shown together with a steady red light. What does it mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed in the direction of the arrow, giving way to pedestrians and vehicles lawfully in the intersection",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The lights are out of order",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only buses may proceed",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A flashing green arrow with a steady red indicates traffic may proceed in the direction of the arrow subject to the right of way of pedestrians and vehicles lawfully within the intersection.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 41 (p.62)"
+  },
+  {
+   "id": "ai-1319",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "matching",
+   "question": "Match each control to what it is used for.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "B",
+     "text": "Brake",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "C",
+     "text": "Hand brake (parking brake)",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "D",
+     "text": "Indicator light switch",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "1",
+     "text": "To advise other road users of your intention to turn or change direction",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "2",
+     "text": "To decrease speed or stop",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "3",
+     "text": "To keep the vehicle stationary after parking",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "4",
+     "text": "To increase the speed of the vehicle",
+     "image": null,
+     "side": "right"
+    }
+   ],
+   "answer": [
+    "A:4",
+    "B:2",
+    "C:3",
+    "D:1"
+   ],
+   "explanation": "Accelerator: to increase the speed of the vehicle. Brake: to decrease speed or stop. Hand brake (parking brake): to keep the vehicle stationary after parking. Indicator light switch: to advise other road users of your intention to turn or change direction.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.6 Sample questions (p.11)"
+  },
+  {
+   "id": "ai-1320",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "matching",
+   "question": "Match the numbered controls of this automatic car to their names.",
+   "image": "images/ai/ctrl-lmv-auto.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Number 1",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "B",
+     "text": "Number 3",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "C",
+     "text": "Number 5",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "D",
+     "text": "Number 11",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "1",
+     "text": "Horn",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "2",
+     "text": "Left and right rear-view mirrors",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "3",
+     "text": "Centre rear-view mirror",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "4",
+     "text": "Indicator light switch",
+     "image": null,
+     "side": "right"
+    }
+   ],
+   "answer": [
+    "A:3",
+    "B:2",
+    "C:4",
+    "D:1"
+   ],
+   "explanation": "1 = centre mirror, 3 = side mirrors, 5 = indicator switch, 11 = horn.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10)"
+  },
+  {
+   "id": "ai-1321",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means: \"One-way roadway to the right\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "",
+     "image": "images/ai/sign-R1.5.png"
+    },
+    {
+     "id": "B",
+     "text": "",
+     "image": "images/ai/sign-R4.2.png"
+    },
+    {
+     "id": "C",
+     "text": "",
+     "image": "images/ai/sign-R1.3.png"
+    },
+    {
+     "id": "D",
+     "text": "",
+     "image": "images/ai/sign-R6.png"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "One-way roadway (R4.1/4.2/4.3): a one-way carriageway lies in the direction of the arrow.",
+   "tags": [
+    "AI",
+    "sign:R4.2"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.1 R4.2 (p.5)"
+  },
+  {
+   "id": "ai-1322",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "What is the minimum following distance a motorcyclist should keep in normal conditions?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 second",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "One motorcycle length",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A minimum 2-second following distance",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "4 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "MC Module 22: obtain and where possible maintain a minimum 2-second following distance, increased in adverse conditions.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Motor Cycles manual Part 1, Module 22 (p.39)"
+  },
+  {
+   "id": "ai-1323",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this yellow overhead arrow mean?",
+   "image": "images/ai/sign-S18.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Your lane is closed ahead – leave it in the direction of the arrow",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Exit 500 m ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtaking lane",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Lane reserved for buses",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Yellow arrow (S18/S19): the lane you are driving in is closed ahead; leave the lane in the direction of the arrow.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §8 S18 (p.56)"
+  },
+  {
+   "id": "ai-1324",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/ai/sign-W205.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sharp curve to the right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lane ends: the left-hand lane ends",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Winding road (first bend to the left)",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sharp curve to the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Sharp curve (W204/W205): slow down to take the curve safely.",
+   "tags": [
+    "AI",
+    "sign:W205"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W205 (p.25)"
+  },
+  {
+   "id": "ai-1325",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which colour warning light is used by vehicles of traffic officers on duty?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Blue",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Green",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Amber",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Vehicles driven by traffic officers in carrying out their duties use blue warning lights.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.16 (p.20)"
+  },
+  {
+   "id": "ai-1326",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/ai/sign-R2.1.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No entry",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "One-way roadway straight ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yield to pedestrians",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Yield",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Yield to pedestrians (R2.1): give priority to pedestrians crossing or wanting to cross and be ready to stop.",
+   "tags": [
+    "AI",
+    "sign:R2.1"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.1 R2.1 (p.5)"
+  },
+  {
+   "id": "ai-1327",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The signal changes to this as you approach. What must you do?",
+   "image": "images/ai/tl-amber.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerate to clear the intersection",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop only if pedestrians are crossing",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed – amber means go with caution",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop, unless you cannot stop safely",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Amber: stop, except where it cannot be done safely.",
+   "tags": [
+    "AI",
+    "traffic-signals"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §8 Traffic signals (p.56)"
+  },
+  {
+   "id": "ai-1328",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "You may leave an animal in a place from which it may stray onto a freeway.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "No person shall leave or allow an animal on a freeway or leave it where it may stray onto a freeway.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.56 (p.35)"
+  },
+  {
+   "id": "ai-1329",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are at this sign. Which movements are allowed?",
+   "image": "images/ai/sign-R211.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn left or make a U-turn",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only straight on",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only left",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Straight on or turn right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Left turn prohibited (R211): you may proceed straight or turn right.",
+   "tags": [
+    "AI",
+    "sign:R211"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.3 R211 (p.12)"
+  },
+  {
+   "id": "ai-1330",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a truck. What does this sign prohibit?",
+   "image": "images/ai/sign-R215.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Driving in the right lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtaking a motorcycle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Trucks entering the road",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Overtaking another heavy vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "R215: if you are driving a heavy motor vehicle, do not overtake another heavy vehicle.",
+   "tags": [
+    "AI",
+    "sign:R215"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.3 R215 (p.12)"
+  },
+  {
+   "id": "ai-1331",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "A junction includes any stop or yield line marking painted at the intersection.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "\"Junction\" includes any portion of the roadway between the lateral limits and any stop or yield line marking painted at the intersection.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.5)"
+  },
+  {
+   "id": "ai-1332",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "hotspot",
+   "question": "Tap the horn in this manual-transmission car.",
+   "image": "images/ai/ctrl-lmv-manual.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.703,
+     "y": 0.445,
+     "r": 0.04
+    }
+   ],
+   "explanation": "The horn is control 11.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.1–2.2 Light motor vehicle – manual gearbox (p.8–9)"
+  },
+  {
+   "id": "ai-1333",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "hotspot",
+   "question": "Tap the steering wheel in this manual-transmission car.",
+   "image": "images/ai/ctrl-lmv-manual.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.698,
+     "y": 0.28,
+     "r": 0.06
+    }
+   ],
+   "explanation": "The steering wheel is control 4.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.1–2.2 Light motor vehicle – manual gearbox (p.8–9)"
+  },
+  {
+   "id": "ai-1334",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is the brake used for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To advise other road users of your intention to turn or change direction",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To see what is to the rear of the vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To decrease speed or stop",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "To change the direction of the vehicle (steer left or right)",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The brake is used to decrease speed or stop.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.6 Sample questions (p.11)"
+  },
+  {
+   "id": "ai-1335",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/ai/sign-R119.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Cyclists and pedestrians only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn left ahead only",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed straight only",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Minibuses only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Minibuses only (R119): the road or part of the road is set aside for minibuses.",
+   "tags": [
+    "AI",
+    "sign:R119"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.2 R119 (p.7)"
+  },
+  {
+   "id": "ai-1336",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "multi",
+   "question": "Which of these are driving signals? (Select all that apply.)",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hand signals",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Direction indicators",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Horn",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Window wipers",
+     "image": null
+    },
+    {
+     "id": "E",
+     "text": "Brake lights",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "E"
+   ],
+   "explanation": "Driving signals are direction indicators, horn, brake lights, headlamps and hand signals.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Glossary – Signal – driving (p.84)"
+  },
+  {
+   "id": "ai-1337",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The driver of this car is giving a hand signal. What does it mean?",
+   "image": "images/ai/hand-left.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turning right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stopping or sudden reduction of speed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The driver is greeting someone",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Turning left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Turning left (car): extend the right arm sideways from the shoulder, forearm vertical and downward from the elbow, and move it in a circular anti-clockwise motion.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 7 (p.23)"
+  },
+  {
+   "id": "ai-1338",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/ai/sign-W213.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Winding road (first bend to the right)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Concealed driveway ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hairpin bend to the right",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Two-way traffic crossroad ahead (one-way street crossed by a two-way street)",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Two-way traffic crossroad (W213): your one-way street will be crossed by a street carrying two-way traffic.",
+   "tags": [
+    "AI",
+    "sign:W213"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W213 (p.26)"
+  },
+  {
+   "id": "ai-1339",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Before opening your door after parking, what must you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Check rear-view mirrors and blind spots",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hoot",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Switch on the headlights",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Release the parking brake",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Check rear-view mirrors and blind spots before opening doors.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 31 (p.52)"
+  },
+  {
+   "id": "ai-1340",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/ai/sign-R116.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorcycles only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Minibuses only",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cyclists and pedestrians only",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Turn right ahead only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Motorcycles only (R116): only motorcyclists may use this road or part of the road.",
+   "tags": [
+    "AI",
+    "sign:R116"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.2 R116 (p.7)"
+  },
+  {
+   "id": "ai-1341",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "hotspot",
+   "question": "Tap the sign that means: \"Pedal cyclists ahead (next 2 km)\".",
+   "image": "images/ai/grid-signs-18.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.833,
+     "y": 0.75,
+     "r": 0.152
+    }
+   ],
+   "explanation": "Pedal cyclists (W309): look out for cyclists for the next 2 km.",
+   "tags": [
+    "AI",
+    "sign:W309"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W309 (p.27)"
+  },
+  {
+   "id": "ai-1342",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/ai/sign-W324.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedal cyclists ahead (next 2 km)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop sign ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow-moving heavy vehicles ahead",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Low-flying aircraft",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Slow-moving heavy vehicles (W324): heavy vehicles travel slowly down a descent.",
+   "tags": [
+    "AI",
+    "sign:W324"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W324 (p.29)"
+  },
+  {
+   "id": "ai-1343",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The driver of this car is giving a hand signal. What does it mean?",
+   "image": "images/ai/hand-right.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turning left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turning right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The driver is greeting someone",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stopping or sudden reduction of speed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Turning right: extend the right arm horizontally from the shoulder with the palm of the hand to the front.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 8 (p.24)"
+  },
+  {
+   "id": "ai-1344",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "In this automatic-transmission car, what is control number 9?",
+   "image": "images/ai/ctrl-lmv-auto.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Centre rear-view mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hand brake (parking brake)",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Brake",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Control 9 is the brake.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10)"
+  },
+  {
+   "id": "ai-1345",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign tells you to drive no slower than the speed shown?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "",
+     "image": "images/ai/sign-R102.png"
+    },
+    {
+     "id": "B",
+     "text": "",
+     "image": "images/ai/sign-R101.png"
+    },
+    {
+     "id": "C",
+     "text": "",
+     "image": "images/ai/sign-R201.png"
+    },
+    {
+     "id": "D",
+     "text": "",
+     "image": "images/ai/sign-IN14.png"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Minimum speed (R101) is a blue command disc; R201 (red ring) is a maximum speed limit.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.2 R101 (p.6)"
+  },
+  {
+   "id": "ai-1346",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Tractors may use a freeway only when…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Never",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Displaying an amber light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Travelling at least 60 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Used in connection with the construction or maintenance of the freeway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "A tractor may not be used on a freeway except in connection with its construction or maintenance.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.56 (p.35)"
+  },
+  {
+   "id": "ai-1347",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "fill-blank",
+   "question": "A warning triangle must be placed at least ____ from the stationary vehicle.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "25 m",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "45 m",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "10 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The warning sign (triangle) must be placed not less than 45 m from the vehicle, towards approaching traffic.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.24 (p.23)"
+  },
+  {
+   "id": "ai-1348",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "multi",
+   "question": "When may you stop on a roadway where stopping is otherwise not allowed? (Select all that apply.)",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "For a cause beyond your control",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To avoid an accident",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When directed by a traffic officer",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "To answer your cellphone",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "explanation": "Stopping exceptions: to avoid an accident, on a traffic officer's direction, or for any cause beyond the driver's control.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.48 (p.31)"
+  },
+  {
+   "id": "ai-1349",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/ai/sign-W334.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedal cyclists ahead (next 2 km)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Road narrows from the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow-moving heavy vehicles ahead",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Falling rocks from the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Falling rocks (W334): rocks could fall from the left.",
+   "tags": [
+    "AI",
+    "sign:W334"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W334 (p.30)"
+  },
+  {
+   "id": "ai-1350",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is a \"traffic signal\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A flashing amber light on a vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A hand signal given by a driver",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A road traffic sign that, by means of automatic light signals, alternately directs traffic to stop and to proceed",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A traffic officer's whistle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "\"Traffic signal\" means a road traffic sign which by means of automatic light signals alternately directs traffic to stop and permits it to proceed.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.9)"
+  },
+  {
+   "id": "ai-1351",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "fill-blank",
+   "question": "An automatic car does not have a ____ pedal.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "brake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "foot brake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "accelerator",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "clutch",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Automatic vehicles do not have a clutch control.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10)"
+  },
+  {
+   "id": "ai-1352",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "matching",
+   "question": "Match each alcohol limit to the correct driver and test.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Ordinary driver – blood",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "B",
+     "text": "Professional driver – blood",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "C",
+     "text": "Ordinary driver – breath",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "D",
+     "text": "Professional driver – breath",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "1",
+     "text": "0,10 mg per 1 000 ml",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "2",
+     "text": "0,24 mg per 1 000 ml",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "3",
+     "text": "0,05 g per 100 ml",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "4",
+     "text": "0,02 g per 100 ml",
+     "image": null,
+     "side": "right"
+    }
+   ],
+   "answer": [
+    "A:3",
+    "B:4",
+    "C:2",
+    "D:1"
+   ],
+   "explanation": "Blood: 0,05 g/100 ml (0,02 professional). Breath: 0,24 mg/1 000 ml (0,10 professional).",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.gov.za/sites/default/files/gcis_document/201409/act93of1996.pdf",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.65 (p.38); National Road Traffic Act 93 of 1996, s65"
+  },
+  {
+   "id": "ai-1353",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "What is the maximum number of persons who may ride on a motorcycle (excluding a sidecar)?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "One",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Three",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Two",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Two adults and one child",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Not more than two persons shall ride upon a motorcycle, excluding a person in a sidecar.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.50 (p.33)"
+  },
+  {
+   "id": "ai-1354",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "hotspot",
+   "question": "Tap the window wiper in this automatic-transmission car.",
+   "image": "images/ai/ctrl-lmv-auto.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.33,
+     "y": 0.3,
+     "r": 0.08
+    }
+   ],
+   "explanation": "The window wiper is control 2.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10)"
+  },
+  {
+   "id": "ai-1355",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which of these is a \"STOP ahead\" warning sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "",
+     "image": "images/ai/sign-W303.png"
+    },
+    {
+     "id": "B",
+     "text": "",
+     "image": "images/ai/sign-W301.png"
+    },
+    {
+     "id": "C",
+     "text": "",
+     "image": "images/ai/sign-W302.png"
+    },
+    {
+     "id": "D",
+     "text": "",
+     "image": "images/ai/sign-R1.png"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "W302 (traffic control \"STOP\" ahead) is a triangular warning sign containing a small stop sign.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W302 (p.26)"
+  },
+  {
+   "id": "ai-1356",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When passing an on-ramp on a freeway, what should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop to let them in",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Adjust your speed and position to help vehicles join the freeway, if necessary",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up to stop them merging",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Hoot to warn them",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "On approach to an on-ramp, check mirrors and blind spot and adjust speed and position to facilitate the entry of vehicles about to join the freeway.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 55 (p.76)"
+  },
+  {
+   "id": "ai-1357",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "If a pedestrian figure signal starts flashing red, pedestrians already in the intersection must cross as quickly as possible.",
+   "image": "images/ai/sign-S11.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "If the red figure signal flashes, pedestrians who have not entered must wait; those already in the intersection must cross as quickly as possible.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §8 Traffic signals (p.56)"
+  },
+  {
+   "id": "ai-1358",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "Goods carried on a motorcycle may not project more than how far in front of the front axle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "600 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "900 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "450 mm",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "300 mm",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Goods on a motorcycle may not project more than 600 mm in front of the front axle.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.35 (p.26)"
+  },
+  {
+   "id": "ai-1359",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means: \"Gravel road ends\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "",
+     "image": "images/ai/sign-W318.png"
+    },
+    {
+     "id": "B",
+     "text": "",
+     "image": "images/ai/sign-W346.png"
+    },
+    {
+     "id": "C",
+     "text": "",
+     "image": "images/ai/sign-W307.png"
+    },
+    {
+     "id": "D",
+     "text": "",
+     "image": "images/ai/sign-W363.png"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Gravel road ends (W363): look out for a tar or concrete road ahead.",
+   "tags": [
+    "AI",
+    "sign:W363"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W363 (p.33)"
+  },
+  {
+   "id": "ai-1360",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "fill-blank",
+   "question": "After a motor vehicle licence expires, there is a grace period of ____ during which the vehicle may still be used.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "21 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "30 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "14 days",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "7 days",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A vehicle may be operated within 21 days after the date of expiry.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §5.8 (p.15)"
+  },
+  {
+   "id": "ai-1361",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "This sign means: \"The sign above applies at night only\".",
+   "image": "images/ai/sign-R512.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Night time (R512): the regulatory sign applies only at night.",
+   "tags": [
+    "AI",
+    "sign:R512"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.6 R512 (p.20)"
+  },
+  {
+   "id": "ai-1362",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are towing a trailer. What does this sign mean for you?",
+   "image": "images/ai/sign-R240.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reduce speed to 80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Trailers must park here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Do not enter – vehicles towing another vehicle are prohibited",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Towing is only allowed with a tow-bar",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Towed vehicles prohibited (R240): do not enter the area if you are towing another vehicle or trailer.",
+   "tags": [
+    "AI",
+    "sign:R240"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.3 R240 (p.15)"
+  },
+  {
+   "id": "ai-1363",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do at this sign if you do not know how deep the water is?",
+   "image": "images/ai/sign-W350.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive through in neutral",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch on the hazard lights and continue",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive through quickly",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Drift (W350): slow down and, if it is not known how deep the water is, stop. If passable, drive through slowly.",
+   "tags": [
+    "AI",
+    "sign:W350"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W350 (p.32)"
+  },
+  {
+   "id": "ai-1364",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "true-false",
+   "question": "When moving off in a manual car, selecting a gear, obtaining clutch control and observing may be done in one flowing movement.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Numbers 7, 8 and 9 (select gear, clutch control, observe) may be done in one flowing movement.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 12 (p.28)"
+  },
+  {
+   "id": "ai-1365",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means: \"Taxis prohibited\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "",
+     "image": "images/ai/sign-R215.png"
+    },
+    {
+     "id": "B",
+     "text": "",
+     "image": "images/ai/sign-R232.png"
+    },
+    {
+     "id": "C",
+     "text": "",
+     "image": "images/ai/sign-R224.png"
+    },
+    {
+     "id": "D",
+     "text": "",
+     "image": "images/ai/sign-R223.png"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Taxis prohibited (R224).",
+   "tags": [
+    "AI",
+    "sign:R224"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.3 R224 (p.13)"
+  },
+  {
+   "id": "ai-1366",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "multi",
+   "question": "Which emergency vehicles use a red warning light? (Select all that apply.)",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Rescue vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Emergency medical response vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic officer's vehicle",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Fire-fighting vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D"
+   ],
+   "explanation": "Fire-fighting, fire-fighting response, rescue, emergency medical response vehicles and ambulances use red lights; traffic officers blue; civil protection green.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.16 (p.20)"
+  },
+  {
+   "id": "ai-1367",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the general speed limit on a public road within an urban area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "50 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "General speed limits: 60 km/h in urban areas, 100 km/h outside urban areas, 120 km/h on freeways.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.27 (p.24); National Road Traffic Regulations, 2000, Reg 292"
+  },
+  {
+   "id": "ai-1368",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the maximum speed for a bus or minibus?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "90 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Buses and minibuses are limited to 100 km/h.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.28 (p.24)"
+  },
+  {
+   "id": "ai-1369",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "matching",
+   "question": "Which control is each number? Match them.",
+   "image": "images/ai/ctrl-lmv-manual.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Number 1",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "B",
+     "text": "Number 2",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "C",
+     "text": "Number 5",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "D",
+     "text": "Number 6",
+     "image": null,
+     "side": "left"
+    },
+    {
+     "id": "1",
+     "text": "Window wiper",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "2",
+     "text": "Centre rear-view mirror",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "3",
+     "text": "Indicator light switch",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "4",
+     "text": "Gear lever",
+     "image": null,
+     "side": "right"
+    }
+   ],
+   "answer": [
+    "A:2",
+    "B:1",
+    "C:3",
+    "D:4"
+   ],
+   "explanation": "1 = Centre rear-view mirror. 2 = Window wiper. 5 = Indicator light switch. 6 = Gear lever.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.1–2.2 Light motor vehicle – manual gearbox (p.8–9)"
+  },
+  {
+   "id": "ai-1370",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "You may refuse to give a blood or breath specimen when requested.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "No person shall refuse that a specimen of blood or breath be taken of him or her.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.gov.za/sites/default/files/gcis_document/201409/act93of1996.pdf",
+   "manualRef": "National Road Traffic Act 93 of 1996, s65(9)"
+  },
+  {
+   "id": "ai-1371",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "hotspot",
+   "question": "Tap the sign that means: \"Sharp curve to the left (chevron)\".",
+   "image": "images/ai/grid-signs-25.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.833,
+     "y": 0.25,
+     "r": 0.152
+    }
+   ],
+   "explanation": "Sharp curve chevron (W406/W408): the road curves suddenly to the left.",
+   "tags": [
+    "AI",
+    "sign:W406"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.3 W406 (p.34)"
+  },
+  {
+   "id": "ai-1372",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "true-false",
+   "question": "This sign means: \"Cyclists and pedestrians only\".",
+   "image": "images/ai/sign-R126.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "False. R126: the road or part of the road is set aside for vehicles conveying dangerous goods. (\"Cyclists and pedestrians only\" is the meaning of R112.)",
+   "tags": [
+    "AI",
+    "sign:R126"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.2 R126 (p.8)"
+  },
+  {
+   "id": "ai-1373",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control do you use to keep the windscreen clear in rainy conditions?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Window wiper",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Centre mirror",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Indicator light switch",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Horn",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The window wiper (2) keeps the windscreen clear in the rain.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.6 Sample questions (p.11)"
+  },
+  {
+   "id": "ai-1374",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you cross this solid line to your right?",
+   "image": "images/ai/sign-RM1.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Never, under any circumstances",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To overtake a slow truck",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whenever the road ahead is clear for 500 m",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "To get direct access to an entrance on the other side, or to pass a stationary obstruction, if safe",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "No overtaking line (RM1): do not cross except to gain direct access to an entrance, from such an entrance to the road, or to pass a stationary obstruction, when safe.",
+   "tags": [
+    "AI",
+    "sign:RM1"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §7.1 RM1 (p.48)"
+  },
+  {
+   "id": "ai-1375",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is the correct driving position?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Knee slightly bent when the clutch is fully depressed, and arms slightly bent with hands at twelve o'clock on the wheel",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Arms fully straight",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "As far back as the seat goes",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "As close to the wheel as possible",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The distance from the wheel should allow the knee to be slightly bent with the clutch fully depressed, and the arms slightly bent with hands at the twelve o'clock position.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Glossary – Driving position (p.80)"
+  },
+  {
+   "id": "ai-1376",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "By definition, a \"motor vehicle\" includes a trailer.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "\"Motor vehicle\" means any self-propelled vehicle and includes a trailer.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.6)"
+  },
+  {
+   "id": "ai-1377",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do immediately if you are involved in an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Move the vehicles off the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Phone your insurer before stopping",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive to the nearest police station",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop your vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Any driver involved in an accident must immediately stop the vehicle.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.62 (p.37)"
+  },
+  {
+   "id": "ai-1378",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "hotspot",
+   "question": "Tap the left and right rear-view mirrors in this manual-transmission car.",
+   "image": "images/ai/ctrl-lmv-manual.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.07,
+     "y": 0.41,
+     "r": 0.06
+    },
+    {
+     "x": 0.93,
+     "y": 0.41,
+     "r": 0.06
+    }
+   ],
+   "explanation": "The left and right rear-view mirrors is control 3.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.1–2.2 Light motor vehicle – manual gearbox (p.8–9)"
+  },
+  {
+   "id": "ai-1379",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Someone was injured in an accident and the vehicles completely obstruct the road. When may a vehicle be moved?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only once its position has been clearly marked on the road surface, or a traffic officer authorises it",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only after the tow truck arrives",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never until the police have taken photographs",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Immediately, to clear the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A vehicle may not be moved unless its position has been clearly marked on the road surface or a traffic officer authorised the removal.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.62 (p.37)"
+  },
+  {
+   "id": "ai-1380",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign tell you about the road you are on?",
+   "image": "images/ai/sign-W212.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The one-way roadway will soon become two-way",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Two lanes for overtaking ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A dual carriageway begins",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The road is closed in both directions",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Two-way traffic (W212): the one-way roadway you are travelling on will soon become a two-way roadway.",
+   "tags": [
+    "AI",
+    "sign:W212"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W212 (p.26)"
+  },
+  {
+   "id": "ai-1381",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "Which hand signal does a motorcyclist give to show an intention to turn left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Right arm extended with forearm vertically upward",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Right arm with forearm moving in an anti-clockwise circle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Left arm extended horizontally sideways from the shoulder, palm facing forward",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Left arm pointing down",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "MC Module 7: extend the left arm horizontally sideways from the shoulder, with palm facing forward.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Motor Cycles manual Part 1, Module 7 (p.24)"
+  },
+  {
+   "id": "ai-1382",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "In this automatic car, which control do you check before slowing down?",
+   "image": "images/ai/ctrl-lmv-auto.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "2",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "11",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "7",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Control 1 is the centre rear-view mirror.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10); NaTIS Learner Driver Manual – Vehicle Controls §2.6 Sample questions (p.11)"
+  },
+  {
+   "id": "ai-1383",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "matching",
+   "question": "Match each regulatory sign shown to what it means.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign 1",
+     "image": "images/ai/sign-R218.png",
+     "side": "left"
+    },
+    {
+     "id": "B",
+     "text": "Sign 2",
+     "image": "images/ai/sign-R222.png",
+     "side": "left"
+    },
+    {
+     "id": "C",
+     "text": "Sign 3",
+     "image": "images/ai/sign-R240.png",
+     "side": "left"
+    },
+    {
+     "id": "D",
+     "text": "Sign 4",
+     "image": "images/ai/sign-R216.png",
+     "side": "left"
+    },
+    {
+     "id": "1",
+     "text": "Pedestrians prohibited",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "2",
+     "text": "Towed vehicles prohibited (no towing beyond this sign)",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "3",
+     "text": "Motorcycles prohibited (on a freeway, leave at the first exit)",
+     "image": null,
+     "side": "right"
+    },
+    {
+     "id": "4",
+     "text": "No parking",
+     "image": null,
+     "side": "right"
+    }
+   ],
+   "answer": [
+    "A:1",
+    "B:3",
+    "C:2",
+    "D:4"
+   ],
+   "explanation": "Sign 1 is R218: Pedestrians prohibited. Sign 2 is R222: Motorcycles prohibited (on a freeway, leave at the first exit). Sign 3 is R240: Towed vehicles prohibited (no towing beyond this sign). Sign 4 is R216: No parking.",
+   "tags": [
+    "AI",
+    "matching-signs"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs R218 (p.13), R222 (p.13), R240 (p.15), R216 (p.12)"
+  },
+  {
+   "id": "ai-1384",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "true-false",
+   "question": "A motorcyclist may hold on to another moving vehicle to be pulled along.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A rider or passenger shall not take hold of any other vehicle in motion.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.50 (p.33)"
+  },
+  {
+   "id": "ai-1385",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you cross a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When you have signalled",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Whenever you have the right of way",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When the traffic is moving slowly",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Only when it is clear of moving traffic for a sufficient distance to cross without obstructing or endangering traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Do not cross a road unless it is clear of moving traffic for a sufficient distance to cross safely.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.59 (p.36)"
+  },
+  {
+   "id": "ai-1386",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "This sign means: \"Pedal cycles and pedestrians prohibited\".",
+   "image": "images/ai/sign-R220.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "R220: cyclists and pedestrians may not proceed beyond this sign.",
+   "tags": [
+    "AI",
+    "sign:R220"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.3 R220 (p.13)"
+  },
+  {
+   "id": "ai-1387",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "A person may apply for a learner's licence for a class of vehicle he or she is already licensed to drive.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A person is disqualified if the licence relates to a class of vehicle he or she may already drive under a licence held.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – §4.1 Disqualification (p.11)"
+  },
+  {
+   "id": "ai-1388",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you drive your vehicle backwards (reverse) on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only for distances under 10 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only when it can be done in safety",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only in an urban area",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Never on a public road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "You may not cause a vehicle to travel backwards unless it can be done in safety.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.49 (p.32)"
+  },
+  {
+   "id": "ai-1389",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "A child aged 10 who is taller than 1,5 m is regarded as an adult for seatbelt purposes.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A child taller than 1,5 m is regarded as an adult, irrespective of age.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.17 (p.20)"
+  },
+  {
+   "id": "ai-1390",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "true-false",
+   "question": "A learner's licence is valid for 12 months.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A learner's licence is valid for 24 months from the date of the test.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §5.1 (p.12)"
+  },
+  {
+   "id": "ai-1391",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/ai/sign-W210.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Lane ends: the right-hand lane ends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Gentle curve to the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Combined curves: first sharp curve to the right",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sharp curve to the right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Combined curves (W210): two sharp curves in opposite directions, the first to the right.",
+   "tags": [
+    "AI",
+    "sign:W210"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W210 (p.25)"
+  },
+  {
+   "id": "ai-1392",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In which direction is the first bend on the road indicated by this sign?",
+   "image": "images/ai/sign-W208.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is only one bend",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It cannot be determined",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "To the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Winding road: in the case of W208 the first bend is to the right (W209: first bend left).",
+   "tags": [
+    "AI",
+    "sign:W208"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W208 (p.22)"
+  },
+  {
+   "id": "ai-1393",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/ai/sign-IN4.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Multi-phase traffic signals: your signal may stay red while oncoming traffic gets green",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Exit about 200 m ahead (countdown sign)",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have right of way at the intersection ahead",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Cul-de-sac (the road ends)",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "Cul-de-sac (IN4–IN6): the road ahead (or to the left/right) ends.",
+   "tags": [
+    "AI",
+    "sign:IN4"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §6 IN4 (p.46)"
+  },
+  {
+   "id": "ai-1394",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is \"riding the clutch\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Changing gear without the clutch",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Resting your foot on the clutch pedal while moving, or keeping it depressed while stationary for any length of time",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Driving without using the clutch",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Releasing the clutch quickly",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Riding the clutch is resting the foot on the clutch pedal whilst the vehicle is in motion or keeping the clutch depressed whilst stationary; it causes excessive wear.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Glossary – Clutch – rides (p.80)"
+  },
+  {
+   "id": "ai-1395",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "hotspot",
+   "question": "Tap the sign that means: \"Combined curves: first sharp curve to the left\".",
+   "image": "images/ai/grid-signs-16.png",
+   "options": [],
+   "answer": [
+    {
+     "x": 0.5,
+     "y": 0.25,
+     "r": 0.152
+    }
+   ],
+   "explanation": "Combined curves (W211): two sharp curves in opposite directions, the first to the left.",
+   "tags": [
+    "AI",
+    "sign:W211"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §4.2 W211 (p.25)"
+  },
+  {
+   "id": "ai-1396",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does \"acceptable identification\" include for a person not permanently resident in South Africa?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A foreign driving school certificate",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A bank card",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A hotel booking",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "An identity document issued by a foreign country, or a traffic register number certificate",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "For a person not permanently resident: an identity document issued by a foreign country or a traffic register number certificate.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road – Acronyms and definitions (p.2)"
+  },
+  {
+   "id": "ai-1397",
+   "source": "ai",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "In this automatic-transmission car, what is control number 10?",
+   "image": "images/ai/ctrl-lmv-auto.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Indicator light switch",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Centre rear-view mirror",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Control 10 is the accelerator.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Vehicle Controls §2.3–2.5 Light motor vehicle – automatic gearbox (p.9–10)"
+  },
+  {
+   "id": "ai-1398",
+   "source": "ai",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "ordering",
+   "question": "Put the steps for giving a left-turn hand signal from a car in the correct order.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn forearm vertically downward and move it in an anti-clockwise circle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Check blind spot to the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Signal intention using direction indicators",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Extend right arm sideways from shoulder",
+     "image": null
+    },
+    {
+     "id": "E",
+     "text": "Check rear-view mirror(s) and blind spot to the left",
+     "image": null
+    },
+    {
+     "id": "F",
+     "text": "Retract arm in good time and replace hand on steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "E",
+    "C",
+    "B",
+    "D",
+    "A",
+    "F"
+   ],
+   "explanation": "LMV Module 7 sets out these steps for the left-turn hand signal.",
+   "tags": [
+    "AI"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/general-documents?view=category&id=2",
+   "manualRef": "NaTIS K53 Light Motor Vehicle (Code B) manual, Module 7 (p.23)"
+  },
+  {
+   "id": "ai-1399",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/ai/sign-R3.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrian priority area (max 15 km/h for permitted vehicles)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "One-way roadway to the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No entry",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "One-way roadway to the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "No entry (R3): no traffic may proceed past the sign; do not enter the carriageway. Usually at the end of a one-way street or off-ramp.",
+   "tags": [
+    "AI",
+    "sign:R3"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.1 R3 (p.5)"
+  },
+  {
+   "id": "ai-1400",
+   "source": "ai",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the meaning of this sign?",
+   "image": "images/ai/sign-R2.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrian priority area (max 15 km/h for permitted vehicles)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yield",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop – but you may turn left without stopping if you yield to traffic",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "No entry",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Yield sign (R2): you must yield to other traffic; reduce speed and stop if necessary.",
+   "tags": [
+    "AI",
+    "sign:R2"
+   ],
+   "sourceRef": "https://www.natis.gov.za/index.php/downloads/learner-driver-manual",
+   "manualRef": "NaTIS Learner Driver Manual – Road Traffic Signs §3.1 R2 (p.4)"
+  }
+ ]
+}

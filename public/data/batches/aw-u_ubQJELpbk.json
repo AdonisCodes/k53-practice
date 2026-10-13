@@ -1,0 +1,327 @@
+{
+ "batch": "aw-u_ubQJELpbk",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:20:29+02:00",
+ "questions": [
+  {
+   "id": "aw-u_ubQJELpbk-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is parked at night on a public road. In which situation is it legally permitted for the vehicle’s lights to remain off?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the vehicle is parked facing the flow of traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When the vehicle is parked within 12 metres of a streetlight illuminating the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When the driver remains inside the vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A vehicle parked at night may have its lights off if it is parked within 12 m of a lit street lamp illuminating the road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=12s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection where the traffic lights are not functioning. A traffic officer is using control hand signals to direct vehicles through the intersection. What should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Follow the traffic officer’s hand signals, even if they differ from the road signs or traffic lights",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Obey the road signs first, since traffic lights are not operational",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Treat the intersection as a four-way stop until the traffic lights are repaired",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A traffic officer's signals override road signs and traffic lights.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=87s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A learner's licence becomes valid:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On the date the application is approved",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On the day the learner’s test is passed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 hours after issue",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A learner's licence is valid from the day the learner's test is passed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=150s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A traffic officer gives the hand signal shown in the diagram provided. What does this signal instruct drivers to do?",
+   "image": "images/appsworld/u_ubQJELpbk-189.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed with caution, as cross traffic has been stopped",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop only if turning at the intersection",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop if approaching the officer from the front",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Officer with the right arm raised vertically: traffic approaching the officer from the front must stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=188s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is standing partly on the shoulder and partly on the roadway. Which part determines whether it is considered to be “on the road”?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The wheels only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Any part of the vehicle occupying the roadway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The driver’s position",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "If any part of the vehicle occupies the roadway, it is considered to be on the road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=245s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A traffic officer gives the hand signal shown in the diagram provided. What does this signal instruct drivers to do?",
+   "image": "images/appsworld/u_ubQJELpbk-284.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop traffic approaching the officer from behind",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop all traffic approaching the intersection",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Allow vehicles behind the officer to proceed with caution",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Officer with the back to you and arm extended sideways: traffic approaching from behind must stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=283s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may a vehicle legally operate without an interior rear-view mirror?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the rear window is tinted",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When the interior mirror cannot provide a clear rear view and an exterior mirror compensates for it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never, all vehicles must have one",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "An interior mirror may be omitted if it cannot give a clear view to the rear and an exterior mirror compensates (fitted on the other side).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=325s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A traffic officer gives the hand signal shown in the diagram provided. What does this signal mean?",
+   "image": "images/appsworld/u_ubQJELpbk-374.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Traffic approaching the officer from both the front and the rear must stop",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Traffic approaching the officer from the front may proceed, while traffic from the rear must stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic approaching from the sides must stop before entering the intersection",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Officer with one arm raised and the other extended: traffic approaching from both the front and the rear must stop.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=373s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which vehicle is MOST likely classified as a goods vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A minibus carrying tools",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A truck-tractor designed mainly to draw other vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A bus transporting equipment instead of passengers",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A truck-tractor designed mainly to draw other vehicles is classified as a goods vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=418s"
+  },
+  {
+   "id": "aw-u_ubQJELpbk-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A traffic officer gives the hand signal shown in the diagram provided. What does this signal instruct drivers to do?",
+   "image": "images/appsworld/u_ubQJELpbk-461.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed only if the intersection is completely clear",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue driving with caution, while remaining prepared to stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drivers facing the officer may proceed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Officer with the hand raised and the back of the hand facing you: drivers facing the officer may proceed. (Answer as stated in the narration; the video does not highlight it on screen.)",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=u_ubQJELpbk&t=460s"
+  }
+ ]
+}

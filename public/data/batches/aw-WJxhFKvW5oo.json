@@ -1,0 +1,649 @@
+{
+ "batch": "aw-WJxhFKvW5oo",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:41:13+02:00",
+ "questions": [
+  {
+   "id": "aw-WJxhFKvW5oo-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Is a load that is placed on the roof of your vehicle allowed to touch the road surface?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you drive a bakkie",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A load may not come into contact with the road surface; it would be a hazard to you and to other road users.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=44s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to have a load that exceeds 3 metres in height from the ground?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No, 3 metres is the max height allowed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "3 metres is not the limit. The overall height of a vehicle with its load may not exceed 4,3 metres measured from the ground.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=94s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you have a load that exceeds 4.3 metres in height from the ground?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The overall height of a vehicle with its load, measured from the ground, may not exceed 4,3 metres (4,65 metres for a double-deck bus).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=141s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The load on your vehicle must not exceed half the height of your vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hatchbacks are not allowed to carry a load",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A and B",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Goods on the roof of a motor car may not be higher than half the height of the car. Hatchbacks are allowed to carry a load, so B (and therefore C) is wrong.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=220s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In terms of a light motor vehicle, what is the maximum width that your load is not allowed to exceed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1.2 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2,5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "For a light motor vehicle the maximum width of the load is 2,5 metres. A load that sticks out to the side must also be marked with red flags.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=275s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "In terms of a goods vehicle that weighs more than 12000 kg, what is the maximum width that your load is not allowed to exceed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2,6 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1.8 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2,35 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "For a goods vehicle of more than 12 000 kg the maximum width of the load is 2,6 metres.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=365s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the furthest that a load may project to the front of the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "260 millimetres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "300 millimetres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "235 millimetres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A load may not project more than 300 millimetres beyond the front of the vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=418s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the furthest that a load may project to the rear of the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0,8 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "30 centimetres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1,8 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A load may not project more than 1,8 metres beyond the rear of the vehicle.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=468s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of a blind spot check?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To help you pass your driver's licence test",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To ensure there are no vehicles or obstacles in areas not visible in your mirrors before changing lanes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Checking your blindspot is not important when on the public road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Before changing lanes you must be sure the lane is clear, including areas your mirrors cannot show.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=506s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are the first two things you must do if your vehicle breaks down on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop your vehicle on the right lane and step out of your vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Phone your boss and inform him that you will be late for work",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Move off the road if possible and switch on your hazard lights",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Move your vehicle off the road if possible and switch on your hazard lights so that other road users can see it. Never stop in the right (fast) lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=557s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the penalty for driving without a valid learner's or driver's licence?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to drive on a public road without your learner's or driver's licence",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is no penalty",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A fine or imprisonment",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Driving without a valid learner's or driver's licence can result in a fine or imprisonment. A learner driver must also be accompanied by a licensed driver.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=608s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum legal tread depth for a car's tires?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "8 mm",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The minimum legal tread depth is 1 mm.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=655s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red circle around a number on a speed limit sign mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It indicates a hazard ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It indicates the minimum speed limit",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It indicates the maximum speed limit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A number in a red circle on a speed limit sign indicates the maximum speed limit.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=673s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who has the right of way at a four-way stop?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle that stops first, or if two vehicles arrive simultaneously, the one to the right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The person with the faster vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Everyone should leave at the same time",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "At a four-way stop the vehicle that stopped first moves off first.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=707s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of a yellow line on the left side of the road?",
+   "image": "images/appsworld/WJxhFKvW5oo-770.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "To decorate the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It indicates that you are allowed to park here to have a smoke break",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It marks the edge of the road and separates the emergency lane from the main road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The yellow line on the left marks the edge of the road and separates the emergency lane (shoulder) from the main road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=732s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far from a pedestrian crossing are you allowed to park?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "300 centimetres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Within 5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No closer than 9 meters",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "You are not allowed to park within 9 metres of a pedestrian crossing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=774s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do when approaching a flashing red traffic light?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Treat it as a stop sign; stop and proceed when safe",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Don't bother stopping as it's not a solid red light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and don't leave until a traffic officer instructs you to do so",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A flashing red traffic light means you must stop and may carry on when it is safe, as at a stop sign.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=800s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it illegal to overtake another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you drive a slow vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On a blind rise, curve, or when there's a solid white line",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "You may not overtake on a blind rise or curve, or where there is a solid white line.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=832s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a yellow traffic light mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must speed up",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Prepare to stop if it's safe to do so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must immediately stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A yellow (amber) light means you must stop, unless you cannot do so safely.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=853s"
+  },
+  {
+   "id": "aw-WJxhFKvW5oo-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a yield sign mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down and give the right of way to other traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should speed up",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must immediately stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "At a yield sign, slow down and give right of way to other traffic; stop only if there is traffic in your way.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WJxhFKvW5oo&t=878s"
+  }
+ ]
+}

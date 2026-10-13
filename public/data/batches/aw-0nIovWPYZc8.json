@@ -1,0 +1,330 @@
+{
+ "batch": "aw-0nIovWPYZc8",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:35:56+02:00",
+ "questions": [
+  {
+   "id": "aw-0nIovWPYZc8-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it legal to drive on the shoulder of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To overtake a vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only during daylight hours when a vehicle is driving slowly and it's safe to do so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never, it's always illegal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is allowed to ease traffic flow, but only if it's safe.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=30s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red triangle with a cow symbol indicate?",
+   "image": "images/appsworld/0nIovWPYZc8-111.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A veterinary clinic ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A farm area with a possibility of animals on the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A meat processing plant",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The red triangle indicates a warning for potential animal hazards.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=87s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the primary purpose of a vehicle’s rearview mirrors?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To monitor the road behind you",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To check for personal grooming",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To observe passengers in the back seat",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Rearview mirrors are designed to enhance situational awareness.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=147s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When approaching a railway crossing with no boom gate, what must you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up to cross quickly",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop, look both ways, and only proceed if it's safe",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Honk your horn to alert the train driver",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This ensures the tracks are clear and safe to cross.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=206s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a flashing red traffic light mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop and proceed only when it is safe",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Treat it as a green light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and wait for assistance",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This functions like a stop sign, ensuring safe movement.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=252s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does the term \"blind spot\" mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The area not visible in your rearview or side mirrors",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The section of the road with poor lighting",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A shaded area where drivers are advised to stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is why shoulder checks are important when changing lanes.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=303s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if your vehicle's brakes fail while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Shift to a lower gear and use the handbrake gently",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate to stabilize the vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn off the engine immediately",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This helps reduce speed safely without causing a skid.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=360s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a solid white line in the centre of the road mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtaking is allowed when the road is clear",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtaking is not allowed under any circumstances",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrian crossing ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Solid lines indicate no overtaking to maintain safety.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=414s"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit in a residential area unless otherwise indicated?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "50 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "40 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The video gives 50 km/h. Corrected: the NaTIS manual sets a general speed limit of 60 km/h on every public road in an urban area unless a road traffic sign shows otherwise. There is no separate 50 km/h default for residential areas.",
+   "tags": [
+    "answer-corrected"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=463s",
+   "manualRef": "NaTIS Learner Driver Manual – Rules of the Road §6.27 Speed limits (p.24)"
+  },
+  {
+   "id": "aw-0nIovWPYZc8-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When driving in heavy rain, what should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn on your high beams for better visibility",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce your speed and increase the following distance",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use hazard lights while driving",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This ensures better control and reaction time in slippery conditions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=0nIovWPYZc8&t=516s"
+  }
+ ]
+}

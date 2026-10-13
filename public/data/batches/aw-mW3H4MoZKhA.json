@@ -1,0 +1,327 @@
+{
+ "batch": "aw-mW3H4MoZKhA",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:16:38+02:00",
+ "questions": [
+  {
+   "id": "aw-mW3H4MoZKhA-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to overtake a vehicle on the right?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only when a road sign tells you to overtake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When it is safe and there are no signs or markings prohibiting it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Anytime you feel like it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "You may only overtake if it's safe and allowed by road signs or markings.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=292s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "After overtaking, when should you return to your original lane?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Immediately after passing the other vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Once it is safe and you are well clear of the vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "After overtaking three cars",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "You must make sure there is enough space before moving back to your lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=347s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Should you overtake when your visibility is limited, like near a blind bend or blind rise?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, if you are in a hurry",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if you use your hooter (horn)",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, you must not overtake",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "If you can't see clearly, overtaking is extremely dangerous.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=391s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you overtake a vehicle stopped at a pedestrian crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, if you think no one is crossing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, you must not overtake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, but only slowly",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "There could be pedestrians crossing that you can't see.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=432s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do when passing a stationary bus?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive as fast as possible past it",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Look out for passengers getting on or off",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hoot to warn the bus",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Passengers might walk unexpectedly onto the road, so you must be alert.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=472s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it allowed to overtake on the left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If the vehicle ahead is turning right or if there are two or more lanes moving in the same direction",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When you are angry",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whenever there’s no oncoming traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "These are the only times overtaking on the left is allowed legally.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=512s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the safest rule to remember for overtaking?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep right, pass left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Keep left, pass right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtake whenever you want",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "It’s always safest to stay in the left lane and overtake using the right lane.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=551s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you cross over the yellow line to overtake on the left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, if there’s enough space",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, you must never cross the yellow line",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Crossing the yellow line to overtake is illegal and unsafe.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=574s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when another driver wants to overtake you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Move to the left if safe and keep your speed steady",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up to prevent them from overtaking",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Swerve side to side to block them",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "You must not block or race them, help them pass safely.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=618s"
+  },
+  {
+   "id": "aw-mW3H4MoZKhA-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you overtake across a solid white line?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, if you are quick",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, you must never overtake across a solid white line",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if the car in front is very slow",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A solid white line means overtaking is illegal and dangerous, it’s there to protect you from crashes.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mW3H4MoZKhA&t=655s"
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "batch": "aw-WEP-Kn5E-oo",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:38:02+02:00",
+ "questions": [
+  {
+   "id": "aw-WEP-Kn5E-oo-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a heavy goods vehicle (GVM over 3,500 kg) and come across a blue circular command sign displaying the symbol of a motor car at the entrance to a specific carriageway. What does this sign legally mandate?",
+   "image": "images/appsworld/WEP-Kn5E-oo-16.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The designated road or lane is reserved exclusively for motor cars; heavy goods vehicles, motorcycles, buses, and non-motorized vehicles are strictly prohibited from entering.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "All vehicles may enter the roadway, but heavy vehicles must maintain a minimum distance of 50 meters behind any motor car ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor cars must yield right-of-way to heavy vehicles when entering or exiting this roadway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=15s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private passenger vehicle and approach a road or dedicated lane marked with a blue circular command sign showing a taxi symbol. Which statement accurately states your legal requirement?",
+   "image": "images/appsworld/WEP-Kn5E-oo-99.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use the taxi lane to bypass heavy traffic during peak hours, provided you do not stop or park.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The designated lane, roadway, or parking area is reserved strictly for authorized taxis; private vehicles and all other non-taxi traffic are legally prohibited from using it.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Private vehicles are allowed in the lane only if they are carrying three or more passengers (carpooling).",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=98s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private motor car along a multi-lane urban street and see a blue circular command sign displaying the symbol of a minibus posted above the right-hand lane. What is your legal obligation regarding that lane?",
+   "image": "images/appsworld/WEP-Kn5E-oo-223.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Private vehicles may use the lane to overtake slower vehicles, provided they return to the left lane within 200 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The designated lane is reserved exclusively for minibuses; all other vehicles, including private cars, trucks, and motorcycles, are strictly prohibited from driving in or using it.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All light passenger vehicles carrying 5 or more passengers are permitted to use the lane alongside minibuses.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=222s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a standard motor car and approach a road or dedicated lane displaying a blue circular command sign showing the symbol of a midibus. What does this sign legally mandate?",
+   "image": "images/appsworld/WEP-Kn5E-oo-297.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only midibuses are permitted to use that lane or road segment; other vehicles, including private motor cars, heavy trucks, and motorcycles, are strictly prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Midi-sized commercial delivery vans under 3,500 kg GVM may share the lane with midibuses during non-peak hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Private motor cars carrying 8 or more passengers are legally permitted to use the midibus lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=296s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private motor car along an urban roadway and notice a blue circular command sign displaying the symbol of a standard bus mounted over the left lane. What is your legal duty regarding this lane?",
+   "image": "images/appsworld/WEP-Kn5E-oo-367.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may drive in the bus lane during off-peak hours, provided you vacate the lane as soon as a bus approaches from behind.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The lane is reserved exclusively for standard buses; all other vehicles, including private motor cars, minibuses, and delivery trucks, are strictly prohibited from using it.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Private motor cars carrying four or more passengers (high-occupancy vehicles) are legally permitted to use the bus lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=366s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are looking for parking near a shopping district and spot a dedicated bay/lane marked with a blue circular command sign displaying a delivery vehicle symbol. What is the legal requirement for using this space?",
+   "image": "images/appsworld/WEP-Kn5E-oo-432.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Private motor vehicles may park in the bay for up to 15 minutes while picking up or dropping off passengers.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The designated lane, bay, or roadway is reserved exclusively for goods vehicles actively loading or unloading goods; private passenger vehicles are strictly prohibited from using it.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any vehicle under 3,500 kg GVM may park in the bay outside of normal business hours (after 18:00).",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=431s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private passenger car and encounter a roadway or dedicated lane marked with a blue circular command sign displaying the symbol of a goods vehicle. What is your strict legal obligation?",
+   "image": "images/appsworld/WEP-Kn5E-oo-497.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are strictly prohibited from driving in or entering that lane or roadway, as it is legally reserved exclusively for goods vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may use the lane provided you do not exceed 60 km/h and do not block faster commercial trucks behind you.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may enter the lane only between 18:00 and 06:00 when goods traffic is light.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=496s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a light commercial vehicle with a Gross Vehicle Mass (GVM) of 3,500 kg (3.5 tonnes). You approach a multi-lane roadway displaying a blue circular command sign showing a truck symbol with \"10t\" inside. Which statement correctly describes your legal duty?",
+   "image": "images/appsworld/WEP-Kn5E-oo-550.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must move into this lane immediately because all commercial goods vehicles regardless of weight are required to use it.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are legally prohibited from using this designated lane or roadway because your vehicle's GVM does not exceed 10 tonnes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the designated lane only during night-time hours when heavy traffic is reduced.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=549s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a private motor car near an active building site and encounter a blue circular command sign displaying the symbol of a construction vehicle at the entrance to a lane or access road. What does this sign legally mandate?",
+   "image": "images/appsworld/WEP-Kn5E-oo-626.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Private motor vehicles may enter the access road, provided they use hazard lights and yield right-of-way to all construction machinery.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only designated construction vehicles and heavy site machinery are legally permitted to enter or use that lane/roadway; all other motor vehicles are strictly prohibited.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All vehicles driving through the area must maintain a minimum speed of 30 km/h to clear the construction zone quickly.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=625s"
+  },
+  {
+   "id": "aw-WEP-Kn5E-oo-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a standard commercial truck and encounter a blue circular command sign displaying the symbol of an abnormal vehicle or load at the entrance to a specific bypass lane. What is your legal obligation?",
+   "image": "images/appsworld/WEP-Kn5E-oo-697.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Standard commercial trucks may use the lane if they carry a yellow flashing light, but private passenger cars are banned.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are strictly prohibited from entering or using this lane, as it is legally reserved exclusively for vehicles with abnormal dimensions or loads.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All heavy vehicles weighing over 3,500 kg GVM are required to enter the lane regardless of whether their dimensions are abnormal.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=WEP-Kn5E-oo&t=696s"
+  }
+ ]
+}

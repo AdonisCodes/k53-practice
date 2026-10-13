@@ -1,0 +1,1505 @@
+{
+ "batch": "aw-SOu5WiQYHsA",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:04:45+02:00",
+ "questions": [
+  {
+   "id": "aw-SOu5WiQYHsA-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re driving on a freeway with a 100 km/h speed limit sign. Suddenly, the road clears up, and you’re running late. You accelerate to 115 km/h to make up time but maintain full control of your vehicle and obey all other rules. Which of the following is TRUE regarding your action?",
+   "image": "images/appsworld/SOu5WiQYHsA-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It is acceptable as long as you don't exceed 120 km/h, which is the general freeway limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is illegal, because the 100 km/h sign specifically overrides the general freeway limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is only illegal if you are caught by a speed camera or stopped by an officer.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It is allowed if you are overtaking and there are no other vehicles nearby.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=0s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a delivery truck with a GVM of 11.5 tonnes, but it is currently loaded with goods that bring the total weight to 12.4 tonnes. You approach a Mass Limit (12t) sign. What must you do?",
+   "image": "images/appsworld/SOu5WiQYHsA-131.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed, because the truck's official GVM is under the 12-tonne limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed, because temporary loads are not considered in the restriction.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and take an alternate route, because the actual weight exceeds the 12-tonne restriction.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may proceed if the road ahead is wide and in good condition.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=129s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are transporting light construction equipment using a small flatbed truck. While the total vehicle mass is within legal limits, your rear axle carries 2.3 tonnes. You approach a road with an Axle Mass Load Limit (2t) sign. What must you do?",
+   "image": "images/appsworld/SOu5WiQYHsA-211.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed slowly to avoid damaging the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue driving because the overall vehicle weight is below the limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and redistribute the load evenly between axles, then continue.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Turn back or reroute, as the rear axle exceeds the 2-tonne limit.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=209s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You’re transporting cargo on a truck with an overall height of 4.38 m. However, upon arriving at a bridge marked with a Height Limit of 4.42 m, you notice heavy suspension bounce when driving over bumps. What is the safest course of action?",
+   "image": "images/appsworld/SOu5WiQYHsA-265.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed slowly to ensure you clear the bridge without bouncing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed as your measured height is within the posted limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Avoid the route and find an alternative path to eliminate any risk of collision.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Reduce tire pressure slightly to lower vehicle height and proceed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=263s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A truck tractor pulling a semi trailer has a total length of 14.6 metres. The driver plans to add a rear mounted loading platform that will extend the total length to 15.2 metres. If the route includes a Length Limit (15 m) sign, what is the legal and most appropriate response?",
+   "image": "images/appsworld/SOu5WiQYHsA-333.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed with caution, as 15.2 metres is only slightly over the limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed during off peak hours to avoid obstructing traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Modify the vehicle configuration to stay within the 15 m limit or take an alternate route.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Request escort from traffic authorities to bypass the rule safely.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=331s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A delivery vehicle has a body width of 2.05 metres, but when the side mirrors are extended, the total width becomes 2.22 metres. The driver wants to enter a road marked with a Width Limit (2.1m) sign. What should the driver do?",
+   "image": "images/appsworld/SOu5WiQYHsA-387.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Enter, because the body of the vehicle is under 2.1 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Fold the mirrors temporarily to comply with the restriction before entering.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Enter carefully, ensuring not to hit anything with the mirrors.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Avoid entering, as the total width including mirrors exceeds 2.1 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=385s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver in a private sedan sees the \"Unauthorised Vehicles Prohibited\" sign posted at the entrance to a government facility’s service road. The guard is temporarily away from the gate, and no barrier is blocking the path. What is the correct legal action?",
+   "image": "images/appsworld/SOu5WiQYHsA-461.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Enter quietly since no one is monitoring access.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed through if the driver's vehicle is in good condition.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Wait for the guard's return to seek permission or find an alternative route.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Enter and then explain to security that they had no choice.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=459s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a dual carriageway, you spot a “Left Turn Ahead Prohibited” sign 100 meters before a traffic light controlled intersection. You notice the road to the left leads to a residential area, and there’s no physical barrier preventing entry. What should a legally compliant driver do?",
+   "image": "images/appsworld/SOu5WiQYHsA-505.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn left anyway if there’s no traffic and you're familiar with the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue straight or choose an alternative legal route to reach the area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn left but drive slowly to avoid detection.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Ignore the sign since it’s far ahead and doesn't apply yet.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=503s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You're approaching a busy four way intersection where a \"Right Turn Ahead Prohibited\" sign is clearly displayed. However, the traffic light is green, and the GPS tells you to turn right to reach your destination faster. What is the correct course of action?",
+   "image": "images/appsworld/SOu5WiQYHsA-562.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Follow the GPS and turn right quickly before any traffic officer notices.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Signal right but continue straight if other drivers seem confused.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Obey the sign and continue straight, finding a legal place to make a U-turn or detour.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop in the middle of the intersection and decide what to do based on the flow of traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=560s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving in a one-way street and notice a \"Left Turn Prohibited\" sign just before the next intersection. There is no oncoming traffic, and a passenger urgently tells you to turn left. What should you do and why?",
+   "image": "images/appsworld/SOu5WiQYHsA-618.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn left since there's no oncoming traffic and it's urgent.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn left slowly and be cautious because it's a one-way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and allow emergency vehicles to pass, then turn left when it's clear.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Do not turn left under any circumstance, as doing, so would violate road rules, regardless of traffic or urgency.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=616s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection displaying a \"Right Turn Prohibited\" sign. The road to your right is clear with no traffic, but you are running late and consider turning right anyway to save time. Which of the following best describes the legal and safety implications of ignoring this sign?",
+   "image": "images/appsworld/SOu5WiQYHsA-673.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turning right is acceptable if the road is clear and no other vehicles are affected.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ignoring the sign can lead to legal penalties and increased risk of accidents due to unexpected vehicle movements.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can turn right after signaling and slowing down, as long as no pedestrians are crossing.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The sign only applies during peak traffic hours, so you can turn right now if it’s off peak.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=671s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a two lane road and see the “Overtaking Prohibited” sign. The vehicle in front of you is driving below the speed limit, and there is a long clear stretch ahead. Under what circumstances, if any, is it legal and safe to overtake another vehicle on this road?",
+   "image": "images/appsworld/SOu5WiQYHsA-711.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may overtake if the road ahead is clear and there are no oncoming vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may overtake only if the vehicle in front signals to let you pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must not overtake at all until the prohibition sign ends, regardless of the road conditions.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may overtake if the vehicle in front is turning left at the next intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=709s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a goods vehicle and approach a slower vehicle ahead on a single carriageway road where the “Overtaking by Goods Vehicles Prohibited” sign is displayed. Under which of the following conditions can you legally overtake?",
+   "image": "images/appsworld/SOu5WiQYHsA-771.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may overtake if the vehicle ahead is signaling a left turn.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may overtake only if the road ahead is completely clear with no oncoming traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must not overtake any vehicle until the prohibition zone ends, regardless of traffic conditions.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may overtake if you are driving an empty goods vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=769s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection displaying the “U-Turn Prohibited” sign. Which of the following statements is true?",
+   "image": "images/appsworld/SOu5WiQYHsA-828.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may make a U-turn if there is no oncoming traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may make a U-turn only after driving past the sign and turning around at the next available safe spot.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are prohibited from making a U-turn at the intersection or anywhere within the zone marked by this sign until you see an end of prohibition sign.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may reverse your vehicle to perform a U-turn if it is safer than turning around elsewhere.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=826s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you see a “Hitchhiking Prohibited” sign on a busy highway, which of the following statements is correct?",
+   "image": "images/appsworld/SOu5WiQYHsA-878.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Hitchhiking is only prohibited during peak traffic hours.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hitchhiking is prohibited on the entire road until the next “End of Prohibition” sign is shown.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hitchhiking is only prohibited within 100 meters of the sign.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Hitchhiking is prohibited only on the sidewalk but allowed on the roadside.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=876s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a “Parking Prohibited” sign on a busy street with no additional markings. Which of the following actions is legally permitted?",
+   "image": "images/appsworld/SOu5WiQYHsA-911.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stopping briefly to drop off passengers, then moving on immediately.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Parking your vehicle if you stay inside and keep the engine running.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parking for a maximum of 5 minutes if your hazard lights are on.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Parking only during weekends when traffic is lighter.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=909s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach a “Stopping Prohibited” sign on a busy road. Which of the following actions is allowed?",
+   "image": "images/appsworld/SOu5WiQYHsA-964.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stopping briefly to let a passenger out, then driving off immediately.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stopping temporarily to check your,GPS, then continuing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stopping only if you are experiencing a mechanical failure or emergency.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stopping for a quick phone call if the road is clear.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=962s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a “Pedestrians Prohibited” sign at the entrance of a road. Which of the following statements is TRUE?",
+   "image": "images/appsworld/SOu5WiQYHsA-1012.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrians can use the road if they walk quickly and carefully.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrians must find an alternative route or use a designated walkway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrians can cross the road at any point along this stretch as long as no vehicles are coming.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Pedestrians are allowed if accompanied by a vehicle driver.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1010s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You encounter a “Pedal Cycles Prohibited” sign on a busy highway entrance. Which of the following actions is correct?",
+   "image": "images/appsworld/SOu5WiQYHsA-1053.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Cyclists may proceed if they dismount and push their bicycles on the shoulder.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Cyclists are allowed to ride if they wear a helmet and use reflectors.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cyclists must find an alternative route and are not allowed to use the highway at all.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Cyclists can use the highway only during daylight hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1051s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re approaching a tunnel where the sign “Pedal Cycles and Pedestrians Prohibited” is posted. What is the most appropriate course of action for a delivery cyclist who must make a drop off on the other side?",
+   "image": "images/appsworld/SOu5WiQYHsA-1092.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Dismount and push the bicycle through the tunnel, walking on the side.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ride through the tunnel cautiously, keeping to the far left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use a different, permitted route to reach the destination.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Proceed if no vehicles are coming and traffic is light.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1090s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-21",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following scenarios would be a direct violation of this sign?",
+   "image": "images/appsworld/SOu5WiQYHsA-1144.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A delivery scooter bypassing traffic on the shoulder to make a drop off.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A cyclist using the same road as a pedestrian in a shared cycle lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A motorcyclist pushing their motoreycle while the engine is off.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A motorcycle transported on a trailer being towed through the area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1142s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-22",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following drivers would be legally permitted to use a road marked with this sign?",
+   "image": "images/appsworld/SOu5WiQYHsA-1202.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A person driving a compact hatchback with a disabled parking permit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A person towing a small car on a flatbed trailer using a goods vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A driver of an SUV who switches to electric mode to reduce noise and emissions.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A driver of a light duty panel van used for private transport.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1200s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-23",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A “Taxis Prohibited” sign is placed at the entrance of a suburban road. In which of the following situations would a traffic officer be correct in issuing a fine?",
+   "image": "images/appsworld/SOu5WiQYHsA-1272.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A private sedan carrying your kids from school.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A bakkie.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A marked meter taxi driving through the road to ayoid traffic.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A truck.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1270s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-24",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A “Mini Buses Prohibited” sign is posted at the start of a narrow residential lane. Which of the following drivers would be in violation of this sign?",
+   "image": "images/appsworld/SOu5WiQYHsA-1311.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A 12-seater minibus hired privately to transport guests to a wedding venue.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A panel van converted into a private family vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A delivery van with similar dimensions to a minibus.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A midi bus carrying a school sports team.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1309s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-25",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A route to a mountainous heritage site displays a “Midi Buses Prohibited” sign at its entrance. Which of the following vehicles is legally allowed to proceed?",
+   "image": "images/appsworld/SOu5WiQYHsA-1364.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A 22-seater tourist bus classified as a midi bus.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A 9-seater vehicle used by a private shuttle service.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A 35-seater midi bus.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A 20 seater midi bus.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1362s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-26",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A school places a “Buses Prohibited” sign at the entrance to its narrow service road. On a rainy day, which of the following vehicles would violate this restriction?",
+   "image": "images/appsworld/SOu5WiQYHsA-1422.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A 7-seater family van dropping off learners:",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A 15-seater mini bus transporting aschool sports team.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A 25-seater midi bus used by a private shuttle company.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A 40-seater full sized bus chartered for a school field trip.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1420s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-27",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see a “Delivery Vehicles Prohibited” sign at the entrance of a suburban complex. Which of the following drivers would be breaking the law by entering?",
+   "image": "images/appsworld/SOu5WiQYHsA-1475.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A driver transporting furniture in a private bakkie for a friend who just moved in.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A registered courier company van delivering online shopping packages.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A pickup truck carrying tools for a plumber coming to fix a resident's bathroom.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A regular sedan delivering pizza from a local fast food outlet.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1473s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-28",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re approaching a narrow mountain pass with a “Goods Vehicles Prohibited” sign. Which vehicle is legally not allowed to proceed?",
+   "image": "images/appsworld/SOu5WiQYHsA-1526.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A small panel van transporting plumbing equipment.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A double cab bakkie used privately for weekend trips.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A 2-tonne truck carrying garden soil for delivery to a nursery.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A station wagon loaded with household groceries.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1524s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-29",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You're driving a 12-tonne goods vehicle transporting construction supplies and approach a sign prohibiting goods vehicles over 10 tonnes GVM. Which of the following statements is most accurate?",
+   "image": "images/appsworld/SOu5WiQYHsA-1573.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed if the road is quiet and no alternative route is available.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are allowed to pass the sign only if your vehicle is empty.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may continue only if your load weighs less than 10 tonnes.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must not proceed regardless of whether your load is under or over 10 tonnes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1571s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-30",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A contractor dispatches a front end loader to a construction site via a public road and the driver encounters a Construction Vehicles Prohibited sign. What is the correct legal action?",
+   "image": "images/appsworld/SOu5WiQYHsA-1627.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The driver may proceed if displaying a hazard triangle and flashing lights.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The driver may use the road only during non peak traffic hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The driver must not proceed, even if it's the shortest route to the site.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The driver can continue as long as an escort vehicle is present.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1625s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-31",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a truck carrying flammable liquids and approach a road displaying the “Vehicles Conveying Dangerous Goods Prohibited” sign. Which of the following actions is correct?",
+   "image": "images/appsworld/SOu5WiQYHsA-1678.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may continue if the truck is empty and not carrying any hazardous materials.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You can proceed if you have a permit from the local authority.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must not proceed under any sremcteogeever if the cargo is packaged according to regulations.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may drive through if escorted by a police vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1676s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-32",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving an oversized vehicle carrying a load that exceeds standard width and length regulations. Upon seeing the “Abnormal Vehicles Prohibited” sign, which of the following is true?",
+   "image": "images/appsworld/SOu5WiQYHsA-1733.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed if you have special transport permits and travel during daylight hours.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must find an alternative route, regardless of permits or time of day.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can proceed if accompanied’ bya. pilot vehicle or escort.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may continue if the load does not exceed the height limit posted on nearby signs.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1731s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-33",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a rickshaw and encounter a road displaying the “Rickshaws Prohibited” sign. Which of the following is the correct course of action?",
+   "image": "images/appsworld/SOu5WiQYHsA-1794.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed if your rickshaw is electric and meets noise regulations.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must find an alternate route immediately and cannot continue on this road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may continue if you are transporting passengers to the nearest drop off point.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You can proceed if you travel during off peak hours only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1792s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-34",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a tour bus and approach a section of road displaying the “Tour Buses Prohibited” sign. Under which circumstances, if any, are you allowed to proceed?",
+   "image": "images/appsworld/SOu5WiQYHsA-1839.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may continue if you have prior permission from local authorities.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must not proceed under any circumstances on this road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can proceed if your bus is carrying fewer than 10 passengers.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may proceed only if escorted by a police vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1837s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-35",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving an agricultural tractor, you see the “Agricultural Vehicles Prohibited” sign ahead. Which of the following is correct regarding your options?",
+   "image": "images/appsworld/SOu5WiQYHsA-1875.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed if transporting agricultural produce directly to a nearby market.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must stop and find an alternative route suitable for agricultural vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can proceed only if your vehicle's width does not exceed the posted limits on other signs.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may continue if you are driving during off peak hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1873s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-36",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a cart pulled by an animal and approach a road with the “Animal Drawn Vehicles Prohibited” sign displayed. What is your legal obligation?",
+   "image": "images/appsworld/SOu5WiQYHsA-1916.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may enter the road if you travel during daylight hours only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must immediately find an alternative route and not use the prohibited road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can proceed if you maintain a speed of at least 30 km/h.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may proceed if the road is not busy with motor vehicles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1914s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-37",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While riding a horse, you approach a section of road displaying the “Horses and Riders Prohibited” sign. Which of the following actions is legally correct?",
+   "image": "images/appsworld/SOu5WiQYHsA-1941.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may dismount and lead your horse on foot along the road if there is no alternative route.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must find an alternative route for both yourself and your horse without using the prohibited road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may continue riding if the road is not busy with motor vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You can proceed if you are riding at a walking pace only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=1939s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-38",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving through a residential area where the “Excessive Noise Prohibited” sign is displayed. Which of the following behaviors is most likely to result in a traffic violation?",
+   "image": "images/appsworld/SOu5WiQYHsA-2002.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Using your vehicle's horn only in emergencies to alert pedestrians.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerating aggressively, causing your engine and exhaust noise to increase significantly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Driving with your radio playing music at a moderate volume inside your vehicle.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Driving with windows slightly open without any additional noise producing modifications.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=2000s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-39",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving through a zone marked with a “Hawkers Prohibited” sign. Which of the following is true regarding pedestrian hawkers in this area?",
+   "image": "images/appsworld/SOu5WiQYHsA-2048.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrians may sell goods but only on the sidewalks, not on the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hawkers are not allowed to sell goods or solicit customers within the marked area at any time.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hawkers can operate during daylight hours but must clear the area by sunset.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Hawkers can sell goods if they have a valid permit from the local municipality.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=2046s"
+  },
+  {
+   "id": "aw-SOu5WiQYHsA-40",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach a road displaying the “Towed Vehicles Prohibited” sign. Which of the following statements is correct regarding your vehicle if it is being towed?",
+   "image": "images/appsworld/SOu5WiQYHsA-2099.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed only if the towing vehicle is a licensed commercial tow truck.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are allowed to continue on the road if the towed vehicle does not exceed 3 meters in length.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must find an alternative route as towing any vehicle on this road is strictly forbidden.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may proceed if the towed vehicle’s brakes are fully functional.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SOu5WiQYHsA&t=2097s"
+  }
+ ]
+}

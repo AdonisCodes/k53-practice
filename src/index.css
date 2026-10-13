@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-display: Palatino, "Palatino Linotype", "Iowan Old Style", Georgia, serif;
+  --color-ink: #14241c;
+  --color-paper: #eef2ea;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  color: var(--color-ink);
+  background:
+    radial-gradient(1200px 500px at 10% -10%, #dfe8d8 0%, transparent 55%),
+    var(--color-paper);
+  font-family: var(--font-sans);
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+::selection {
+  background: #cfe3c4;
+}
+
+.board-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #9aa897 transparent;
+}

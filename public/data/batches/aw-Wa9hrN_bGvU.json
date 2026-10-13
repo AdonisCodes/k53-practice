@@ -1,0 +1,333 @@
+{
+ "batch": "aw-Wa9hrN_bGvU",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:08:57+02:00",
+ "questions": [
+  {
+   "id": "aw-Wa9hrN_bGvU-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road sign mean?",
+   "image": "images/appsworld/Wa9hrN_bGvU-7.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No entry for rickshaws",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only rickshaws may use this road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor vehicles and rickshaws allowed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This command sign gives a specific instruction, it means the road or lane is exclusively for rickshaws. No other vehicles are allowed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=5s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it illegal to overtake another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the vehicle in front is driving slowly",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On a national road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When approaching a blind rise or a sharp bend",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "It’s illegal and dangerous to overtake when your view of the road ahead is blocked, such as near blind rises, sharp bends, or solid barrier lines, you can’t see oncoming traffic clearly.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=30s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road sign mean?",
+   "image": "images/appsworld/Wa9hrN_bGvU-57.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only vehicles carrying dangerous goods may use this road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hazard lights must be switched on",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles carrying dangerous goods are not allowed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This prohibition sign means vehicles transporting dangerous substances (like chemicals or flammable materials) are not allowed to enter or use the road. It’s for safety reasons, especially near tunnels, residential areas, or places where a spill could be hazardous.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=55s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do before changing lanes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Check mirrors, blind spot, and signal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up and swerve quickly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hoot to warn other drivers",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Before changing lanes, you must check your mirrors, look over your shoulder to check your blind spot, and use your indicator to show your intention clearly to other road users.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=80s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this warning sign tell you?",
+   "image": "images/appsworld/Wa9hrN_bGvU-107.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a railway crossing ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Trains are not allowed on this road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road ends at a railway station",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This warning sign alerts drivers that there is a railway crossing coming up ahead. It means you should slow down, look and listen for trains, and proceed with caution.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=105s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum safe following distance on a dry road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "As close as possible to prevent other cars from cutting in",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least two seconds behind the vehicle ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "One second behind the vehicle ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A two-second following distance gives you enough time to react if the vehicle in front suddenly stops. In wet or poor conditions, increase this to three or more seconds.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=130s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this control sign mean?",
+   "image": "images/appsworld/Wa9hrN_bGvU-157.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have right of way at all times",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must give way to oncoming traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Oncoming traffic must give way to you",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This control sign means that you must allow vehicles coming from the opposite direction to go first.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=155s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-08",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is the function of the handbrake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To keep the vehicle stationary when parked",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To reduce speed while driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To help with changing gears",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "The handbrake (parking brake) is used to prevent the vehicle from moving when it's parked, especially on slopes. It should not be used to slow down while driving.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=180s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-09",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is the purpose of the rearview mirror?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To watch passengers in the back seat",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To see traffic behind your vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To check the weather behind you",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The rearview mirror helps you monitor vehicles approaching from behind, especially when changing lanes, slowing down, or stopping.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=205s"
+  },
+  {
+   "id": "aw-Wa9hrN_bGvU-10",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What does the accelerator pedal do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stops the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Controls the steering",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Increases the vehicle’s speed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Pressing the accelerator pedal increases fuel flow to the engine, making the vehicle go faster.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Wa9hrN_bGvU&t=230s"
+  }
+ ]
+}

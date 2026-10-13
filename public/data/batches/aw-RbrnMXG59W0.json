@@ -1,0 +1,647 @@
+{
+ "batch": "aw-RbrnMXG59W0",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:36:04+02:00",
+ "questions": [
+  {
+   "id": "aw-RbrnMXG59W0-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign instructs you to proceed left only?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-3-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-3-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-3-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a proceed left only sign, you must turn left and are not allowed to go straight or right.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=0s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means the right-of-way is yours?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-18-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-18-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-18-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a right-of-way sign; you have priority and may proceed, but still watch for other trattic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=15s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign indicates only motor vehicles may drive here?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-33-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-33-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-33-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a motor vehicles only sign, only motor vehicles may use this road, no pedestrians or bicycles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=30s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign indicates an axle mass load restriction?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-48-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-48-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-48-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is an axle mass limit sign; no vehicle with more than 2 tons per axle may pass.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=45s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of a low water drift ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-63-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-63-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-63-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a warning sign, it shows a low water drift ahead, so slow down and be cautious.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=60s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign instructs you to give right of way to pedestrians?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-78-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-78-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-78-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a pedestrian priority sign; you must give right of way to pedestrians.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=75s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign allows authorised vehicles only?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-93-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-93-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-93-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a restriction sign, only authorised vehicles may enter, others are not allowed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=90s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign states that the minimum permissible mass is 10 tons?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-108-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-108-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-108-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a minimum mass sign, only vehicles over 10 tons may use this road.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=105s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of a two way traffic crossroad?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-123-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-123-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-123-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a warning sign; it shows a two-way traffic crossroad ahead, so be alert.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=120s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of a dual roadway ending from the left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-138-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-138-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-138-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a warning sign, it shows the dual roadway ends from the left, so traffic will merge.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=135s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign indicates this area is for vehicles carrying hazardous substances only?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-153-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-153-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-153-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a command sign, only vehicles carrying hazardous substances may use this area.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=150s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of a river bank ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-168-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-168-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-168-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a warning sign, it shows a river bank or edge ahead, so slow down and be cautious.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=165s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there is a sharp junction, to the right?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-183-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-183-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-183-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a warning sign; it shows a sharp junction to the right ahead, so slow down.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=180s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of a tunnel ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-198-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-198-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-198-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a warning sign, it shows a tunnel ahead, so be prepared to adjust your driving.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=195s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of a height restriction?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-213-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-213-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-213-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a warning sign, it shows a height restriction of 4.42 metres ahead, so tall vehicles must take care.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=210s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of a priority crossroad ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-228-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-228-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-228-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a warning sign, it shows a priority crossroad ahead, so be ready to give way if needed.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=225s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of a secondary crossroad ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-243-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-243-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-243-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a warning sign, it shows a secondary crossroad ahead, so watch for joining traffic.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=240s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of an uneven roadway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-258-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-258-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-258-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a warning sign, it indicates an uneven road ahead, so slow down.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=255s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign reserves parking for buses?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-278-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-278-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-278-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "This is a restriction sign, only buses may park in this area.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=275s"
+  },
+  {
+   "id": "aw-RbrnMXG59W0-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of a gate ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/RbrnMXG59W0-293-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/RbrnMXG59W0-293-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/RbrnMXG59W0-293-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "This is a warning sign, it shows a gate ahead, so slow down and be cautious.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=RbrnMXG59W0&t=290s"
+  }
+ ]
+}

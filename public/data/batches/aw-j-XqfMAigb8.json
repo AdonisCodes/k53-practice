@@ -1,0 +1,562 @@
+{
+ "batch": "aw-j-XqfMAigb8",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:11:02+02:00",
+ "questions": [
+  {
+   "id": "aw-j-XqfMAigb8-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the first thing that you should do if you are approaching this sign and intent on continuing straight?",
+   "image": "images/appsworld/j-XqfMAigb8-29.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to come to a complete stop and wait for a traffic officer to give you instructions.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You need to come to a complete stop behind the solid white line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You need to begin slowly accelerating.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Only A & C are correct.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=27s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the first thing that you should do if you are approaching this sign and intent on turning right?",
+   "image": "images/appsworld/j-XqfMAigb8-103.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to come to a complete stop and wait for a traffic officer to give you instructions.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You need to come to a complete stop behind the solid white line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You need to begin slowly accelerating.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Yield to any crossing traffic or pedestrians and move off when safe.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=101s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when the “GO” side is displayed?",
+   "image": "images/appsworld/j-XqfMAigb8-191.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are only allowed to GO once a traffic officer instructs you to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive off once the “GO” side is displayed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Wait ten seconds before you drive off.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Wait for the stop sign to be displayed before you drive off.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=189s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct in terms of this sign?",
+   "image": "images/appsworld/j-XqfMAigb8-280.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to come to a complete stop behind the solid white line/ the stop sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You need to come to a complete stop in line with the solid white line/ the stop sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You need to come to a complete stop beyond the solid white line/ the stop sign.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Only A & B are correct.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=278s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/j-XqfMAigb8-371.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to keep at a minimum speed of three kilometres per hour.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is compulsory for you to stop if your vehicle weighs three tonnes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only three pedestrians are allowed to cross here.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Come to a complete stop and drive off once the vehicles that arrived before you at the other two stop signs have driven off.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=369s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/j-XqfMAigb8-452.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to keep at a minimum speed of four kilometres per hour.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is compulsory for you to stop if your vehicle weighs four tonnes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only four pedestrians are allowed to cross here.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Come to a complete stop and drive off once the vehicles that arrived before you at the other three stop signs have driven off.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=450s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What actions need to be performed when you see this sign?",
+   "image": "images/appsworld/j-XqfMAigb8-505.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reduce your speed, lookout for traffic and stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lookout for traffic and come to a complete stop if the road is clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn your radio off as it will disturb you when approaching an intersection.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "No actions required, it is legal to ignore this sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=503s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What actions need to be performed when you see this sign?",
+   "image": "images/appsworld/j-XqfMAigb8-582.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reduce your speed, lookout for pedestrians and stop if necessary.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lookout for traffic and come to a complete stop if the road is clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You need to use your hooter to warn pedestrians you are approaching.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "No actions required, it is legal to ignore this sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=580s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does the icon on this sign indicate?",
+   "image": "images/appsworld/j-XqfMAigb8-661.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A U-shaped curve to the left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A drive-through ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A drift track ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Traffic circle/ Roundabout.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=659s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/j-XqfMAigb8-708.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a boom gate ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only buses are allowed here.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No entry ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "There is a single lane ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=706s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you see this sign?",
+   "image": "images/appsworld/j-XqfMAigb8-757.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Be aware of vehicles in the carriageway and yield if necessary.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are required to speed up.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Immediately stop and begin reversing.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Continue driving at a quick pace.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=755s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/j-XqfMAigb8-822.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only trucks are allowed to turn left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is illegal to turn left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a one way road to the left.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "There is a police station to the left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=820s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/j-XqfMAigb8-875.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only trucks are allowed to proceed straight.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is illegal to continue straight ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a one way road straight ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "There is a police station straight ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=873s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/j-XqfMAigb8-906.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only trucks are allowed to turn right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is illegal to turn right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a one way road to the right.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "There is a police station to the right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=904s"
+  },
+  {
+   "id": "aw-j-XqfMAigb8-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/j-XqfMAigb8-931.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to give way to specifically school children crossing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You need to only give way to people jogging.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Give way to all pedestrians that want to cross the road.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Only traffic officers have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=j-XqfMAigb8&t=929s"
+  }
+ ]
+}

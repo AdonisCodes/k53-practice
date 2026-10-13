@@ -1,0 +1,329 @@
+{
+ "batch": "aw-ehXP-3-2pCg",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:40:22+02:00",
+ "questions": [
+  {
+   "id": "aw-ehXP-3-2pCg-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You approach a bridge with a \"12t\" Mass Limit sign. You are driving a truck with a tare weight (empty weight) of 6 tonnes, carrying 5 tonnes of cargo. The truck's registered Gross Vehicle Mass (GVM) on its licence disc is 14 tonnes. Are you allowed to drive across?",
+   "image": "images/appsworld/ehXP-3-2pCg-7.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No, because the vehicle's maximum capability (GVM) on paper is 14 tonnes, which exceeds the sign's limit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, because your actual combined weight right now is 11 tonnes, which is under the 12-tonne limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, but only if you drop your speed below 20 km/h before entering the bridge.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=6s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A light commercial delivery vehicle has a body width of 1.95 metres, but its extended side mirrors add an extra 0.20 metres on each side, bringing the overall total width to 2.35 metres. The route ahead displays a circular sign with a red border containing 2.1m with horizontal arrows pointing inward from the sides. How does this restriction apply legally?",
+   "image": "images/appsworld/ehXP-3-2pCg-88.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceeding past the sign is strictly prohibited because overall vehicle width includes mirrors and any side projections, which exceeds 2.1 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle may legally proceed because statutory width limits apply strictly to the fixed wheel track and primary body shell, excluding adjustable wing mirrors.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle is permitted to enter provided it travels in the centre of the roadway and yields to oncoming traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=87s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A circular regulatory sign features a red border enclosing a white background with two dashes. What is the exact legal application of this prohibition sign?",
+   "image": "images/appsworld/ehXP-3-2pCg-200.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No unauthorized motor vehicle may enter or proceed on the roadway beyond the sign, except vehicles explicitly permitted by supplementary plates or authorized personnel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The roadway is permanently closed to all vehicular traffic without exception, including emergency service vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtaking and passing slow-moving vehicles is prohibited across the two parallel black roadway markings ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=199s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Approaching an intersection, a driver observes a circular sign with a red border and a diagonal red slash across a black arrow pointing left. Which rule applies at this junction?",
+   "image": "images/appsworld/ehXP-3-2pCg-274.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drivers are legally prohibited from executing a left turn at the immediate intersection ahead, but may proceed straight, turn right, or make a U-turn unless otherwise restricted.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road ahead curves sharply to the left, requiring drivers to reduce speed to a mandatory minimum limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drivers are legally prohibited from turning left at the intersection, and making a U-turn is automatically authorized as a substitute maneuver.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=273s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What exact maneuver restriction is enforced at a location where the Right Turn Prohibited sign is displayed?",
+   "image": "images/appsworld/ehXP-3-2pCg-362.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It serves as an advance warning that turning right at the next upcoming intersection will be prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It prohibits making a right turn directly at the point, entrance, or intersection where the sign is posted.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It prohibits making a right turn at the intersection, while simultaneously prohibiting making a U-turn or proceeding straight through.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=361s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver traveling on a two-way single-carriageway road passes a circular prohibition sign featuring two cars side-by-side with a diagonal red bar. A few meters ahead, the driver catches up to a stationary broken-down vehicle blocking the left lane. What is the correct legal application of the sign in this scenario?",
+   "image": "images/appsworld/ehXP-3-2pCg-436.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Passing any stationary vehicle or obstruction is completely illegal under this prohibition sign until an \"End of Overtaking Restriction\" sign appears.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Passing a stationary hazard is legally permitted provided the maneuver can be executed safely, as passing a stationary obstruction does not constitute \"overtaking\" a moving vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtaking is strictly prohibited for light passenger vehicles, but heavy commercial vehicles may pass provided they flash their hazard lights.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=435s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a delivery vehicle with a Gross Vehicle Mass (GVM) of 2,800 kg. You approach a stretch of road displaying the \"Overtaking by Goods Vehicles Prohibited\" sign and catch up to a slow-moving tractor. Which statement describes your legal obligation?",
+   "image": "images/appsworld/ehXP-3-2pCg-580.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may pass the tractor provided you complete the pass without crossing any solid white line painted on the roadway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are strictly prohibited from overtaking any stationary or moving vehicle past this sign until a cancellation sign appears.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are allowed to overtake because the prohibition sign applies specifically to goods vehicles exceeding 3,500 kg GVM.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=579s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving down a road and realize you missed your turnoff. Ahead of you is an intersection displaying a \"U-Turn Prohibited\" sign. However, you see a driveway entrance just before the intersection on your right. Which action is legal under traffic regulations?",
+   "image": "images/appsworld/ehXP-3-2pCg-646.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are strictly forbidden from turning your vehicle around to travel in the opposite direction anywhere on this roadway section or at the intersection.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may execute a 3-point turn using the driveway entrance, provided you do not proceed into the intersection where the sign is posted.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may perform a U-turn at the intersection only if a traffic officer explicitly signals you to do so or if traffic lights are out of order.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=645s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You pass a \"Hitch-Hiking Prohibited\" sign with a supplementary plate reading \"500m\". Exactly 200 metres past the sign, you spot your friend waiting safely in a paved lay-by (bus stop area) off the main roadway. What does the law permit you to do?",
+   "image": "images/appsworld/ehXP-3-2pCg-725.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may stop and pick them up, because the restriction only prohibits pedestrians from actively soliciting rides, not drivers from offering them.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may stop to pick them up only if your vehicle stays fully outside the active driving lane inside a designated lay-by.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are strictly forbidden from stopping to pick up any passenger on this road section for 500 metres beyond the sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=724s"
+  },
+  {
+   "id": "aw-ehXP-3-2pCg-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You pull up next to a curb where a \"No Parking\" sign is posted. You keep your vehicle's engine running, hazard lights on, and stay sitting in the driver's seat while waiting 3 minutes for a passenger to drop off a parcel. Which statement correctly reflects your legal status?",
+   "image": "images/appsworld/ehXP-3-2pCg-795.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are legally stopped because the engine remains running, you stay in the driver's seat, and the duration is under 5 minutes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are violating the law because stopping a vehicle for any period longer than 1 minute constitutes \"parking\" under road traffic legislation, regardless of whether you remain in the driver's seat.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are allowed to stop temporarily past this sign, provided you are actively loading or unloading goods or passengers and do not leave the vehicle unattended.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ehXP-3-2pCg&t=794s"
+  }
+ ]
+}

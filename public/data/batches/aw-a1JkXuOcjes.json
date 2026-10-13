@@ -1,0 +1,1133 @@
+{
+ "batch": "aw-a1JkXuOcjes",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:26:48+02:00",
+ "questions": [
+  {
+   "id": "aw-a1JkXuOcjes-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching the crest of a hill on a two-way road. Under which condition is overtaking allowed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtaking is always prohibited near a crest",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If no oncoming vehicles are visible at that moment",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you can overtake without entering the right-hand side of the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=10s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the difference between an intersection and a junction?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A junction is the smaller area within an intersection",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "An intersection is only where roads cross at 90 degrees",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is no difference between the two",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=50s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "A holder of a Code 1 learner’s licence is riding a motorcycle. Which of the following is allowed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Carrying one passenger if the rider is over 18",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Riding alone without carrying any passengers",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Riding any motorcycle regardless of engine size",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=86s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When must the lights of a motor vehicle be switched on?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only between sunset and sunrise",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When visibility is less than 100 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Between sunset and sunrise AND when visibility is poor",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=127s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following BEST describes a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Any road owned by the government",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Any road with tar or concrete surface",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any place commonly used by the public or where the public has access",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=165s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it compulsory to use direction indicators?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only when turning at intersections",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When turning AND when changing lanes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when other vehicles are nearby",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=241s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is a driver of a light motor vehicle allowed to drive on the shoulder of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At any time to overtake slower vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only at night when traffic is heavy",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "During daylight, when being overtaken, and if it is safe",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=244s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is NOT allowed when transporting goods on a vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Goods that obstruct the driver’s view of the rear-view mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Goods secured properly but slightly above roof height",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Goods fastened securely within the vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=286s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If your vehicle breaks down on a public road, where must you place the emergency warning triangle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 30 metres behind the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least 45 metres behind the vehicle, facing oncoming traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Directly behind the vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=320s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement about wearing seatbelts is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Seatbelts are not required when driving slowly in a parking area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A driver is only responsible for ensuring children wear seatbelts",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Seatbelts are not required when reversing or manoeuvring in a parking area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=358s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver signals to turn right but continues straight. What should other road users do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Assume the driver will turn and proceed accordingly",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed based on the signal shown",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Act with caution and not rely solely on the signal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=403s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving during the day in heavy mist where visibility is reduced. What is the correct action?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Use parking lights only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch on headlights",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only use hazard lights",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=445s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following places is most likely considered a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A private farm road with a locked gate",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A shopping centre parking lot open to the public",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A driveway inside a residential property",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=493s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You intend to overtake a vehicle. When are you allowed to return to the left side of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "As soon as your front wheels pass the other vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Once you are fully clear of the vehicle you passed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "As soon as there is space in front of the vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=526s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "An overhead lane-use control sign indicates that the lane below it is subject to a regulatory requirement. What does this sign instruct you to do?",
+   "image": "images/appsworld/a1JkXuOcjes-566.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must use the lane only if you intend to travel at a speed of at least 60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should try to maintain a speed close to 60 km/h when traffic conditions allow",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use the lane at any speed, provided you do not exceed the general speed limit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=565s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving at 80 km/h on a rural road, you see a Surface Step warning sign ahead. There are no other vehicles nearby. What is the most correct action you should take?",
+   "image": "images/appsworld/a1JkXuOcjes-641.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain speed but grip the steering wheel firmly to handle the bump",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Gradually reduce speed and prepare for uneven road levels between lanes or road edges",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Immediately brake hard just before reaching the step to avoid suspension damage",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=640s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving at night on a public road. At what minimum distance must your main beam headlights allow you to clearly see a person or object ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "75 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=712s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a busy road and notice this temporary warning sign placed ahead. Traffic is flowing normally, and no obstruction is yet visible. What is the MOST appropriate response?",
+   "image": "images/appsworld/a1JkXuOcjes-755.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue at the same speed but stay alert for stopped vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Immediately change lanes to avoid potential obstruction ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce speed, increase following distance, and be prepared for sudden hazards",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=754s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You park your vehicle at night on a public road. In which situation are you NOT required to keep your vehicle’s lights on?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When parked on the roadway in a dark area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When parked within 12 metres of a working streetlight illuminating the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When parked facing oncoming traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=821s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving at dusk on a rural road and see this warning sign. The road ahead appears clear with no animals visible. What is the MOST correct action?",
+   "image": "images/appsworld/a1JkXuOcjes-875.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue at the same speed since no animals are currently visible",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed and remain alert, as animals may suddenly enter the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Sound your horn repeatedly to scare away any animals nearby",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=874s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following BEST describes a parking situation in terms of road traffic law?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keeping a vehicle stationary longer than necessary for loading or unloading",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stopping a vehicle briefly to drop off a passenger",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any time a vehicle is not moving, regardless of reason",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=929s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-22",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road where this temporary warning sign is displayed. Traffic is light and you cannot yet see any roadworkers or signals. What is the MOST correct action?",
+   "image": "images/appsworld/a1JkXuOcjes-975.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain speed until you can clearly see the stop/go controller",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and prepare to stop, anticipating manual traffic control ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overtake any slow vehicles ahead before reaching the control point",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=973s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum legal tread depth for tyres on a motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.8 mm across the entire tyre",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1 mm across the entire tyre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1mm across the full circumference, excluding sidewalls",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1027s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who is legally responsible if a passenger in your vehicle does not wear a seatbelt when required?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Both the driver and the passenger",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The driver only",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The passenger only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1067s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-25",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver must always maintain full control of their vehicle. Which of the following BEST describes this requirement?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keeping both hands on the steering wheel at all times",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Being able to stop the vehicle within the visible distance ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Driving below the speed limit at all times",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1111s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-26",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a delivery vehicle and approach a road with a sign displaying two specified time periods. You arrive outside of those times displayed. What should you do?",
+   "image": "images/appsworld/a1JkXuOcjes-1175.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed with caution, but be prepared to turn around if stopped by authorities",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Avoid entering, as delivery vehicles are generally restricted on that road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed beyond the sign, as the restriction only applies during the specified times",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1174s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-27",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a public road and approach a pedestrian crossing where no pedestrians are currently on the crossing. However, a pedestrian is standing on the sidewalk, looking toward the road. What should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down and prepare to stop, as the pedestrian may intend to cross",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop immediately to allow the pedestrian the opportunity to cross",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Continue driving, as the pedestrian has not yet stepped onto the crossing",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1270s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-28",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a vehicle conveying dangerous goods and pass this sign. Traffic ahead becomes congested, forcing vehicles to slow down significantly. What should you do?",
+   "image": "images/appsworld/a1JkXuOcjes-1345.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop if necessary, as you are forced to do so by traffic conditions",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue driving slowly with the flow of traffic, even if movement is minimal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pull over and stop only if it is safe and out of the way of traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1344s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-29",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road with a single continuous white line on your side. You notice a slow-moving vehicle ahead. What should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtake the vehicle if the road ahead looks clear, but only if safe",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stay behind the vehicle until the line ends, regardless of traffic behind you",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Move slightly into the oncoming lane to pass, if no oncoming traffic is visible",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1407s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-30",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a vehicle with a GVM exceeding the indicated limit and come across this sign. What should you do?",
+   "image": "images/appsworld/a1JkXuOcjes-1502.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Avoid turning left and proceed straight or choose an alternative route",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn left carefully, ensuring you do not obstruct traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn left only if the road appears wide enough to accommodate your vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1501s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-31",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving in heavy rain with poor visibility. You approach an intersection where the traffic light has just turned yellow. What should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue at the same speed, assuming other drivers will adjust around you",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up slightly to cross before it turns red, to avoid stopping in the intersection",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and prepare to stop, even if it means stopping abruptly",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1507s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-32",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "You are riding a motorcycle on a road where this sign is displayed. What should you do?",
+   "image": "images/appsworld/a1JkXuOcjes-1569.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Follow the speed of surrounding traffic to maintain flow",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Exceed the indicated motorcycle speed limit only when it is safe to do so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ensure you do not exceed the maximum indicated specifically for motorcycles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1568s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-33",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving behind a vehicle that suddenly slows down in the road without any visible reason. There are no brake lights, hazards, or obstacles ahead. What should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Immediately overtake the vehicle, as it is creating an unnecessary obstruction",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce speed and maintain a safe following distance while assessing the situation",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Flash your headlights and prepare to pass as soon as possible",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1611s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-34",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a motor car and approach a road where a sign indicates that motor cars are prohibited beyond the sign during a specified time period. You arrive just before the restricted time begins. What should you do?",
+   "image": "images/appsworld/a1JkXuOcjes-1667.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed beyond the sign before the restricted time begins",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Avoid entering, as the restriction will apply shortly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Wait until the restricted time has passed before entering",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1666s"
+  },
+  {
+   "id": "aw-a1JkXuOcjes-35",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a multi-lane road. A vehicle in the lane next to you begins drifting slightly toward your lane without indicating. What should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and position, as you have the right of way in your lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sound your hooter to warn the driver and continue driving as normal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce speed and create space to avoid a potential collision",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=a1JkXuOcjes&t=1735s"
+  }
+ ]
+}

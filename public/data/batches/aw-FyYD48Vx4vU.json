@@ -1,0 +1,379 @@
+{
+ "batch": "aw-FyYD48Vx4vU",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T15:21:41+02:00",
+ "questions": [
+  {
+   "id": "aw-FyYD48Vx4vU-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road where this road sign is displayed. What is the safest interpretation of the sign ahead?",
+   "image": "images/appsworld/FyYD48Vx4vU-17.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reduce speed only for the first bend and resume normal speed afterwards",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Prepare for a single right-hand bend and maintain the normal speed limit thereafter",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Expect continuous winding roads for the next 8 km and do not exceed 60 km/h during that section",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The road becomes one-way for 8 km with a speed limit of 60 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The supplementary plate (For 8 km) gives the length of the hazard, the winding-road warning sign shows the hazard, and the 60 km/h speed limit sign applies throughout that section.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=16s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor vehicle licence disc expires on 31 July. Assuming all other requirements are met, for how long may the vehicle still legally be operated using the expired licence disc?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "7 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "14 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "21 days",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "30 days",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "There is a 21-day grace period after the expiry date of a motor vehicle licence disc.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=106s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving a truck carrying a tall metal structure, you notice a warning sign ahead. Which situation presents the greatest risk?",
+   "image": "images/appsworld/FyYD48Vx4vU-152.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A narrow bridge ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Low-hanging tree branches ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Overhead electrical power cables crossing the road",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A railway line crossing the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The lightning-bolt warning sign warns of overhead electrical cables; tall loads risk contact with the cables.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=151s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following persons may legally obtain a learner's licence despite having a medical condition?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A person with uncontrolled epilepsy",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A person with uncontrolled diabetes mellitus",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A deaf person with no other disqualifying condition",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A person suffering sudden attacks of disabling fainting",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Deafness alone is not a disqualifying condition. Uncontrolled epilepsy, uncontrolled diabetes and sudden disabling fainting are disqualifying (controlled conditions are not).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=210s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver of a delivery vehicle approaches a road displaying a sign together with the time period 06:00-09:00. What is the correct interpretation?",
+   "image": "images/appsworld/FyYD48Vx4vU-276.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Delivery vehicles are prohibited from using the route between 06:00 and 09:00",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only delivery vehicles may enter the route between 06:00 and 09:00",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Delivery vehicles must use the designated lane or route between 06:00 and 09:00",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Delivery vehicles may stop in the route only between 06:00 and 09:00",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A blue circular sign is a command (mandatory) sign, not a prohibition: delivery vehicles must use this lane/route during the times shown.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=275s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "A Code 1 learner’s licence holder is 17 years old. Which motorcycle may they legally ride on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Any motorcycle provided no passenger is carried",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only a motorcycle not exceeding 125 cc cylinder capacity",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any motorcycle under 3500 kg GVM",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A motorcycle exceeding 125 cc if supervised by a licensed rider",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A Code 1 learner under 18 may only ride a motorcycle with an engine capacity not exceeding 125 cm³.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=340s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A tourist travelling through the city approaches a road displaying a prohibition sign showing a rickshaw symbol. Which road user is directly affected by the sign?",
+   "image": "images/appsworld/FyYD48Vx4vU-397.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedal cyclists only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Animal-drawn carts only",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Rickshaws may not proceed beyond the sign",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All slow-moving vehicles are prohibited",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This prohibition sign only prohibits rickshaws; bicycles, carts and other slow vehicles have their own signs.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=396s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor vehicle is fitted with a windscreen. What is the minimum visible light transmission permitted through that windscreen?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "50%",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60%",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "70%",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "75%",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A windscreen must allow at least 70% visible light transmission.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=443s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle transporting hazardous chemicals approaches this sign. What is the correct interpretation?",
+   "image": "images/appsworld/FyYD48Vx4vU-470.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Dangerous-goods vehicles are prohibited from using the route during the displayed times",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Dangerous-goods vehicles may choose whether to use the route during the displayed times",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Dangerous-goods vehicles must use the designated route during the displayed times",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Dangerous-goods vehicles may use the route only with police escort",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "This is a mandatory (command) route sign: vehicles carrying dangerous goods must use this designated route during the specified period.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=469s"
+  },
+  {
+   "id": "aw-FyYD48Vx4vU-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle capable of reaching 70 km/h is being used on a public road. Which statement is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A speedometer is only required on freeways",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A speedometer is required only if the vehicle exceeds 80 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A speedometer is optional if the driver knows the vehicle's speed",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The vehicle must be fitted with a working speedometer",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "A vehicle capable of 60 km/h or more must be fitted with a speedometer in good working order.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FyYD48Vx4vU&t=524s"
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "batch": "aw-Gpjq8Kn6fek",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:36:26+02:00",
+ "questions": [
+  {
+   "id": "aw-Gpjq8Kn6fek-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who is allowed to hold or interfere with the steering wheel while a vehicle is in motion?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Any passenger in the front seat",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only the driver",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any person with a valid driver's licence",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The driver and the front-seat passenger",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Only the driver is allowed to control the steering wheel to maintain full control of the vehicle. Allowing anyone else to interfere can lead to accidents. Passengers, even those with licences, should never take control unless in an emergency.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=47s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under what condition is a driver NOT allowed to operate a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If they do not have full control of the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If the vehicle has passengers",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If the road is slightly wet",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "If the vehicle is moving at a slow speed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A driver must have full control of the vehicle at all times to ensure safe operation. Having passengers is allowed, and driving on a wet road or at a slow speed is not necessarily unsafe if done correctly.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=93s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it permitted to have a part of your body outside a moving vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When stretching",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When giving hand signals",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When taking a photo",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Never",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The only time a driver or passenger is allowed to have a part of their body outside the vehicle is when the driver is giving hand signals. Stretching or taking photos can be dangerous and lead to serious injuries.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=134s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is NOT allowed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Driving on a sidewalk",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stopping at a red traffic light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Checking mirrors before changing lanes",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Wearing a seatbelt while driving",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Sidewalks are meant for pedestrians, not vehicles, to prevent accidents. Stopping at red lights, checking mirrors, and wearing seatbelts are all necessary for safe driving.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=169s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What type of tyres must a light motor vehicle be fitted with?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Solid rubber tyres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pneumatic tyres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Wooden wheels",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Metal-spoked tyres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Pneumatic (air-filled) tyres provide better traction, shock absorption, and control. Solid rubber, wooden, or metal wheels would be unsafe and unsuitable for road use.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=207s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which braking systems must be fitted on light and heavy motor vehicles?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Handbrake only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Service brake, parking brake, and emergency brake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hydraulic brake only",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Front brake only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Vehicles need multiple braking systems to ensure they can stop under different conditions. A single braking system is not enough for safety.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=243s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum required range for a vehicle's main beam?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "75 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "150 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The main beam must illuminate at least 100 metres ahead to provide enough visibility at night. Shorter distances would be unsafe, while longer distances are not required.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=278s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum required range for a vehicle's dipped beam?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "25 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "35 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "60 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Dipped beams are used to prevent glare for other drivers and should provide enough visibility without being too bright. 45 metres is the minimum legal requirement.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=311s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When must a driver give immediate right of way to an emergency vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the emergency vehicle has its siren and emergency lights on",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only when there is an accident ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if the driver is in the left lane",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "When there is traffic congestion",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Emergency vehicles with sirens and warning lights must be given right of way to respond quickly to emergencies. Waiting for an accident or only yielding in the left lane is incorrect.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=346s"
+  },
+  {
+   "id": "aw-Gpjq8Kn6fek-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is a requirement for a vehicle to be used on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It must have an efficient exhaust silencer",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It must have a spoiler",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It must have tinted windows",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It must be a manual transmission vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "An efficient exhaust silencer reduces noise pollution and ensures the vehicle runs smoothly. Spoilers, tinted windows, and manual transmissions are optional features, not legal requirements.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Gpjq8Kn6fek&t=390s"
+  }
+ ]
+}

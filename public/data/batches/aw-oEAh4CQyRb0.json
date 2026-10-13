@@ -1,0 +1,383 @@
+{
+ "batch": "aw-oEAh4CQyRb0",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:13:23+02:00",
+ "questions": [
+  {
+   "id": "aw-oEAh4CQyRb0-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road and see the combination sign shown. What does this sign indicate?",
+   "image": "images/appsworld/oEAh4CQyRb0-10.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The minimum speed allowed on this road is 80 km/h, monitored by traffic sensors.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A maximum speed limit of 80 km/h is enforced by speed camera or radar monitoring ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must turn on your vehicle's headlights for the next 80 meters due to low visibility.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A photography viewpoint is located 80 meters ahead on the left-hand side.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "An 80 km/h speed limit sign with the camera supplementary plate means the maximum limit of 80 km/h is enforced by camera/radar.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=9s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A heavy motor vehicle is stationary on the roadway due to a traffic jam. The driver remains seated behind the steering wheel. Must an emergency warning triangle be displayed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, always when the vehicle is stationary on the roadway",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, but only if it is after sunset",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, because the vehicle is stationary due to traffic and the driver remains in the driving seat",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "No, because heavy vehicles are exempt from carrying warning triangles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A warning triangle is not required when a vehicle is stationary because of traffic and the driver remains in the driving seat.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=105s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach a roadway where the specific sign displaying the \"CD\" and \"R\" configuration shown is erected at the side of a traffic lane. What does this sign indicate?",
+   "image": "images/appsworld/oEAh4CQyRb0-173.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A parking bay is reserved ahead exclusively for Diplomatic Corps vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A specific road or lane is reserved exclusively for the use of authorized vehicles, such as Diplomatic Corps vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only commercial delivery vehicles are allowed to use this lane during peak hours.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All vehicles must turn right if they do not possess a diplomatic permit.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "The blue CD/R reservation sign reserves the road or lane for authorised vehicles, here Diplomatic Corps vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=172s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A bus has a front tyre track width (distance between the centre-lines of the front tyres) exceeding 1.9 metres. What is the maximum permitted overall width of that bus?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2.6 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3.0 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "There is no width restriction",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A bus with a front track width over 1.9 m may be up to 2.6 m wide.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=266s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching an intersection and notice the road markings shown painted on the road surface ahead. What is your legal obligation as a driver?",
+   "image": "images/appsworld/oEAh4CQyRb0-310.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have the right of way over pedestrians, but you should flash your headlights to warn them of your approach.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must slow down or stop to give priority to any pedestrians crossing or wanting to cross the road at these markings.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only required to stop if a scholar patrol or traffic officer is actively controlling the crossing.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You may park your vehicle on top of these markings temporarily to drop off passengers.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Pedestrian crossing markings: slow down or stop and give way to pedestrians crossing or about to cross.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=309s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You wish to park your vehicle on a public road outside an urban area. What is the minimum legal distance you must maintain between your parked vehicle and a pedestrian crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "6 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "9 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "12 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Outside an urban area you may not park within 9 m of a pedestrian crossing.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=387s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving and see the white aircraft symbol shown painted on the road surface of your lane. What does this road marking indicate?",
+   "image": "images/appsworld/oEAh4CQyRb0-432.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are approaching an area where military jets are authorized to land on the public road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The lane is restricted and can only be used by airport shuttle buses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is an information marking indicating that the road or lane leads to an airport.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You are entering a zone where speed limits are strictly monitored by low-flying aircraft.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A white aircraft symbol on the road is an information marking showing the lane/road leads to an airport.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=431s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "A motorcycle is carrying luggage. What is the maximum distance the load may project beyond the rear axle of the motorcycle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "600 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "750 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "900 mm",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "1.8 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "A load on a motorcycle may not project more than 900 mm beyond the rear axle (as shown in the video).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=490s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are looking for a place to park your vehicle and notice a parking bay with the yellow letter configuration shown painted directly inside it. What does this road marking signify?",
+   "image": "images/appsworld/oEAh4CQyRb0-533.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It is a commercial loading bay designated only for a delivery trucks.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is an exclusive parking bay reserved strictly for authorized Diplomatic Corps vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is a clearway zone where stopping is prohibited except for emergency vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "It is a public parking zone where any vehicle can park for a maximum of 60 minutes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "A yellow 'CD' marking painted in a parking bay reserves it for Diplomatic Corps vehicles.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=532s"
+  },
+  {
+   "id": "aw-oEAh4CQyRb0-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is carrying a load that projects more than 300 mm beyond the rear of the vehicle during daylight hours. Which marking is required?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A white flag measuring approximately 300 mm x 300 mm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A red flag measuring approximately 300 mm x 300 mm",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A red reflector only",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Hazard lights must be switched on",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "By day, a load projecting more than 300 mm to the rear must be marked with a red flag of about 300 mm x 300 mm.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=oEAh4CQyRb0&t=606s"
+  }
+ ]
+}

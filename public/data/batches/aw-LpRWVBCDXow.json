@@ -1,0 +1,385 @@
+{
+ "batch": "aw-LpRWVBCDXow",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:04:46+02:00",
+ "questions": [
+  {
+   "id": "aw-LpRWVBCDXow-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a rural gravel road and see a triangular warning sign indicating a motor gate ahead. The road appears clear and there are no visible animals nearby. What is the correct and safest driving response?",
+   "image": "images/appsworld/LpRWVBCDXow-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed, as the gate is built for vehicles to drive over without stopping.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate slightly to reduce the time spent driving over the grid surface.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down before reaching the motor gate, maintain firm control of the steering wheel, and proceed cautiously.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop completely and wait to be waved through by a farm official.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=0s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a highway, you see a triangular warning sign indicating a tunnel ahead. The tunnel entrance is not yet visible. What are the correct precautions you should take as you approach and enter the tunnel?",
+   "image": "images/appsworld/LpRWVBCDXow-132.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed and turn on your high beam headlights to see clearly inside the tunnel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce your speed, switch on your dipped headlights or fog lights if necessary, and avoid overtaking inside the tunnel.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop before entering the tunnel to check for any height or width restrictions.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Turn off your vehicle’s headlights inside the tunnel to save battery power.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=130s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a delivery truck with a height of 4.5 meters and see a triangular warning sign indicating a height restriction of 4.42 meters ahead. The actual height barrier is not yet visible. What is the correct course of action?",
+   "image": "images/appsworld/LpRWVBCDXow-236.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving; the warning sign is just advisory, and you can proceed if the truck fits under the barrier.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Immediately stop and find an alternative route before reaching the height restriction.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and carefully proceed, trusting that your truck can clear the height restriction carefully.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Attempt to drive through quickly before any height barrier appears to avoid traffic buildup.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=234s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a vehicle that is 2.3 meters wide and approach a road showing a triangular warning sign indicating a width restriction of 2.1 meters ahead. The restriction is not yet visible. What should you do?",
+   "image": "images/appsworld/LpRWVBCDXow-326.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving carefully and try to squeeze through the narrow section.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and prepare to stop and find an alternate route that accommodates your vehicle's width.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Signal to oncoming traffic and proceed if there is no immediate traffic.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Attempt to pass by driving as close to the edge as possible to avoid damage.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=324s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a truck that is 16 meters long and approach a triangular warning sign indicating a length restriction of 15 meters ahead. The restriction barrier is not yet visible. What should you do?",
+   "image": "images/appsworld/LpRWVBCDXow-393.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving carefully and try to navigate the restricted section slowly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop immediately and find an alternative route that accommodates your vehicle length.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reduce speed and proceed, assuming the restriction only applies to parked vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Signal to other drivers and attempt to reverse if the passage is too narrow.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=391s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a heavy goods vehicle downhill and see a triangular warning sign indicating a steep descent ahead. What is the safest and most legally appropriate action to take?",
+   "image": "images/appsworld/LpRWVBCDXow-436.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current speed and rely on the vehicle's regular brakes throughout the descent.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Shift to a lower gear before starting the descent and control your speed using engine braking.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Increase speed to maintain momentum while descending.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Use the parking brake intermittently during the descent to slow down.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=434s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "While driving a heavy vehicle, you approach a triangular warning sign indicating a steep ascent. What is the safest and most efficient driving technique to manage this section?",
+   "image": "images/appsworld/LpRWVBCDXow-533.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current gear and increase the accelerator pressure to climb faster.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Shift to a lower gear before the ascent and maintain steady throttle to prevent stalling.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use the clutch to slip frequently to gain more torque while ascending.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Shift to a higher gear immediately at the base of the hill to conserve fuel.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=531s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a two lane highway, you see a triangular warning sign indicating a slow moving heavy vehicle ahead. The road is slightly winding, and there is oncoming traffic. What is the best and safest course of action?",
+   "image": "images/appsworld/LpRWVBCDXow-597.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Attempt to overtake immediately before the next bend to avoid delay.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce your speed, maintain a safe following distance, and only overtake when it is clearly safe and legal.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Maintain your speed and follow closely behind to reduce overtaking distance.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sound your horn continuously to encourage the heavy vehicle to move faster.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=595s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a paved road and see a triangular warning sign indicating that a gravel road begins ahead. What is the best driving approach to ensure safety?",
+   "image": "images/appsworld/LpRWVBCDXow-661.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your current speed since the road surface change does not affect vehicle handling.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Reduce your speed gradually before the gravel section and be prepared for reduced traction and longer stopping distances.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerate quickly to cross the gravel section before loose stones can affect your vehicle.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Immediately stop and inspect your vehicle's tires before proceeding.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=659s"
+  },
+  {
+   "id": "aw-LpRWVBCDXow-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You have been driving cautiously on a gravel road and see a triangular warning sign indicating that the gravel road ends ahead. What should you anticipate and do as you approach this sign?",
+   "image": "images/appsworld/LpRWVBCDXow-715.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Increase your speed immediately, as the road will become smoother and safer.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maintain your current cautious speed, then prepare to adjust your driving as the road surface transitions to tar or concrete.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Expect the road surface to become less stable and reduce speed further later.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Stop completely and check your tires before continuing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=LpRWVBCDXow&t=713s"
+  }
+ ]
+}

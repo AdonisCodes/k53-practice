@@ -1,0 +1,3291 @@
+{
+ "batch": "pk53-014",
+ "source": "practicek53",
+ "addedAt": "2026-10-07T15:37:49+02:00",
+ "questions": [
+  {
+   "id": "pk53-1158",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg99.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Traffic in the road that you are entering have the right of way.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop behind the dotted lines.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p99/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Traffic in the road that you are entering have the right of way.",
+   "sourceWpId": 2948
+  },
+  {
+   "id": "pk53-1159",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg100.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Do not stop if turning left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down as traffic to the right has the right of way before you turn left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p100/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Slow down as traffic to the right has the right of way before you turn left.",
+   "sourceWpId": 2949
+  },
+  {
+   "id": "pk53-1160",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg101.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield and stop for pedestrians.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Be on the lookout for pedestrians.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and wave as you have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p101/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yield and stop for pedestrians.",
+   "sourceWpId": 2950
+  },
+  {
+   "id": "pk53-1161",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg102.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to proceed pass this sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Road ahead is closed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and beware of trucks.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p102/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "You are not allowed to proceed pass this sign.",
+   "sourceWpId": 2951
+  },
+  {
+   "id": "pk53-1162",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg103.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down and approach with caution as traffic to your right has the right of way.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and approach with caution as traffic to your left has the right of way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When approaching a circle you have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p103/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Slow down and approach with caution as traffic to your right has the right of way.",
+   "sourceWpId": 2952
+  },
+  {
+   "id": "pk53-1163",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg104.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Left turn up ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No left turn up ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic in this one way must travel in the direction of the arrow.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p104/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Traffic in this one way must travel in the direction of the arrow.",
+   "sourceWpId": 2953
+  },
+  {
+   "id": "pk53-1164",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg105.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Traffic in both directions.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Wait for the oncoming traffic to pass and proceed when it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p105/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Wait for the oncoming traffic to pass and proceed when it is safe to do so.",
+   "sourceWpId": 2954
+  },
+  {
+   "id": "pk53-1165",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg106.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive to the left of the sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "One way road ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Detour ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p106/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Drive to the left of the sign.",
+   "sourceWpId": 2955
+  },
+  {
+   "id": "pk53-1166",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg107.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles heavier than 10t may not proceed in this lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles with 10t or more must only use this lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Other vehicles cannot use this portion of the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p107/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicles with 10t or more must only use this lane.",
+   "sourceWpId": 2956
+  },
+  {
+   "id": "pk53-1167",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg108.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Dead end.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed in the direction of the arrow only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "One way traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p108/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Proceed in the direction of the arrow only.",
+   "sourceWpId": 2957
+  },
+  {
+   "id": "pk53-1168",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg109.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn left at the junction ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sharp curves ahead to your left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Direction of traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p109/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Turn left at the junction ahead.",
+   "sourceWpId": 2958
+  },
+  {
+   "id": "pk53-1169",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg110.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Lane reserved for taxis.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A pay toll up ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Tunnel up ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p110/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "A pay toll up ahead.",
+   "sourceWpId": 2959
+  },
+  {
+   "id": "pk53-1170",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg111.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Switch on your headlights.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch off your head lights.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p111/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Switch on your headlights.",
+   "sourceWpId": 2960
+  },
+  {
+   "id": "pk53-1171",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg112.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No hooting allowed for the next 100 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No hooting allowed for the next 150 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No hooting allowed for the next 250 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p112/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No hooting allowed for the next 100 meters.",
+   "sourceWpId": 2961
+  },
+  {
+   "id": "pk53-1172",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg113.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No hitching allowed for the next 250 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No hitching allowed for the next 500 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No hitching allowed for the next 450 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p113/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No hitching allowed for the next 500 meters.",
+   "sourceWpId": 2962
+  },
+  {
+   "id": "pk53-1173",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg114.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No un authorized vehicles permitted.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No entry to all vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p114/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No un authorized vehicles permitted.",
+   "sourceWpId": 2963
+  },
+  {
+   "id": "pk53-1174",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg115.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No right turn allowed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No left turn allowed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed straight ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p115/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No left turn allowed.",
+   "sourceWpId": 2964
+  },
+  {
+   "id": "pk53-1175",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg116.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reserved parking for busses.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only busses allowed in this lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Busses not allowed in this lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p116/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Only busses allowed in this lane.",
+   "sourceWpId": 2965
+  },
+  {
+   "id": "pk53-1176",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg117.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only busses allowed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Start of a lane reserved for busses only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Start of the rest areas for busses.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p117/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Start of a lane reserved for busses only.",
+   "sourceWpId": 2966
+  },
+  {
+   "id": "pk53-1177",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg118.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Reserved parking for busses only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No parking for busses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p118/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Reserved parking for busses only.",
+   "sourceWpId": 2967
+  },
+  {
+   "id": "pk53-1178",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg119.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Beginning of Dual freeway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Power lines up ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "End of dual carriage freeway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p119/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Beginning of Dual freeway.",
+   "sourceWpId": 2968
+  },
+  {
+   "id": "pk53-1179",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg120.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to turn to the Right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "One way road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop if turning right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p120/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "You are not allowed to turn to the Right.",
+   "sourceWpId": 2969
+  },
+  {
+   "id": "pk53-1180",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg121.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sharp curve up ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to make a U turn.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No hairpin bends up ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p121/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "You are not allowed to make a U turn.",
+   "sourceWpId": 2970
+  },
+  {
+   "id": "pk53-1181",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg122.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No overtaking for the next 500 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No overtaking for the next 600 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No overtaking for the next 400 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p122/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No overtaking for the next 500 meters.",
+   "sourceWpId": 2971
+  },
+  {
+   "id": "pk53-1182",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg123.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No pedestrians.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No police station up ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No parking.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p123/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No parking.",
+   "sourceWpId": 2972
+  },
+  {
+   "id": "pk53-1183",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg124.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may not exceed this speed indication in a rural area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not exceed this speed indication on the freeway.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is the minimum speed allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p124/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "You may not exceed this speed indication in a rural area.",
+   "sourceWpId": 2973
+  },
+  {
+   "id": "pk53-1184",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg125.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles exceeding this mass may not proceed beyond this sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maximum speed for taxis.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p125/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicles exceeding this mass may not proceed beyond this sign.",
+   "sourceWpId": 2974
+  },
+  {
+   "id": "pk53-1185",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg126.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No stopping allowed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No speed limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No shopping allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p126/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No stopping allowed.",
+   "sourceWpId": 2975
+  },
+  {
+   "id": "pk53-1186",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg127.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No busses allowed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Off loading zone for busses.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Be on the look out for busses.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p127/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No busses allowed.",
+   "sourceWpId": 2976
+  },
+  {
+   "id": "pk53-1187",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg128.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motor Cycles Prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No loud noise.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Helmets to be worn at all times.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p128/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Motor Cycles Prohibited.",
+   "sourceWpId": 2977
+  },
+  {
+   "id": "pk53-1188",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg129.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "No Left Turn.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motor Cars prohibited.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor Cars only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p129/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Motor Cars prohibited.",
+   "sourceWpId": 2978
+  },
+  {
+   "id": "pk53-1189",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg130.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Goods Vehicle prohibited.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Deliveries only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor Cars only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p130/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Goods Vehicle prohibited.",
+   "sourceWpId": 2979
+  },
+  {
+   "id": "pk53-1190",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg131.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Maximum Height for Vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Goods vehicles & Goods vehicles over the indicated GVM prohibited.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Trucks only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p131/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Goods vehicles & Goods vehicles over the indicated GVM prohibited.",
+   "sourceWpId": 2980
+  },
+  {
+   "id": "pk53-1191",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg132.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Warning Signs.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overhead lane direction control arrows.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Neon Direction Signage.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p132/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Overhead lane direction control arrows.",
+   "sourceWpId": 2981
+  },
+  {
+   "id": "pk53-1192",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg133.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Warning Signs.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Minimun speed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Warning - 60 zone.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p133/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Warning - 60 zone.",
+   "sourceWpId": 2982
+  },
+  {
+   "id": "pk53-1193",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg134.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop warning - railway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop - Robots up ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Warning - Robot Crossing ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p134/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop warning - railway.",
+   "sourceWpId": 2983
+  },
+  {
+   "id": "pk53-1194",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg135.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stopping prohibited for vehicles carrying hazardous substances.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Truck Stop Ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Single Lanes for Trucks only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p135/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stopping prohibited for vehicles carrying hazardous substances.",
+   "sourceWpId": 2984
+  },
+  {
+   "id": "pk53-1195",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg136.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "U turn permitted at night only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No U turn permitted at night.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hairpin bend up ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p136/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "No U turn permitted at night.",
+   "sourceWpId": 2985
+  },
+  {
+   "id": "pk53-1196",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg137.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Authorised vehicles permitted during these hours only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No un authorised vehicles permitted during these hours only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No Entry during these times.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p137/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Authorised vehicles permitted during these hours only.",
+   "sourceWpId": 2986
+  },
+  {
+   "id": "pk53-1197",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE REGULATORY SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg138.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Use this lane to exit the road in the case of an emergency.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "General warning sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor racing allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "regulatory-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-regulatory-sign-displayed-p138/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Use this lane to exit the road in the case of an emergency.",
+   "sourceWpId": 2987
+  },
+  {
+   "id": "pk53-1198",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg139-a.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Do not exceed 80 km/h in the right lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Do not drive slower than 80 km/h in the right lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Do not exceed 80 km/h in the left lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p139/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Do not drive slower than 80 km/h in the right lane.",
+   "sourceWpId": 2988
+  },
+  {
+   "id": "pk53-1199",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg140-a.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have the right of way.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yield to traffic as they have the right of way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop as the traffic ahead of you have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p140/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "You have the right of way.",
+   "sourceWpId": 2989
+  },
+  {
+   "id": "pk53-1200",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg141.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "200m away to the freeway exit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100m away to the freeway exit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "300m away to the freeway exit.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p141/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "200m away to the freeway exit.",
+   "sourceWpId": 2990
+  },
+  {
+   "id": "pk53-1201",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg142.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "T junction ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lane reserved for taxis.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cul de sac.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p142/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Cul de sac.",
+   "sourceWpId": 2991
+  },
+  {
+   "id": "pk53-1202",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg143.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road ahead leads to the N1.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Curie Ave is 706 km ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p143/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "The road ahead leads to the N1.",
+   "sourceWpId": 2992
+  },
+  {
+   "id": "pk53-1203",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg144.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "The right hand lane ends 500 m ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Beware there is a island 500 m ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Beware the left hand lane ends 500 m ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p144/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "The right hand lane ends 500 m ahead.",
+   "sourceWpId": 2993
+  },
+  {
+   "id": "pk53-1204",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg145.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Steep hill, heavy vehicles must stay in the left lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Steep hill, heavy vehicles must change to a lower gear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steep hill, heavy vehicles must slow down.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p145/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Steep hill, heavy vehicles must change to a lower gear.",
+   "sourceWpId": 2994
+  },
+  {
+   "id": "pk53-1205",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg146.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop as for a stop sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop as for a yield sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop as for a pedestrian crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p146/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop as for a stop sign.",
+   "sourceWpId": 2995
+  },
+  {
+   "id": "pk53-1206",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg147.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Railway crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Lane reserved for on coming traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Start of freeway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p147/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Lane reserved for on coming traffic.",
+   "sourceWpId": 2996
+  },
+  {
+   "id": "pk53-1207",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg148.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Directional arrows.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Steep incline.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Lane safe to be used in the direction of the arrow.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p148/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Lane safe to be used in the direction of the arrow.",
+   "sourceWpId": 2997
+  },
+  {
+   "id": "pk53-1208",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg149.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Flashing red light, Stop as for a 4 way stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Flashing red light, Stop as for a yield sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Flashing red light, Stop as for a pedestrian crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p149/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Flashing red light, Stop as for a 4 way stop.",
+   "sourceWpId": 2998
+  },
+  {
+   "id": "pk53-1209",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg150.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed in the direction of the green arrow as you have the right of way.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Give way to on coming traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p150/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Proceed in the direction of the green arrow as you have the right of way.",
+   "sourceWpId": 2999
+  },
+  {
+   "id": "pk53-1210",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg151.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "A steady green lights means pedestrians has the right of way to cross.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yield as there might be pedestrian crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop as the traffic ahead of you have the right of way.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p151/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "A steady green lights means pedestrians has the right of way to cross.",
+   "sourceWpId": 3000
+  },
+  {
+   "id": "pk53-1211",
+   "source": "practicek53",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "CHOOSE THE INFORMATION SIGN DISPLAYED.",
+   "image": "images/practicek53/pr-pg152.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Red flashing arrow, you must stop before the line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red flashing arrow, you have the right of way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Red flashing arrow, you may proceed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "information-signs"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/choose-the-information-sign-displayed-p152/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Red flashing arrow, you must stop before the line.",
+   "sourceWpId": 3001
+  },
+  {
+   "id": "pk53-1212",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "AS YOU APPROACH AN INTERSECTION, YOU SHOULD CHECK FOR TRAFFIC ON YOUR LEFT AND RIGHT .",
+   "image": "images/practicek53/pr-pg153.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only when the traffic is heavy.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At all times before entering the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when you approach a stop sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/as-you-approach-an-intersection-you-should-check-for-traffi-p153/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "At all times before entering the intersection.",
+   "sourceWpId": 3002
+  },
+  {
+   "id": "pk53-1213",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN YOU COME TO AN INTERSECTION AND THE ROAD BEYOND IS CHOKED WITH VEHICLES GOING IN THE SAME DIRECTION, WHAT SHOULD YOU DO?",
+   "image": "images/practicek53/pr-pg154.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed if there is no traffic on your right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Wait until there is room for you to completely cross the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Travel into the intersection and wait until traffic ahead moves.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-come-to-an-intersection-and-the-road-beyond-is-chok-p154/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Wait until there is room for you to completely cross the intersection.",
+   "sourceWpId": 3003
+  },
+  {
+   "id": "pk53-1214",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "RIGHT-TURNS MUST BE MADE FROM WHICH LANES WHEN TRAVELLING ON A LANED ROADWAY?",
+   "image": "images/practicek53/pr-pg155.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The far right-hand lane or any other lane having an arrow pointing right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The lane carrying the least amount of traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The far left-hand lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/right-turns-must-be-made-from-which-lanes-when-travelling-on-p155/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "The far right-hand lane or any other lane having an arrow pointing right.",
+   "sourceWpId": 3004
+  },
+  {
+   "id": "pk53-1215",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "IN THIS DIAGRAM BOTH VEHICLES O AND P MUST PASS THROUGH YIELD SIGNS BEFORE ENTERING THE INTERSECTION . WHICH VEHICLE MUST DRIVES FIRST.",
+   "image": "images/practicek53/pr-pg156.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It depends on who moves first.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicle O goes first.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicle P goes first.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/in-this-diagram-both-vehicles-o-and-p-must-pass-through-yiel-p156/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicle P goes first.",
+   "sourceWpId": 3005
+  },
+  {
+   "id": "pk53-1216",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "VEHICLE O IS AT A STOP SIGN –",
+   "image": "images/practicek53/pr-pg157.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicle O must give way to vehicles P, Q and R.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicle O must give way only to vehicle R.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All vehicles must give way to vehicle O.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/vehicle-o-is-at-a-stop-sign-p157/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicle O must give way to vehicles P, Q and R.",
+   "sourceWpId": 3006
+  },
+  {
+   "id": "pk53-1217",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "IF BOTH VEHICLES P AND O IN THE DIAGRAM ARE TURNING RIGHT, WHICH VEHICLE IS IN THE BEST POSITION TO TURN LEFT INTO THE STREET MARKED ‘X’?",
+   "image": "images/practicek53/pr-pg158.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicle P.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Neither vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicle O.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-both-vehicles-p-and-o-in-the-diagram-are-turning-right-w-p158/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicle O.",
+   "sourceWpId": 3007
+  },
+  {
+   "id": "pk53-1218",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "THE DIAGRAM SHOWS A MARKED PEDESTRIAN CROSSING AT AN INTERSECTION. THERE IS ALSO A STOP SIGN AT THE INTERSECTION. YOU HAVE ALREADY STOPPED FOR A PEDESTRIAN. MUST YOU STOP AGAIN AT THE STOP LINE?",
+   "image": "images/practicek53/pr-pg159.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, at all times.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, if there is traffic on your right only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, if the intersection is clear.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-diagram-shows-a-marked-pedestrian-crossing-at-an-interse-p159/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yes, at all times.",
+   "sourceWpId": 3008
+  },
+  {
+   "id": "pk53-1219",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A YIELD SIGN AT AN INTERSECTION MEANS THAT YOU MUST –",
+   "image": "images/practicek53/pr-pg160.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop completely at all times as you do not have the right of way.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Be ready to stop and give way to all other traffic if there is danger of a collision.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and only give way to traffic on your right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-yield-sign-at-an-intersection-means-that-you-must-p160/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Be ready to stop and give way to all other traffic if there is danger of a collision.",
+   "sourceWpId": 3009
+  },
+  {
+   "id": "pk53-1220",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHICH VEHICLE IN THE DIAGRAM MUST GIVE WAY?",
+   "image": "images/practicek53/pr-pg161.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicle J.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicle K.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicle L.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-vehicle-in-the-diagram-must-give-way-p161/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicle J.",
+   "sourceWpId": 3010
+  },
+  {
+   "id": "pk53-1221",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN THESE LIGHTS ARE FLASHING IT MEANS –",
+   "image": "images/practicek53/pr-pg162.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedestrians must not start to cross the intersection.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedestrians who have started crossing must go back to the footpath.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pedestrians are not allowed in this area at this time.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-these-lights-are-flashing-it-means-p162/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Pedestrians must not start to cross the intersection.",
+   "sourceWpId": 3011
+  },
+  {
+   "id": "pk53-1222",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "AT THE T-INTERSECTION SHOWN IN THE DIAGRAM WHICH VEHICLE SHOULD GIVE WAY?",
+   "image": "images/practicek53/pr-pg163.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicle Q.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicle R.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Whichever vehicle got there last.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-the-t-intersection-shown-in-the-diagram-which-vehicle-sho-p163/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Vehicle R.",
+   "sourceWpId": 3012
+  },
+  {
+   "id": "pk53-1223",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU WISH TO MAKE A RIGHT-HAND TURN FROM A ONE WAY STREET WITH NO ARROWS MARKED ON THE ROADWAY. YOU SHOULD POSITION YOUR VEHICLE –",
+   "image": "images/practicek53/pr-pg164.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "On the right-hand side of the street.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In the middle of the street.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On the left-hand side of the street.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-wish-to-make-a-right-hand-turn-from-a-one-way-street-wit-p164/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "On the right-hand side of the street.",
+   "sourceWpId": 3013
+  },
+  {
+   "id": "pk53-1224",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN THERE ARE NO ARROWS MARKED ON THE ROAD, LEFT TURNS MUST BE MADE FROM –",
+   "image": "images/practicek53/pr-pg165.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The far left-hand side of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The middle of the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Either side of the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-there-are-no-arrows-marked-on-the-road-left-turns-must-p165/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "The far left-hand side of the road.",
+   "sourceWpId": 3014
+  },
+  {
+   "id": "pk53-1225",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHAT SHOULD YOU DO ON APPROACHING A RAILWAY LEVEL CROSSING DISPLAYING A STOP SIGN?.",
+   "image": "images/practicek53/pr-pg166.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop at all times and proceed when safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down to 10 km/h, then proceed through the crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop, only if a train is at the crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-should-you-do-on-approaching-a-railway-level-crossing-d-p166/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stop at all times and proceed when safe to do so.",
+   "sourceWpId": 3015
+  },
+  {
+   "id": "pk53-1226",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU ARE DRIVING THE CAR IN THE DIAGRAM. YOU MUST STOP.",
+   "image": "images/practicek53/pr-pg167.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if there is danger of a collision with another vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if there is a car on your right or left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Even when there is no other traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-are-driving-the-car-in-the-diagram-you-must-stop-p167/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Even when there is no other traffic.",
+   "sourceWpId": 3016
+  },
+  {
+   "id": "pk53-1227",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "THERE ARE NO TRAFFIC SIGNS OR SIGNALS AT AN INTERSECTION. IF YOU INTEND TO DRIVE THROUGH THE INTERSECTION, YOU MUST GIVE WAY TO –",
+   "image": "images/practicek53/pr-pg168.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The Vehicle on your right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The Vehicle on your left only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "An oncoming vehicle about to turn right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/there-are-no-traffic-signs-or-signals-at-an-intersection-if-p168/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "The Vehicle on your right.",
+   "sourceWpId": 3017
+  },
+  {
+   "id": "pk53-1228",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN MAKING A RIGHT-HAND TURN AT THE INTERSECTION SHOWN, YOU MUST GIVE WAY TO –",
+   "image": "images/practicek53/pr-pg169.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "An oncoming vehicle going straight ahead or turning left, and any vehicle on your right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle approaching from your left and intending to turn right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only pedestrians.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-making-a-right-hand-turn-at-the-intersection-shown-you-p169/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "An oncoming vehicle going straight ahead or turning left, and any vehicle on your right.",
+   "sourceWpId": 3018
+  },
+  {
+   "id": "pk53-1229",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "IF TURNING RIGHT AT A T-INTERSECTION (AS SHOWN) MUST YOU GIVE WAY TO VEHICLES APPROACHING FROM BOTH THE LEFT AND RIGHT?",
+   "image": "images/practicek53/pr-pg170.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No, only the vehicle on the right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, you have right of way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, whether they are turning or not.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-turning-right-at-a-t-intersection-as-shown-must-you-giv-p170/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yes, whether they are turning or not.",
+   "sourceWpId": 3019
+  },
+  {
+   "id": "pk53-1230",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "IF A STOP OR YIELD SIGN HAS BEEN KNOCKED DOWN, FOR EXAMPLE, AS THE RESULT OF AN ACCIDENT, DOES THE LINE MARKED ACROSS THE ROAD HAVE ANY MEANING?",
+   "image": "images/practicek53/pr-pg171.png",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, it has the same meaning as the sign itself.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, you only need to give way to the vehicle on your right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-a-stop-or-yield-sign-has-been-knocked-down-for-example-p171/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yes, it has the same meaning as the sign itself.",
+   "sourceWpId": 3020
+  },
+  {
+   "id": "pk53-1231",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "IF TURNING AT AN INTERSECTION ARE YOU REQUIRED TO GIVE WAY TO PEDESTRIANS?",
+   "image": "images/practicek53/pr-pg172.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, only if turning right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, only if turning left.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, a driver turning right or left must give way to pedestrians, if there is a danger of a collision.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-turning-at-an-intersection-are-you-required-to-give-way-t-p172/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Yes, a driver turning right or left must give way to pedestrians, if there is a danger of a collision.",
+   "sourceWpId": 3021
+  },
+  {
+   "id": "pk53-1232",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU APPROACH AN INTERSECTION IN BUSY TRAFFIC AND WANT TO GO STRAIGHT AHEAD. THE TRAFFIC LIGHTS TURN GREEN. WHEN ARE YOU PERMITTED TO ENTER THE INTERSECTION?",
+   "image": "images/practicek53/pr-pg173.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "When the vehicle behind signals you to go.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Immediately after the traffic lights turn green.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when there is room for your vehicle on the other side.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-approach-an-intersection-in-busy-traffic-and-want-to-go-p173/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Only when there is room for your vehicle on the other side.",
+   "sourceWpId": 3022
+  },
+  {
+   "id": "pk53-1233",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHICH STATEMENT IS CORRECT?.",
+   "image": "images/practicek53/pr-pg174.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Red light cameras take photographs of vehicles that enter intersections when the lights are red.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red light cameras take photographs of vehicles that speed through intersections.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Red light cameras take photographs of vehicles that cross intersections when the lights are yellow.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-statement-is-correct-p174/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Red light cameras take photographs of vehicles that enter intersections when the lights are red.",
+   "sourceWpId": 3023
+  },
+  {
+   "id": "pk53-1234",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "AS YOU DRIVE INTO AN INTERSECTION, THE LIGHTS TURN TO YELLOW. YOU SHOULD",
+   "image": "images/practicek53/pr-pg175.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake immediately to a stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate as hard as you can.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Continue through the intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/as-you-drive-into-an-intersection-the-lights-turn-to-yellow-p175/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Continue through the intersection.",
+   "sourceWpId": 3024
+  },
+  {
+   "id": "pk53-1235",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN POLICE OFFICERS ARE AT INTERSECTIONS GIVING DIRECTIONS YOU MUST",
+   "image": "images/practicek53/pr-pg176.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Wait for the traffic lights to start working again.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive through the intersection as you normally would.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always follow any instruction the traffic officer give you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "intersections"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-police-officers-are-at-intersections-giving-directions-p176/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Always follow any instruction the traffic officer give you.",
+   "sourceWpId": 3025
+  },
+  {
+   "id": "pk53-1236",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "“You intend to exit the traffic circle, at the first exit point, after entering. Which lane are you allowed to use when entering the circle?",
+   "image": "images/practicek53/pr-pg177.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Left lane.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Right lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Either lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "traffic-circles"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-intend-to-exit-the-traffic-circle-at-the-first-exit-po-p177/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Left lane.",
+   "sourceWpId": 3026
+  },
+  {
+   "id": "pk53-1237",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "YOU ARE IN THE RIGHT HAND LANE AND ARE PLANNING TO GO STRAIGHT AHEAD THROUGH THE TRAFFIC CIRCLE. WHEN SHOULD YOU SIGNAL LEFT TO EXIT THE CIRCLE?",
+   "image": "images/practicek53/pr-pg178.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "After point M.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "After point N.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "After point O.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "traffic-circle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-are-in-the-right-hand-lane-and-are-planning-to-go-straig-p178/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "After point O.",
+   "sourceWpId": 3027
+  },
+  {
+   "id": "pk53-1238",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "WHEN YOU WISH TO TURN LEFT AT A TRAFFIC CIRCLE YOU MUST INDICATE:",
+   "image": "images/practicek53/pr-pg179.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Left from start to finish.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if you think it necessary.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Left only after you enter the roundabout.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "traffic-circle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-wish-to-turn-left-at-a-traffic-circle-you-must-indi-p179/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Left from start to finish.",
+   "sourceWpId": 3028
+  },
+  {
+   "id": "pk53-1239",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "TO TURN BACK INTO THE SAME ROAD FROM WHICH YOU JOINED THIS TRAFFIC CIRCLE, YOU MUST",
+   "image": "images/practicek53/pr-pg180.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stay in the right lane all the way round.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Move into the left lane to leave the roundabout.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use the left lane all the way round.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "traffic-circle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/to-turn-back-into-the-same-road-from-which-you-joined-this-t-p180/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53passright.co.za",
+   "sourceAnswerText": "Stay in the right lane all the way round.",
+   "sourceWpId": 3029
+  }
+ ]
+}

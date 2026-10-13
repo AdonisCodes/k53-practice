@@ -1,0 +1,3576 @@
+{
+ "batch": "pk53-007",
+ "source": "practicek53",
+ "addedAt": "2026-10-07T15:30:04+02:00",
+ "questions": [
+  {
+   "id": "pk53-0535",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you obey a construction flagger’s instructions?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if you see it is necessary to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At all times in construction zones.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If they do not conflict with existing road signs or traffic signals.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-should-you-obey-a-construction-flaggers-instructions-r1855/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "At all times in construction zones.",
+   "sourceWpId": 2223
+  },
+  {
+   "id": "pk53-0536",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How can you see if another vehicle is in your blind spot?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This can not be done, hence it is called a blind spot.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Look over your shoulder",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Lean back and forth looking in your mirrors",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-can-you-see-if-another-vehicle-is-in-your-blind-spot-r1856/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Look over your shoulder",
+   "sourceWpId": 2224
+  },
+  {
+   "id": "pk53-0537",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you see a stopped vehicle on the side of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Notify the emergency services.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and offer assistance.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slow down and use caution when passing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-should-you-do-if-you-see-a-stopped-vehicle-on-the-side-r1857/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Slow down and use caution when passing.",
+   "sourceWpId": 2225
+  },
+  {
+   "id": "pk53-0538",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you come to a traffic light and the red light is flashing, you must…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Lookout for the roadblock as the light warns of a police roadblock ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and wait for the light to change to green before you go.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and only go if it is safe to do so and it is your turn.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-you-come-to-a-traffic-light-and-the-red-light-is-flashing-r1858/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Stop and only go if it is safe to do so and it is your turn.",
+   "sourceWpId": 2226
+  },
+  {
+   "id": "pk53-0539",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following always takes priority above the rest?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Instructions given by a traffic officer.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Road surface markings.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic signals (robots)",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-always-takes-priority-above-the-rest-r1860/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Instructions given by a traffic officer.",
+   "sourceWpId": 2228
+  },
+  {
+   "id": "pk53-0540",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A safe following distance, at all speeds, for motorcycles and light vehicles is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 car length.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "5 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-safe-following-distance-at-all-speeds-for-motorcycles-an-r1861/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "2 seconds",
+   "sourceWpId": 2229
+  },
+  {
+   "id": "pk53-0541",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver may…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Allow the passenger to help him or her steer the wheel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Let the passenger drive on the pavement if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use hand signals on a freeway in an emergency.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-driver-may-r1862/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Use hand signals on a freeway in an emergency.",
+   "sourceWpId": 2230
+  },
+  {
+   "id": "pk53-0542",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver may not …",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Let his only passenger sit where there is no seatbelt.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Leave a vehicle abandoned on a public road for 6 hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leave the vehicle on the edge of the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-driver-may-not-r1863/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Let his only passenger sit where there is no seatbelt.",
+   "sourceWpId": 2231
+  },
+  {
+   "id": "pk53-0543",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where must you place the emergency triangle if you incur problems with your vehicle on the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "45 M behind the vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On the roof of the vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Next to the vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/where-must-you-place-the-emergency-triangle-if-you-incur-pro-r1864/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "45 M behind the vehicle.",
+   "sourceWpId": 2232
+  },
+  {
+   "id": "pk53-0544",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "On a public road, the driver of a vehicle may not …",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Make use of chocks or shoes between any wheel of a moving vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A and C are both correct.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use any vehicle or move any vehicle in a manner causing damage to the roadway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/on-a-public-road-the-driver-of-a-vehicle-may-not-r1865/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A and C are both correct.",
+   "sourceWpId": 2233
+  },
+  {
+   "id": "pk53-0545",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles may be used on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A motorcycle with an engine capacity of 125cc or more.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A pedal cycle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A vehicle with a mass not exceeding 230 kg, designed for a person suffering from a physical disability.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "motorcycle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-vehicles-may-be-used-on-a-freeway-r1866/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A motorcycle with an engine capacity of 125cc or more.",
+   "sourceWpId": 2234
+  },
+  {
+   "id": "pk53-0546",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements are correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On a freeway, you may not drive in the shoulder of the road to take the next off-ramp, even if traffic is congested and stationery on the freeway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On a freeway a driver who wishes to overtake another vehicle that is not in the left hand lane, can make the driver aware that he or she intends to overtake by flashing the headlights of the vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On a freeway vehicles must keep to the right and overtake to the left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-statements-are-correct-r1867/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "On a freeway, you may not drive in the shoulder of the road to take the next off-ramp, even if traffic is congested and stationery on the freeway.",
+   "sourceWpId": 2235
+  },
+  {
+   "id": "pk53-0547",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How close to a demarcated pedestrian crossing may you stop?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "There is no stopping distance, as long as you do not stop on the actual pedestrian crossing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Not within 9 m of the white line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Not within 9 m of your approaching side.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-close-to-a-demarcated-pedestrian-crossing-may-you-stop-r1868/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Not within 9 m of your approaching side.",
+   "sourceWpId": 2236
+  },
+  {
+   "id": "pk53-0548",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How close to a bridge may a driver park their vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Not within 6 m from the bridge.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Not within 9 m from the bridge.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Not within 10 m from the bridge.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-close-to-a-bridge-may-a-driver-park-their-vehicle-r1870/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Not within 6 m from the bridge.",
+   "sourceWpId": 2238
+  },
+  {
+   "id": "pk53-0549",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far away from a fire hydrant may you park your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 450 mm away.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least 3 m away on both sides of the hydrant.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least 1.5 m away on both sides of the hydrant.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-far-away-from-a-fire-hydrant-may-you-park-your-vehicle-r1871/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "At least 1.5 m away on both sides of the hydrant.",
+   "sourceWpId": 2239
+  },
+  {
+   "id": "pk53-0550",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you drive in heavy fog during the daytime, you should drive with your…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Headlights on main beam.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Headlights on dipped beam.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parking lights on.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-drive-in-heavy-fog-during-the-daytime-you-should-d-r1872/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Headlights on dipped beam.",
+   "sourceWpId": 2240
+  },
+  {
+   "id": "pk53-0551",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is a good example of defensive driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Keeping your eyes moving to look for possible hazards.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Putting 1 car length between you and the car ahead of you.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Checking your mirrors a couple times during your trip.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-is-a-good-example-of-defensive-drivin-r1873/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Keeping your eyes moving to look for possible hazards.",
+   "sourceWpId": 2241
+  },
+  {
+   "id": "pk53-0552",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In which of these conditions would you need extra following distance?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When driving on slippery road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Both A and C.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When following trucks or vehicles pulling trailers.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/in-which-of-these-conditions-would-you-need-extra-following-r1874/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Both A and C.",
+   "sourceWpId": 2242
+  },
+  {
+   "id": "pk53-0553",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are travelling at a speed of 80 km/h on a freeway and the speed limit is 120 km/h in which lane must you drive.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "In the left hand lane, unless you are overtaking another vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In the middle lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any lane that you prefer.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-you-are-travelling-at-a-speed-of-80-km-h-on-a-freeway-and-r1875/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "In the left hand lane, unless you are overtaking another vehicle.",
+   "sourceWpId": 2243
+  },
+  {
+   "id": "pk53-0554",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When more than one vehicle is stopped at an intersection, which vehicle has a right of way?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle that moves off the fastest..",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle on your right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Each vehicle in the order that they have stopped.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-more-than-one-vehicle-is-stopped-at-an-intersection-wh-r1876/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Each vehicle in the order that they have stopped.",
+   "sourceWpId": 2244
+  },
+  {
+   "id": "pk53-0555",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you plan to enter into a driveway just after the intersection, when should you signal (indicate)?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When you start to turn.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "After you cross the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In the middle of the intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-you-plan-to-enter-into-a-driveway-just-after-the-intersec-r1877/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "After you cross the intersection.",
+   "sourceWpId": 2245
+  },
+  {
+   "id": "pk53-0556",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When approaching an intersection with traffic signals (robots) that are out of order, you should…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Treat it like a yield sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ignore it if you are driving on the road which has high priority.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Treat it like a four-way stop intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-approaching-an-intersection-with-traffic-signals-robot-r1878/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Treat it like a four-way stop intersection.",
+   "sourceWpId": 2246
+  },
+  {
+   "id": "pk53-0557",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you have already entered an intersection and the traffic light changes, you should…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sound your hooter through the intersection.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Flash your lights through the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed and clear the intersection.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-you-have-already-entered-an-intersection-and-the-traffic-r1879/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Proceed and clear the intersection.",
+   "sourceWpId": 2247
+  },
+  {
+   "id": "pk53-0558",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you legally block an intersection?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When the light is amber.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not block an intersection at any time.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "During rush hour traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-may-you-legally-block-an-intersection-r1880/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You may not block an intersection at any time.",
+   "sourceWpId": 2248
+  },
+  {
+   "id": "pk53-0559",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When a traffic officer directs you to drive through a red traffic light, what should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive through the red light.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Wait for the light to turn green.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never ignore traffic signals. You must stop at a red light.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-a-traffic-officer-directs-you-to-drive-through-a-red-tr-r1881/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Drive through the red light.",
+   "sourceWpId": 2249
+  },
+  {
+   "id": "pk53-0560",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When the holder of the licence has changed their place of residence permanently, he or she must inform the registering authority of the new residential and postal address within…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "14 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "21 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3 months.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-the-holder-of-the-licence-has-changed-their-place-of-re-r1884/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "14 days",
+   "sourceWpId": 2250
+  },
+  {
+   "id": "pk53-0561",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long is the grace period, after a vehicle’s licence disc has expired, that it may still be operated on a public road.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "14 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "21 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is no such thing as a grace period.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-long-is-the-grace-period-after-a-vehicles-licence-disc-r1885/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "21 days",
+   "sourceWpId": 2251
+  },
+  {
+   "id": "pk53-0562",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If the owner of a vehicle permits someone to use his or her vehicle, who would be legally responsible for traffic offences committed with such vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The driver",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The owner",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Neither of them",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/if-the-owner-of-a-vehicle-permits-someone-to-use-his-or-her-r1886/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The owner",
+   "sourceWpId": 2252
+  },
+  {
+   "id": "pk53-0563",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You need not keep the parking lamps of your vehicle lit when you are parked within… from a lighted street lamp illuminating the road on which such vehicle is parked.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "6 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "10 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "12 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-need-not-keep-the-parking-lamps-of-your-vehicle-lit-when-r1887/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "12 meters.",
+   "sourceWpId": 2253
+  },
+  {
+   "id": "pk53-0564",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle’s main beam (bright) must be so adjusted and maintained that it is capable of adequately illuminating an area ahead of the vehicle, enabling the driver/ rider to see any person, vehicle or object at a distance of at least…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "200 meters",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "45 meters",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-vehicles-main-beam-bright-must-be-so-adjusted-and-maint-r1888/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "100 meters.",
+   "sourceWpId": 2254
+  },
+  {
+   "id": "pk53-0565",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the vehicle’s lamps (lights) must be switched on when travelling at night through a city centre?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Dipped beam.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Main beam (bright).",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parking lamps",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-vehicles-lamps-lights-must-be-switched-on-wh-r1890/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Dipped beam.",
+   "sourceWpId": 2256
+  },
+  {
+   "id": "pk53-0566",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you apply the brakes of your vehicle it should emit a red light(s), which must be brighter than that of the lighter emitted by the rear lamps and must be visible in normal sunlight at a distance of… by a person of normal eyesight.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "20 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "30 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "200 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-apply-the-brakes-of-your-vehicle-it-should-emit-a-r-r1891/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "30 meters.",
+   "sourceWpId": 2257
+  },
+  {
+   "id": "pk53-0567",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When a stop lamp is illuminated, this indicates that the vehicle…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Is going to change direction to the left or right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Is speeding up",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Is decreasing speed and may stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-a-stop-lamp-is-illuminated-this-indicates-that-the-veh-r1892/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Is decreasing speed and may stop",
+   "sourceWpId": 2258
+  },
+  {
+   "id": "pk53-0568",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "With how many number plates must light and heavy vehicles be fitted?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "One fitted to the front and one fitted to the back of the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only one fitted to the front of the vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only one fitted to the back of the vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/with-how-many-number-plates-must-light-and-heavy-vehicles-be-r1893/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "One fitted to the front and one fitted to the back of the vehicle",
+   "sourceWpId": 2259
+  },
+  {
+   "id": "pk53-0569",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum turning radius of a vehicle used on a public road, excluding that of a bus-train or rigid goods vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "13.1 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "9 meters",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "10.5 meters",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-maximum-turning-radius-of-a-vehicle-used-on-a-pu-r1897/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "13.1 meters.",
+   "sourceWpId": 2263
+  },
+  {
+   "id": "pk53-0570",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you not overtake another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If there is only one lane for traffic travelling in both directions.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On a one-way road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If your view of the road ahead is restricted.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-may-you-not-overtake-another-vehicle-r1901/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "If your view of the road ahead is restricted.",
+   "sourceWpId": 2265
+  },
+  {
+   "id": "pk53-0571",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop in the railway reserve at a level crossing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Not stop within 9 meters of the approach side of a pedestrian crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop opposite another vehicle parked in a road less than 9 meters wide",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-r1902/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Not stop within 9 meters of the approach side of a pedestrian crossing.",
+   "sourceWpId": 2266
+  },
+  {
+   "id": "pk53-0572",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Goods may be conveyed on a vehicle provided…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Both B and C are correct",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The load is not wider than 2.5 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The load projects not more than 300 mm beyond the front of the vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/goods-may-be-conveyed-on-a-vehicle-provided-r1903/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Both B and C are correct",
+   "sourceWpId": 2267
+  },
+  {
+   "id": "pk53-0573",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements are incorrect?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hooters must be audible for at least 90 metres to a person of normal hearing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A hooter may be used to greet people.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A hooter should only be used for safety.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-of-the-following-statements-are-incorrect-r1904/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A hooter may be used to greet people.",
+   "sourceWpId": 2268
+  },
+  {
+   "id": "pk53-0574",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement is incorrect?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may stop on the right hand side of a two way road only if you are facing the oncoming traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not stop in a tunnel.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may stop on the right hand side of a one-way road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/which-statement-is-incorrect-r1905/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You may stop on the right hand side of a two way road only if you are facing the oncoming traffic.",
+   "sourceWpId": 2269
+  },
+  {
+   "id": "pk53-0575",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "On rural roads the speed limit for cars is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/on-rural-roads-the-speed-limit-for-cars-is-r1906/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "100 km/h.",
+   "sourceWpId": 2270
+  },
+  {
+   "id": "pk53-0576",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At traffic circles, you must give way to…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Traffic which will cross their yield line before you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Both A and C are correct.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic already in the circle, approaching from the right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-traffic-circles-you-must-give-way-to-r1907/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Both A and C are correct.",
+   "sourceWpId": 2271
+  },
+  {
+   "id": "pk53-0577",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Gross Vehicle Mass (GVM) means…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The maximum mass of a vehicle's load only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The maximum mass of a vehicle without its load.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The maximum mass of a vehicle and its load.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/gross-vehicle-mass-gvm-means-r1909/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The maximum mass of a vehicle and its load.",
+   "sourceWpId": 2273
+  },
+  {
+   "id": "pk53-0578",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where must the licence disc of a motor vehicle be displayed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It does not have to be displayed and can be kept in the glove box of the vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Affixed to the lower left-hand corner on the inside of the windscreen.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Affixed to the upper left-hand corner on the inside of the windscreen",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/where-must-the-licence-disc-of-a-motor-vehicle-be-displayed-r1910/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Affixed to the lower left-hand corner on the inside of the windscreen.",
+   "sourceWpId": 2274
+  },
+  {
+   "id": "pk53-0579",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A professional driver, driving a motor vehicle of a prescribed class, must have a…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Professional Driving Permit (PDP)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Traffic Register Number (TRN)",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "International Driving Permit (IDP).",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-professional-driver-driving-a-motor-vehicle-of-a-prescrib-r1911/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Professional Driving Permit (PDP)",
+   "sourceWpId": 2275
+  },
+  {
+   "id": "pk53-0580",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "‘LMV’ means a light motor vehicle of which the tare/gross vehicle mass shall not be more than…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1000 kg.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "750 kg.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3500 kg",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/lmv-means-a-light-motor-vehicle-of-which-the-tare-gross-ve-r1912/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "3500 kg",
+   "sourceWpId": 2276
+  },
+  {
+   "id": "pk53-0581",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is required before a person can be legally trained to drive a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A driver's licence",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The person must be at least 17 years old",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A learner's licence",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-required-before-a-person-can-be-legally-trained-to-d-r1913/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A learner's licence",
+   "sourceWpId": 2277
+  },
+  {
+   "id": "pk53-0582",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may not park your vehicle along side or opposite any other vehicle on the road where such roadway is less than… wide.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "9 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "10 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "6 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-not-park-your-vehicle-along-side-or-opposite-any-oth-r1920/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "9 meters.",
+   "sourceWpId": 2278
+  },
+  {
+   "id": "pk53-0583",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Within an urban area, no person shall park a vehicle on the roadway of a public road which is less than… wide, unless the road concerned is restricted to traffic moving in one direction and such parking is permitted by an appropriate traffic sign.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "9 meters.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5.5 meters",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "10 meters.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/within-an-urban-area-no-person-shall-park-a-vehicle-on-the-r1921/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "5.5 meters",
+   "sourceWpId": 2279
+  },
+  {
+   "id": "pk53-0584",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When a vehicle is towing another vehicle on a public road and the distance between such vehicles is… or more, such towing rope must be made clearly visible by means of a red flag tied to such rope.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1.8 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-a-vehicle-is-towing-another-vehicle-on-a-public-road-an-r1922/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "1.8 metres",
+   "sourceWpId": 2280
+  },
+  {
+   "id": "pk53-0585",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The tread pattern of a light motor vehicle’s tyres may not be less than… mm.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1.5",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.75",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-tread-pattern-of-a-light-motor-vehicles-tyres-may-not-b-r1923/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "1",
+   "sourceWpId": 2281
+  },
+  {
+   "id": "pk53-0586",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver/ rider involved in any motor vehicle accident must report such accident to a police station…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if someone was injured or in the event that they wish to claim from their insurance company.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Within 24 hours",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Within 48 hours",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-driver-rider-involved-in-any-motor-vehicle-accident-must-r1937/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Within 24 hours",
+   "sourceWpId": 2285
+  },
+  {
+   "id": "pk53-0587",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Any driver/rider of a motor vehicle, would be legally accused of driving under the influence when the concentration of alcohol in their blood is… (Note that different levels apply to professional drivers).",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.08 grams per 100 ml of blood or more.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.5 grams per 100 ml of blood or more.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.05 grams per 100 ml of blood or more.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/any-driver-rider-of-a-motor-vehicle-would-be-legally-accuse-r1939/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "0.05 grams per 100 ml of blood or more.",
+   "sourceWpId": 2286
+  },
+  {
+   "id": "pk53-0588",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The only instance where you may stop on a freeway is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To obey a road traffic sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "For a rest during a tiring journey",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To pick up hitch-hikers.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-only-instance-where-you-may-stop-on-a-freeway-is-r1944/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To obey a road traffic sign.",
+   "sourceWpId": 2288
+  },
+  {
+   "id": "pk53-0589",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum period of time that a vehicle may be parked in one place on a road within an urban area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "24 hours.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "48 days.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 days.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-maximum-period-of-time-that-a-vehicle-may-be-par-r1948/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "7 days.",
+   "sourceWpId": 2292
+  },
+  {
+   "id": "pk53-0590",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Unless otherwise indicated by a road sign, what is the speed limit on freeways?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/unless-otherwise-indicated-by-a-road-sign-what-is-the-speed-r1950/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "120 km/h.",
+   "sourceWpId": 2294
+  },
+  {
+   "id": "pk53-0591",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Unless otherwise indicated by a road sign, the speed limit in a residential area is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/unless-otherwise-indicated-by-a-road-sign-the-speed-limit-i-r1952/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "60 km/h",
+   "sourceWpId": 2296
+  },
+  {
+   "id": "pk53-0592",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does the speed limit mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The fastest speed that you may drive at on a specific road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The slowest speed that you may drive at on a specific road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The average speed you should maintain with your vehicle on a specific road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-does-the-speed-limit-mean-r1953/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The fastest speed that you may drive at on a specific road.",
+   "sourceWpId": 2297
+  },
+  {
+   "id": "pk53-0593",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you exempt of wearing a seat-belt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When you are reversing or parking your vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When you are pregnant.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When you are younger than 14 years of age.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-are-you-exempt-of-wearing-a-seat-belt-r1956/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "When you are reversing or parking your vehicle.",
+   "sourceWpId": 2298
+  },
+  {
+   "id": "pk53-0594",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may use your hooter of your vehicle…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To avoid a collision.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To attract a traffic officer's attention.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Relieve stress while driving.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-use-your-hooter-of-your-vehicle-r1957/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To avoid a collision.",
+   "sourceWpId": 2299
+  },
+  {
+   "id": "pk53-0595",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When towing another vehicle…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On a freeway, you may tow a vehicle with a tow-rope travelling not faster than 30 km/h, even if the minimum speed of that portion of the freeway is 50 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only two people are allowed in the towed vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A tractor may carry 10 people on a semi-trailer if travelling at 30 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-towing-another-vehicle-r1958/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "A tractor may carry 10 people on a semi-trailer if travelling at 30 km/h",
+   "sourceWpId": 2300
+  },
+  {
+   "id": "pk53-0596",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may transport goods on a light or heavy motor vehicle that they…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Are with the vehicle 2.4 m wide.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Protrude 2.0 m at the rear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Protrude 450 mm in the front.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules",
+    "heavy-vehicle"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-transport-goods-on-a-light-or-heavy-motor-vehicle-th-r1960/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Are with the vehicle 2.4 m wide.",
+   "sourceWpId": 2302
+  },
+  {
+   "id": "pk53-0597",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may not reverse your vehicle for further than…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 m",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it safe to do so, you may continue reversing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "500 m",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-not-reverse-your-vehicle-for-further-than-r1962/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "If it safe to do so, you may continue reversing.",
+   "sourceWpId": 2303
+  },
+  {
+   "id": "pk53-0598",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At an intersection…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must yield to oncoming traffic if you want to turn right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles have the right of way over pedestrians..",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can use a stop sign as a yield sign if there is no other traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/at-an-intersection-r1963/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You must yield to oncoming traffic if you want to turn right.",
+   "sourceWpId": 2304
+  },
+  {
+   "id": "pk53-0599",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where may you legally stop your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "4 m from a tunnel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 m from a pedestrian crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "6 m from a railway crossing.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/where-may-you-legally-stop-your-vehicle-r1966/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "6 m from a railway crossing.",
+   "sourceWpId": 2306
+  },
+  {
+   "id": "pk53-0600",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum period of time that a vehicle may be parked in one place on a road outside urban areas?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "7 days.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "48 hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-the-maximum-period-of-time-that-a-vehicle-may-be-par-r1968/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "24 hours.",
+   "sourceWpId": 2307
+  },
+  {
+   "id": "pk53-0601",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is important with regard to the hooter of your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Someone must hear it from a distance of at least 45 m.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may use it to get attention of someone that you would like to offer a lift.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The tone of the sound (pitch) may not change.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/what-is-important-with-regard-to-the-hooter-of-your-vehicle-r1969/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The tone of the sound (pitch) may not change.",
+   "sourceWpId": 2308
+  },
+  {
+   "id": "pk53-0602",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive your vehicle on the sidewalk.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Allow your vehicle to move backwards only if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leave the engine of your vehicle running when you put petrol in it.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-r1970/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Allow your vehicle to move backwards only if it is safe to do so.",
+   "sourceWpId": 2309
+  },
+  {
+   "id": "pk53-0603",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The licence for your vehicle (clearance certificate) is valid for…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "12 months",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "90 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "21 days.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-licence-for-your-vehicle-clearance-certificate-is-vali-r1971/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "12 months",
+   "sourceWpId": 2310
+  },
+  {
+   "id": "pk53-0604",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "It is illegal when you drive your car and a passenger…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sits directly behind you when you only have a learner's licence.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Fiddles with the motor radio's volume knob.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Rides on the bumper of your vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/it-is-illegal-when-you-drive-your-car-and-a-passenger-r1973/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Rides on the bumper of your vehicle.",
+   "sourceWpId": 2312
+  },
+  {
+   "id": "pk53-0605",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The general speed limit for cars on freeways is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-general-speed-limit-for-cars-on-freeways-is-r1974/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "120 km/h",
+   "sourceWpId": 2313
+  },
+  {
+   "id": "pk53-0606",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Keeping a safe following distance means, if the car in front stops suddenly, you can…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Swerve around it.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop safely behind it without swerving.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "stop by gently bumping the car ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/keeping-a-safe-following-distance-means-if-the-car-in-front-r1975/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Stop safely behind it without swerving.",
+   "sourceWpId": 2314
+  },
+  {
+   "id": "pk53-0607",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When approaching an intersection you must stop if…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The light is green but a pedestrian wants to cross in front of you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The light is amber and you can stop before the line.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The flashing green filter light is on for you to turn right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-approaching-an-intersection-you-must-stop-if-r1976/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "The light is amber and you can stop before the line.",
+   "sourceWpId": 2315
+  },
+  {
+   "id": "pk53-0608",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle may travel on a pavement…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If it is being pushed with the engine off.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles can only park on the pavement.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles are not allowed to drive on pavements.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-vehicle-may-travel-on-a-pavement-r1977/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Vehicles are not allowed to drive on pavements.",
+   "sourceWpId": 2316
+  },
+  {
+   "id": "pk53-0609",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Emergency warning lights may be used…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To say thank you to a fellow motorist who allow you to pass safely.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To provide enhanced visibility.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When the vehicle is parked in a hazardous position.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/emergency-warning-lights-may-be-used-r1978/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "When the vehicle is parked in a hazardous position.",
+   "sourceWpId": 2317
+  },
+  {
+   "id": "pk53-0610",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "An emergency triangle must be placed…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 30 m behind the stationary vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "20 m behind the stationary vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least 45 m behind the stationary vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/an-emergency-triangle-must-be-placed-r1979/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "At least 45 m behind the stationary vehicle",
+   "sourceWpId": 2318
+  },
+  {
+   "id": "pk53-0611",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "An unattended vehicle…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Must have the handbrake applied.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Must be locked.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Must turn on its parking lights if unattended for more than one hour.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/an-unattended-vehicle-r1980/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Must have the handbrake applied.",
+   "sourceWpId": 2319
+  },
+  {
+   "id": "pk53-0612",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Before changing lanes, the first thing to do is",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Signal the direction you wish to move to.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Apply the brakes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Check your mirrors and blind spot.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/before-changing-lanes-the-first-thing-to-do-is-r1982/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Check your mirrors and blind spot.",
+   "sourceWpId": 2320
+  },
+  {
+   "id": "pk53-0613",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you are being overtaken, you…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "May drive in the left shoulder of a single-lane road during daylight if is safe.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Should accelerate",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Should keep as far right as possible.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-you-are-being-overtaken-you-r1983/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "May drive in the left shoulder of a single-lane road during daylight if is safe.",
+   "sourceWpId": 2321
+  },
+  {
+   "id": "pk53-0614",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A flashing red robot means…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Consider the intersection a 4-way stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Give way to vehicles to your left and right only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may pass through the intersection without stopping.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-flashing-red-robot-means-r1984/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Consider the intersection a 4-way stop.",
+   "sourceWpId": 2322
+  },
+  {
+   "id": "pk53-0615",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How should you tow a vehicle with damaged brakes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You should never tow a vehicle with no brakes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "With a tow-bar.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "With its engine switched on",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/how-should-you-tow-a-vehicle-with-damaged-brakes-r1985/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "With a tow-bar.",
+   "sourceWpId": 2323
+  },
+  {
+   "id": "pk53-0616",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it okay to drive on the right hand side of a public road with traffic moving in both directions…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When ordered to do so by a traffic officer.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Under no circumstances.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If the right lane is clear.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-is-it-okay-to-drive-on-the-right-hand-side-of-a-public-r1986/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "When ordered to do so by a traffic officer.",
+   "sourceWpId": 2324
+  },
+  {
+   "id": "pk53-0617",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When turning at an intersection…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must signal before you turn.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must signal as you turn.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You do not need to signal if you are turning left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-turning-at-an-intersection-r1987/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "You must signal before you turn.",
+   "sourceWpId": 2325
+  },
+  {
+   "id": "pk53-0618",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The general speed limit for cars on rural roads is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/the-general-speed-limit-for-cars-on-rural-roads-is-r1988/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "100 km/h",
+   "sourceWpId": 2326
+  },
+  {
+   "id": "pk53-0619",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it okay to disobey a road sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When the traffic officer orders you to do so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Under no circumstance.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-is-it-okay-to-disobey-a-road-sign-r1989/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "When the traffic officer orders you to do so",
+   "sourceWpId": 2327
+  },
+  {
+   "id": "pk53-0620",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A hooter may be sounded…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To warn the driver in front if he is rolling back into you.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only during the day.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To alert the driver ahead that the traffic light has changed to green.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/a-hooter-may-be-sounded-r1990/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "To warn the driver in front if he is rolling back into you.",
+   "sourceWpId": 2328
+  },
+  {
+   "id": "pk53-0621",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may not overtake…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Both B and C are correct",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle that has stopped at a pedestrian crossing.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Where your view of the road ahead is restricted by the crest of a hill or a curve.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/you-may-not-overtake-r1993/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Both B and C are correct",
+   "sourceWpId": 2329
+  },
+  {
+   "id": "pk53-0622",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where should parking lights be used?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Less than 12 m from a street light.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Outside a demarcated parking bay.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Inside a demarcated parking bay.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/where-should-parking-lights-be-used-r1994/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "Outside a demarcated parking bay.",
+   "sourceWpId": 2330
+  },
+  {
+   "id": "pk53-0623",
+   "source": "practicek53",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you drive without a seatbelt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When parking or reversing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If the seatbelts have been damaged.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are travelling under 20 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": null,
+   "tags": [
+    "K53 Test",
+    "road-rules"
+   ],
+   "sourceRef": "https://practicek53.co.za/question/when-may-you-drive-without-a-seatbelt-r1995/",
+   "manualRef": null,
+   "credit": "K53 Test (practicek53.co.za)",
+   "upstream": "k53rsa.co.za",
+   "sourceAnswerText": "When parking or reversing.",
+   "sourceWpId": 2331
+  }
+ ]
+}

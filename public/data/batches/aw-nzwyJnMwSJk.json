@@ -1,0 +1,568 @@
+{
+ "batch": "aw-nzwyJnMwSJk",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T17:15:35+02:00",
+ "questions": [
+  {
+   "id": "aw-nzwyJnMwSJk-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When you see the Tram Only command sign, which of the following statements is CORRECT regarding other vehicles and road use?",
+   "image": "images/appsworld/nzwyJnMwSJk-2.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "All vehicles must stop and wait for the tram to pass before proceeding.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only trams are allowed to travel beyond this point or lane; other vehicles must not enter.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Bicycles and motorcycles are allowed to share the tram lane.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Pedestrians have the right of way over trams on this road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=0s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "While driving on a road, you see the following road sign: a blue circle with a white border and the number “60” inside. Which of the following best describes the legal instruction associated with this sign?",
+   "image": "images/appsworld/nzwyJnMwSJk-119.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must not exceed 60 km/h under any circumstances.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are legally required to drive at least 60 km/h unless traffic or road conditions make it unsafe.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This sign only applies to vehicles driving in the fast lane.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The speed shown is recommended when road conditions are poor.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=117s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "You are driving a heavy duty truck that has a gross vehicle mass (GVM) of 11.5 tons. You encounter a blue circular sign with a white border and the number “10t” inside. How must you legally respond to this sign?",
+   "image": "images/appsworld/nzwyJnMwSJk-231.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving at any speed below 10 km/h as long as you're being cautious.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive in the part of the road that is indicated by that sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Avoid entering the road altogether because your vehicle exceeds the limit.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This sign only informs you that your truck's mass must not exceed 10 tons to proceed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=229s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a temporary roadworks site at night. A blue circular road sign with a white arrow pointing diagonally to the left is mounted on a traffic barrier. There are no cones or flag personnel visible. What does this sign legally require you to do?",
+   "image": "images/appsworld/nzwyJnMwSJk-316.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must pass to the left of the obstruction unless you are driving an emergency vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may pass on either side of the obstruction if the road appears clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are legally required to keep to the left side of the sign, regardless of traffic conditions.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "The sign serves only as a warning of an upcoming construction and can be ignored at night.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=314s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a dual carriageway during early morning traffic when you encounter a road maintenance vehicle partially blocking the left lane. A blue circular road sign with a white arrow pointing to the bottom right is fixed on the rear of the obstruction. What are you legally required to do?",
+   "image": "images/appsworld/nzwyJnMwSJk-448.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must reduce speed and pass the obstruction on either side, depending on traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may pass to the right or left, provided no traffic officer is present.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are legally required to pass to the right of the obstruction, even if the left lane appears open.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must stop and wait for traffic to clear completely before proceeding.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=446s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You're approaching an intersection and see this command sign (blue circle with a white arrow pointing to the left). Which of the following is the correct course of action?",
+   "image": "images/appsworld/nzwyJnMwSJk-507.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may turn left or go straight ahead, depending on traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must stop completely before deciding which direction to take.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are legally required to proceed left only, as no other direction is permitted.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must give right of way to oncoming traffic before turning right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=504s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this sign while driving (a blue circle with a white arrow pointing right). What does it instruct you to do?",
+   "image": "images/appsworld/nzwyJnMwSJk-587.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may go straight or turn right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are only allowed to proceed in the direction of the arrow, to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turning right is optional if no traffic is coming.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must stop and give way before turning right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=585s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road sign instruct drivers to do?",
+   "image": "images/appsworld/nzwyJnMwSJk-631.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must turn left or right at the next intersection.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may continue straight or turn if the road is clear.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only allowed to proceed straight ahead.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You must stop and wait for further instruction.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=629s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You see this sign at an upcoming T-junction. Your GPS tells you to turn right, and there are no physical barriers blocking that direction. What must you do?",
+   "image": "images/appsworld/nzwyJnMwSJk-663.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Follow the GPS and turn right carefully if there are no other vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed straight across the junction since no stop sign is present.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore the sign if there’s no traffic officer present and go right.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Obey the sign and turn left, even if your GPS instructs otherwise.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=660s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re approaching a controlled intersection with this sign displayed at the turn. There’s a green traffic light and no oncoming traffic. A side road to the left is open and seems clear. What is the correct and legal action?",
+   "image": "images/appsworld/nzwyJnMwSJk-744.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn left if you're familiar with the area and there's no traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue straight ahead if there’s no physical barrier.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn right as instructed, regardless of what the traffic light or side road conditions show.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Wait for a traffic officer to confirm if the turn is allowed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=742s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You're driving in an unfamiliar city and approach a narrow pathway marked with this sign. The GPS suggests it's a shortcut to your destination, and there are no visible pedestrians at the moment. What must you do?",
+   "image": "images/appsworld/nzwyJnMwSJk-794.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive slowly and proceed if no pedestrians are present.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive through carefully since it's a suggested shortcut.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop, check for pedestrians, and proceed only if safe.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Do not enter, this path is legally restricted to pedestrians only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=792s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You’re driving on a road with a \"Pedal Cycles Only\" sign, and you notice that there are no cyclists in sight. The road appears clear, and it leads to a faster route that could save time. What is the legal and safe course of action?",
+   "image": "images/appsworld/nzwyJnMwSJk-876.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive through the area at a very low speed, as there are no cyclists.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Continue driving if it seems empty, and assume the sign doesn’t apply to cars.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop and check for any cyclists before proceeding, ensuring it’s safe.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Do not enter or drive on this road at all, as it is exclusively for pedal cycles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=874s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are a delivery driver in a residential area and your navigation suggests a shortcut through a path marked with a “Pedal Cycles and Pedestrians Only” sign. You notice a wide, paved path ahead with no barriers. What should you do?",
+   "image": "images/appsworld/nzwyJnMwSJk-961.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed slowly and carefully since the path is wide enough and seems empty.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed only if you switch on your hazards and yield to any pedestrians or cyclists.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Do not use the path at all, as it is strictly for pedal cycles and pedestrians.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Use the path, but only during daylight hours and under 20km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=959s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "You are riding a 125cc scooter and approach a path marked with a “Motorcycles Only” command sign. Your friend, who is riding a quad bike, wants to follow you through the same path. What is the correct course of action?",
+   "image": "images/appsworld/nzwyJnMwSJk-1041.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed normally, and allow your friend on the quad bike to follow since it's similar to a motorcycle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed, but tell your friend to wait, as only two wheeled motorcycles are allowed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Wait for your friend to catch up, since quad bikes fall under the same class of vehicles.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Take an alternate route, as scooters are not allowed on motorcycle only paths.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=1039s"
+  },
+  {
+   "id": "aw-nzwyJnMwSJk-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "You are RIDING A MOTORCYCLE. You approach a road with a “Motor Cars Only” sign. What should you do?",
+   "image": "images/appsworld/nzwyJnMwSJk-1105.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Proceed, as motorcycles are similar in size to motor cars.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and turn around, as the sign excludes all vehicles except passenger motor cars.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed only if your motorcycle is a superbike.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Slow down and proceed with caution.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=nzwyJnMwSJk&t=1103s"
+  }
+ ]
+}

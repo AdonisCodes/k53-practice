@@ -1,0 +1,455 @@
+{
+ "batch": "aw-akDOTHwCLmM",
+ "source": "appsworld",
+ "addedAt": "2026-10-07T16:38:22+02:00",
+ "questions": [
+  {
+   "id": "aw-akDOTHwCLmM-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching an intersection with a Stop Sign. There are no other vehicles, pedestrians, or road users in sight. Which of the following describes your legal obligation under the National Road Traffic Act?",
+   "image": "images/appsworld/akDOTHwCLmM-27.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may slow down to a walking speed (creep) to verify the intersection is clear, and proceed without making a full stop if line-of-sight is unobstructed.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must bring your vehicle to a complete standstill behind the stop line before the intersection, regardless of whether any other traffic or pedestrians are present.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only required to stop completely if you are turning at the intersection; if continuing straight on a clear road, slowing down is sufficient.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=26s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You approach an intersection displaying a Stop Sign with a Yield sign below it showing a right-pointing arrow. You intend to turn right into the cross street, and the road to your right is completely clear of oncoming traffic and pedestrians. What is your correct legal action?",
+   "image": "images/appsworld/akDOTHwCLmM-118.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must bring your vehicle to a complete standstill at the stop line before turning right, regardless of whether traffic is coming.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not required to bring your vehicle to a complete stop; you may turn right directly if it is safe to do so, yielding right-of-way to any cross traffic or pedestrians.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must stop completely, indicate right, wait 3 seconds, and then proceed into the right turn.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=117s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You arrive at a 3-Way Stop intersection at the exact same moment as another vehicle approaching from the road to your right. Neither vehicle has started moving yet. Who has the legal right-of-way to proceed first?",
+   "image": "images/appsworld/akDOTHwCLmM-238.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle on the main or wider road always has priority over vehicles entering from secondary roads, regardless of arrival order.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle arriving from your right automatically has the right-of-way under general intersection rules.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles must proceed in strict order of arrival (\"first to stop, first to move\"); if arrival is simultaneous, you yield to the vehicle on your right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=237s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a 4-Way Stop intersection and intend to turn right. Vehicle A (opposite you, going straight) and Vehicle B (to your left, turning left) both stopped at the intersection before you arrived. As Vehicle A and Vehicle B finish crossing, another car (Vehicle C) pulls up to the stop line to your right. Who may legally enter the intersection next?",
+   "image": "images/appsworld/akDOTHwCLmM-329.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may proceed, because vehicles move in strict chronological order of stopping, making you next in sequence before Vehicle C.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicle C may proceed, because drivers turning right must yield right-of-way to all vehicles moving straight or turning left, regardless of arrival order.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicle C may proceed, because traffic approaching from your right always takes precedence over traffic turning across an oncoming lane.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=328s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a road under construction and approach a manual Stop / Go control point operated by a road worker displaying the \"STOP\" side of the sign. The worker is looking away, and no oncoming traffic is visible through the single-lane roadworks ahead. Which statement describes your legal obligation?",
+   "image": "images/appsworld/akDOTHwCLmM-425.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may carefully proceed at a reduced speed if you flash your headlights to alert any potential oncoming traffic and the path is clearly visible.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must bring your vehicle to a complete stop and remain stopped until the operator flips the sign to \"GO\" or manually signals you to proceed.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only required to stop if a construction flagman signals you with a hand gesture; a static Stop/Go sign alone is advisory during off-peak work hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=424s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching an intersection with a standard Yield Sign (R2). You notice a vehicle approaching from the cross-street on your right, but it is far enough away that you can merge or cross safely without forcing that vehicle to slow down or alter its path. What is your correct legal course of action?",
+   "image": "images/appsworld/akDOTHwCLmM-525.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are strictly required to bring your vehicle to a complete stop at the give-way line whenever any other vehicle is visible anywhere on the intersecting road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must slow down to a walking speed, flash your headlights twice, and stop if the vehicle on the right is within 100 meters.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed through the intersection without coming to a complete stop, provided you do not compel cross-traffic or pedestrians to slow down, swerve, or stop.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=524s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving toward a pedestrian crossing marked with a Yield to Pedestrians sign (R2.1). A pedestrian is waiting on the sidewalk curb, clearly preparing to cross the road, but has not yet stepped off the curb onto the road surface. What is your correct legal duty?",
+   "image": "images/appsworld/akDOTHwCLmM-600.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must give right-of-way by slowing down or stopping to allow the pedestrian to cross safely, even if they are still on the sidewalk waiting to step into the crossing.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are only legally required to stop if the pedestrian is already physically standing on the demarcated road marking or actively walking across the lane.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You should maintain your speed and sound your hooter to warn the pedestrian to stay on the sidewalk until your vehicle has passed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=599s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching an intersection controlled by this sign. You intend to go straight. Another vehicle approaches from the road to your right and arrives at its yield line at the exact same moment as you stop at yours. Who must yield right-of-way?",
+   "image": "images/appsworld/akDOTHwCLmM-678.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must yield right-of-way to the vehicle on your right, allowing them to enter the mini circle first.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle on your right must yield to you, because vehicles driving straight through a mini circle take precedence over turning vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have automatic right-of-way over any vehicle on your right, but you must yield to vehicles approaching from your left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=677s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving in a city center and approach a roadway marked with a No Entry (R3) regulatory sign. However, you notice a delivery van actively driving out of that exact street toward you. Which of the following statements is legally true regarding your actions?",
+   "image": "images/appsworld/akDOTHwCLmM-748.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You may enter the road slowly if you are visiting a property or business located within that specific block, provided you yield to exiting traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are prohibited from driving past the sign into that roadway under any circumstances, as it indicates a one-way street or restricted carriageway flowing in the opposite direction.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may enter the roadway only during off-peak traffic hours or between 18:00 and 06:00 when enforcement is inactive.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=747s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a narrowed single-lane section of roadway marked with a Yield to Oncoming Traffic sign. An oncoming car is approaching the narrowed section from the opposite direction. What is your correct legal course of action?",
+   "image": "images/appsworld/akDOTHwCLmM-827.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must give right-of-way to the oncoming vehicle, stopping before the narrow section if necessary, and only proceed once the single lane is clear of oncoming traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Since you are already driving straight in your lane, the oncoming vehicle must pull onto the shoulder to let you pass first.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may proceed simultaneously with the oncoming vehicle provided you both slow down to under 20 km/h and move as far to the left as possible.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=826s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching a T-junction or intersection displaying a One-Way Roadway (Proceed Left - R4.1) sign. You do not wish to turn left onto that one-way carriageway, but rather intend to drive straight across the intersection (or turn onto an unrestricted road, where permitted). Which statement correctly describes your legal obligation?",
+   "image": "images/appsworld/akDOTHwCLmM-906.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are legally compelled to turn left in the direction of the arrow regardless of your intended destination.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may proceed in a direction other than the arrow (such as straight), provided you do not enter or drive against the flow of the one-way carriageway indicated by the sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must come to a complete standstill, signal left for 3 seconds, and then turn left into the one-way street.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=905s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are approaching an intersection displaying a One-Way Roadway (Proceed Right - R4.2) sign. You intend to enter and use that specific intersecting carriageway. Which rule applies to your vehicular movement upon entering that street?",
+   "image": "images/appsworld/akDOTHwCLmM-992.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must bring your vehicle to a complete stop before turning right, wait 3 seconds, and then proceed at a speed not exceeding 30 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may enter that carriageway and turn left if you are accessing a private driveway on the immediate left side of the street.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are legally permitted to travel only in the direction of the arrow (to the right) if you choose to enter and use that specific roadway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=991s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving through an urban grid and arrive at an intersection featuring a One-Way Roadway (Proceed Straight Ahead - R4.3) sign mounted directly above the lane entering the road ahead. What is the legal requirement regarding your movement if you decide to travel down that roadway?",
+   "image": "images/appsworld/akDOTHwCLmM-1057.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must travel straight ahead into that carriageway; reversing or turning around to travel in the opposite direction on that roadway is strictly prohibited once you enter.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are permitted to drive straight ahead into the roadway, but you may perform a U-turn if the road is clear and you use your hazard lights.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are legally forced to proceed straight through the intersection, even if you intended to turn left or right onto the cross-street.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=1056s"
+  },
+  {
+   "id": "aw-akDOTHwCLmM-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a normal private motor vehicle and approach a road marked with a Pedestrian Priority (R5) control sign. Which statement accurately describes your legal obligation and access rights?",
+   "image": "images/appsworld/akDOTHwCLmM-1126.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Private vehicles may enter the street without restriction, provided they do not exceed 40 km/h and give right-of-way to pedestrians on designated zebra crossings.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Private vehicles are strictly prohibited from entering the area; entry is restricted to delivery/maintenance vehicles (at max 15 km/h) and emergency services, with pedestrians having absolute right-of-way over all ground traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All vehicular traffic may enter, but must bring the vehicle to a complete standstill whenever a pedestrian enters within 10 meters of the vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=akDOTHwCLmM&t=1125s"
+  }
+ ]
+}
