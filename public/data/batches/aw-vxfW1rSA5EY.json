@@ -1,0 +1,81 @@
+{
+ "batch": "aw-vxfW1rSA5EY",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:33:27+02:00",
+ "questions": [
+  {
+   "id": "aw-vxfW1rSA5EY-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you overtake on the left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Whenever the road is clear",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only when the vehicle ahead is turning right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At any intersection",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Whenever you are in a hurry",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=vxfW1rSA5EY&t=105s"
+  },
+  {
+   "id": "aw-vxfW1rSA5EY-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road sign mean?",
+   "image": "images/appsworld/vxfW1rSA5EY-210.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Minimum speed 80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Maximum speed 80 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Recommended speed 80 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "No speed limit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=vxfW1rSA5EY&t=204s"
+  }
+ ]
+}

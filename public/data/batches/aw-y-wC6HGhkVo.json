@@ -1,0 +1,327 @@
+{
+ "batch": "aw-y-wC6HGhkVo",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:24:08+02:00",
+ "questions": [
+  {
+   "id": "aw-y-wC6HGhkVo-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far should someone be able to see a car's turn signals in regular daylight if they have normal eyesight?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "20 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "30 metres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "150 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=18s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour should indicator lights be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pink.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Blue.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "White, yellow or amber.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=56s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the correct name for this sign?",
+   "image": "images/appsworld/y-wC6HGhkVo-100.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A fingerboard.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A green board.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A blue board.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=96s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign notifies you of two-way traffic ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/y-wC6HGhkVo-154-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/y-wC6HGhkVo-154-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/y-wC6HGhkVo-154-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=151s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Will a horse drawn vehicle be allowed on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=197s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign will you find in mountainous areas?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/y-wC6HGhkVo-229-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/y-wC6HGhkVo-229-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/y-wC6HGhkVo-229-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=226s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign will you find in an area with water?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/y-wC6HGhkVo-263-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/y-wC6HGhkVo-263-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/y-wC6HGhkVo-263-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=261s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "In an urban area you can't leave your car unattended for more than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "48 hours.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 days.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 days.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=280s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop your vehicle within 6 metres of a bridge?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=311s"
+  },
+  {
+   "id": "aw-y-wC6HGhkVo-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign will warn you of a road that narrows from one side only?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/y-wC6HGhkVo-329-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/y-wC6HGhkVo-329-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/y-wC6HGhkVo-329-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=y-wC6HGhkVo&t=326s"
+  }
+ ]
+}

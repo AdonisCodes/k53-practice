@@ -1,0 +1,663 @@
+{
+ "batch": "aw-wIq8F9MWw24",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:21:15+02:00",
+ "questions": [
+  {
+   "id": "aw-wIq8F9MWw24-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this sign?",
+   "image": "images/appsworld/wIq8F9MWw24-43.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "To indicate a parking lot to the right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To indicate a stop sign to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To indicate a one-way carriageway to the right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=40s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How old does a child have to be in order to use a seatbelt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "3 years of age and older.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 years of age and older.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1 year of age and older.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=107s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the furthest that a load may project to the front of a heavy motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "450 millimetres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "550 millimetres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "300 millimetres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=130s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the furthest that a load may project to the back end of a heavy motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1.8 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "180 millimetres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "290 millimetres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=164s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this warning sign?",
+   "image": "images/appsworld/wIq8F9MWw24-202.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "To warn you of a motor gate to the right of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To warn you of a ladder to the right of the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To warn you of a broken road to the left.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=199s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What should a heavy motor vehicle always carry when driving on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A baby seat.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least one emergency warning triangle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A tyre repair kit.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=272s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/wIq8F9MWw24-295.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A gentle turn to the right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A driveway to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A sharp turn to the right.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=292s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you always do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive in a safe and rule abiding manner.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive over 240 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have at least three spare tyres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=327s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/wIq8F9MWw24-372.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A railway crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A train station ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A truck stop ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=369s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of this sign?",
+   "image": "images/appsworld/wIq8F9MWw24-396.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "To inform you of a petrol station ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To inform you of a race track ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It warns you of an arrestor bed ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=393s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you not do if someone intends to overtake you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Speed up.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Slow down and let them pass.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Continue obeying the rules of the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=436s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When can you drive on the right-hand side of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only weekends.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you feel like doing so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you can do so without obstructing other traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=481s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to drive a vehicle on a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are wearing your seatbelt.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are holding a cell phone in either one hand or both hands.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If it is a public holiday.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=502s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the most important rule of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Always drive on the left-hand side of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must always have a working cell phone on you at all times.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always use your indicators before stopping.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=536s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where would you usually find this sign?",
+   "image": "images/appsworld/wIq8F9MWw24-566.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "On a farm.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Along the coast.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In a mountainous area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=563s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-16",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use if it is raining outside?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Handbrake.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Windscreen wipers.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=585s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-17",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "If you are driving and a dog suddenly runs across the road, which of the following would you use to try to avoid knocking the dog?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The steering wheel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The handbrake.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The accelerator.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=603s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-18",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to prevent your parked car from rolling?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The steering wheel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The handbrake.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The accelerator.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=626s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-19",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following would you use to look at the vehicle behind you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The rearview mirror.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The handbrake.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The brake pedal.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=643s"
+  },
+  {
+   "id": "aw-wIq8F9MWw24-20",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "How many pedals will an automatic vehicle have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Three.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Two.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "One.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=wIq8F9MWw24&t=660s"
+  }
+ ]
+}

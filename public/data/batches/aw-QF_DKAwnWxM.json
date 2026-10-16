@@ -1,0 +1,489 @@
+{
+ "batch": "aw-QF_DKAwnWxM",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:34:28+02:00",
+ "questions": [
+  {
+   "id": "aw-QF_DKAwnWxM-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road marking indicate?",
+   "image": "images/appsworld/QF_DKAwnWxM-42.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Buses are not allowed on this section of the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only buses are allowed on this section of the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are allowed to ride your bike in this lane",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=39s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road marking indicate?",
+   "image": "images/appsworld/QF_DKAwnWxM-74.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This spot is available for ambulances only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This spot is available for tow trucks only",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only automatic vehicles may park here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=71s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-103.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only SUVs may drive here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only police vehicles may drive here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only taxis are allowed to drive here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=100s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-133.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only abnormal vehicles may drive here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only automatic vehicles may drive here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only race cars may drive here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=130s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road marking mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-159.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You can only stop here on weekends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are allowed to park here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to park here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=156s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this road marking mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-191.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must accelerate past the line",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You can stop beyond the line",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your vehicle must stop behind the white line",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=188s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-229.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Taxis are not allowed past this sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Trucks are not allowed here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Bicycles are not allowed here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=226s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-259.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only midi buses can drive on this lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only trucks can drive on this lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only sedans may drive on this lane",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=256s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/QF_DKAwnWxM-298.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is an exit 300 metres ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is an exit 200 metres ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is an exit 100 metres ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=295s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/QF_DKAwnWxM-329.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A red bus to the right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must move onto the left lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road to the right ends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=326s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if your phone rings while you are driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Answer it and tell your boss to call you back later",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When it is safe, pull off to the side of the road and answer the call",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can only answer it if you are in a red car",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=355s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if a traffic officer instructs you to disobey a road sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Do exactly what he/she says",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ignore whatever they say",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leave the area immediately",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=383s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive your vehicle on a public road if it does not have a licence plate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=404s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to drive bakkies on weekends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Your vehicle can not have a radio",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must always use your indicator before changing lanes",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=424s"
+  },
+  {
+   "id": "aw-QF_DKAwnWxM-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive alone if you only have your learner's licence?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if you are older than 21",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=QF_DKAwnWxM&t=442s"
+  }
+ ]
+}

@@ -1,0 +1,617 @@
+{
+ "batch": "aw-AoAWwLAPjp8",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:32:50+02:00",
+ "questions": [
+  {
+   "id": "aw-AoAWwLAPjp8-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Is there a certain time and place that accidents happen?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No, they are unexpected",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, only for taxis",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=0s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are most accidents caused by vehicle failure?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only with sedans",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=19s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Do most accidents occur with drivers that are between 18-25?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Males between 18-25 only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=37s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Should you actively search for hazards while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, always",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=56s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How often are you supposed to check your mirrors?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Every minute",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Every 5-8 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Once every hour",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=74s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to change lanes if it is raining?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if you have a fast car",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes if the lane is clear",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=93s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the primary rule of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Always keep left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always hold your steering wheel with one hand",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Always keep your handbrake up on a flat road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=111s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you use the road according to the rules?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At all times",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only on weekends",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when you feel like doing so",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=135s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if a traffic officer instructs you to disobey a road sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Ignore him",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and talk to them",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Obey his instruction",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=153s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do before you overtake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Indicate",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch your radio off",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Close your sunroof",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=172s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you not do when you are being overtaken?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Look at the person overtaking you",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerate",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Increase the volume of your radio",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=190s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is not allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "SUVs",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pedal cycles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hatchbacks",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=209s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on urban roads?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=227s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on rural roads?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=246s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is compulsory for adults and children?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Wearing of a seatbelt",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Listening to the radio",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Looking out of the window",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=283s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you cross the road if there is no designated pedestrian crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=301s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to do a burnout on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=320s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to overtake the vehicle in front of you if you are going up a hill?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=338s"
+  },
+  {
+   "id": "aw-AoAWwLAPjp8-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to use your hooter to greet your friend?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only in urban areas",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=AoAWwLAPjp8&t=375s"
+  }
+ ]
+}

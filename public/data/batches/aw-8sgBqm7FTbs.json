@@ -1,0 +1,653 @@
+{
+ "batch": "aw-8sgBqm7FTbs",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:21:12+02:00",
+ "questions": [
+  {
+   "id": "aw-8sgBqm7FTbs-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far should your vehicle’s indicator lights be visible to a person who possesses normal eyesight?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "150 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "30 metres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "255 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=58s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to change lanes unless...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You can do so without endangering other road users.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You have a fast vehicle that can enter a small gap in traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It’s the weekend.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=81s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the first thing you should do before passing a stationary bus...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop and wait for it to move off.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up as you want to pass it quickly.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Look out for people who are either approaching or leaving the bus.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=105s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "In the case of a drawing vehicle and a semi-trailer combined, what is the maximum length that is allowed on our roads?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "18,5 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "25 metres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2,5 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=143s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the speed limit for vehicles with a GVM greater than 9000kg?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "80 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "50 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=193s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to have a fuel cap on your fuel tank at all.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are allowed to use a cloth as a fuel cap.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your fuel tank must always be fitted with an effective fuel cap.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=226s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How many windscreen wipers should a light motor vehicle have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Seven in total.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A minimum of three.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least one windscreen wiper directly in front of you as the driver.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=264s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "How many windscreen wipers should a heavy motor vehicle have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Seven in total.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A minimum of three.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least one windscreen wiper directly in front of you as the driver.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=294s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The windscreen of a light motor vehicle should have a visible light transmittance through the windscreen of at least...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "70 %.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "20%.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "5%.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=319s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are considered emergency vehicles?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A tractor doing freeway maintenance.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A school bus.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "An ambulance.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=344s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the number plate on your vehicle correspond with?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Your wheels.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Your vehicle’s licence disc.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The overall aesthetic of your vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=364s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are carrying a load on your vehicle, it should not...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Obscure the view of the driver.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Weigh more than 50 kg.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Be covered by any plastic sheeting.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=386s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should your emergency warning triangle be used?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you are parked on the side of the road to have a coffee.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When your car breaks down.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are visiting your friends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=419s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are turning right to enter another street but there are pedestrians crossing that street, what should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hoot at them and make them move.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Carry on driving as you have the right of way.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop your vehicle and let them cross the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=444s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are considered to be abandoned?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A car that has parked in a reserved parking.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle parked in a way that will obstruct traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A vehicle parked in your neighbour's yard for 12 hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=474s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are allowed to have adjustable spot lamps?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A vehicle driven by a CEO.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A vehicle driven by an architect.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A vehicle driven by a breakdown contractor.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=517s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A professional driver will be arrested if the concentration of alcohol in his blood is...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0,02 grams per 100 ml of blood or more.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0,05 grams per 100 ml of blood or more.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0,07 grams per 100 ml of blood or more.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=548s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park in a disabled parking bay if you as the driver are disabled but the vehicle's occupants are not?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=601s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can a vehicle that is engaged in civil protection stop anywhere on a public road, provided they are carrying out their duties?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=620s"
+  },
+  {
+   "id": "aw-8sgBqm7FTbs-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you supposed to stop your vehicle if instructed to do so by a person leading pigs and ostriches?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8sgBqm7FTbs&t=653s"
+  }
+ ]
+}

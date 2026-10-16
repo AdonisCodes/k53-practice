@@ -1,0 +1,329 @@
+{
+ "batch": "aw-w7FfzuI9tzc",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:22:32+02:00",
+ "questions": [
+  {
+   "id": "aw-w7FfzuI9tzc-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How close to an intersection are you allowed to park a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 2 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least 3 metres away",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least 5 metres away",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Parking too close to an intersection obstructs visibility and can be dangerous for other road users. The law requires at least 5 metres of clearance.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=33s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is illegal to deposit onto a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Fuel, oil, grease, or ashes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Water",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Small leaves or dust",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Depositing substances like fuel, oil, grease, or ashes on a road is dangerous as they can make the surface slippery and cause accidents.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=64s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under what conditions may you reverse a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only for as long as necessary and when it is safe to do so",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Whenever you need to, regardless of traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if another driver is guiding you",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Reversing should only be done when necessary and safe to avoid accidents or obstruction of traffic. Unnecessary reversing is dangerous and illegal.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=95s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to tow another vehicle on a public road with a tow-rope or chain longer than 3.5 metres?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No, it is not allowed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, as long as the towed vehicle has working brakes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, but only during the daytime",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "A tow-rope, chain, or tow-bar must not exceed 3.5 metres to maintain safe control and prevent excessive swaying or collisions.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=134s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where is it illegal to overtake another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At or on the approach to a pedestrian crossing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On a straight road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When the road has a dashed center line",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Overtaking at or near a pedestrian crossing is illegal because pedestrians may be crossing, and visibility is reduced.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=164s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when another vehicle is overtaking you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Move to the left if it is safe and maintain your speed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up to prevent them from overtaking",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Move to the right to give them more space",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "When being overtaken, you should move over to the left if safe and maintain your speed to allow the other vehicle to pass safely. Speeding up makes overtaking dangerous and is illegal.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=200s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "1"
+   ],
+   "type": "single",
+   "question": "Are you allowed to use a motorcycle to tow another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, if the vehicle is small",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, but only on quiet roads",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, it is not allowed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "Motorcycles are not designed for towing other vehicles, as this can be highly dangerous and affect stability.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=236s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it legal to use a mobile phone while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When waiting at a red traffic light",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When using a hands-free system",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When driving at a slow speed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "Using a mobile phone while driving is illegal unless it is connected to a hands-free system. Holding or operating a phone distracts the driver and increases accident risk.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=263s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the correct action when approaching a four-way stop?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The first vehicle to arrive goes first",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The biggest vehicle always has the right of way",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle on the left always goes first",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "At a four-way stop, the first vehicle to arrive has the right of way. If two or more vehicles arrive simultaneously, the one on the right goes first.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=290s"
+  },
+  {
+   "id": "aw-w7FfzuI9tzc-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it illegal to overtake another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When approaching a blind rise",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When on a straight road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When the vehicle in front is driving slowly",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "Overtaking on a blind rise is extremely dangerous as you cannot see oncoming traffic. Only overtake when the road ahead is clear and safe.",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=w7FfzuI9tzc&t=316s"
+  }
+ ]
+}

@@ -1,0 +1,967 @@
+{
+ "batch": "aw-3wzKqyrVMW0",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:21:16+02:00",
+ "questions": [
+  {
+   "id": "aw-3wzKqyrVMW0-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What do reservation signs do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Warn you of hazards ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Inform you of a particular section of the road or parking area that is reserved for a specific type of vehicle only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Inform you of a restaurant ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=58s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour are reservation signs?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Blue and White.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red and White.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Red and Yellow.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=113s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-130.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This parking is reserved for vehicles carrying disabled persons only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This area is reserved for police vehicles only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This parking is reserved for taxis only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=127s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-166.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This parking is reserved for emergency vehicles only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This area is reserved for 60 vehicles only.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This parking is reserved for a maximum of 60 minutes.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=163s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of limit prohibition signs?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is to warn you of something dangerous.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is to set a specific limit which is allowed on the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is to give more information about parking spots.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=206s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are the general colours of prohibition signs?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Red and White.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Blue and White.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Green and White.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=243s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-286.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a width limit in this area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a height limit in this area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a weight limit in this area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=283s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-370.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a width limit in this area.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a length limit in this area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a weight limit in this area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=370s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-375.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a speed limit of 100 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a limit of 100 vehicles in this area.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The minimum speed limit is 100 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=372s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-413.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The minimum speed limit is 12 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a speed limit of 12 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a weight limit of 12 tons in this area.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=410s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of command signs?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To control parking spaces.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To indicate a hazard.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To give a certain instruction.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=442s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-468.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only trucks are allowed on this road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You will have to pay a toll fee on this road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Trucks are not allowed on this road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=465s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-503.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "All cars in this lane must have lights.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must switch your lights off when you see this sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must switch on your headlights when you see this sign.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=500s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-538.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only 50 cars are allowed on this road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Your maximum speed must be 50 km/h or less.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your minimum speed must be 50 km/h or more.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=535s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you proceed once you see this sign?",
+   "image": "images/appsworld/3wzKqyrVMW0-585.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should move off after 3 minutes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should move off after 3 seconds.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only after all the vehicles that arrived before you at the other two stop lines have moved off.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=582s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you proceed once you see this sign?",
+   "image": "images/appsworld/3wzKqyrVMW0-674.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You should move off after 3 minutes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should move off after 3 seconds.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only after all the vehicles that arrived before you at the other three stop lines have moved off.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=633s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are in an accident (no one has been injured), how many hours do you have to report it to the police?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Within 90 hours.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Within 24 hours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Within 36 hours.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=676s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to leave your vehicle unattended with the engine running?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=708s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are the first two things that you should do if you are involved in an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn your radio off and close your sunroof.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Check your mirror and carry on driving.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Immediately stop your vehicle and check if anyone is injured.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=727s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are children under 14 years of age exempt from using a seatbelt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes but only on weekends.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, no one is exempt from using a seatbelt.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=754s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What type of signs will have a yellow background?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Precaution Signs.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hazardous Signs.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Temporary Signs.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=778s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What do Information Signs inform you about?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The road layouts ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Fishing spots ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Parking spots ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=799s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you use to tow a vehicle with defective brakes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A tow rope that is shorter than 2.5 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A solid tow bar.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A towing chain.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=822s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is incorrect?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use your hooter in emergencies.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may reverse if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may drive along a pavement.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=867s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-25",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You should wear sandals.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep both hands on the steering wheel.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must listen to the radio.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=888s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-26",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-959.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are potholes ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a police station ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are speed humps ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=956s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-27",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-991.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a race ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is lightning ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are overhead electric cables ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=988s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-28",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-1019.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are sheep ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are hippos ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are elephants ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=1016s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-29",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-1042.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are sheep ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are hippos ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are elephants ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=1039s"
+  },
+  {
+   "id": "aw-3wzKqyrVMW0-30",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/3wzKqyrVMW0-1068.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are sheep ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are hippos ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are elephants ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3wzKqyrVMW0&t=1065s"
+  }
+ ]
+}

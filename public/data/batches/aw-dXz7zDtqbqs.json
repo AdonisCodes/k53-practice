@@ -1,0 +1,969 @@
+{
+ "batch": "aw-dXz7zDtqbqs",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:21:14+02:00",
+ "questions": [
+  {
+   "id": "aw-dXz7zDtqbqs-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the purpose of the rules of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To help you pass your learner’s licence.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To make sure you only drive a reliable vehicle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To protect every person who uses the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=105s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to drive on the right-hand side of a one-way road if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Vehicles that have more than 300 kilowatts are not allowed on the public road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is not necessary to stop at a stop street.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=131s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is considered a safe following distance for a light motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A 2-second following distance.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A 1-second following distance.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A 3-second following distance.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=196s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is considered a safe following distance for a heavy motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A 2-second following distance.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A 1-second following distance.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A 3-second following distance.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=223s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following will cause you to increase your following distance?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If it’s a Sunday afternoon.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Poor weather conditions.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If the vehicle in front of you is a light motor vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=242s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you always do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Display your vehicle licence disc.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive with your left foot resting on the clutch.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep your radio off while driving.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=289s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If the road you are travelling on is divided by a painted line, on which side of the division should you drive on?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are supposed to drive over the division.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The right side.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The left side.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=334s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to cross this barrier or division?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if you drive a heavy motor vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Whenever you feel like doing so.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At an opening where it is indicated to do so.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=357s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following should you not do while on the public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive continuously on the shoulder of the road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You should not allow the passengers of your vehicle to sleep.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Allow someone to overtake you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=377s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to park...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On your neighbour's driveway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In a place that will obscure a road sign.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In front of a supermarket.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=416s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What will happen if you park within 1,5m of a fire hydrant?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You will be fined and/or your vehicle will be impounded.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You will be arrested.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Nothing will happen.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=446s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you never overtake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "After 8 pm on a weekday.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you drive a slow car.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When your visibility is limited.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=471s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you not do when overtaking on the left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Cross over the yellow line.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Break the speed limit.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A and B are correct.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=510s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When may you enter a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If there is bumper-to-bumper traffic.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it is free of other traffic.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A and B are correct.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=530s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to use hand signals on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=558s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Is a passenger allowed to help steer the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=574s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park your vehicle in a tunnel?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=584s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it compulsory to stop?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If your friend tells you to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you are directed to do so by a traffic officer.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If there is a speed bump ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=595s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the first thing you should do if you get into an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Call your boss and inform him/her about what has transpired.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Go straight home.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop your vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=619s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to leave your vehicle without using the parking brake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only in a manual vehicle.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=642s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop on a public road.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive a vehicle that has 21-inch rims.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leave your engine running while you are filling fuel into it.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=667s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive a vehicle that causes excessive noise.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive a vehicle that has a radio.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Fill fuel on a Monday afternoon.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=693s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Any race or event on a public road should be approved by who?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Relevant authorities.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Your neighbours.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You don’t need approval from anyone.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=715s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drag your wheels?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=740s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-25",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is not allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A Sedan.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "An SUV.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motor tricycles.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=753s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-26",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are animals allowed near or on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When they are under control.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If they are going for a walk.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When they are alone.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=768s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-27",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on a road within an urban area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=787s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-28",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on a road outside an urban area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=809s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-29",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on freeways?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=826s"
+  },
+  {
+   "id": "aw-dXz7zDtqbqs-30",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit for a bus?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 km/h.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dXz7zDtqbqs&t=842s"
+  }
+ ]
+}

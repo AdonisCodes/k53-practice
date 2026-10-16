@@ -1,0 +1,695 @@
+{
+ "batch": "aw-MKYHPZWLvSU",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:31:27+02:00",
+ "questions": [
+  {
+   "id": "aw-MKYHPZWLvSU-01",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following ensures that your parked vehicle does not roll?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Handbrake",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=0s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-02",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following must you use to change gears?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake and accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Clutch and gear stick",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Handbrake and steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=19s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-03",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you press to increase your speed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Left indicator",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=37s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Will the stopping distance be longer if the road you are travelling on is wet?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, always",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=56s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-05",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is not found in an automatic vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clutch pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=74s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-06",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What are your windscreen wipers used for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To indicate you are turning left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To clear the water from your windscreen",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To show you are driving an automatic car",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=92s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-07",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to slow your vehicle down?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Rear view mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Steering wheel",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Brake pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=111s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-08",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to turn your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Handbrake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=134s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/MKYHPZWLvSU-155.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It means the road ahead is a one-way only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It means there is no entry ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It means only ambulances are allowed ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=152s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/MKYHPZWLvSU-174.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a shopping mall ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a pedestrian crossing ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are children ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=171s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/MKYHPZWLvSU-192.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is two way traffic ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road ends shortly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only fast cars are allowed ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=189s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/MKYHPZWLvSU-211.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must keep left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must stop at the line",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=208s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/MKYHPZWLvSU-229.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must keep left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Blue cars only must keep left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=226s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/MKYHPZWLvSU-247.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to make a U-turn",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to turn left",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must speed up",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=244s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Should your vehicle be on while filling fuel?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are over 18",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=263s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-16",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is your gear knob used for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To change gears",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "To stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "To accelerate",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=281s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you cross the road if it means you will be blocking traffic?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=299s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to spin your tyres on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=318s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to overtake the vehicle in front of you if you are near a turn?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=336s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you supposed to do before changing lanes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Use your handbrake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Check your mirrors and blind spot before changing lanes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn your radio off",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=354s"
+  },
+  {
+   "id": "aw-MKYHPZWLvSU-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop on a public road to talk to your friend?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only in urban areas",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=MKYHPZWLvSU&t=372s"
+  }
+ ]
+}

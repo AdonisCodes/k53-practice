@@ -1,0 +1,583 @@
+{
+ "batch": "aw-izUTPV91Niw",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:30:25+02:00",
+ "questions": [
+  {
+   "id": "aw-izUTPV91Niw-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should headlights be turned on?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only at night",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When visibility is poor",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "During the day only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=31s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a green arrow at a traffic light mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must go straight only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may turn in the direction of the arrow",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=78s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you are involved in a minor accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Leave the scene if no one is hurt",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and exchange information",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=104s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How should you signal if your vehicle has broken down on the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Wave your hands out the window",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Use hazard lights",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Use high beams",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=137s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a blue road sign indicate?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A warning",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Information or direction",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Prohibition",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=163s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At what blood alcohol concentration (BAC) is it illegal to drive?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.05% or higher",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.02% or higher",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any amount of alcohol",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=181s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you see an emergency vehicle with lights and sirens behind you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Maintain your speed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Move to the side of the road and stop",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop immediately",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=211s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a solid white line in the center of the road mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Overtaking is allowed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No overtaking is allowed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Lane changing is allowed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=261s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When driving in fog, you should:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Use high-beam headlights",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Use low-beam headlights",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn off headlights",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=285s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do if you see a flashing amber light at an intersection?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Proceed with caution",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed up to pass",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=307s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How often should you check your mirrors while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Every 5 seconds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Regularly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when turning",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=325s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which vehicles must stop at a railway crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "All vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only vehicles carrying hazardous materials",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=367s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it allowed to use a cellphone while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if using a hands-free device",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When stopped at a red light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Never",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=444s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if a pedestrian is waiting at a pedestrian crossing?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Slow down and stop to let them cross",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive around them",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ignore them",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=466s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the legal following distance between your car and the vehicle in front of you on a highway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 2 seconds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least 1 second",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "At least 4 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=496s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a red traffic light with a green arrow pointing right mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop completely",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn right only if it is safe to do so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Proceed straight",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=549s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do if you see a pedestrian crossing the road at an unmarked crosswalk?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Continue driving as long as you are not speeding",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and allow the pedestrian to cross",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Honk to alert them of your presence",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=574s"
+  },
+  {
+   "id": "aw-izUTPV91Niw-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When parking uphill on a road with a curb, which way should you turn your front wheels?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Towards the curb",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Away from the curb",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep them straight",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=izUTPV91Niw&t=600s"
+  }
+ ]
+}

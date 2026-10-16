@@ -1,0 +1,809 @@
+{
+ "batch": "aw-57iXWIKfvtM",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:32:02+02:00",
+ "questions": [
+  {
+   "id": "aw-57iXWIKfvtM-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum height that your vehicle may be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "4.3 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "8 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "10 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=0s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you carry a load on your vehicle if it obscures the driver's view?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are carrying metal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=19s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the furthest that your dipped beam may brighten till?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "50 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=37s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Vehicles must be fitted with what tyres?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pneumatic tyres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sand filled tyres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Water filled tyres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=55s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your pneumatic tyres must have a tread depth of at least...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.001 millimetres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1 millimetre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.0001 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=74s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to use your vehicle on a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You have a sunroof",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You have a widebody kit",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You do not have an effective fuel cap",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=92s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Should you stop your vehicle if there are animals crossing the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if they're horses",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=110s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to enter a public road if there is an obstruction?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=134s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long should the length of the tow rope between two vehicles be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "3.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Less than 1 metre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "30 centimetres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=152s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you stop on a freeway to have a drink?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only for 10 minutes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=170s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you supposed to do if there are pedestrians crossing the road...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Don't stop as you have right of way",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Stop and allow them to cross",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive around them",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=189s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How often should you check your rearview mirrors?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Every 5 to 8 seconds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Every 30 minutes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when you want to stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=207s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park in a disabled parking if you are conveying elderly people?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are over 60",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=225s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit for buses?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "150 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "275 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=244s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you are driving in heavy rain?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Increase following distance",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Decrease following distance",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Increase your speed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=262s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If there was an accident where a person has been injured, are tow-truck drivers allowed to move the vehicle from the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes always",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, if he has showed up in 10 minutes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, not if a traffic officer has authorised removal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=280s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are engineers allowed to have adjustable spot lamps on their vehicles?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only during the day",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=298s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How many windscreen wipers should you have on your light motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least one windscreen wiper in front of you",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "At least 3",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Nothing",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=317s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How much of visible light must be able to transmit through your windscreen?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At least 70%",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "10%",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "20%",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=335s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour warning light does a fire-fighting vehicle have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Blue",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Green",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=353s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour warning lights does an ambulance have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Green",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Blue",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Red",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=372s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour warning lights does a traffic officer's vehicle have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Blue",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Green",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=390s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour warning lights does a vehicle driven by a person engaged in civil protection have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Red",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Green",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Blue",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=408s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The number plate on your vehicle should correspond with...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicle licence disc",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Learner's licence",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Driver's licence card",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=426s"
+  },
+  {
+   "id": "aw-57iXWIKfvtM-25",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which indicator do you use if you intend on turning left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Right indicator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hazards",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Left indicator",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=57iXWIKfvtM&t=445s"
+  }
+ ]
+}
