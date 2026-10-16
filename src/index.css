@@ -33,6 +33,14 @@ textarea {
   font: inherit;
 }
 
+button,
+a,
+input,
+select,
+textarea {
+  touch-action: manipulation;
+}
+
 ::selection {
   background: #cfe3c4;
 }

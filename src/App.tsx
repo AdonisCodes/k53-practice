@@ -1,6 +1,7 @@
 import { useDeferredValue, useEffect, useMemo, useState } from "react";
 import { Board } from "./components/Board";
 import { FilterBar } from "./components/Filters";
+import { Review } from "./components/Review";
 import { PracticeBody, QuizSummary } from "./components/practice/QuestionBody";
 import { SourceCredit } from "./components/SourceCredit";
 import { Button } from "./components/ui/button";
@@ -12,7 +13,18 @@ import {
   DialogTitle,
 } from "./components/ui/dialog";
 import { loadBank, matchesFilters, searchBlob } from "./lib/data";
-import { columnOf, loadProgress, nextColumn, saveProgress } from "./lib/progress";
+import { columnOf } from "./lib/progress";
+import {
+  loadSrs,
+  moveCardToColumn,
+  progressFromStore,
+  rateCard,
+  reviewCounts,
+  saveSrs,
+  setNewLimit,
+  type Rating,
+  type SrsStore,
+} from "./lib/srs";
 import {
   CATEGORY_LABELS,
   COLUMN_DEFS,
@@ -20,14 +32,14 @@ import {
   QUESTION_TYPES,
   creditFor,
   sourceShortName,
+  type ColumnId,
   type Filters,
-  type ProgressMap,
   type Question,
   type QuestionType,
   type QuizState,
   type SourcesMap,
 } from "./lib/types";
-import { sampleRandom } from "./lib/utils";
+import { cn, sampleRandom } from "./lib/utils";
 
 function Stat({ label, value, accent = false }: { label: string; value: string; accent?: boolean }) {
   return (
@@ -45,11 +57,12 @@ export default function App() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [sources, setSources] = useState<SourcesMap>({});
   const [updatedAt, setUpdatedAt] = useState<string | null>(null);
-  const [progress, setProgress] = useState<ProgressMap>(() => loadProgress());
+  const [srs, setSrs] = useState<SrsStore>(() => loadSrs());
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
   const [openId, setOpenId] = useState<string | null>(null);
   const [quiz, setQuiz] = useState<QuizState | null>(null);
   const [quizSize, setQuizSize] = useState(10);
+  const [view, setView] = useState<"board" | "review">("board");
 
   useEffect(() => {
     let cancelled = false;
@@ -72,12 +85,10 @@ export default function App() {
     };
   }, []);
 
-  const updateProgress = (updater: (current: ProgressMap) => ProgressMap) => {
-    setProgress((current) => {
-      const next = updater(current);
-      saveProgress(next);
-      return next;
-    });
+  const commitSrs = (next: SrsStore) => {
+    saveSrs(next);
+    setSrs(next);
+    return next;
   };
 
   const byId = useMemo(() => {
@@ -108,9 +119,14 @@ export default function App() {
     }
     return next;
   }, [questions, deferredFilters, blobs]);
+  const filteredIds = useMemo(() => filtered.map((question) => question.id), [filtered]);
   const filtersPending = filters !== deferredFilters;
   const openQuestion = openId ? (byId.get(openId) ?? null) : null;
   const quizQuestion = quiz ? (byId.get(quiz.ids[quiz.index] ?? "") ?? null) : null;
+  const progress = useMemo(
+    () => progressFromStore(srs, questions.map((question) => question.id)),
+    [srs, questions],
+  );
   const masteredCount = useMemo(() => {
     let count = 0;
     for (const question of questions) {
@@ -124,12 +140,31 @@ export default function App() {
     for (const question of questions) counts[question.source] = (counts[question.source] ?? 0) + 1;
     return counts;
   }, [questions, sources]);
+  const due = useMemo(() => reviewCounts(srs, filteredIds), [srs, filteredIds]);
 
-  const gradeQuestion = (id: string, correct: boolean) => {
-    updateProgress((current) => {
-      const column = columnOf(current, id);
-      return { ...current, [id]: nextColumn(column, correct) };
-    });
+  const gradeQuestion = (id: string, correct: boolean | null) => {
+    if (correct === null) return;
+    commitSrs(rateCard(srs, id, correct ? "good" : "again"));
+  };
+
+  const handleRate = (id: string, rating: Rating) => commitSrs(rateCard(srs, id, rating));
+
+  const startQuickTest = () => {
+    const pool = filtered.length ? filtered : questions;
+    if (pool.length === 0) return;
+    const n = Math.min(Math.max(1, quizSize), pool.length);
+    setQuiz({ ids: sampleRandom(pool, n).map((question) => question.id), index: 0, done: false });
+  };
+
+  const filterBarProps = {
+    filters,
+    sources,
+    typesPresent: typesPresent as QuestionType[],
+    onChange: setFilters,
+    quizSize,
+    onQuizSize: setQuizSize,
+    onQuickTest: startQuickTest,
+    maxQuiz: Math.max(1, filtered.length || questions.length),
   };
 
   return (
@@ -149,29 +184,58 @@ export default function App() {
             <div className="flex flex-wrap gap-2 text-xs">
               <Stat label="Questions" value={String(questions.length)} />
               {Object.entries(sourceCounts).map(([id, count]) => (
-                <Stat key={id} label={sourceShortName(id, sources)} value={String(count)} />
+                <div key={id} className="hidden sm:block">
+                  <Stat label={sourceShortName(id, sources)} value={String(count)} />
+                </div>
               ))}
-              <Stat label="Mastered" value={`${masteredCount}/${questions.length}`} accent />
+              <Stat label="Due" value={String(due.total)} accent={due.total > 0} />
+              <Stat label="Mastered" value={`${masteredCount}/${questions.length}`} />
             </div>
           </div>
-          <FilterBar
-            filters={filters}
-            sources={sources}
-            typesPresent={typesPresent as QuestionType[]}
-            onChange={setFilters}
-            quizSize={quizSize}
-            onQuizSize={setQuizSize}
-            onQuickTest={() => {
-              const pool = filtered.length ? filtered : questions;
-              if (pool.length === 0) return;
-              const n = Math.min(Math.max(1, quizSize), pool.length);
-              setQuiz({ ids: sampleRandom(pool, n).map((question) => question.id), index: 0, done: false });
-            }}
-            maxQuiz={Math.max(1, filtered.length || questions.length)}
-          />
+          <div className="flex rounded-lg bg-[#1f4034] p-1 text-sm font-medium">
+            <button
+              type="button"
+              className={cn(
+                "min-h-10 flex-1 rounded-md px-3 py-2",
+                view === "board" ? "bg-[#c9a227] text-[#163028]" : "text-[#d5e0d6]",
+              )}
+              onClick={() => setView("board")}
+            >
+              Board
+            </button>
+            <button
+              type="button"
+              className={cn(
+                "relative min-h-10 flex-1 rounded-md px-3 py-2",
+                view === "review" ? "bg-[#c9a227] text-[#163028]" : "text-[#d5e0d6]",
+              )}
+              onClick={() => setView("review")}
+            >
+              Review
+              {due.total > 0 ? (
+                <span
+                  className={cn(
+                    "ml-2 inline-flex min-w-6 justify-center rounded-full px-1.5 text-[11px] font-semibold",
+                    view === "review" ? "bg-[#163028] text-[#f7f3ea]" : "bg-[#de3831] text-white",
+                  )}
+                >
+                  {due.total > 99 ? "99+" : due.total}
+                </span>
+              ) : null}
+            </button>
+          </div>
+          <details className="rounded-lg bg-[#1f4034] sm:hidden">
+            <summary className="cursor-pointer px-3 py-2.5 text-sm">Filters and quick test</summary>
+            <div className="px-2 pb-3">
+              <FilterBar {...filterBarProps} />
+            </div>
+          </details>
+          <div className="hidden sm:block">
+            <FilterBar {...filterBarProps} />
+          </div>
         </div>
       </header>
-      <main className="mx-auto w-full max-w-[1400px] flex-1 px-4 py-4 sm:px-6">
+      <main className="mx-auto w-full max-w-[1400px] flex-1 px-3 py-4 sm:px-6">
         {loading ? (
           <p className="rounded-xl border border-dashed border-[#c5d0c2] bg-white/70 px-4 py-16 text-center text-sm text-[#5b6e63]">
             Loading question bank…
@@ -191,13 +255,21 @@ export default function App() {
               <p className="rounded-xl border border-dashed border-[#c5d0c2] bg-white/70 px-4 py-16 text-center text-sm text-[#5b6e63]">
                 No questions match those filters. Clear search or widen the source / type.
               </p>
+            ) : view === "review" ? (
+              <Review
+                questions={filtered}
+                sources={sources}
+                store={srs}
+                onRate={handleRate}
+                onNewLimit={(limit) => commitSrs(setNewLimit(srs, limit))}
+              />
             ) : (
               <div className={filtersPending ? "opacity-70 transition-opacity" : undefined}>
                 <Board
                   questions={filtered}
                   progress={progress}
                   sources={sources}
-                  onMove={(id, column) => updateProgress((current) => ({ ...current, [id]: column }))}
+                  onMove={(id, column: ColumnId) => commitSrs(moveCardToColumn(srs, id, column))}
                   onOpen={setOpenId}
                 />
               </div>
@@ -223,7 +295,8 @@ export default function App() {
           </ul>
           <p>
             Practice for the official K53 learner's test. Seed items are written from the K53 manual and
-            the National Road Traffic Act / Regulations. Progress is stored in this browser only.
+            the National Road Traffic Act / Regulations. Progress and spaced-repetition scheduling stay in
+            this browser only.
             {updatedAt ? ` Bank updated ${updatedAt}.` : ""}
           </p>
         </div>

@@ -441,7 +441,13 @@ function FillBlankQuestion({
   );
 }
 
-function StudyOnly({ question }: { question: Question }) {
+function StudyOnly({
+  question,
+  onRevealed,
+}: {
+  question: Question;
+  onRevealed?: () => void;
+}) {
   const [open, setOpen] = useState(false);
   return (
     <div>
@@ -474,7 +480,14 @@ function StudyOnly({ question }: { question: Question }) {
           ) : null}
         </div>
       ) : (
-        <Button className="mt-4" variant="secondary" onClick={() => setOpen(true)}>
+        <Button
+          className="mt-4"
+          variant="secondary"
+          onClick={() => {
+            setOpen(true);
+            onRevealed?.();
+          }}
+        >
           Reveal answer
         </Button>
       )}
@@ -485,9 +498,11 @@ function StudyOnly({ question }: { question: Question }) {
 function Interactive({
   question,
   onGraded,
+  onRevealed,
 }: {
   question: Question;
   onGraded?: (correct: boolean) => void;
+  onRevealed?: () => void;
 }) {
   switch (question.type) {
     case "single":
@@ -506,7 +521,7 @@ function Interactive({
     case "fill-blank":
       return <FillBlankQuestion question={question} onGraded={onGraded} />;
     default:
-      return <StudyOnly question={question} />;
+      return <StudyOnly question={question} onRevealed={onRevealed} />;
   }
 }
 
@@ -514,15 +529,23 @@ export function PracticeBody({
   question,
   sources,
   onGraded,
+  compact = false,
 }: {
   question: Question;
   sources: SourcesMap;
-  onGraded: (correct: boolean) => void;
+  onGraded?: (correct: boolean | null) => void;
+  compact?: boolean;
 }) {
   const interactive = canGradeInteractively(question);
   return (
     <div className="flex min-h-0 flex-1 flex-col">
-      <div className="min-h-0 flex-1 overflow-y-auto px-5 py-4">
+      <div
+        className={
+          compact
+            ? "min-h-0 flex-1 overflow-y-auto px-3 py-3 sm:px-5 sm:py-4"
+            : "min-h-0 flex-1 overflow-y-auto px-5 py-4"
+        }
+      >
         <div className="mb-3 flex flex-wrap items-center gap-2 text-xs text-[#3d5247]">
           <span className="rounded-full bg-[#e4eadc] px-2 py-0.5 font-medium">
             {CATEGORY_LABELS[question.category as keyof typeof CATEGORY_LABELS] ?? question.category}
@@ -533,9 +556,13 @@ export function PracticeBody({
           <SourceCredit source={question.source} sources={sources} tags={question.tags} />
         </div>
         {interactive ? (
-          <Interactive question={question} onGraded={onGraded} />
+          <Interactive
+            question={question}
+            onGraded={(correct) => onGraded?.(correct)}
+            onRevealed={() => onGraded?.(null)}
+          />
         ) : (
-          <StudyOnly question={question} />
+          <StudyOnly question={question} onRevealed={() => onGraded?.(null)} />
         )}
       </div>
     </div>

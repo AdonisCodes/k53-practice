@@ -16,14 +16,14 @@ export const QUESTION_TYPES = [
 export type QuestionType = (typeof QUESTION_TYPES)[number];
 
 export const COLUMN_DEFS = [
-  { id: "to-study", label: "To study", hint: "Not attempted yet" },
-  { id: "got-wrong", label: "Got wrong", hint: "Review these first" },
+  { id: "to-study", label: "To study", hint: "New — not in the review deck yet" },
+  { id: "got-wrong", label: "Got wrong", hint: "Learning or lapsed — due soon" },
   {
     id: "getting-there",
     label: "Getting there",
-    hint: "Answered correctly once",
+    hint: "Young reviews — interval under 21 days",
   },
-  { id: "mastered", label: "Mastered", hint: "Solid — keep them here" },
+  { id: "mastered", label: "Mastered", hint: "Mature — interval 21 days or more" },
 ] as const;
 export type ColumnId = (typeof COLUMN_DEFS)[number]["id"];
 

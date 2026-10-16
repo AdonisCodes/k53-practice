@@ -2,7 +2,9 @@
 
 Learner’s licence study board for the South African K53 test: rules of the road, road signs, and vehicle controls. Live at [https://adoniscodes.github.io/k53-practice/](https://adoniscodes.github.io/k53-practice/).
 
-Filter the bank, drag cards across **To study / Got wrong / Getting there / Mastered**, and run a short quick test. Progress stays in this browser (`localStorage`).
+Filter the bank, drag cards across **To study / Got wrong / Getting there / Mastered**, run a short quick test, or use **Review** for Anki-style spaced repetition (SM-2 with 1m/10m learning steps). Progress and scheduling stay in this browser (`localStorage`).
+
+Review shows due cards one at a time. After you answer, rate **Again / Hard / Good / Easy** — intervals grow for easy cards (about 1d → 3d → 8d → 3w) and Again cards come back in the same session. The daily new-card limit defaults to 20. Filters (category, licence code, source, type, search) apply to both the board and the review queue. Board columns follow SRS state: new, learning/lapsed, young reviews, and mature (interval ≥ 21 days).
 
 ## Credits
 
