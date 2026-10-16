@@ -1,0 +1,2117 @@
+{
+ "batch": "aw-yVW1WeuA53w",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:17:17+02:00",
+ "questions": [
+  {
+   "id": "aw-yVW1WeuA53w-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you immediately do if you have an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop your vehicle immediately",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Phone your boss and let him know immediately",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have an alcoholic drink to recover from the shock",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=64s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do in the event of someone being killed during the accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Call the emergency services immediately",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Phone your insurance company",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive away",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=93s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive in a manner that will disregard the safety of the other road users as well as your own safety?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You can only do this on weekends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, you can drive your car however you want to",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, as it will put you and other road users in danger",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=129s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the blood alcohol limit for professional drivers?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.20 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.02 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.05 grams per 100 ml of blood or more",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=178s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What will the speed limit on a freeway be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "250 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "120 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=212s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Will a 4-ton truck be allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=236s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If a traffic officer instructs you to stop on a freeway, what should you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You can only stop if a traffic sign instructs you to do so",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Carry on driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop your vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=255s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to tow a vehicle on a public road if the length of the tow rope is less than 1 metre?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No, the length has to be 3.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you drive a sedan",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=290s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are elderly people exempt from using a seat belt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if they are over 65",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=318s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop on the freeway and reverse if you miss an exit?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you miss the exit by 10 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=336s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop and pick up hitchhikers on the freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if it's the weekend",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=361s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What colour background does a guidance and information sign have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Green or brown",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Purple",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "White",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=380s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-13",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Should your hooter be audible for 90 metres or 100 metres?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "90 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The correct distance is 25 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=392s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum length that a bus may be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "10 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "22 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=412s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If the GVM of a trailer which is not a semi-trailer is less than 12 000 kg, then the height should not go above…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "8 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=424s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If the GVM of a trailer which is not a semi-trailer is more than 12 000 kg, then the height should not go above…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "12.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "11 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=447s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What can the maximum height of a double-deck bus be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4.65 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=468s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What can the maximum height of any other vehicle be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "4.3 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3.4 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4.65 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=488s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What can the maximum width of a bus be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2.6 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1.75 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=511s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-20",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Is it compulsory for all vehicles to have a service brake and a parking brake?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It is only compulsory on trucks",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=524s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your vehicle will not be allowed on a public road if…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It does not have an efficient exhaust silencer",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It does not have chrome mags",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It does not have a panoramic sunroof",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=567s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should your vehicle be fitted with?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A sound system",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Carbon fibre car parts",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The rear of the vehicle must be fitted with two retro-reflectors",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=594s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should a load that projects more than 150 mm to the side, or more than 300 mm to the rear, be marked by?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A red flag during the day",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A purple triangle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A yellow flag at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=611s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you always do when driving on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Have your radio off when driving",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive beyond the yellow line on freeways",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have consideration for other road users",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=631s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-25",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You should not drive…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "While intoxicated",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Recklessly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both of the above",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=672s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-26",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you not allowed to do when you are intoxicated?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive over 90 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Make a U-turn",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive on a public road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=692s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-27",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you not allowed to do on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Spin the wheels of your vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Follow the rules of the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Park in your friend's driveway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=721s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-28",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the most important rule of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Always drive on the left side of the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always avoid potholes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive with your fog lights on",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=740s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-29",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-827.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This lane is dedicated to police vehicles only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only taxis may drive here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only sedans may park here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=824s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-30",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-852.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Taxis are not allowed past this sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to ride a taxi",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Taxis are only allowed here on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=849s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-31",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-877.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to ride a bicycle at night",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Bicycles are not allowed past this sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can only ride a bicycle at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=874s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-32",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-923.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only midi buses can drive on this lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only minibuses can drive on this lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only buses can drive on this lane",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=920s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-33",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-958.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No horse riding is allowed past this point",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not ride horses during the day",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You need to have a permit to ride a horse",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=955s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-34",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-993.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only yellow trucks are allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only 12 vehicles are allowed on this road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles exceeding 12 tonnes GVM prohibited",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=990s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-35",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1030.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "If the vehicle's axle mass exceeds 6 tons, use another road not indicated by this sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only 6 vehicles are allowed on this road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Vehicles must weigh over 6 tons to be a truck",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1027s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-36",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1067.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This sign warns of an uneven road ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a beach ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are sand dunes ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1064s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-37",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1096.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only midi buses are allowed on this lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only mini buses are allowed on this lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only full-size buses are allowed on this lane",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1093s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-38",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1128.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only people with forklift permits are allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Forklifts are not allowed past this sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only forklifts are allowed past this sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1125s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-39",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1159.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have to increase your speed",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The sign is empty, you don't have to do anything",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must yield and give way to other vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1156s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-40",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1183.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Your minimum speed should be 50 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The speed limit is 50 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only 50 vehicles are allowed on this road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1180s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-41",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1209.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to stop by this sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to stop where you see this sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only allowed to park beyond this sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1206s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-42",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1235.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The speed limit is 100 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must drive above 100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only 100 vehicles are allowed on this road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1232s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-43",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1259.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns that the road narrows from the left and right hand side",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It warns that the road narrows from the left hand side",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It warns that the road narrows from the right hand side",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1256s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-44",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1289.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns you of a right turn ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It warns you of a left turn ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It warns you of a roundabout ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1286s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-45",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1313.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns you of wild animals crossing ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It warns you of a zoo ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to carry livestock",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1310s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-46",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1333.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns you of a pedestrian crossing ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a school ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to cross the road in this area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1330s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-47",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1353.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns you of a stop street ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It means you have right of way",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It warns you of a traffic light ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1350s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-48",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1374.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It warns you of a speed hump ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It means there is an incline ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It warns you of a desert ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1371s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-49",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1393.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It prohibits animal-drawn vehicles ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No cattle are allowed ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to race animal-drawn vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1390s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-50",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1420.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are supposed to stop before the stop sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not supposed to stop when you see this sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are supposed to stop after the stop sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1417s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-51",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1440.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to drift ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road ahead is slippery",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road has debris ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1437s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-52",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1466.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are temporary road works ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a new road surface ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to proceed",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1463s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-53",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1493.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have to reverse",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must keep left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1490s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-54",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1511.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have to reverse",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must keep left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1508s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-55",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1520.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is two-way traffic ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You have the right of way",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is an intersection ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1517s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-56",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1538.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is only traffic on the left-hand side ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road narrows from the right-hand side",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have the right of way",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1535s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-57",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/yVW1WeuA53w-1563.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a helipad ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is an airshow ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are low flying aircraft ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1560s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-58",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which instrument is used to look at vehicles behind you?",
+   "image": "images/appsworld/yVW1WeuA53w-1585.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "D",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1583s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-59",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you use to accelerate?",
+   "image": "images/appsworld/yVW1WeuA53w-1612.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "G",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "C",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "F",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1610s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-60",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you use to slow your vehicle down?",
+   "image": "images/appsworld/yVW1WeuA53w-1642.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "D",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1640s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-61",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you use to turn your vehicle?",
+   "image": "images/appsworld/yVW1WeuA53w-1662.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1660s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-62",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you look at before you turn left?",
+   "image": "images/appsworld/yVW1WeuA53w-1678.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1676s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-63",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you look at before you turn right?",
+   "image": "images/appsworld/yVW1WeuA53w-1698.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "E",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "G",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1696s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-64",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What do you use to put your vehicle into drive?",
+   "image": "images/appsworld/yVW1WeuA53w-1714.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "B",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "C",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1712s"
+  },
+  {
+   "id": "aw-yVW1WeuA53w-65",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "To reverse your vehicle you must use…",
+   "image": "images/appsworld/yVW1WeuA53w-1744.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "B & C",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "F & G",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "E",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yVW1WeuA53w&t=1742s"
+  }
+ ]
+}

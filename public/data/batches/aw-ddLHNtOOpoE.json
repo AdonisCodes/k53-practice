@@ -1,0 +1,337 @@
+{
+ "batch": "aw-ddLHNtOOpoE",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:09:18+02:00",
+ "questions": [
+  {
+   "id": "aw-ddLHNtOOpoE-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to drive your private motor vehicle on a public road if you have a blood alcohol concentration of…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.05 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.005 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.0005 grams per 100 ml of blood or more",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=15s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver should not drive a vehicle on a public road…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If it does not have chrome rims.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In a way that will put the safety of individuals or property at risk.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If it does not have a radio.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=57s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If your vehicle is involved in an accident you are supposed to…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Immediately stop your vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ascertain the nature and extent of any damages.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have a drink to calm your nerves.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A & B only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=91s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 kilometres per hour",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 kilometres per hour",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 kilometres per hour",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=123s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are not allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A private motor vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A tractor.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A truck.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=159s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which of the following situations are you required to stop on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If instructed by a road traffic sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If instructed by a traffic officer.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Any reason beyond your control.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=195s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may tow a vehicle on a public road if…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The length of the tow-rope is less than 3.5 metres.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The length of the tow-rope is 3.5 metres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The length of the tow-rope is less than 1.5 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=231s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are driving a light motor vehicle, who is exempt from using a seat belt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The elderly.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The driver.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No-one.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=267s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if you miss the exit on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop immediately and reverse to the exit.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Make a U-turn and go back.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Carry on until you can safely exit the freeway again.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=303s"
+  },
+  {
+   "id": "aw-ddLHNtOOpoE-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements are incorrect?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may not stop on a traffic island.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may not stop in a tunnel.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may stop and pick up hitchhikers on the freeway.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ddLHNtOOpoE&t=339s"
+  }
+ ]
+}

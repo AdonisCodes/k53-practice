@@ -1,0 +1,331 @@
+{
+ "batch": "aw-Op_xzZVUnhk",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:06:21+02:00",
+ "questions": [
+  {
+   "id": "aw-Op_xzZVUnhk-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements are correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hand signals may only be used by motor vehicles.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hand signals may not be used on freeways except for emergencies.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hand signals are used by tractor driven drivers only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=8s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may drive on the shoulder of the road left of the yellow edge line under certain circumstances. Which statement is incorrect?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On a single lane roadway between sunrise and sunset to allow other vehicles to overtake.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it is safe to do so and visibility is good for 150 metres.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If it is safe to do so and visibility is good for 50 metres.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=28s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit, unless otherwise indicated by a regulatory sign, for a minibus conveying passengers on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=48s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which conditions will you be allowed to drive a motor vehicle on a public road once you have passed your learner's?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must drive under the supervision of a person in possession of a valid driving licence for the same category vehicle that you will be driving.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The person should be seated behind you.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The person should be sitting in the boot.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=68s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are a game ranger, are you allowed to have adjustable spot lamps fitted to your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, only under certain conditions.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=83s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may straddle lane lines.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The general speed limit for a motor vehicle on a road in an urban area is 100 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may not park on a traffic island.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=103s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may drive through an amber light if:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "There is no time for an emergency stop.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is no other traffic at the intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your vehicle is already over the stop line.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=123s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Will the examiner fail you if you adjust your mirror while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, it could cause an accident.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, because you are not endangering other road users.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=140s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use your phone while driving on the freeway.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to hold your cellphone while driving.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may use your phone while driving in heavy traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=158s"
+  },
+  {
+   "id": "aw-Op_xzZVUnhk-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A double white line separating the two lanes of traffic moving in opposite directions means that:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may cross to access property.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No traffic may cross the solid lines for any reason.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may overtake if it is safe to do so.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Op_xzZVUnhk&t=178s"
+  }
+ ]
+}

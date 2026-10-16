@@ -1,0 +1,585 @@
+{
+ "batch": "aw--6KMtuke8MQ",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:22:12+02:00",
+ "questions": [
+  {
+   "id": "aw--6KMtuke8MQ-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns that:",
+   "image": "images/appsworld/-6KMtuke8MQ-15.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a butchery up ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There may be cattle crossing the road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are wild animals ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=9s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-32.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is an unguarded level crossing ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are trains ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This lane is dedicated to trains.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=26s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns of:",
+   "image": "images/appsworld/-6KMtuke8MQ-48.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Drifting competition.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A road that may be damaged.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A slippery road when wet.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=42s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/-6KMtuke8MQ-63.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only motorbikes are not allowed ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only cyclists are not allowed ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only cyclists are allowed ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=57s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-74.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road ends because of water ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The harbour wall ends ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are allowed to drive into the dam.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=68s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-88.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are cars moving fast ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are loose stones ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are soccer balls on the road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=82s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/-6KMtuke8MQ-103.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are police ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must speed up.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a traffic light ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=97s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns that:",
+   "image": "images/appsworld/-6KMtuke8MQ-121.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road narrows from the left side ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road narrows from the right-hand side ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road narrows from both sides ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=115s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign warns that:",
+   "image": "images/appsworld/-6KMtuke8MQ-134.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The current road narrows from the left side ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The road narrows from the right-hand side ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road narrows from both sides ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=128s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you to:",
+   "image": "images/appsworld/-6KMtuke8MQ-147.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep left.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn left at the next intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are cars to the right side.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=141s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you to:",
+   "image": "images/appsworld/-6KMtuke8MQ-162.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turn right at the next intersection.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are cars to the right side.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=156s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you to:",
+   "image": "images/appsworld/-6KMtuke8MQ-180.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Keep right.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a sharp bend to the right.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Turn right at the next road.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=174s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-192.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This lane is for planes only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is an airport ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There may be low-flying aircraft ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=186s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-206.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a hill ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a speed bump ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There are waves ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=200s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-220.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a risk of falling rocks.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a rolling race ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a rock-throwing match ahead.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=214s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-238.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There are bullies ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "That you will be bullied.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This sign does not exist.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=232s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-253.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a hump bridge ahead.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a tunnel ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This sign does not mean anything.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=247s"
+  },
+  {
+   "id": "aw--6KMtuke8MQ-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This sign tells you that:",
+   "image": "images/appsworld/-6KMtuke8MQ-265.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "This lane is for people who like to do work.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There are temporary roadworks ahead.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This sign means you can speed.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-6KMtuke8MQ&t=259s"
+  }
+ ]
+}

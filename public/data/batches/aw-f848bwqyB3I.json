@@ -1,0 +1,333 @@
+{
+ "batch": "aw-f848bwqyB3I",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:08:09+02:00",
+ "questions": [
+  {
+   "id": "aw-f848bwqyB3I-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving on a public road and your cellular phone rings. What must you do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Answer your call if it is safe to do so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Pull off the road where it is safe to do so and answer your call.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Answer your call and ask the person to call you back later.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=13s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the function of guidance and information signs?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "They control and guide traffic flow.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "They warn of potential hazards.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "They serve as navigational aids.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=28s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are allowed to drive over the barrier on divided roads in which of the following conditions or situations?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At an intersection or opening where it is not prohibited by a road sign.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If there is no vehicle driving next to you at a specific time.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If there is no oncoming traffic.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=48s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The furthest you may reverse your vehicle is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "150 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "180 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "As far as it is safe to do so.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=68s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are the rules for carrying passengers in a drawn vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The drawn vehicle must be a semi-trailer.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle must not exceed a speed of 40 km/h.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The drawn vehicle must be a trailer.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=88s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The distance it takes a heavy vehicle to stop is…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Longer if the vehicle is heavily loaded.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Shorter on a wet road than a dry road.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "20 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=103s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum distance that goods may project to the rear of the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1.8 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=123s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following actions is permissible?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A passenger may steer the vehicle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A baby may travel on a driver's lap while he/she is driving.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=143s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-09",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What is the correct position of your hands on the steering wheel while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The twelve o'clock position.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Either the 'quarter to three' or 'ten to two' position.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The 'half past six' position.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=158s"
+  },
+  {
+   "id": "aw-f848bwqyB3I-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "This vehicle is allowed on a freeway…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Tractors doing freeway maintenance.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Animal-drawn vehicles.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles 50 cc or less.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=f848bwqyB3I&t=178s"
+  }
+ ]
+}

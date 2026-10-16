@@ -1,0 +1,363 @@
+{
+ "batch": "aw-e9T61yqouo8",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:07:31+02:00",
+ "questions": [
+  {
+   "id": "aw-e9T61yqouo8-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Guidance and information signs have a green or brown background. What colour do these boards have for freeways?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Blue",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Red",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yellow",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=8s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You intend moving forward from a parked position. You must…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Put on your headlamps.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Put on your indicator to warn other road users.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Put on your hazard lamps.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=28s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following statements are correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must keep your driving licence at home.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep your driving licence with you while driving.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must ask your boss to keep it safely for you.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=48s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-04",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Your hooter must be audible for at least … metres.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "90 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=68s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The blind spot:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Is the area behind an advertisement board.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Is the area that you cannot see in your mirror.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Is a specific area on your body.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=88s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit for buses and minibuses conveying passengers outside an urban area?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=108s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What period of time is a learner's licence valid?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "12 months",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "36 months",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 months",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=128s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum age required to obtain a learner's licence for a light motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "18 years",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "17 years",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "16 years",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=148s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which statement is not correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may not stop in a tunnel.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A hooter may be used to greet your friend.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The speed limit for light motor vehicles on a freeway is 120 km/h.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=168s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "People that are herding animals on a public road must…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Carry a red flag during the day.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Carry a yellow flag during the day.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Carry a green flag during the day.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=183s"
+  },
+  {
+   "id": "aw-e9T61yqouo8-11",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Is it advisable to drive with your left foot on the clutch pedal?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, because it will enable you to achieve smooth movement.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, it is a place to rest your foot.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, because it could cause unnecessary wear on your clutch.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=e9T61yqouo8&t=203s"
+  }
+ ]
+}

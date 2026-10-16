@@ -1,0 +1,1018 @@
+{
+ "batch": "aw-zNiuFgGQNnM",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:10:54+02:00",
+ "questions": [
+  {
+   "id": "aw-zNiuFgGQNnM-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What document do you need before you can legally drive a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Your ID document",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Driver's licence",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Learner's licence",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Your birth certificate",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=3s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does \"LMV\" mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Long Motor Vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Low Motor Vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Light Motor Vehicle",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Lazy Motor Vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=21s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The weight of an LMV should not be more than…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "3500 kg",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "500 kg",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1000 kg",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "1750 kg",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=39s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is a professional driving permit?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "This is needed to drive BMWs only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "This is needed to drive on public roads while transporting goods or people.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is needed to ride a motorcycle.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "This is needed for SUVs only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=57s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a professional driver have to possess?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A professional driving permit",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A matric certificate",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A valid passport",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "A traffic register number",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=81s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where should you place your licence disc?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It can only be kept in your boot.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It should be stuck on the lower left-hand side of your windscreen.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It should be kept safely at home.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=99s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does GVM stand for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Great vehicle mass",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Grey vehicle mass",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Gross vehicle mass",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=117s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does Gross Vehicle Mass mean?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The total mass of a vehicle and its load.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The mass of a vehicle without its wheels.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The mass of a vehicle without its engine.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=135s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is a \"goods vehicle\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Bus",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Tractor",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both of the above",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=153s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which is true in terms of traffic circles?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must give way to traffic that's already in the circle.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You do not have to stop for traffic in the circle.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "None of the above.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=171s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop on the right-hand side of a two-way road facing traffic?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only from sunset to sunrise",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=207s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-12",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "What can your hooter be used for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Greeting your friends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Letting your friends know you're outside",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Used for safety reasons only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=225s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Goods cannot be conveyed on a vehicle if the load is wider than…",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 metre",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=243s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you not allowed to overtake another vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "From sunrise to sunset",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you are on a one-way road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you cannot see the road ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=261s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-15",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which pedal do you press when you want to go faster?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The clutch pedal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The brake pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=279s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you use your vehicle on a public road if the vehicle's licence disc has expired?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you live in KZN",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=297s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long after your licence disc expires are you allowed to drive on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "7 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "21 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "30 days",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=315s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are driving your friend's vehicle, who will be legally responsible for traffic offences?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Your friend",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No-one",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=333s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-19",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Are you allowed to dip the main beam of your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only during the day",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=351s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-20",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of your car lights should be ON when driving at night through the city?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Reverse lights",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Main beam",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Dipped beam",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=369s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does it mean if the brake light is illuminated?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The vehicle is slowing down",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle is speeding up",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The vehicle will be turning right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=387s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How many number plates should a vehicle have?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "3",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=405s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-23",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive a vehicle on a road if it is not fitted with a rear-view mirror?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=423s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-24",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Should you obey a construction flagger's instructions?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, always in construction zones",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when you feel like it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=441s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-25",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park a vehicle on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only at midnight",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if you will not be blocking any road signs",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Not at all",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=459s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-26",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park your vehicle on a public road if it is blocking your neighbour's driveway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only from 12pm till 3pm",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=479s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-27",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive above 30 km/h if your brake lights do not work?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only during the day",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=501s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-28",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you press to slow down a vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clutch",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=519s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-29",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which pedal do you need to press if you want to change gears in a manual car?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Clutch",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerator",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=537s"
+  },
+  {
+   "id": "aw-zNiuFgGQNnM-30",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which pedal will you not find in an automatic car?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Clutch",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Accelerator",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=zNiuFgGQNnM&t=555s"
+  }
+ ]
+}
