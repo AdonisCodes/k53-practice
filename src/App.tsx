@@ -235,7 +235,12 @@ export default function App() {
           </div>
         </div>
       </header>
-      <main className="mx-auto w-full max-w-[1400px] flex-1 px-3 py-4 sm:px-6">
+      <main
+        className={cn(
+          "mx-auto w-full max-w-[1400px] flex-1 px-3 py-4 sm:px-6",
+          view === "review" ? "flex min-h-0 flex-col" : "",
+        )}
+      >
         {loading ? (
           <p className="rounded-xl border border-dashed border-[#c5d0c2] bg-white/70 px-4 py-16 text-center text-sm text-[#5b6e63]">
             Loading question bank…
