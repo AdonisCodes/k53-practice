@@ -1,0 +1,495 @@
+{
+ "batch": "aw-mXAoG9GKaj0",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:45:28+02:00",
+ "questions": [
+  {
+   "id": "aw-mXAoG9GKaj0-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where do you find this sign?",
+   "image": "images/appsworld/mXAoG9GKaj0-19.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Between an off-ramp and the continuing freeway",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On an urban road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On a rural road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=16s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/mXAoG9GKaj0-47.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Immediately reverse",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Put your left indicator on",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Keep an eye out for other vehicles and yield if there are vehicles in the carriageway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=44s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does a solid white line mean?",
+   "image": "images/appsworld/mXAoG9GKaj0-73.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must speed up",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to overtake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must turn left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=70s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where do you find this sign?",
+   "image": "images/appsworld/mXAoG9GKaj0-103.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "At a railway crossing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On urban roads",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On a driveway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=100s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/mXAoG9GKaj0-121.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to ride your bike in this lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to ride your bike in this lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must not own a bike",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=118s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/mXAoG9GKaj0-148.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must be driving a 4x4",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a park ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There may be wild animals on the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=145s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far ahead should your main-beams brighten the road ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "40 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "220 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=173s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to have your park lights on while you're driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only during the day",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=189s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive your vehicle on a public road if your brake lights are not working?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only during the day",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=211s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the maximum turning radius for a motor vehicle be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "50 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "13.1 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=236s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if an ambulance is behind you?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Give it the right of way and change lanes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Have a race with it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Block it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=252s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to use your hooter to greet your friend?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only if you haven't seen them for a while",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=271s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-13",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to warn other road users of danger?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hooter",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Brake pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=300s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-14",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to turn your vehicle left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hand brake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Steering wheel",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Brake pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=316s"
+  },
+  {
+   "id": "aw-mXAoG9GKaj0-15",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to stop in a manual vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hand brake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Brake pedal and clutch",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mXAoG9GKaj0&t=339s"
+  }
+ ]
+}

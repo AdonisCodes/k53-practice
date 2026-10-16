@@ -1,0 +1,231 @@
+{
+ "batch": "aw-3OzAIRj3yzk",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:51:58+02:00",
+ "questions": [
+  {
+   "id": "aw-3OzAIRj3yzk-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do before you leave a parking spot?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Put your correct indicator on before you move forward",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch your radio on",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Switch your headlights on",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=3s"
+  },
+  {
+   "id": "aw-3OzAIRj3yzk-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where should you keep your driver's license?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It should be kept at home in your safe",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It should always be on you while driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It should be kept at work in a locker",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=27s"
+  },
+  {
+   "id": "aw-3OzAIRj3yzk-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "People should be able to hear your hooter from...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "125 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "75 metres away",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "90 metres away",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=51s"
+  },
+  {
+   "id": "aw-3OzAIRj3yzk-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is a \"blind spot\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A spot on your neck",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "An area that is not visible in your rearview mirror",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The area under your seat",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=74s"
+  },
+  {
+   "id": "aw-3OzAIRj3yzk-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long is a learner's license valid?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "8 months",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "16 months",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 months",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=95s"
+  },
+  {
+   "id": "aw-3OzAIRj3yzk-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How old do you have to be to apply for a learner's license?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "16 years old",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "17 years old",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "18 years old",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=118s"
+  },
+  {
+   "id": "aw-3OzAIRj3yzk-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Is it good to keep your foot on the clutch while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, it'll allow you to change gears faster",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No, it'll damage your clutch",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, you are allowed to rest your foot there",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=3OzAIRj3yzk&t=142s"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "batch": "aw-yIKXfO7D8ew",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:57+02:00",
+ "questions": [
+  {
+   "id": "aw-yIKXfO7D8ew-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that the road ends because of water ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/yIKXfO7D8ew-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/yIKXfO7D8ew-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/yIKXfO7D8ew-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=yIKXfO7D8ew&t=26s"
+  }
+ ]
+}

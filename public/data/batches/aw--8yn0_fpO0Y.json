@@ -1,0 +1,39 @@
+{
+ "batch": "aw--8yn0_fpO0Y",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:57+02:00",
+ "questions": [
+  {
+   "id": "aw--8yn0_fpO0Y-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows you that there is a traffic light ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/-8yn0_fpO0Y-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/-8yn0_fpO0Y-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/-8yn0_fpO0Y-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=-8yn0_fpO0Y&t=26s"
+  }
+ ]
+}

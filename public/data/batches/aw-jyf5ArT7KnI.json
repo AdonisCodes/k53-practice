@@ -1,0 +1,490 @@
+{
+ "batch": "aw-jyf5ArT7KnI",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:46:40+02:00",
+ "questions": [
+  {
+   "id": "aw-jyf5ArT7KnI-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of falling rocks?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-3-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-3-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-3-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-3-D.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=0s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means that no buses are allowed ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-21-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-21-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-21-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-21-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=18s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign tells you to keep left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-38-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-38-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-38-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-38-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=35s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign tells you to turn right?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-56-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-56-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-56-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-56-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=53s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of two sharp turns in the road ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-74-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-74-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-74-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-74-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=71s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there are elderly people ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-96-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-96-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-96-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-96-D.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=93s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows there is horse riding ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-114-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-114-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-114-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-114-D.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=111s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of danger ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-132-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-132-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-132-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-132-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=129s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of danger ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-149-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-149-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-149-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-149-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "The video ticks the STOP sign; the general danger warning sign (exclamation mark) is the correct answer.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=146s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of an axle mass limit?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-167-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-167-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-167-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-167-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=164s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of two-way traffic ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-192-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-192-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-192-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-192-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=189s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of low-flying aircraft ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-210-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-210-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-210-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-210-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=207s"
+  },
+  {
+   "id": "aw-jyf5ArT7KnI-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means \"no entry\"?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/jyf5ArT7KnI-228-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/jyf5ArT7KnI-228-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/jyf5ArT7KnI-228-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/jyf5ArT7KnI-228-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=jyf5ArT7KnI&t=225s"
+  }
+ ]
+}

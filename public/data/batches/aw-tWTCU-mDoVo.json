@@ -1,0 +1,327 @@
+{
+ "batch": "aw-tWTCU-mDoVo",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:51:24+02:00",
+ "questions": [
+  {
+   "id": "aw-tWTCU-mDoVo-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do when you see this road marking?",
+   "image": "images/appsworld/tWTCU-mDoVo-951.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only allow buses to pass",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Give way to pedestrians",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Continue driving as you have the right of way",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=948s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you not allowed to do when you see this road marking?",
+   "image": "images/appsworld/tWTCU-mDoVo-988.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Let trams overtake you",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Always stay on the left side of the road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Go over the solid white line",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=985s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which circumstances are you allowed to cross this line?",
+   "image": "images/appsworld/tWTCU-mDoVo-1029.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "If you live on the opposite side of the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you are overtaking a broken-down vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Both A & B are correct",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1026s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What type of vehicles are allowed to park here?",
+   "image": "images/appsworld/tWTCU-mDoVo-1054.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Police vehicles only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Purple vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Perimeter vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1051s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What type of vehicles are allowed to park here?",
+   "image": "images/appsworld/tWTCU-mDoVo-1078.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "All vehicles are allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Agricultural vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Ambulances only",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1075s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you supposed to do when you see this marking?",
+   "image": "images/appsworld/tWTCU-mDoVo-1096.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Yield and give way to other vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Increase your speed",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Come to a complete stop if there are no other vehicles around",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1093s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop on this yellow box to park?",
+   "image": "images/appsworld/tWTCU-mDoVo-1116.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1113s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which type of vehicles is this lane reserved for?",
+   "image": "images/appsworld/tWTCU-mDoVo-1128.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Jewelry vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hazardous goods vehicles",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hatchback vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1125s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which vehicle is not allowed past this marking?",
+   "image": "images/appsworld/tWTCU-mDoVo-1147.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "SUV",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sedans",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Motorcycles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1144s"
+  },
+  {
+   "id": "aw-tWTCU-mDoVo-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you supposed to stop before the white line or after?",
+   "image": "images/appsworld/tWTCU-mDoVo-1165.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Before",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "After",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There's no need to stop",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=tWTCU-mDoVo&t=1162s"
+  }
+ ]
+}

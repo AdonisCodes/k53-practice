@@ -1,0 +1,192 @@
+{
+ "batch": "aw-6jU3tLdzSWo",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:46:01+02:00",
+ "questions": [
+  {
+   "id": "aw-6jU3tLdzSWo-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which vehicle is not allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Bicycle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "SUV",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Bakkie",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Police vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6jU3tLdzSWo&t=0s"
+  },
+  {
+   "id": "aw-6jU3tLdzSWo-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you keep your lights on?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "In the morning only",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you want to sleep",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "From sunset to sunrise",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "If your phone rings",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6jU3tLdzSWo&t=25s"
+  },
+  {
+   "id": "aw-6jU3tLdzSWo-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which type of tyres should your vehicle be fitted with?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pneumatic tyres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Water filled tyres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cement filled tyres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Sand filled tyres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6jU3tLdzSWo&t=42s"
+  },
+  {
+   "id": "aw-6jU3tLdzSWo-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the minimum tread depth of your tyre be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.001 millimetre",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.01 millimetre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.1 millimetre",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "1 millimetre",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6jU3tLdzSWo&t=60s"
+  },
+  {
+   "id": "aw-6jU3tLdzSWo-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You cannot drive on a public road if?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are listening to loud music",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You drive very slowly",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your brake lights are not working",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You don't have a radio",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6jU3tLdzSWo&t=82s"
+  }
+ ]
+}

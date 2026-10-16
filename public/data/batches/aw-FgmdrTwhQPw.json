@@ -1,0 +1,39 @@
+{
+ "batch": "aw-FgmdrTwhQPw",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:56+02:00",
+ "questions": [
+  {
+   "id": "aw-FgmdrTwhQPw-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows you that there may be low-flying aircraft ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/FgmdrTwhQPw-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/FgmdrTwhQPw-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/FgmdrTwhQPw-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=FgmdrTwhQPw&t=26s"
+  }
+ ]
+}

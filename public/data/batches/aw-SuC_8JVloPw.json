@@ -1,0 +1,39 @@
+{
+ "batch": "aw-SuC_8JVloPw",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:55+02:00",
+ "questions": [
+  {
+   "id": "aw-SuC_8JVloPw-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there are loose stones ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/SuC_8JVloPw-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/SuC_8JVloPw-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/SuC_8JVloPw-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SuC_8JVloPw&t=26s"
+  }
+ ]
+}

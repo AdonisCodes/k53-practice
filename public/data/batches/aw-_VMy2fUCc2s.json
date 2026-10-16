@@ -1,0 +1,489 @@
+{
+ "batch": "aw-_VMy2fUCc2s",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:47:31+02:00",
+ "questions": [
+  {
+   "id": "aw-_VMy2fUCc2s-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You can only change lanes if you...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Can do so without obstructing any traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Are driving a very fast car",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Are driving with your hazards on",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=0s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you park in a disabled parking if your vehicle has a disabled sticker?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if there are no other parking spots available",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=19s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can a vehicle that is engaged in civil protection stop anywhere on a public road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, only if it is to execute their duties",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=37s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you supposed to stop your vehicle if a traffic sign instructs you to do so?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, always",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=55s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to increase your following distance while driving in heavy rain?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if your radio is off",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No, you are supposed to decrease following distance",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=74s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park on a freeway in an area marked by a road sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you have a blue car",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=92s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the alcohol concentration limit for a professional driver?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.05 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.06 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.02 grams per 100 ml of blood or more",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=111s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Is a vehicle parked on a public road in a residential area for 48 hours deemed abandoned?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=134s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to use your phone while you are driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to use your cell phone while driving",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, only if your boss is calling",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Yes, only on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=152s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to ignore a road sign if you feel like doing so?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only for 10 minutes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=171s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to tow a vehicle with faulty brakes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if it is a sedan",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=189s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you supposed to use if you are towing a vehicle with faulty brakes?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must use a tow-bar instead of a tow rope",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A tow rope longer than 30 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to tow a vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=207s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to get a learner's licence if you are studying to become a doctor?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are over 60",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=226s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit in urban areas?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "150 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=244s"
+  },
+  {
+   "id": "aw-_VMy2fUCc2s-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to have a drink at the side of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are over 18",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=_VMy2fUCc2s&t=263s"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "batch": "aw-DK9tFG6Jhg8",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:50:39+02:00",
+ "questions": [
+  {
+   "id": "aw-DK9tFG6Jhg8-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there may be animals suddenly moving across the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/DK9tFG6Jhg8-485-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/DK9tFG6Jhg8-485-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/DK9tFG6Jhg8-485-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DK9tFG6Jhg8&t=475s"
+  }
+ ]
+}

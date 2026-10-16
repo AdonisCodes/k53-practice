@@ -1,0 +1,263 @@
+{
+ "batch": "aw-YoSP7hyha44",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:51:57+02:00",
+ "questions": [
+  {
+   "id": "aw-YoSP7hyha44-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You cannot drive your car if you have a blood alcohol concentration of...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.0005 grams / 100 ml of blood",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.005 grams / 100 ml of blood",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.05 grams / 100 ml of blood",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=3s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You cannot drive your vehicle...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If it has matte black rims",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If it does not have a touchscreen radio",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "In a way that will cause harm to others",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=27s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What are you supposed to do if you are involved in an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You need to stop your vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Have a beer",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed off",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=51s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which is the correct speed limit for a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "160 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "50 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=74s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You cannot use this vehicle on the freeway...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Tractor",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "SUV",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Sedan",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=95s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When do you have to stop your vehicle on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If a traffic officer tells you to do so",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you feel like doing so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you want to have a quick beer",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=118s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long does your tow rope need to be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1,5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3,5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=141s"
+  },
+  {
+   "id": "aw-YoSP7hyha44-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Who is allowed to not wear a seatbelt in a vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Your parents",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No-one",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your children",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=YoSP7hyha44&t=165s"
+  }
+ ]
+}

@@ -1,0 +1,497 @@
+{
+ "batch": "aw-8mTJQIFaUB0",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:44:54+02:00",
+ "questions": [
+  {
+   "id": "aw-8mTJQIFaUB0-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive your vehicle on a public road if your vehicle's licence disc has expired?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are only allowed to drive on weekends",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "There is a 21-day grace period after the licence disc expires (see next question).",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=74s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long are you allowed to drive your vehicle on a public road if your vehicle's licence disc has expired?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "40 days",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "21 days",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1 week",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=101s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you lend your vehicle to a friend, who would be responsible for traffic offences?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You (the owner)",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Your friend (the driver)",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No-one",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=125s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When a vehicle's brake lights are illuminated, this means that the vehicle is...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Turning left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerating",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Slowing down",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=156s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you not allowed to overtake a vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On a Sunday",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When approaching a blind turn",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When on a one way road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=175s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/8mTJQIFaUB0-207.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must speed up in this area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must turn on your high beams in this area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to park in this area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=204s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/8mTJQIFaUB0-243.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A crossroad",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A church",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "An airport",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=240s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit?",
+   "image": "images/appsworld/8mTJQIFaUB0-271.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "It prohibits you from parking in that area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It prohibits you from using your hooter in this area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It prohibits you from using your headlights",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=268s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/8mTJQIFaUB0-296.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A restaurant ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A T-junction ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A left turn ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=293s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prevent you from doing?",
+   "image": "images/appsworld/8mTJQIFaUB0-317.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Picking up hitchhikers",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Showing thumbs up to the person next to you",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hooting",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=314s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-11",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is not found in an automatic vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Rear-view mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Indicator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clutch pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=344s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-12",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is used to increase your speed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clutch pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=361s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-13",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to stop your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clutch pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=380s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-14",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to engage a gear?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Clutch pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=397s"
+  },
+  {
+   "id": "aw-8mTJQIFaUB0-15",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to clear your windscreen?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Steering wheel",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Indicators",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Windscreen wiper",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=8mTJQIFaUB0&t=415s"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "batch": "aw-ik6Habnvy-I",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:56+02:00",
+ "questions": [
+  {
+   "id": "aw-ik6Habnvy-I-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows you that there is a speed bump ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ik6Habnvy-I-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ik6Habnvy-I-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ik6Habnvy-I-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ik6Habnvy-I&t=26s"
+  }
+ ]
+}

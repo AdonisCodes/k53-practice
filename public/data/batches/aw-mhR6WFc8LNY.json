@@ -1,0 +1,39 @@
+{
+ "batch": "aw-mhR6WFc8LNY",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:54+02:00",
+ "questions": [
+  {
+   "id": "aw-mhR6WFc8LNY-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there is two-way traffic ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/mhR6WFc8LNY-34-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/mhR6WFc8LNY-34-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/mhR6WFc8LNY-34-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=mhR6WFc8LNY&t=31s"
+  }
+ ]
+}

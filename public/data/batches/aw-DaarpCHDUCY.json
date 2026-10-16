@@ -1,0 +1,39 @@
+{
+ "batch": "aw-DaarpCHDUCY",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:55+02:00",
+ "questions": [
+  {
+   "id": "aw-DaarpCHDUCY-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there are temporary road works ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/DaarpCHDUCY-34-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/DaarpCHDUCY-34-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/DaarpCHDUCY-34-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=DaarpCHDUCY&t=31s"
+  }
+ ]
+}

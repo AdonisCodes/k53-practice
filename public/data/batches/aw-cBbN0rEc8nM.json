@@ -1,0 +1,322 @@
+{
+ "batch": "aw-cBbN0rEc8nM",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:46:01+02:00",
+ "questions": [
+  {
+   "id": "aw-cBbN0rEc8nM-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the distance of your main beam be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "200 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "300 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "400 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=0s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Spot lights are only allowed on your vehicle if you are a...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Engineer",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accountant",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Veterinarian",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "Nurse",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=18s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the distance of your dipped beam be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "50 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 metres",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "55 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=35s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Hand signals cannot be used on freeways except for emergencies.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You cannot have a radio with an LED screen.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only motorbikes can use hand signals.",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "You can drive down a one-way road on a Sunday night only.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=53s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit on a freeway for a minibus carrying passengers?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "75 km/h",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "150 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=76s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does your learner's licence allow you to do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive a 5 ton truck alone.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive any vehicle alone.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Drive only when you are supervised by a licensed driver.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=93s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Where are you not allowed to park?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At a busy parking lot.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "On your driveway during sunset.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On a traffic island.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=111s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive through an orange light?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes, only if the car in front of you does so.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, only if there is no traffic around.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "No.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=128s"
+  },
+  {
+   "id": "aw-cBbN0rEc8nM-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to use your phone?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "In heavy traffic only.",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only when your boss calls.",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to use your phone while driving.",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=cBbN0rEc8nM&t=146s"
+  }
+ ]
+}

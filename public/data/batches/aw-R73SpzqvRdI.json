@@ -1,0 +1,39 @@
+{
+ "batch": "aw-R73SpzqvRdI",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:57+02:00",
+ "questions": [
+  {
+   "id": "aw-R73SpzqvRdI-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows you that the road narrows from the right-hand side?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/R73SpzqvRdI-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/R73SpzqvRdI-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/R73SpzqvRdI-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=R73SpzqvRdI&t=26s"
+  }
+ ]
+}

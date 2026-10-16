@@ -1,0 +1,599 @@
+{
+ "batch": "aw-ROy6PEJQEZo",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:47:12+02:00",
+ "questions": [
+  {
+   "id": "aw-ROy6PEJQEZo-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows that there's two-way traffic ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-3-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-3-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-3-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-3-D.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=0s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means that you're not allowed to turn left?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-21-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-21-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-21-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-21-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=18s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of children ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-39-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-39-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-39-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-39-D.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=36s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you that there may be animals ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-56-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-56-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-56-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-56-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=53s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows that the road narrows from both sides?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-74-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-74-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-74-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-74-D.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=71s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means no vehicles may pass this sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-97-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-97-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-97-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-97-D.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=94s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign forbids you from making a U-turn?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-114-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-114-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-114-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-114-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=111s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means you aren't allowed to park here?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-132-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-132-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-132-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-132-D.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=129s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows that there's a pedestrian crossing ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-149-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-149-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-149-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-149-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=146s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign shows there may be cattle ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-167-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-167-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-167-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-167-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=164s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of an unguarded level crossing ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-185-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-185-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-185-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-185-D.jpg"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=182s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of a slippery road ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-202-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-202-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-202-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-202-D.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=199s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign tells you to keep right?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-220-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-220-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-220-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-220-D.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=217s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign means no cyclists are allowed ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-238-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-238-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-238-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-238-D.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=235s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns that the road ahead ends due to water?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-255-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-255-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-255-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-255-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=252s"
+  },
+  {
+   "id": "aw-ROy6PEJQEZo-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of loose stones on the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/ROy6PEJQEZo-273-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/ROy6PEJQEZo-273-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/ROy6PEJQEZo-273-C.jpg"
+    },
+    {
+     "id": "D",
+     "text": "Sign D",
+     "image": "images/appsworld/ROy6PEJQEZo-273-D.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=ROy6PEJQEZo&t=270s"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "batch": "aw-dqkRQVQzkro",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:58+02:00",
+ "questions": [
+  {
+   "id": "aw-dqkRQVQzkro-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns of cattle on the road ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/dqkRQVQzkro-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/dqkRQVQzkro-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/dqkRQVQzkro-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=dqkRQVQzkro&t=26s"
+  }
+ ]
+}

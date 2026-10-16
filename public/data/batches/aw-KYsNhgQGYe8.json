@@ -1,0 +1,787 @@
+{
+ "batch": "aw-KYsNhgQGYe8",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:48:50+02:00",
+ "questions": [
+  {
+   "id": "aw-KYsNhgQGYe8-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to drive your motor vehicle if the alcohol blood concentration in your body is more than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.05 grams/100ml of blood",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.005 grams/100ml of blood",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.0005 grams/100ml of blood",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=34s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive your vehicle on a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It does not have a radio",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You drive in a reckless manner",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You have 20 inch wheels",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=65s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to have an alcoholic drink to calm down if you've just had an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if it's the weekend",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=100s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to immediately stop your vehicle if you've been involved in an accident?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if it's the weekend",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=114s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your vehicle's tyres must have a tread depth of...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.10 millimetre",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.1 millimetre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "1 millimetre",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=133s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your vehicle must be fitted with...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pneumatic tyres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Water-filled tyres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Sand-filled tyres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=152s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the general speed limit on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=175s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit within urban areas?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "25 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=203s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Break the speed limit when you are overtaking",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Talk to your passengers while driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have a sunroof in your vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=220s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to park your vehicle in a place where...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In your garage",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It will obstruct vehicles passing by",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=242s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-282.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road is uneven",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a beach nearby",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a hump ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=279s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-309.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a crossroad ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a priority crossroad ahead and you have the right of way",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a roundabout ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=306s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-345.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Sand dunes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A police station",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Speed bump",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=342s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/KYsNhgQGYe8-364.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to drift ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a slippery road ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road is full ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=361s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-387.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "T-junction ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A tourist destination ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A skew T-junction ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=384s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-408.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Temporary roadworks ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Party ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a hardware store ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=405s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-444.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A driveway on the left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A race track ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Traffic approaching from the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=441s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-466.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A sunrise ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Emergency lights flashing",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A traffic light ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=463s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-484.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The road ends due to water ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A beach",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A pool ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=481s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/KYsNhgQGYe8-507.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A speed-up sign ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A yield sign ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "An ambulance ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=504s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-21",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following do you use to check the right side of your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Right side mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Rearview mirror",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=532s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-22",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is used to prevent your car from stalling?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Clutch pedal",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Brake pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=555s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-23",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is used to signal that you are turning?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hazards",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Indicators",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=569s"
+  },
+  {
+   "id": "aw-KYsNhgQGYe8-24",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which of the following is used to prevent a parked vehicle from moving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Handbrake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Brake pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=KYsNhgQGYe8&t=590s"
+  }
+ ]
+}

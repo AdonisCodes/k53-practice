@@ -1,0 +1,39 @@
+{
+ "batch": "aw-OK79NkCVkvs",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:58+02:00",
+ "questions": [
+  {
+   "id": "aw-OK79NkCVkvs-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of an unguarded level crossing ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/OK79NkCVkvs-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/OK79NkCVkvs-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/OK79NkCVkvs-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=OK79NkCVkvs&t=26s"
+  }
+ ]
+}

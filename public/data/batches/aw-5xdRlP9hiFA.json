@@ -1,0 +1,649 @@
+{
+ "batch": "aw-5xdRlP9hiFA",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:49:18+02:00",
+ "questions": [
+  {
+   "id": "aw-5xdRlP9hiFA-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/5xdRlP9hiFA-70.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stop using your headlights",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Come to a complete stop in front of the sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Stop once you go past this sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=67s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign instruct you to do?",
+   "image": "images/appsworld/5xdRlP9hiFA-102.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Turn left at the next intersection",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Speed up when you see this sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must yield when you see this sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=99s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign indicate?",
+   "image": "images/appsworld/5xdRlP9hiFA-142.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a one-way road in the direction indicated",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must turn left at this sign",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must stop when you see this sign",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=139s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign command you to do?",
+   "image": "images/appsworld/5xdRlP9hiFA-177.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Your vehicle must be above 3 tons on this road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must not exceed 50 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must drive above 50 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=174s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do when you see this sign?",
+   "image": "images/appsworld/5xdRlP9hiFA-223.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must look at your left mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must keep left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=220s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/5xdRlP9hiFA-248.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are allowed to turn left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You can not turn left",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to turn right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=245s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit you from doing?",
+   "image": "images/appsworld/5xdRlP9hiFA-275.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Making a U-turn",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Turning right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reversing",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=272s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit you from doing?",
+   "image": "images/appsworld/5xdRlP9hiFA-293.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Stopping in this area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Making a sharp turn in this area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Starting your vehicle in this area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=290s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign prohibit you from doing?",
+   "image": "images/appsworld/5xdRlP9hiFA-314.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Racing in this area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtaking in this area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to own two vehicles",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=311s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/5xdRlP9hiFA-337.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The speed limit is 100 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must drive over 100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your vehicle must not weigh over 100 tons on this road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=334s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should you increase your following distance?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When travelling in wet conditions",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only when your radio is on",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are driving on a Monday",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=365s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-12",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How often should you check your mirrors while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You don't have to check your mirrors",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Every 5 to 8 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Every 30 minutes",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=407s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-13",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the maximum speed limit on non-urban roads for a vehicle with a mass of more than 9000kg?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "250 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=427s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to cross a solid white line while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are in a rush",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=447s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to drive on the shoulder of the road beyond the left yellow line?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are in a rush",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=460s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to turn at an intersection if it will cause harm to other road users",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to listen to your radio on the weekend",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can only drive a red vehicle on a freeway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=488s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following will happen if you are illegally parked?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You will be arrested",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Nothing, you can park wherever you want",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You will be fined or your vehicle will be impounded",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=511s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Is an ambulance allowed to park on the road if they are carrying out their duties?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No, they have to follow the rules of the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes, these rules don't apply to them",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only on weekdays",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=529s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to stop on a public road if a traffic officer instructs you to do so?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are driving a truck",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=554s"
+  },
+  {
+   "id": "aw-5xdRlP9hiFA-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to tow a vehicle on the freeway without a solid tow bar?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only if you are towing a truck",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=5xdRlP9hiFA&t=590s"
+  }
+ ]
+}

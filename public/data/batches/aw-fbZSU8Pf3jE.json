@@ -1,0 +1,39 @@
+{
+ "batch": "aw-fbZSU8Pf3jE",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:42:56+02:00",
+ "questions": [
+  {
+   "id": "aw-fbZSU8Pf3jE-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "image-select",
+   "question": "Which sign warns you of falling rocks?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Sign A",
+     "image": "images/appsworld/fbZSU8Pf3jE-29-A.jpg"
+    },
+    {
+     "id": "B",
+     "text": "Sign B",
+     "image": "images/appsworld/fbZSU8Pf3jE-29-B.jpg"
+    },
+    {
+     "id": "C",
+     "text": "Sign C",
+     "image": "images/appsworld/fbZSU8Pf3jE-29-C.jpg"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fbZSU8Pf3jE&t=26s"
+  }
+ ]
+}
