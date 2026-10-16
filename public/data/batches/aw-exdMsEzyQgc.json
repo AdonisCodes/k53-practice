@@ -1,0 +1,871 @@
+{
+ "batch": "aw-exdMsEzyQgc",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:53:29+02:00",
+ "questions": [
+  {
+   "id": "aw-exdMsEzyQgc-01",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign forbid you from doing?",
+   "image": "images/appsworld/exdMsEzyQgc-767.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Parking a sedan",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motor vehicles from driving here between 6:30 and 9am",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Driving a sedan",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=764s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign forbid you from doing?",
+   "image": "images/appsworld/exdMsEzyQgc-808.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Driving under 100 km/h at night",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Driving at night",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Driving above 100 km/h at night",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=805s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-03",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign warn you of?",
+   "image": "images/appsworld/exdMsEzyQgc-840.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "A possibility of slow moving vehicles ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "An accident ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Downhill racing ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=837s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-04",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-863.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Motorbikes may ride here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Bicycles may not ride here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only bicycles may ride here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=860s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-05",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-882.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a dead end to the right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a dead end to the left",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a parking spot to the right",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=879s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-06",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-907.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No pedestrians are allowed ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only trucks are allowed ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Delivery vehicles are prohibited beyond this point",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=904s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-07",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-930.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Black trucks are not allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Dangerous goods vehicles are prohibited from using this road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2-ton vehicles are not allowed on this road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=927s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-08",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-955.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "If the length of a vehicle exceeds the length on the sign it is not allowed beyond this point",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "15-ton vehicles are not allowed on this road",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If a vehicle is carrying 15 passengers it is not allowed on this road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=952s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-982.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Trucks are not allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to race a truck",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A goods vehicle may not overtake another goods vehicle for the next 500 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=979s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-10",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1008.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to make a U-turn here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are allowed to make a U-turn here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to look in your rearview mirror here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1005s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1029.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a broken ladder ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a staggered junction ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a parking lot ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1026s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1055.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "The parking area is reserved for dangerous goods vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only 10-ton vehicles are allowed here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a parking lot ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1052s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1079.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must be towing a vehicle in this lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must pay toll fees",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "This is a no towing zone",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1076s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-14",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1098.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "No hatchbacks are allowed on this lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must turn left ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The roadway that you are travelling on comes to an end ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1095s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-15",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1114.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a left turn ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It indicates the converging of traffic lanes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a right turn ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1111s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-16",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1135.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a pool ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a beach ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a drift ahead that may contain water or debris",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1132s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-17",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1158.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You have to yield to pedestrians",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You have to yield to horses",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must stop at the traffic light ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1155s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-18",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1177.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "If the mass of your vehicle exceeds 12 tons you are not allowed past this point",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only 12 vehicles are allowed here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must have 12 passengers",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1174s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-19",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1201.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Only mini buses are allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No buses are allowed here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A bus lane reservation begins here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1198s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-20",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1225.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to turn right",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to turn left",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are not allowed to drive on ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1222s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-21",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1248.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You must drive in the right lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Indicate the maximum speed limit",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Indicate the minimum speed limit in the lane",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1245s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-22",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1271.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a police block beyond this sign",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a reservoir ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a stop sign ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1268s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-23",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1290.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a flag ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is an arrestor bed lane ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a yield sign ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1287s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-24",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1303.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are not allowed to turn left",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It indicates a sharp turn to the right",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It indicates a sharp turn to the left",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1300s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-25",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1317.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "You are approaching a two or more track railway level crossing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a stop ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a gate ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1314s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-26",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1330.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "There is a tunnel ahead",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "There is a parking lot ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "There is a dealership ahead",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1327s"
+  },
+  {
+   "id": "aw-exdMsEzyQgc-27",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What does this sign mean?",
+   "image": "images/appsworld/exdMsEzyQgc-1349.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Automatic vehicles are not allowed here",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Abnormal vehicles are not allowed here",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must stop here",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=exdMsEzyQgc&t=1346s"
+  }
+ ]
+}

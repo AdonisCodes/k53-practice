@@ -1,0 +1,231 @@
+{
+ "batch": "aw-BZ38tTkh8FY",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:56:04+02:00",
+ "questions": [
+  {
+   "id": "aw-BZ38tTkh8FY-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the distance of the main beam be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "30 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=8s"
+  },
+  {
+   "id": "aw-BZ38tTkh8FY-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should the distance of the dipped beam be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "100 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "30 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=32s"
+  },
+  {
+   "id": "aw-BZ38tTkh8FY-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may have a spot lamp on your vehicle if you are a...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Veterinarian",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accountant",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cashier",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=50s"
+  },
+  {
+   "id": "aw-BZ38tTkh8FY-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum following distance for heavy motor vehicles?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 second following distance",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 second following distance",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3 second following distance",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=80s"
+  },
+  {
+   "id": "aw-BZ38tTkh8FY-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What length should a bus not exceed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "22 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "33 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "11 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=104s"
+  },
+  {
+   "id": "aw-BZ38tTkh8FY-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your hooter should be audible for at least...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "10 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "45 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "90 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=128s"
+  },
+  {
+   "id": "aw-BZ38tTkh8FY-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your number plate should be visible for a distance of...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "20 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "13 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=BZ38tTkh8FY&t=152s"
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "batch": "aw-6L4NHpRPVQE",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:55:14+02:00",
+ "questions": [
+  {
+   "id": "aw-6L4NHpRPVQE-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the most important rule of the road?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You must always have the fastest car around",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must keep as far to the left as possible",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You must not block other cars at an intersection",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=9s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is the only time that you may disobey a road traffic sign?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you are tired",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you feel like it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are ordered to do so by a traffic officer",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=23s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive, pull or push a vehicle on a sidewalk",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive any red car",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Follow road signs after dark",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=37s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to put any portion of your body beyond the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "To greet your friends",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If you are feeling hot",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only when you are giving any hand signals",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=51s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is true?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only the driver of a vehicle may hold the steering wheel",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only the passenger can give directions",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only the passenger can use hand signals",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=65s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your vehicle must be equipped with...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A touch screen radio",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A parking brake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A turbo",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=93s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are not allowed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Listen to music while driving",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Leave your engine running while the vehicle is stationary and unattended",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have a conversation with the passenger",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=121s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are supposed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Switch your car off while filling fuel",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Switch your radio off while looking for parking",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Close your sunroof while filling fuel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=135s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the minimum following distance for a light motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "5 seconds",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "7 seconds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=156s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is incorrect?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You may use any motorcycle to tow another vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A light motor vehicle can tow another vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A heavy motor vehicle can tow another vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=170s"
+  },
+  {
+   "id": "aw-6L4NHpRPVQE-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following may not be used on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "An animal-drawn vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A pedal cycle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A quad-bike",
+     "image": null
+    },
+    {
+     "id": "D",
+     "text": "All of the above",
+     "image": null
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=6L4NHpRPVQE&t=184s"
+  }
+ ]
+}

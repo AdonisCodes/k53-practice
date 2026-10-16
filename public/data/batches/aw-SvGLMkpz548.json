@@ -1,0 +1,361 @@
+{
+ "batch": "aw-SvGLMkpz548",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:00:34+02:00",
+ "questions": [
+  {
+   "id": "aw-SvGLMkpz548-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When should a vehicle's headlamps be kept on?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "During the day",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Between sunset and sunrise",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are feeling sleepy",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=3s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "At what distance should the main-beam brighten objects ahead?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "50 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 metres away",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "75 metres away",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=18s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "The main beams may not illuminate more than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "65 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 metres away",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "45 metres away",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "The video ticks 45 m; 45 m is normally the dipped-beam distance, so this wording is doubtful.",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=33s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If your vehicle is in motion...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Your parking lamps should not be lit",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are not allowed to have more than one passenger",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You may not drive at 80 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=48s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your vehicle is not allowed on a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You have loud music playing",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It does not have a rear lamp producing a red light",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You drive at low speeds",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=58s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which is correct with regard to your rear brake lights?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If your vehicle is not fitted with brake lights it should not be driven on the public road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may drive a vehicle without brake lights",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Your brake lights don't have to be red",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=73s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "All vehicles should have a number plate that has clear letters that can be seen from 20 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A driver may drive their vehicle without a number plate",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You can keep your number plate on the dashboard",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=88s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor vehicle will not be allowed on a public road if its turning radius is more than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "13.1 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "16 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=103s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If an emergency vehicle approaches you from the rear, you should...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Not move and block it",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You must race it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Give the right of way to the emergency vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=118s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Your hooter must be audible from 90 metres away",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You may use your hooter to greet your friends",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It's not necessary to have a hooter",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=128s"
+  },
+  {
+   "id": "aw-SvGLMkpz548-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When is it not compulsory to wear a seatbelt?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "When moving in or out of a parking area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "When driving on the freeway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "When travelling at 90 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=SvGLMkpz548&t=143s"
+  }
+ ]
+}

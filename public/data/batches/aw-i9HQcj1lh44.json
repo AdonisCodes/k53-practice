@@ -1,0 +1,371 @@
+{
+ "batch": "aw-i9HQcj1lh44",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:02:14+02:00",
+ "questions": [
+  {
+   "id": "aw-i9HQcj1lh44-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under which circumstances are you allowed to park in a disabled parking bay?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If you are conveying the elderly",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "If there are no other parking bays available",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are a disabled person",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=3s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit for buses and minibuses?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "80 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=23s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Under bad conditions such as heavy rain, the driver of a vehicle must...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Put their fogs on",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Decrease their following distance",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Increase their following distance",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=33s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Vehicles of medical doctors may have an adjustable spot lamp",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "An adjustable spot lamp must light up other vehicles for at least 100 m ahead",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Game-spotting vehicles can have adjustable spot lamps",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=48s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which lane should you position yourself in before reaching the exit of a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "On the left-hand lane",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In the middle lane",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "On the shoulder of the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=68s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How often should you check your rear view mirror(s)?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only when you intend on changing lanes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Every 5 to 8 seconds",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Every 2 minutes",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=88s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-07",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "The... is not found in an automatic vehicle",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Brake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Clutch pedal",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=98s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-08",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control do you use to accelerate the vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Rear view mirror",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Handbrake",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=113s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-09",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "To change gears, which controls are used?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The clutch and gear stick",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The steering wheel and handbrake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Left and right-hand side mirrors",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=123s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-10",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control is used to stop your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The indicator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The hooter",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The brake pedal",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=138s"
+  },
+  {
+   "id": "aw-i9HQcj1lh44-11",
+   "source": "appsworld",
+   "category": "controls",
+   "licenceCodes": [
+    "2"
+   ],
+   "type": "single",
+   "question": "Which control helps the driver when engaging a gear?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Accelerator",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Clutch",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=i9HQcj1lh44&t=153s"
+  }
+ ]
+}

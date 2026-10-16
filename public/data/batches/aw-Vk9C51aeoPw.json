@@ -1,0 +1,327 @@
+{
+ "batch": "aw-Vk9C51aeoPw",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:02:14+02:00",
+ "questions": [
+  {
+   "id": "aw-Vk9C51aeoPw-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver should not drive a vehicle on a public road...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If it does not have a sunroof",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "In such a manner that will endanger other road users or property",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If the car does not have a radio",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=3s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If your vehicle is involved in an accident you are supposed to...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Immediately stop your vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Have a beer to calm your nerves",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Leave the scene immediately",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=28s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Vehicles must be fitted with... tyres",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pneumatic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Water filled",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Cement filled",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=43s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Vehicles with pneumatic tyres must maintain a tread depth of at least...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "1 millimetre",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.1 millimetre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.10 millimetre",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=63s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle may not be used on a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The fuel tank is fitted with an effective yellow cap",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The fuel tank is not fitted with an effective cap",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The fuel tank is fitted with an effective red cap",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=83s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver of a vehicle on a public road should stop if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "He was signalled by a person leading any bovine animal on the road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "They need an alcoholic beverage drinks break",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If your friend says so",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=103s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver of a vehicle may not enter a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "There is obstruction and moving traffic",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The vehicle can cross the road without obstructing any traffic",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The road is clear of moving traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=118s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What must you do if you missed the exit on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Reverse to the turn off",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Make a U-turn and go back",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Carry on until you can safely exit the freeway by means of another exit",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=138s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-09",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Prohibition signs colour codes are?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A yellow and white disk",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A red, white and black triangle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A symbol on a white disk with a red border",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=158s"
+  },
+  {
+   "id": "aw-Vk9C51aeoPw-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You are driving a light motor vehicle, who is exempt from using a seat belt in this vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "All adults within the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No-one",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All children under the age of 12",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Vk9C51aeoPw&t=178s"
+  }
+ ]
+}

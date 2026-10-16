@@ -1,0 +1,729 @@
+{
+ "batch": "aw-fIOzPt4eByQ",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:59:46+02:00",
+ "questions": [
+  {
+   "id": "aw-fIOzPt4eByQ-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A bus/train should not be longer than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "15 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "22 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=9s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "An articulated motor vehicle should not be longer than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "12 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "15 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "18,5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=21s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Any vehicle other than a bus/train should not be longer than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "11 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12,5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "8 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=45s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "If the GMV of a trailer (not semi-trailer) is less than 12000 kg, then the height should not go beyond...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "8 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=57s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "If the GMV of a trailer (not semi-trailer) is more than 12000 kg, then the height should not go beyond...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "10 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "12,5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=87s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the maximum height that a double-deck bus may not exceed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2,5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3,5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4,65 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=105s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the maximum height limit for any other motor vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2,2 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3,4 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "4,3 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=117s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A bus is not allowed on a public road if the overall width of such bus exceeds...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1,75 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2,6 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=129s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "A goods vehicle with a GMV of 12000 kg or more will not be allowed on a public road if the overall width exceeds...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2,6 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "3,4 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "11 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=141s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Any other vehicle is not allowed on a public road if the overall width is more than...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "2,5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "2,6 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "3 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=153s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-11",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit once you see this sign?",
+   "image": "images/appsworld/fIOzPt4eByQ-171.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "Ninety kilometres per hour",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ninety miles per hour",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 kilometres per hour",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=171s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-12",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit once you see this sign?",
+   "image": "images/appsworld/fIOzPt4eByQ-189.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "50 mph",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ninety miles per hour",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "50 kilometres per hour",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=189s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-13",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the speed limit once you see this sign?",
+   "image": "images/appsworld/fIOzPt4eByQ-207.jpg",
+   "options": [
+    {
+     "id": "A",
+     "text": "50 mph",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Ninety kilometres per hour",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "70 kilometres per hour",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=201s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-14",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "It is compulsory for all vehicles on a public road to have:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A service brake",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A parking brake",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "All of the above",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=219s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-15",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A motor vehicle is not allowed on a public road if:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It does not have an efficient exhaust silencer",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It does not have matte black rims",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The panoramic sunroof is not working",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=231s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-16",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A light motor vehicle must be fitted with:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A complex sound system",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Carbon fiber mags",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The rear end must be fitted with two red retro-reflectors",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=243s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-17",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If a vehicle is carrying a load that projects more than 150 mm to the side, or more than 300 mm to the rear, it must be marked by:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "A red flag during the day time",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "A red circle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A yellow triangle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=255s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-18",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When driving on a public road, always have a reasonable consideration for any other person using the road.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "True",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "False",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Maybe",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=273s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-19",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "No one should drive a vehicle on a public road:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "At night",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Recklessly or negligently",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Early hours of the morning",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=285s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-20",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When under the influence of a drug having a narcotic effect, you should not:",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Drive on a public road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Drive over 90 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Reverse your car for more than 29 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=303s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-21",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is considered abandoned if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It's left for more than 7 days in the same place on a public road within an urban area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It's left for 3 days on a driveway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Anywhere in an urban area for 8 hours",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=315s"
+  },
+  {
+   "id": "aw-fIOzPt4eByQ-22",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may not...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Spin any wheel of a vehicle on the surface of the road, except in an emergency",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Park in your neighbour's driveway",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Follow the rules of the road",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=fIOzPt4eByQ&t=333s"
+  }
+ ]
+}

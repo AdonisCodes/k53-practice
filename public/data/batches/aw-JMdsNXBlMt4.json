@@ -1,0 +1,233 @@
+{
+ "batch": "aw-JMdsNXBlMt4",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:54:26+02:00",
+ "questions": [
+  {
+   "id": "aw-JMdsNXBlMt4-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What should you do if your phone rings while you are driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Answer the call",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Answer the call and tell your wife to call you back",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Pull off the road and answer your call",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=3s"
+  },
+  {
+   "id": "aw-JMdsNXBlMt4-02",
+   "source": "appsworld",
+   "category": "signs",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What do Guidance and Information signs do?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "They help with navigation",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "They give warnings to road users",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "They control traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=27s"
+  },
+  {
+   "id": "aw-JMdsNXBlMt4-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far are you allowed to reverse your car?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "130 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "75 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "As far as you can",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=51s"
+  },
+  {
+   "id": "aw-JMdsNXBlMt4-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long does it take for a heavy vehicle to stop?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Shorter if you are on a wet road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Longer if the vehicle is carrying a heavy load",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "15 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=74s"
+  },
+  {
+   "id": "aw-JMdsNXBlMt4-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How far can goods hang over the back of a vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "8 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "1,8 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "2,4 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=95s"
+  },
+  {
+   "id": "aw-JMdsNXBlMt4-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which is allowed?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You can use two hands to drive",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Allowing your baby to sit on your lap while you are driving",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A passenger may rest their hand on the steering wheel",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=118s"
+  },
+  {
+   "id": "aw-JMdsNXBlMt4-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which vehicle is allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Animal Drawn Vehicles",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Motorcycles 50cc or less",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "SUV",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=JMdsNXBlMt4&t=142s"
+  }
+ ]
+}

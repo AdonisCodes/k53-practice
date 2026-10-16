@@ -1,0 +1,367 @@
+{
+ "batch": "aw-17_eW4Eng0U",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:00:09+02:00",
+ "questions": [
+  {
+   "id": "aw-17_eW4Eng0U-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Your windscreen should...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Be made of safety glass",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Have vinyl stickers on it",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have a 70% tint",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=3s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which is correct in terms of your windscreen wipers?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "They should be black",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "They should be able to clean the sunroof",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "They should wipe the outside of your windscreen directly in front of you",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=18s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle which... will not be allowed on a public road.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Moves very slowly",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Causes excessive noise",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Carries 35 passengers",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=33s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "What is the length limit for a trailer (not semi-trailer) with a GMV of less than 12000 kg?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Less than 8 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Less than 5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "More than 10 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=48s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "If the GMV of a trailer (not semi-trailer) is more than 12000 kg, what should the height be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Less than 5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Less than 12.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "More than 10 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=63s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the length limit for any other vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Less than 10 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "More than 20 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Less than 12.5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=78s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If the vehicle you are towing has faulty brakes, you must...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Not drive faster than 35 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Use a tow-bar and not a rope",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Not carry more than 3 passengers in the towed vehicle",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=93s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "How long is a learner's license valid for?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "18 months",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12 months",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 months",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=103s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Any vehicle with an overall height of... may not be driven on a public road together with any load.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Less than 10 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "More than 10 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "More than 4.3 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=118s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [
+    "3"
+   ],
+   "type": "single",
+   "question": "If the height of a double-decker bus is..., then it is not allowed on a public road.",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "More than 4.65 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "9 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=128s"
+  },
+  {
+   "id": "aw-17_eW4Eng0U-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Any load carried on a vehicle must...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Be covered with a blanket",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Not obscure the driver's view",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have a red sticker on it",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=17_eW4Eng0U&t=143s"
+  }
+ ]
+}

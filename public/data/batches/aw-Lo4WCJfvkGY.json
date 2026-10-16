@@ -1,0 +1,233 @@
+{
+ "batch": "aw-Lo4WCJfvkGY",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T13:54:26+02:00",
+ "questions": [
+  {
+   "id": "aw-Lo4WCJfvkGY-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which is correct in terms of hand signals?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Only motor vehicles may use hand signals",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Hand signals cannot be used on freeways except for emergencies",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Hand signals can only be used by tractors",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=3s"
+  },
+  {
+   "id": "aw-Lo4WCJfvkGY-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If a minibus is conveying passengers on a freeway, what will the speed limit be?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "60 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "125 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "100 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=27s"
+  },
+  {
+   "id": "aw-Lo4WCJfvkGY-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following is correct?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You can drive alone if you have your learner's license",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You cannot drive alone if you have your learner's license",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You cannot drive at all once you get your learner's license",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=58s"
+  },
+  {
+   "id": "aw-Lo4WCJfvkGY-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "If you are a vet, are you allowed to have adjustable spot lamps on your vehicle?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only during the week",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=81s"
+  },
+  {
+   "id": "aw-Lo4WCJfvkGY-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Are you allowed to park on a traffic island?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only during sunset",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=108s"
+  },
+  {
+   "id": "aw-Lo4WCJfvkGY-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "When are you allowed to drive through an orange light?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "If the car in front of you does so",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Only if there is no traffic around",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "If you are going under 50 km/h",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [
+    "answer-unverified"
+   ],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=131s"
+  },
+  {
+   "id": "aw-Lo4WCJfvkGY-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Can you use your phone while driving?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "No",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Yes",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Only in heavy traffic",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Lo4WCJfvkGY&t=154s"
+  }
+ ]
+}

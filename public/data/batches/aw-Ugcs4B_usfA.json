@@ -1,0 +1,359 @@
+{
+ "batch": "aw-Ugcs4B_usfA",
+ "source": "appsworld",
+ "addedAt": "2026-10-16T14:01:13+02:00",
+ "questions": [
+  {
+   "id": "aw-Ugcs4B_usfA-01",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may tow another vehicle on the public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "The length of the tow-rope between the two vehicles is less than 3.5 metres",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "The length of the tow-rope between the two vehicles is 3.5 metres",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "The length of the tow-rope between the two vehicles is 2.5 metres",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=8s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-02",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Which of the following vehicles are not allowed on a freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Pedal cycle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Sport utility vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "A bakkie",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=28s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-03",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "What is the general speed limit of every freeway?",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "120 kilometres per hour",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "100 kilometres per hour",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "60 kilometres per hour",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=48s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-04",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is considered abandoned if it is left for...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "3 days in an urban area",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "7 days in the same place on a public road within an urban area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "5 days in an urban area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=68s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-05",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver of a vehicle can disobey any road traffic sign if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Ordered to do so by a traffic officer",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "They feel like doing so",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "They are under the influence of alcohol",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=88s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-06",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You should not park a vehicle on the side of a public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is beyond your control",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You have a flat tyre",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It will obstruct any private driveway",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=103s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-07",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A driver of a vehicle can never...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "Exceed the speed limit when overtaking",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "Overtake on the left of the vehicle in front",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "Have passengers when overtaking",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=123s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-08",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "Goods should not be loaded on a vehicle in a way that...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "It is securely fastened to the vehicle",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "It is contained within the vehicle",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "It may obscure the driver's view of traffic in any way",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=143s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-09",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You can tow another vehicle on the public road if...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "You are using a tow-rope and travelling at 30 km/h",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "You are using a draw bar and travelling at 30 km/h",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "You are using a chain",
+     "image": null
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=158s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-10",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "A vehicle is considered abandoned if it is left for...",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "19 hours in the same spot on a public road",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "12 hours in the same place on a public road outside an urban area",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "24 hours in the same spot on a public road outside an urban area",
+     "image": null
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=178s"
+  },
+  {
+   "id": "aw-Ugcs4B_usfA-11",
+   "source": "appsworld",
+   "category": "rules",
+   "licenceCodes": [],
+   "type": "single",
+   "question": "You may not drive a vehicle while the concentration of alcohol in your body is... in the case of a professional driver",
+   "image": null,
+   "options": [
+    {
+     "id": "A",
+     "text": "0.02 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "B",
+     "text": "0.01 grams per 100 ml of blood or more",
+     "image": null
+    },
+    {
+     "id": "C",
+     "text": "0.002 grams per 100 ml of blood or more",
+     "image": null
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "explanation": "",
+   "tags": [],
+   "sourceRef": "https://www.youtube.com/watch?v=Ugcs4B_usfA&t=198s"
+  }
+ ]
+}
