@@ -168,8 +168,13 @@ export default function App() {
   };
 
   return (
-    <div className="flex min-h-svh flex-col">
-      <header className="bg-[#163028] text-[#f7f3ea]">
+    <div
+      className={cn(
+        "flex min-h-svh flex-col",
+        view === "review" ? "h-dvh overflow-hidden" : "",
+      )}
+    >
+      <header className="shrink-0 bg-[#163028] text-[#f7f3ea]">
         <div className="mx-auto flex max-w-[1400px] flex-col gap-4 px-4 py-4 sm:px-6">
           <div className="flex flex-wrap items-start justify-between gap-3">
             <div>
@@ -238,7 +243,7 @@ export default function App() {
       <main
         className={cn(
           "mx-auto w-full max-w-[1400px] flex-1 px-3 py-4 sm:px-6",
-          view === "review" ? "flex min-h-0 flex-col" : "",
+          view === "review" ? "flex min-h-0 flex-col overflow-hidden" : "",
         )}
       >
         {loading ? (
@@ -261,13 +266,15 @@ export default function App() {
                 No questions match those filters. Clear search or widen the source / type.
               </p>
             ) : view === "review" ? (
-              <Review
-                questions={filtered}
-                sources={sources}
-                store={srs}
-                onRate={handleRate}
-                onNewLimit={(limit) => commitSrs(setNewLimit(srs, limit))}
-              />
+              <div className="flex min-h-0 flex-1 flex-col">
+                <Review
+                  questions={filtered}
+                  sources={sources}
+                  store={srs}
+                  onRate={handleRate}
+                  onNewLimit={(limit) => commitSrs(setNewLimit(srs, limit))}
+                />
+              </div>
             ) : (
               <div className={filtersPending ? "opacity-70 transition-opacity" : undefined}>
                 <Board
@@ -282,7 +289,12 @@ export default function App() {
           </>
         )}
       </main>
-      <footer className="mt-auto border-t border-[#d5ddd4] bg-white/70">
+      <footer
+        className={cn(
+          "mt-auto border-t border-[#d5ddd4] bg-white/70",
+          view === "review" ? "hidden sm:block" : "",
+        )}
+      >
         <div className="mx-auto flex max-w-[1400px] flex-col gap-2 px-4 py-4 text-xs text-[#3d5247] sm:px-6">
           <p className="font-medium text-[#14241c]">Question credits</p>
           <ul className="flex flex-col gap-1 sm:flex-row sm:flex-wrap sm:gap-x-5">

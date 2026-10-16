@@ -140,7 +140,7 @@ export function Review({
     card.state === "new" ? "New" : card.state === "review" ? "Review" : "Learning";
 
   return (
-    <section className="flex max-sm:h-[calc(100dvh-12.75rem)] min-h-[min(78svh,44rem)] max-sm:min-h-0 flex-col overflow-hidden rounded-xl border border-[#d5ddd4] bg-[#fffcf7] sm:min-h-[min(78svh,44rem)]">
+    <section className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-xl border border-[#d5ddd4] bg-[#fffcf7] sm:min-h-[min(70svh,44rem)]">
       <header className="flex flex-wrap items-center justify-between gap-2 border-b border-[#e4eadc] px-3 py-2.5 sm:px-4">
         <div>
           <p className="text-[11px] tracking-wide text-[#5b6e63] uppercase">{kind}</p>
